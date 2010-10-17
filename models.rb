@@ -2,6 +2,7 @@ require 'dm-core'
 require 'dm-migrations'
 require 'dm-paperclip'
 
+APP_ROOT = '/home/fenrir/code/repo/yc-list'
 
 DataMapper.setup(:default, "sqlite3:data.sqlite")
 
@@ -21,10 +22,7 @@ class Company
   has_attached_file :favicon,
     :styles => { :thumb => "16x16>" },
     :url => "/:name/basename.:extension",
-    :path => "#{APP_ROOT}/public/favicons/:attachment/:id/:style
-
-
-  has_attached_file :file,
+    :path => "#{APP_ROOT}/public/favicons/:attachment/:id/:style"
 end
 
 DataMapper.finalize
