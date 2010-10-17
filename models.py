@@ -11,20 +11,24 @@ class Company(Entity):
     using_options(tablename='companies')
 
     has_field('name',           String(32), index=True)
-    has_field('class_year',     String(128))
+    has_field('class_year',     DateTime)
     has_field('url',            String(128))
     has_field('title',          String(128))
     has_field('meta_desc',      String(128))
+
+    has_field('pagerank',       Integer)
+    has_field('alexa',          Integer)
 
     has_field('dead',           Boolean)
     has_field('exited',         Boolean)
     has_field('favicon',        Boolean)
     has_field('snapshot',       Boolean)
+    has_field('aq_price',       Integer)
 
     def get_favicon(self):
         if self.url > '' and not self.dead:
             host = urlparse.urlsplit(self.url).netloc
-            if not os.path.isfile('public/%s/favicon.ico' % host):
+            if not os.path.isfile('public/img/%s/favicon.ico' % host):
                 try:
                     print 'Trying... %s' % self.url
                     b = Browser(use_proxy=True)
@@ -41,14 +45,14 @@ class Company(Entity):
                             favicon_url = 'http://' + dl_host + favicon_url[0]
                         else:
                             favicon_url = favicon_url[0]
-                    os.system('wget %s -O public/%s/favicon.ico' % (favicon_url, host))
-                    if os.path.isfile('public/%s/favicon.ico' % host):
+                    os.system('wget %s -O public/img/%s/favicon.ico' % (favicon_url, host))
+                    if os.path.isfile('public/img/%s/favicon.ico' % host):
                         self.favicon = True
                         session.commit()
 
 
     def convert_favicon(self):
-        directory = 'public/%s' % self.url[7:]
+        directory = 'public/img/%s' % self.url[7:]
         if 'favicon.ico' in os.listdir(directory):
             self.favicon = True
             old_icon = '"%s/favicon.ico[0]"' % directory

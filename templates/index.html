@@ -1,4 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+    <meta name="title" content="Unofficial List of YCombinator Companies"/>
+    <link href="/media/css/style.css" rel="stylesheet" type="text/css"/>
+    <!-- <script src=""> -->
+</head>
 <body>
 <h1>YCombinator Company List</h1>
 <table>
@@ -12,7 +19,7 @@
     </tr>
     {% for company in companies %}
         <tr>
-            <td>{% if company.favicon %}<img src="/media/{{ company.url[7:] }}/favicon.png"></img>{% endif %}</td>
+            <td>{% if company.favicon %}<img src="/media/img/{{ company.url[7:] }}/favicon.png"></img>{% endif %}</td>
             <td>{{ company.name }}</td>
             {% if company.exited %}
                 <td>Exited</td>
