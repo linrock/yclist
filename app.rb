@@ -1,11 +1,18 @@
 require 'sinatra/base'
+require './models'
+
 
 class YC < Sinatra::Base
   get '/' do
-    'hello world'
+    @companies = Company.all
+    haml :index
   end
 
-  get '/:name' do
+  get '/:name/thumb' do
+
+  end
+  
+  get '/:name/snapshot' do
 
   end
 end

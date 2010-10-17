@@ -1,0 +1,9 @@
+%h1 Cool list
+%table
+  %tr
+    %th Name
+    %th URL
+  - for company in @companies
+    %tr
+      %td= company.name
+      %td= company.url
