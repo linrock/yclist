@@ -31,7 +31,8 @@ def get_favicons():
             elif favicon_url:
                 if not favicon_url[0].startswith('http://'):
                     favicon_url = company.url + favicon_url[0]
-
+                else:
+                    favicon_url = favicon_url[0]
             os.system('wget %s -O public/%s/favicon.ico' % (favicon_url, host))
             session.commit()
 

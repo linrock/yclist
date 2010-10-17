@@ -1,5 +1,8 @@
 from elixir import *
+import urlparse
 import os
+
+from radiant.browser import Browser
 
 
 class Company(Entity):
@@ -16,6 +19,28 @@ class Company(Entity):
     has_field('exited',         Boolean)
     has_field('favicon',        Boolean)
     has_field('snapshot',       Boolean)
+
+    def get_favicon(self):
+        if self.url > '' and not self.dead:
+            host = urlparse.urlsplit(self.url).netloc
+            if not os.path.isfile('public/%s/favicon.ico' % host):
+                print 'Trying... %s' % self.url
+                b = Browser(use_proxy=True)
+                b.open(self.url)
+                dl_host = urlparse.urlsplit(b.geturl()).netloc
+                favicon_url = b.parser.xpath('//link[contains(@rel, "icon") or contains(@rel, "Icon")]/@href')
+                if not favicon_url:
+                    favicon_url = 'http://' + dl_host + '/favicon.ico'
+                elif favicon_url:
+                    if not favicon_url[0].startswith('http://'):
+                        favicon_url = 'http://' + dl_host + favicon_url[0]
+                    else:
+                        favicon_url = favicon_url[0]
+                os.system('wget %s -O public/%s/favicon.ico' % (favicon_url, host))
+                if os.path.isfile('public/%s/favicon.ico' % host):
+                    self.favicon = True
+                    session.commit()
+
 
     def convert_favicon(self):
         directory = 'public/%s' % self.url[7:]
