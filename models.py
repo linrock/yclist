@@ -30,6 +30,8 @@ class Company(Entity):
     has_field('snapshot',       Boolean)
     has_field('aq_price',       Integer)
 
+    def hostname(self):
+        return urlparse.urlsplit(self.url).netloc
 
     def get_favicon(self):
         if self.url > '' and not self.dead:
