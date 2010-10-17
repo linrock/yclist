@@ -1,16 +1,37 @@
+<html>
+<body>
 <h1>YCombinator Company List</h1>
 <table>
     <tr>
+        <th></th>
         <th>Name</th>
+        <th>Status</th>
         <th>URL</th>
         <th>Title</th>
         <th>Meta Desc</th>
     </tr>
     {% for company in companies %}
         <tr>
+            <td>{% if company.favicon %}<img src="/media/{{ company.url[7:] }}/favicon.png"></img>{% endif %}</td>
             <td>{{ company.name }}</td>
-            <td><a href="{{ company.url }}">{{ company.url }}</a></td>
-            <td>{{ company.title }}</td>
-            <td>{{ company.meta_desc }}</td>
+            {% if company.dead %}
+                <td>Dead</td>
+            {% elif company.exited %}
+                <td>Exited</td>
+            {% else %}
+                <td></td>
+            {% endif %}
+            {% if company.dead %}
+                <td></td>
+                <td></td>
+                <td></td>
+            {% else %}
+                <td><a href="{{ company.url }}">{{ company.url }}</a></td>
+                <td>{{ company.title }}</td>
+                <td>{% if company.meta_desc %}{{ company.meta_desc }}{% endif %}</td>
+            {% endif %}
         </tr>
     {% endfor %}
+</table>
+</body>
+</html>
