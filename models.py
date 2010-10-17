@@ -5,8 +5,11 @@ from radiant.interfaces.alexa import get_alexa_rank
 from radiant.interfaces.pagerank import get_pagerank
 
 import urlparse
+import locale
 import os
 
+
+locale.setlocale(locale.LC_ALL, '')
 
 class Company(Entity):
     using_table_options(useexisting=True)
@@ -79,6 +82,9 @@ class Company(Entity):
 
     def formatted_meta_desc(self):
         return self.meta_desc if self.meta_desc != 'None' else ''
+
+    def formatted_aq_price(self):
+        return locale.currency(self.aq_price, grouping=True)[:-3] if self.aq_price else ''
 
 
 metadata.bind = 'sqlite:///data.sqlite'
