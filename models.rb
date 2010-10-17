@@ -2,7 +2,7 @@ require 'dm-core'
 require 'dm-migrations'
 require 'dm-paperclip'
 
-APP_ROOT = '/home/fenrir/code/repo/yc-list'
+APP_ROOT = '/home/rakshasa/code/new/yc-list'
 
 DataMapper.setup(:default, "sqlite3:data.sqlite")
 
@@ -11,8 +11,10 @@ class Company
   include Paperclip::Resource
 
   property  :id,            Serial
-  property  :name,          String
+  property  :name,          String, :required => true
   property  :url,           String
+  property  :dead,          Boolean
+  property  :exited,        Boolean
   property  :alexa,         Integer
   property  :pagerank,      Integer
   property  :date_updated,  DateTime
@@ -21,9 +23,9 @@ class Company
     :styles => { :medium => "300x300>", :thumb => "100x100>" }
   has_attached_file :favicon,
     :styles => { :thumb => "16x16>" },
-    :url => "/:name/basename.:extension",
+    :url => "/#{name}/favicon.:extension",
     :path => "#{APP_ROOT}/public/favicons/:attachment/:id/:style"
 end
 
 DataMapper.finalize
-# DataMapper.auto_migrate!
+DataMapper.auto_migrate!

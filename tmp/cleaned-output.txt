@@ -1,0 +1,208 @@
+.|Reddit|6/1/2005|65||Y|http://reddit.com||$15,000,000||
+.|Infogami|6/1/2005|65|Y|Y||Merged with Reddit|||
+.|Kiko|6/1/2005|65|Y|Y|||$258,000||
+.|Loopt|6/1/2005|65|||http://loopt.com||||
+.|ClickFacts|6/1/2005|65|||http://clickfacts.com||||
+.|Firecrawl|6/1/2005|65|Y|||One founder joined TextPayMe|||
+.|Simmery|6/1/2005|65|Y||||||
+.|Memamp|6/1/2005|65|Y|||One founder joined Reddit|||8 startups initially funded
+.|TextPayMe|1/1/2006|58||Y|http://textpayme.com|Acquired by Amazon|$3,000,000||
+.|Flagr|1/1/2006|58|Y||||||
+.|Wufoo|1/1/2006|58|||http://wufoo.com||||
+.|YouOS|1/1/2006|58||Y|http://youos.com|Pivoted to Project Wedding, which was acquired|$4,000,000||
+.|InklingMarkets|1/1/2006|58|||http://inklingmarkets.com||||
+.|Snipshot|1/1/2006|58|||http://snipshot.com||||
+.|AudioBeta|1/1/2006|58|||||||
+.|Club Beta|1/1/2006|58|||||||
+.|Clustrix|1/1/2006|58|||http://clustrix.com||||
+.|PollGround|6/1/2006|53|Y||||||
+.|LikeBetter|6/1/2006|53|Y||http://likebetter.com||||
+.|Thinkature|6/1/2006|53|Y||http://thinkature.com||||
+.|JamGlue|6/1/2006|53|Y||http://jamglue.com||||
+.|Shoutfit|6/1/2006|53|Y||||||
+.|Scribd|6/1/2006|53|||http://scribd.com||||
+.|Xobni|6/1/2006|53|||http://xobni.com||||
+.|JumpChat|6/1/2006|53|Y||http://jumpchat.com/||||
+.|Talkito|6/1/2006|53|Y||http://talkito.com/||||
+.|Weebly|1/1/2007|46|||http://weebly.com||||
+.|VirtualMin|1/1/2007|46|||http://virtualmin.com||||
+.|Buxfer|1/1/2007|46|||http://buxfer.com||||
+.|Octopart|1/1/2007|46|||http://octopart.com||||
+.|Heysan|1/1/2007|46||Y|http://heysan.com||$4,000,000||
+.|SocialMoth|1/1/2007|46|Y||||||
+.|Auctomatic|1/1/2007|46||Y|http://auctomatic.com||$5,000,000||
+.|Tsumobi|1/1/2007|46|||||||
+.|Whitenoise Networks|1/1/2007|46|||http://www.whitenoisenetworks.com/||||
+.|Writewith|1/1/2007|46|||http://writewith.com/||||
+.|View3|1/1/2007|46|||http://view3.com/||||
+.|Zenter|1/1/2007|46||Y|http://zenter.com/||$4,000,000||38 startups before summer 07
+.|Justin.tv|6/1/2007|41|||http://justin.tv|Founded 10/07, founders from Kiko 6/05 |||
+.|Zecter (Versionate)|6/1/2007|41|||http://zecter.com|ZumoDrive|||
+.|OMGPOP|6/1/2007|41|||http://omgpop.com|Iminlikewithyou|||
+.|Adpinion|6/1/2007|41|||http://adpinion.com||||
+.|Anywhere.fm|6/1/2007|41||Y||Acquired by imeem|$2,000,000||
+.|Fuzzwich|6/1/2007|41|||http://fuzzwich.com||||
+.|Bountii|6/1/2007|41|||http://bountii.com||||
+.|Songkick|6/1/2007|41|||http://songkick.com||||
+.|Disqus|6/1/2007|41|||http://disqus.com||||
+.|Splashup|6/1/2007|41|||http://splashup.com|fauxto|||
+.|Draftmix|6/1/2007|41|||http://draftmix.com||||
+.|Appjet|6/1/2007|41||Y|http://appjet.com||$10,000,000||
+.|Reble|6/1/2007|41|Y||||||
+.|Clickpass|6/1/2007|41||Y|http://clickpass.com||$1,000,000||
+.|Dropbox|6/1/2007|41|||http://dropbox.com||||
+.|Cloudant|6/1/2007|41|||http://cloudant.com/||||
+.|SlapVid|6/1/2007|41|||http://slapvid.com||||
+.|ContestMachine|6/1/2007|41|||http://contestmachine.com||||
+.|??|6/1/2007|41||||19 companies in summer 07|||
+.|??|6/1/2007|41||||19 companies in summer 07|||
+.|Webmynd|1/1/2008|34|||http://webmynd.com||||
+.|RescueTime|1/1/2008|34|||http://rescuetime.com||||
+.|Heroku|1/1/2008|34|||http://heroku.com||||
+.|Tipjoy|1/1/2008|34|Y||http://tipjoy.com||||
+.|Addmired|1/1/2008|34|||http://addher.com||||
+.|Kirkland North|1/1/2008|34|||http://playturf.net||||
+.|Wundrbar|1/1/2008|34|||http://wundrbar.com||||
+.|Chatterous|1/1/2008|34|||http://chatterous.com||||
+.|Mixwit|1/1/2008|34|Y||http://mixwit.com||||
+.|Snaptalent|1/1/2008|34|Y||http://snaptalent.com||||
+.|Insoshi|1/1/2008|34|||http://insoshi.com||||
+.|MightyQuiz|1/1/2008|34|||http://mightyquiz.com||||
+.|280 North|1/1/2008|34||Y|http://280north.com||$20,000,000||
+.|Omnisio|1/1/2008|34||Y|||$15,000,000||
+.|8aweek|1/1/2008|34|||http://www.8aweek.com/||||
+.|BaseShield|1/1/2008|34|||http://www.baseshield.com/||||
+.|Deluux|1/1/2008|34|||http://www.deluux.com/||||
+.|YumDots|1/1/2008|34|||http://www.yumdots.com/||||
+.|Joberator|1/1/2008|34|||||||
+.|Ninite|1/1/2008|34|||http://ninite.com||||
+.|???|1/1/2008|34|||||||
+.|???|1/1/2008|34|||||||
+.|???|1/1/2008|34|||||||
+.|Socialbrowse|6/1/2008|29|||http://socialbrowse.com|Qwisk|||
+.|Posterous|6/1/2008|29|||http://posterous.com||||
+.|Anyvite|6/1/2008|29|||http://anyvite.com||||
+.|Slinkset|6/1/2008|29||Y|http://slinkset.com||||
+.|TicketStumbler|6/1/2008|29|||http://ticketstumbler.com||||
+.|PopCuts|6/1/2008|29|||http://popcuts.com||||
+.|Ididwork|6/1/2008|29|||http://ididwork.com|Same team as MeetingMix, OhLife|||
+.|Startuply|6/1/2008|29|||http://startuply.com|Job Syndicate, Job Alchemist|||
+.|Picwing|6/1/2008|29|||http://picwing.com||||
+.|CO2Stats|6/1/2008|29|||http://co2stats.com||||
+.|PollEverywhere|6/1/2008|29|||http://polleverywhere.com||||
+.|Backtype|6/1/2008|29|||http://backtype.com||||
+.|ContestMachine|6/1/2008|29|||http://contestmachine.com||||
+.|Frogmetrics|6/1/2008|29|||http://frogmetrics.com||||
+.|Snipd|6/1/2008|29|||http://snipd.com||||
+.|Meetcast|6/1/2008|29|||http://www.meetcast.com/||||
+.|People and Pages|6/1/2008|29|||http://www.peopleandpages.com/||||
+.|Youlicit|6/1/2008|29|||http://www.youlicit.com/||||
+.|TeamApart|6/1/2008|29|||http://teamapart.com||||
+.|Ninite|6/1/2008|29|||http://ninite.com|Secure by Design|||
+.|Scoopler|6/1/2008|29|||http://www.scoopler.com||||
+.|Vidly|6/1/2008|29|||http://vidly.com|Same team as Fliggo|||
+.|Fliggo|6/1/2008|29|||http://fliggo.com|Same team as Vidly, Treehouse app|||
+.|FathomDB|6/1/2008|29|||http://fathomdb.com||||
+.|Heyzap|1/1/2009|22|||http://heyzap.com||||
+.|Foodoro|1/1/2009|22|||http://foodoro.com||||
+.|Divvyshot|1/1/2009|22||Y|http://divvyshot.com|Acquired by Facebook|$5,000,000||
+.|Echodio|1/1/2009|22|||http://echodio.com||||
+.|Cloudkick|1/1/2009|22|||http://cloudkick.com||||
+.|AirBnb|1/1/2009|22|||http://airbnb.com||||
+.|TheSixtyOne|1/1/2009|22|||http://thesixtyone.com||||
+.|Voxli|1/1/2009|22|||http://voxli.com||||
+.|Skysheet|1/1/2009|22|||http://skysheet.com||||
+.|reMail|1/1/2009|22||Y|http://remail.com|||$125k from Y Combinator, Paul Buchheit, and Sanjeev Singh / ACQUIRED by Google|
+.|Nambii|1/1/2009|22|||http://nambii.com||||
+.|Picurio|1/1/2009|22|||http://picurio.com||||
+.|Propable|1/1/2009|22|||http://www.propable.com/||||
+.|Wattvision|1/1/2009|22|||http://www.wattvision.com/||||
+.|[???] PocketFunGames|1/1/2009|22|||http://pocketfungames.com|NOT confirmed|||
+.|Adioso|1/1/2009|22|||http://adioso.com||||
+.|Bump|6/1/2009|17|||http://bumptechnologies.com||||
+.|RentHop|6/1/2009|17|||http://renthop.com||||
+.|HighlightCam|6/1/2009|17|||http://highlightcam.com||||
+.|RethinkDB|6/1/2009|17|||http://rethinkdb.com|hexagram 49|||
+.|DirectedEdge|6/1/2009|17|||http://directededge.com||||
+.|Listia|6/1/2009|17|||http://listia.com||||
+.|FanChatter|6/1/2009|17|||http://fanchatter.com||||
+.|InstantQ|6/1/2009|17|||http://instantq.com||||
+.|Mixpanel|6/1/2009|17|||http://mixpanel.com||||
+.|Jobspice|6/1/2009|17|||http://jobspice.com||||
+.|DailyBooth|6/1/2009|17|||http://dailybooth.com||||
+.|Flightcaster|6/1/2009|17|||http://flightcaster.com||||
+.|Jobpic|6/1/2009|17|Y||http://jobpic.com||||
+.|Olark|6/1/2009|17|||http://olark.com||||
+.|GraffitiGeo|6/1/2009|17||Y||Acquired by Loopt (YC company)|$750,000||
+.|Plurchase|6/1/2009|17|||http://plurchase.com/||||
+.|Wakemate|6/1/2009|17|||http://wakemate.com/||||
+.|Lingt|6/1/2009|17|||http://lingt.com||||
+.|WePay|6/1/2009|17|||http://wepay.com||||
+.|MeetingMix|6/1/2009|17|||http://meetingmix.com|Same team as IDidWork and OhLife|||
+.|CarWoo|6/1/2009|17|||http://carwoo.com||||
+.|22|6/1/2009|17|||||||
+.|23|6/1/2009|17|||||||
+.|24|6/1/2009|17|||||||145 startups through summer 2009
+.|CardPool|1/1/2010|10|||http://cardpool.com|Founder also started Anywhere.FM (YC company)|||
+.|Etacts|1/1/2010|10|||http://etacts.com||||
+.|Crocodoc|1/1/2010|10|||http://crocodoc.com||||
+.|140bets|1/1/2010|10|||http://140bets.com|Tweetbracket|||
+.|datamarketplace|1/1/2010|10|||http://datamarketplace.com||||
+.|Notifo|1/1/2010|10|||http://notifo.com||||
+.|ChromaOm|1/1/2010|10|||http://chromaom.com||||
+.|Launchhear|1/1/2010|10|||http://launchhear.com||||
+.|NewsLabs|1/1/2010|10|Y||http://newslabs.com||||
+.|SeeingInteractive|1/1/2010|10|||http://seeinginteractive.com||||
+.|Zencoder|1/1/2010|10|||http://zencoder.com||||
+.|Nowmov|1/1/2010|10|||http://nowmov.com||||
+.|Gamador|1/1/2010|10|||http://gamador.com||||
+.|Tweetflow|1/1/2010|10|||http://tweetflow.com||||
+.|Answerly.com|1/1/2010|10|||http://answerly.com||||
+.|Zenedy|1/1/2010|10|||http://zenedy.com||||
+.|Embedster|1/1/2010|10|||http://embedster.com||||
+.|Embedly|1/1/2010|10|||http://embed.ly||||
+.|500Friends|1/1/2010|10|||http://500friends.com||||
+.|Infoharmoni|1/1/2010|10|||http://infoharmoni.com||||
+.|Greplin|1/1/2010|10|||http://greplin.com||||
+.|Browsarity|1/1/2010|10|||http://browsarity.com||||
+.|Swagapalooza|1/1/2010|10|||http://swagapalooza.com/||||
+.|Mertado|1/1/2010|10|||http://mertado.com||||
+.|Fabricly|1/1/2010|10|||http://fabricly.com||||
+.|Movity|1/1/2010|10|||http://movity.com||||
+.|Optimizely|1/1/2010|10|||http://optimizely.com/||||172 startups through spring 2010, 27 in W10
+.|FanPulse|6/1/2010|5|||http://fanpul.se||||
+.|Indinero|6/1/2010|5|||http://indinero.com/||||
+.|1000Memories|6/1/2010|5|||http://1000memories.com||||
+.|PagerDuty|6/1/2010|5|||http://pagerduty.com||||
+.|GazeHawk|6/1/2010|5|||http://gazehawk.com||||
+.|Rapportive|6/1/2010|5|||http://rapportive.com||||
+.|HiveHire|6/1/2010|5|||http://hivehire.com||||
+.|FutureAdvisor|6/1/2010|5|||http://futureadvisor.com||||
+.|Whereoscope|6/1/2010|5|||http://whereoscope.com||||
+.|AdGrok|6/1/2010|5|||http://adgrok.com||||
+.|I Move You|6/1/2010|5|||http://imoveyou.com||||
+.|Hipmunk|6/1/2010|5|||http://hipmunk.com|Reddit founder|||
+.|Teevox|6/1/2010|5|||http://teevox.com||||
+.|GinzaMetrics|6/1/2010|5|||http://ginzametrics.com||||
+.|Koduco|6/1/2010|5|||http://koduco.com||||
+.|Chart.io|6/1/2010|5|||http://chart.io||||
+.|The Fridge|6/1/2010|5|||http://www.frid.ge||||
+.|Simperium|6/1/2010|5|||http://simplenoteapp.com|SimpleNote|||
+.|Brushes|6/1/2010|5|||http://brushesapp.com||||
+.|Leftronic|6/1/2010|5|||http://leftronic.com||||
+.|MessageParty|6/1/2010|5|||http://messageparty.net||||
+.|ReadyForZero|6/1/2010|5|||http://readyforzero.com||||
+.|OhLife|6/1/2010|5|||http://ohlife.com|Same team as IDidWork and MeetingMix|||
+.|Gantto|6/1/2010|5|||http://gantto.com||||
+.|Opzi|6/1/2010|5|||http://opzi.com||||
+.|EmailOracle|6/1/2010|5|||http://emailoracle.com|May have been in W10 vs. S10 cohort??|||
+.|Tapzilla|6/1/2010|5|||http://tapzilla.com||||
+.|28|6/1/2010|5|||||||
+.|29|6/1/2010|5|||||||
+.|30|6/1/2010|5|||||||
+.|31|6/1/2010|5|||||||
+.|32|6/1/2010|5|||||||
+.|33|6/1/2010|5|||||||
+.|34|6/1/2010|5|||||||
+.|35|6/1/2010|5|||||||
+.|36|6/1/2010|5|||||||208 startups as of end of S10
