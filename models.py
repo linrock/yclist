@@ -9,6 +9,7 @@ class Company(Entity):
     has_field('class_year',     String(128))
     has_field('url',            String(128))
     has_field('title',          String(128))
+    has_field('meta_desc',      String(128))
     has_field('dead',           Boolean)
     has_field('exited',         Boolean)
 
