@@ -1,6 +1,8 @@
 from elixir import *
 import mechanize
 from radiant.browser import Browser
+from radiant.interfaces.alexa import get_alexa_rank
+from radiant.interfaces.pagerank import get_pagerank
 
 import urlparse
 import os
@@ -24,6 +26,7 @@ class Company(Entity):
     has_field('favicon',        Boolean)
     has_field('snapshot',       Boolean)
     has_field('aq_price',       Integer)
+
 
     def get_favicon(self):
         if self.url > '' and not self.dead:
@@ -50,7 +53,6 @@ class Company(Entity):
                         self.favicon = True
                         session.commit()
 
-
     def convert_favicon(self):
         directory = 'public/img/%s' % self.url[7:]
         if 'favicon.ico' in os.listdir(directory):
@@ -62,6 +64,15 @@ class Company(Entity):
         else:
             self.favicon = False
         session.commit()
+
+    def get_pagerank(self):
+        pr = get_pagerank(self.url)
+        print '%s PR: %s' % (self.url, pr)
+        self.pagerank = pr
+        session.commit()
+
+    def formatted_date(self):
+        return self.class_year.strftime('%m/%Y') if self.class_year else ''
 
     def formatted_title(self):
         return self.title if self.title != 'None' else ''
