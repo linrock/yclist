@@ -14,10 +14,10 @@
         <tr>
             <td>{% if company.favicon %}<img src="/media/{{ company.url[7:] }}/favicon.png"></img>{% endif %}</td>
             <td>{{ company.name }}</td>
-            {% if company.dead %}
-                <td>Dead</td>
-            {% elif company.exited %}
+            {% if company.exited %}
                 <td>Exited</td>
+            {% elif company.dead %}
+                <td>Dead</td>
             {% else %}
                 <td></td>
             {% endif %}
@@ -27,8 +27,8 @@
                 <td></td>
             {% else %}
                 <td><a href="{{ company.url }}">{{ company.url }}</a></td>
-                <td>{{ company.title }}</td>
-                <td>{% if company.meta_desc %}{{ company.meta_desc }}{% endif %}</td>
+                <td>{{ company.formatted_title() }}</td>
+                <td>{{ company.formatted_meta_desc() }}</td>
             {% endif %}
         </tr>
     {% endfor %}
