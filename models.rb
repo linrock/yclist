@@ -11,7 +11,8 @@ class Company
   include Paperclip::Resource
 
   property  :id,            Serial
-  property  :name,          String, :required => true
+  property  :name,          String, :unique => true, :required => true
+  property  :title,         String
   property  :url,           String
   property  :dead,          Boolean
   property  :exited,        Boolean
@@ -28,4 +29,4 @@ class Company
 end
 
 DataMapper.finalize
-DataMapper.auto_migrate!
+# DataMapper.auto_migrate!
