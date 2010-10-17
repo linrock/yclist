@@ -1,20 +1,18 @@
 from radiant.browser import Browser
+from models import Company
+from elixir import session
 import urlparse
-import sqlite3
 
-
-conn = sqlite3.connect('data.sqlite')
-urls = conn.execute('SELECT (url) FROM companies').fetchall()
-urls = [u[0] for u in urls if u[0]]
 
 b = Browser()
-for url in urls:
-    host = urlparse.urlsplit(url).netloc
+for company in Company.query.filter(Company.url > ''):
+    host = urlparse.urlsplit(company.url).netloc
     title = b.parser.xpath('//title/text()')[0]
     favicon_url = b.parser.xpath('//link[contains(@rel, "icon")]/@href')
     if not favicon_url:
-        favicon_url = url + '/favicon.ico'
+        favicon_url = company.url + '/favicon.ico'
     elif favicon_url:
         if not favicon_url.startswith('http://'):
-            favicon_url = url + favicon_url[0]
+            favicon_url = company.url + favicon_url[0]
 
+session.commit()

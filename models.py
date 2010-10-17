@@ -5,7 +5,6 @@ class Company(Entity):
     using_table_options(useexisting=True)
     using_options(tablename='companies')
 
-    has_field('id',             Integer)
     has_field('name',           String(32), index=True)
     has_field('class_year',     String(128))
     has_field('url',            String(128))
