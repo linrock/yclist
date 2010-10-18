@@ -16,6 +16,11 @@
 </head>
 <body>
 <div id="container">
+    <a href="/">Show Active</a>
+    &nbsp;|&nbsp;
+    <a href="/exited">Show Exited</a>
+    &nbsp;|&nbsp;
+    <a href="/all">Show All</a>
 <table class="tablesorter">
     <thead>
         <tr>
@@ -32,7 +37,7 @@
         </tr>
     </thead>
     <tbody>
-    {% for i,company in enumerate(companies) %}
+    {% for i,company in companies %}
         <tr>
             <!--<td>{% if company.favicon %}<img src="/media/img/{{ company.url[7:] }}/favicon.png"></img>{% endif %}</td>-->
             <td>{% if company.favicon %}<div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -{{ 16 * i }}px 0px"></div>{% endif %}</td>
@@ -69,7 +74,7 @@
     {% endfor %}
     </tbody>
 </table>
-<p>Data pulled from <a href="https://spreadsheets.google.com/ccc?key=t_toYuVyy6fci0MAiIaZ30A#gid=0">this spreadsheet</a></p>
+<p>Data pulled from <a href="https://spreadsheets.google.com/ccc?key=t_toYuVyy6fci0MAiIaZ30A#gid=0">this spreadsheet</a>. Not completely accurate.</p>
 <p>Last updated: 10/17/2010</p>
 </div>
 </body>
