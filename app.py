@@ -18,15 +18,15 @@ for i,company in all_companies:
 
 @app.route('/')
 def show_active():
-    return render_template('index.html', companies=filtered)
+    return render_template('index.html', companies=filtered, title="Active")
 
 @app.route('/all')
 def show_all():
-    return render_template('index.html', companies=all_companies)
+    return render_template('index.html', companies=all_companies, title="All")
 
 @app.route('/exited')
 def show_exited():
-    return render_template('index.html', companies=exited)
+    return render_template('index.html', companies=exited, title="Exited")
 
 
 if __name__ == '__main__':
