@@ -77,7 +77,7 @@ class Company(Entity):
         session.commit()
 
     def formatted_date(self):
-        return self.class_year.strftime('%m/%Y') if self.class_year else ''
+        return self.class_year.strftime('%Y/%m') if self.class_year else ''
 
     def formatted_title(self):
         return self.title if self.title != 'None' else ''
