@@ -1,33 +1,32 @@
 from models import Company
 from flask import Flask, render_template
-app = Flask(__name__)
-app.debug = True
 
 
-all_companies = list(enumerate(Company.query.all()))
-# filtered = Company.query.filter(Company.url > '').filter(Company.dead == False).filter(Company.exited == False)
-# dead = Company.query.filter(Company.url > '').filter(Company.dead == False)
-filtered = []
-exited = []
-for i,company in all_companies:
-    if company.url > '' and company.dead == False and company.exited == False:
-        filtered.append((i,company))
-    if company.exited == True:
-        exited.append((i,company))
+class YCList(object):
+    companies = []
 
+    def __init__(self):
+        for i,company in enumerate(Company.query.all()):
+            cl = []
+            if not company.url and not company.exited and not company.dead:
+                cl.append('unknown')
+            elif company.url > '' and not company.exited and not company.dead:
+                cl.append('active')
+            if company.exited == True:
+                cl.append('exited')
+            elif company.dead == True:
+                cl.append('dead')
+            self.companies.append((i, company, ' '.join(cl)))
 
-@app.route('/')
-def show_active():
-    return render_template('index.html', companies=filtered, title="Active")
+    def serve(self):
+        app = Flask(__name__)
+        app.debug = True
 
-@app.route('/all')
-def show_all():
-    return render_template('index.html', companies=all_companies, title="All")
+        @app.route('/')
+        def show():
+            return render_template('index.html', companies=self.companies)
 
-@app.route('/exited')
-def show_exited():
-    return render_template('index.html', companies=exited, title="Exited")
-
+        app.run()
 
 if __name__ == '__main__':
-    app.run()
+    YCList().serve()

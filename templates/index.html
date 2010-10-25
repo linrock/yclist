@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-    <title>Unofficial YCombinator Company List | {{ title }}</title>
+    <title>Unofficial YCombinator Company List</title>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
     <meta name="title" content="Unofficial List of YCombinator Companies"/>
     <link href="/media/css/style.css" rel="stylesheet" type="text/css"/>
@@ -10,17 +10,48 @@
     <script src="/media/js/jquery.tablesorter.js"></script>
     <script type="text/javascript">
     $(document).ready(function() {
-            $("table").tablesorter();
+        $("table").tablesorter();
+        $("#checkbox_active").change(function() {
+            ($(this).attr("checked")) ? $(".active").show() : $(".active").hide();
+        });
+        $("#checkbox_unknown").change(function() {
+            ($(this).attr("checked")) ? $(".unknown").show() : $(".unknown").hide();
+        });
+        $("#checkbox_exited").change(function() {
+            ($(this).attr("checked")) ? $(".exited").show() : $(".exited").hide();
+        });
+        $("#checkbox_dead").change(function() {
+            ($(this).attr("checked")) ? $(".dead").show() : $(".dead").hide();
+        });
     });
     </script>
+    <style type="text/css">
+    .small {
+        font-size: 80%;
+    }
+    .green {
+        color: green;
+    }
+    .red {
+        color: red;
+    }
+    .dead {
+        display: none;
+    }
+    .unknown {
+        display: none;
+    }
+    </style>
 </head>
 <body>
 <div id="container">
-    <a href="/">Show Active</a>
+    <input id="checkbox_active" name="check" type="checkbox" checked/><span class="small">Show Active</span>
     &nbsp;|&nbsp;
-    <a href="/exited">Show Exited</a>
+    <input id="checkbox_exited" name="check" type="checkbox" checked/><span class="small">Show Exited</span>
     &nbsp;|&nbsp;
-    <a href="/all">Show All</a>
+    <input id="checkbox_dead" name="check" type="checkbox"/><span class="small">Show Dead</span>
+    &nbsp;|&nbsp;
+    <input id="checkbox_unknown" name="check" type="checkbox"/><span class="small">Show Unknown</span>
 <table class="tablesorter">
     <thead>
         <tr>
@@ -37,41 +68,40 @@
         </tr>
     </thead>
     <tbody>
-    {% for i,company in companies %}
-        <tr>
-            <!--<td>{% if company.favicon %}<img src="/media/img/{{ company.url[7:] }}/favicon.png"></img>{% endif %}</td>-->
+    {%- for i,company,classes in companies -%}
+        <tr class="{{ classes }}">
             <td>{% if company.favicon %}<div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -{{ 16 * i }}px 0px"></div>{% endif %}</td>
             <td>{{ company.name }}</td>
             <td>{{ company.formatted_date() }}</td>
-            {% if company.exited %}
-                <td style="color: green">Exited</td>
-            {% elif company.dead %}
-                <td style="color: red">Dead</td>
-            {% else %}
+            {%- if company.exited -%}
+                <td class="green">Exited</td>
+            {%- elif company.dead -%}
+                <td class="red">Dead</td>
+            {%- else -%}
                 <td></td>
-            {% endif %}
-            {% if company.dead %}
+            {%- endif -%}
+            {%- if company.dead -%}
                 <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
                 <td style="color:white">99999999</td>
                 <td></td>
-            {% else %}
+            {%- else -%}
                 <td><a href="{{ company.url }}">{{ company.url }}</a></td>
                 <td>{{ company.formatted_title() }}</td>
                 <td>{{ company.formatted_meta_desc() }}</td>
                 <td>{{ company.formatted_aq_price() }}</td>
-                {% if company.alexa > 0 %}
+                {%- if company.alexa > 0 -%}
                     <td>{{ company.alexa }}</td>
-                {% else %}
+                {%- else -%}
                     <td style="color:white">99999999</td>
-                {% endif %}
+                {%- endif -%}
                 <td>{{ company.pagerank if company.pagerank >= 0 or '' }}</td>
-            {% endif %}
+            {%- endif -%}
 
         </tr>
-    {% endfor %}
+    {%- endfor -%}
     </tbody>
 </table>
 <p>Data pulled from <a href="https://spreadsheets.google.com/ccc?key=t_toYuVyy6fci0MAiIaZ30A#gid=0">this spreadsheet</a>. Not completely accurate.</p>
