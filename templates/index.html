@@ -10,7 +10,10 @@
     <script src="/media/js/jquery.tablesorter.js"></script>
     <script type="text/javascript">
     $(document).ready(function() {
-        $("table").tablesorter();
+        $("table").tablesorter({ headers: { 0: { sorter: false }}});
+        $("form").each(function() {
+            this.reset();
+        });
         $("#checkbox_active").change(function() {
             ($(this).attr("checked")) ? $(".active").show() : $(".active").hide();
         });
@@ -29,12 +32,6 @@
     .small {
         font-size: 80%;
     }
-    .green {
-        color: green;
-    }
-    .red {
-        color: red;
-    }
     .dead {
         display: none;
     }
@@ -44,27 +41,29 @@
     </style>
 </head>
 <body>
-<div id="container">
-    <input id="checkbox_active" name="check" type="checkbox" checked/><span class="small">Show Active</span>
-    &nbsp;|&nbsp;
-    <input id="checkbox_exited" name="check" type="checkbox" checked/><span class="small">Show Exited</span>
-    &nbsp;|&nbsp;
-    <input id="checkbox_dead" name="check" type="checkbox"/><span class="small">Show Dead</span>
-    &nbsp;|&nbsp;
-    <input id="checkbox_unknown" name="check" type="checkbox"/><span class="small">Show Unknown</span>
+    <div id="container">
+    <form>
+        <input id="checkbox_active" name="check" type="checkbox" checked/><span class="small">Show Active</span>
+        &nbsp;|&nbsp;
+        <input id="checkbox_exited" name="check" type="checkbox" checked/><span class="small">Show Exited</span>
+        &nbsp;|&nbsp;
+        <input id="checkbox_dead" name="check" type="checkbox"/><span class="small">Show Dead</span>
+        &nbsp;|&nbsp;
+        <input id="checkbox_unknown" name="check" type="checkbox"/><span class="small">Show Unknown</span>
+    </form>
 <table class="tablesorter">
     <thead>
         <tr>
             <th></th>
             <th>Name</th>
-            <th width="70px">Class</th>
-            <th width="50px">Status</th>
+            <th style="width: 70px">Class</th>
+            <th style="width: 50px">Status</th>
             <th>URL</th>
             <th>Title</th>
             <th>Meta Desc</th>
             <th>Est Aq Price</th>
             <th>Alexa Rank</th>
-            <th width="30px">PR</th>
+            <th style="width: 30px">PR</th>
         </tr>
     </thead>
     <tbody>
@@ -74,9 +73,9 @@
             <td>{{ company.name }}</td>
             <td>{{ company.formatted_date() }}</td>
             {%- if company.exited -%}
-                <td class="green">Exited</td>
+                <td style="color: green; font-weight: bold">Exited</td>
             {%- elif company.dead -%}
-                <td class="red">Dead</td>
+                <td style="color: red; font-weight: bold">Dead</td>
             {%- else -%}
                 <td></td>
             {%- endif -%}
