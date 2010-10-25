@@ -68,13 +68,32 @@ class Company(Entity):
                 os.system('convert %s -resize 16x16 %s' % (old_icon, new_icon))
         else:
             self.favicon = False
-        session.commit()
 
-    def get_pagerank(self):
-        pr = get_pagerank(self.url)
-        print '%s PR: %s' % (self.url, pr)
-        self.pagerank = pr
-        session.commit()
+    def update_alexa(self):
+        try:
+            if self.url:
+                alexa = get_alexa_rank(self.url)
+                print '%s - Alexa: %s' % (self.url, alexa)
+                self.alexa = alexa
+            else:
+                print '%s has invalid URL!' % self.name
+        except (KeyboardInterrupt, SystemExit):
+            raise
+        except:
+            print '%s fucked up!!!' % self.url
+
+    def update_pagerank(self):
+        try:
+            if self.url:
+                pr = get_pagerank(self.url)
+                print '%s PR: %s' % (self.url, pr)
+                self.pagerank = pr
+            else:
+                print '%s has invalid URL!' % self.name
+        except (KeyboardInterrupt, SystemExit):
+            raise
+        except:
+            print '%s fucked up!!!' % self.url
 
     def formatted_date(self):
         return self.class_year.strftime('%Y/%m') if self.class_year else ''
