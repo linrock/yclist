@@ -69,7 +69,7 @@
     <tbody>
     {%- for i,company,classes in companies -%}
         <tr class="{{ classes }}">
-            <td>{% if company.favicon %}<div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -{{ 16 * i }}px 0px"></div>{% endif %}</td>
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -{{ 16 * i }}px 0px"></div></td>
             <td>{{ company.name }}</td>
             <td>{{ company.formatted_date() }}</td>
             {%- if company.exited -%}
