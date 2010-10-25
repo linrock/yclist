@@ -8,7 +8,7 @@ class YCList(object):
     def __init__(self):
         for i,company in enumerate(Company.query.all()):
             cl = []
-            if not company.url and not company.exited and not company.dead:
+            if (not company.url and not company.exited and not company.dead) or not company.class_year:
                 cl.append('unknown')
             elif company.url > '' and not company.exited and not company.dead:
                 cl.append('active')
