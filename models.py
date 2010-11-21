@@ -16,10 +16,10 @@ import re
 locale.setlocale(locale.LC_ALL, '')
 
 class Company(Entity):
-    using_table_options(useexisting=True)
     using_options(tablename='companies')
+    using_table_options(useexisting=True)
 
-    has_field('name',           String(32), index=True)
+    has_field('name',           String(32))
     has_field('class_year',     Date)
     has_field('hostname',       String(128))
     has_field('url',            String(128))
@@ -114,7 +114,7 @@ class Company(Entity):
     def update_alexa(self):
         try:
             if self.url:
-                alexa = get_alexa_rank(self.url)
+                alexa = get_alexa_rank(self.url.replace('https://', 'http://'))
                 print '%s - Alexa: %s' % (self.url, alexa)
                 self.alexa = alexa
             else:
