@@ -140,12 +140,6 @@ class Company(Entity):
     def formatted_date(self):
         return self.class_year.strftime('%Y/%m') if self.class_year else ''
 
-    def formatted_title(self):
-        return self.title if self.title != 'None' else ''
-
-    def formatted_meta_desc(self):
-        return self.meta_desc if self.meta_desc != 'None' else ''
-
     def formatted_aq_price(self):
         return locale.currency(int(self.aq_price), grouping=True)[:-3] if self.aq_price else ''
 
