@@ -65,12 +65,3 @@ def convert_favicons():
         old_icon = 'icons/%s' % i
         new_icon = 'icons/%s.png' % i[:-4]
         os.system('convert %s[0] -resize 16x16 -flatten %s' % (old_icon, new_icon))
-
-def create_directories():
-    for company in Company.query.filter(Company.url > ''):
-        host = urlparse.urlsplit(company.url).netloc
-        public_dir = 'public/%s' % host
-        if not os.path.isdir(public_dir):
-            os.mkdir(public_dir)
-
-
