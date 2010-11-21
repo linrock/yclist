@@ -88,8 +88,16 @@
                 <td></td>
             {%- else -%}
                 <td><a href="{{ company.url }}">{{ company.url }}</a></td>
-                <td>{{ company.formatted_title() }}</td>
-                <td>{{ company.formatted_meta_desc() }}</td>
+                {%- if company.title -%}
+                    <td>{{ company.title }}</td>
+                {%- else %}
+                    <td></td>
+                {%- endif -%}
+                {%- if company.meta_desc -%}
+                    <td>{{ company.meta_desc }}</td>
+                {%- else %}
+                    <td></td>
+                {%- endif -%}
                 <td>{{ company.formatted_aq_price() }}</td>
                 {%- if company.alexa > 0 -%}
                     <td>{{ company.alexa }}</td>
