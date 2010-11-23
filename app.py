@@ -1,5 +1,6 @@
 from models import Company
 from flask import Flask, render_template
+import locale
 
 
 class YCList(object):
@@ -29,4 +30,6 @@ class YCList(object):
         app.run()
 
 if __name__ == '__main__':
+    # locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+    locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
     YCList().serve()
