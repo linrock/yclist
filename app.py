@@ -33,6 +33,7 @@ class YCList(object):
 
     def generate_static(self):
         from jinja2 import Template
+        print 'Generating static HTML (%s)...' % OUTFILE
         t = Template(open('templates/index.html', 'r').read())
         open(OUTFILE, 'w').write(t.render(companies=self.companies).encode('UTF-8'))
 
