@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Unofficial YCombinator Company List</title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+    <meta name="title" content="Unofficial List of YCombinator Companies"/>
+    <link href="/media/css/style.css" rel="stylesheet" type="text/css"/>
+    <link href="/media/css/tablesorter.css" rel="stylesheet" type="text/css"/>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+    <script src="/media/js/jquery.tablesorter.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $("table").tablesorter({ headers: { 0: { sorter: false }}});
+        $("form").each(function() {
+            this.reset();
+        });
+        $("#checkbox_active").change(function() {
+            ($(this).attr("checked")) ? $(".active").show() : $(".active").hide();
+        });
+        $("#checkbox_unknown").change(function() {
+            ($(this).attr("checked")) ? $(".unknown").show() : $(".unknown").hide();
+        });
+        $("#checkbox_exited").change(function() {
+            ($(this).attr("checked")) ? $(".exited").show() : $(".exited").hide();
+        });
+        $("#checkbox_dead").change(function() {
+            ($(this).attr("checked")) ? $(".dead").show() : $(".dead").hide();
+        });
+    });
+    </script>
+    <style type="text/css">
+    .small {
+        font-size: 80%;
+    }
+    .dead {
+        display: none;
+    }
+    .unknown {
+        display: none;
+    }
+    </style>
+</head>
+<body>
+    <div id="container">
+    <form>
+        <input id="checkbox_active" name="check" type="checkbox" checked/><span class="small">Show Active</span>
+        &nbsp;|&nbsp;
+        <input id="checkbox_exited" name="check" type="checkbox" checked/><span class="small">Show Exited</span>
+        &nbsp;|&nbsp;
+        <input id="checkbox_dead" name="check" type="checkbox"/><span class="small">Show Dead</span>
+        &nbsp;|&nbsp;
+        <input id="checkbox_unknown" name="check" type="checkbox"/><span class="small">Show Unknown</span>
+    </form>
+<table class="tablesorter">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Name</th>
+            <th style="width: 70px">Class</th>
+            <th style="width: 50px">Status</th>
+            <th>URL</th>
+            <th>Title</th>
+            <th>Meta Desc</th>
+            <th>Est Aq Price</th>
+            <th>Alexa Rank</th>
+            <th style="width: 30px">PR</th>
+        </tr>
+    </thead>
+    <tbody><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -0px 0px"></div></td>
+            <td>Reddit</td>
+            <td>2005/06</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://www.reddit.com">http://www.reddit.com</a></td><td>reddit: the voice of the internet -- news before it happens</td>
+                    <td></td><td>$15,000,000</td><td>197</td><td>8</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -16px 0px"></div></td>
+            <td>Infogami</td>
+            <td>2005/06</td><td style="color: green; font-weight: bold">Exited</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -32px 0px"></div></td>
+            <td>Kiko</td>
+            <td>2005/06</td><td style="color: green; font-weight: bold">Exited</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -48px 0px"></div></td>
+            <td>Loopt</td>
+            <td>2005/06</td><td></td><td><a href="http://www.loopt.com">http://www.loopt.com</a></td><td>Loopt | Discover the world around you</td>
+                    <td></td><td></td><td>64736</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -64px 0px"></div></td>
+            <td>ClickFacts</td>
+            <td>2005/06</td><td></td><td><a href="http://www.clickfacts.com">http://www.clickfacts.com</a></td><td>ClickFacts - Risk Discovery for Online Advertising</td>
+                    <td></td><td></td><td>1439369</td><td>3</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -80px 0px"></div></td>
+            <td>Firecrawl</td>
+            <td>2005/06</td><td style="color: green; font-weight: bold">Exited</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -96px 0px"></div></td>
+            <td>Simmery</td>
+            <td>2005/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -112px 0px"></div></td>
+            <td>Memamp</td>
+            <td>2005/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -128px 0px"></div></td>
+            <td>Flagr</td>
+            <td>2006/01</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -144px 0px"></div></td>
+            <td>Wufoo</td>
+            <td>2006/01</td><td></td><td><a href="http://wufoo.com">http://wufoo.com</a></td><td>
+		Wufoo: Online Form Builder - Create Web Forms & Surveys
+	</td><td>Wufoo is an online HTML form builder that helps anyone create beautiful contact forms, online surveys and event registrations without writing a single line of code.</td><td></td><td>3565</td><td>6</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -160px 0px"></div></td>
+            <td>YouOS</td>
+            <td>2006/01</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://www.youos.com">http://www.youos.com</a></td><td>Welcome to YouOS. (deprecated)</td><td>YouOS was once a web operating system.  It is no more.</td><td>$4,000,000</td><td>516106</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -176px 0px"></div></td>
+            <td>InklingMarkets</td>
+            <td>2006/01</td><td></td><td><a href="http://www.inklingmarkets.com">http://www.inklingmarkets.com</a></td><td>
+	  Prediction Markets - Inkling
+	</td><td>Hosted software for prediction markets that improves predictive business intelligence, forecasting, identifies value of new ideas, and helps forge new collaboration channels.</td><td></td><td>150702</td><td>5</td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -192px 0px"></div></td>
+            <td>AudioBeta</td>
+            <td>2006/01</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -208px 0px"></div></td>
+            <td>Clustrix</td>
+            <td>2006/01</td><td></td><td><a href="http://www.clustrix.com">http://www.clustrix.com</a></td><td>Clustrix - Clustered Database Systems</td><td>Clustrix Clustered Database Systems combine the high scalability of NoSQL key-value stores with the functionality and seamless deployment of SQL. Scaling to hundreds of nodes as a single-instance database</td><td></td><td>829792</td><td>4</td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -224px 0px"></div></td>
+            <td>PollGround</td>
+            <td>2006/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -240px 0px"></div></td>
+            <td>LikeBetter</td>
+            <td>2006/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -256px 0px"></div></td>
+            <td>Thinkature</td>
+            <td>2006/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -272px 0px"></div></td>
+            <td>JamGlue</td>
+            <td>2006/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -288px 0px"></div></td>
+            <td>Shoutfit</td>
+            <td>2006/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -304px 0px"></div></td>
+            <td>Scribd</td>
+            <td>2006/06</td><td></td><td><a href="http://www.scribd.com">http://www.scribd.com</a></td><td>Scribd</td><td>Scribd is a social publishing site, where tens of millions of people share original writings and documents. Scribd's vision is to liberate the written word.</td><td></td><td>214</td><td>8</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -320px 0px"></div></td>
+            <td>Xobni</td>
+            <td>2006/06</td><td></td><td><a href="http://www.xobni.com">http://www.xobni.com</a></td><td>Xobni - Outlook Plugin to Search People, Email, and Attachments Instantly</td><td>Xobni is an Outlook plugin that helps you search and organize your inbox. Download Xobni's Outlook plugin instantly.</td><td></td><td>37918</td><td>5</td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -336px 0px"></div></td>
+            <td>JumpChat</td>
+            <td>2006/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -352px 0px"></div></td>
+            <td>Talkito</td>
+            <td>2006/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -368px 0px"></div></td>
+            <td>OMGPOP</td>
+            <td>2006/06</td><td></td><td><a href="http://www.omgpop.com">http://www.omgpop.com</a></td><td>Play Fun Multiplayer Games Free At OMGPOP</td><td>fun games, multiplayer games, omgpop, iminlikewithyou, games, free multiplayer games,free online games, flash games</td><td></td><td>19518</td><td>6</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -384px 0px"></div></td>
+            <td>Parakey</td>
+            <td>2007/01</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://www.parakey.com">http://www.parakey.com</a></td><td>
+	key west para exercise plan  at parakey.com
+</td><td>key west para exercise plan a flat stomach and jillian</td><td>$5,000,000</td><td>1844849</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -400px 0px"></div></td>
+            <td>Weebly</td>
+            <td>2007/01</td><td></td><td><a href="http://www.weebly.com">http://www.weebly.com</a></td><td>Weebly - Create a free website and a free blog</td><td>Named one of TIME's 50 Best Websites, Weebly has an easy, drag & drop interface to create your own website. It's free, powerful, and professional.</td><td></td><td>605</td><td>8</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -416px 0px"></div></td>
+            <td>Snipshot</td>
+            <td>2007/01</td><td></td><td><a href="http://snipshot.com">http://snipshot.com</a></td><td>Snipshot: Edit pictures online</td><td>Snipshot is a fast online image editor. You can use it right from your browser, no downloads or Flash required.</td><td></td><td>124521</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -432px 0px"></div></td>
+            <td>VirtualMin</td>
+            <td>2007/01</td><td></td><td><a href="http://virtualmin.com">http://virtualmin.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>29266</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -448px 0px"></div></td>
+            <td>Buxfer</td>
+            <td>2007/01</td><td></td><td><a href="http://www.buxfer.com">http://www.buxfer.com</a></td><td>Buxfer: Free online personal finance software for budgeting and money management</td><td>Free online personal finance software, Budgeting, Planning and Online money management. Track split bills and IOUs with friends and roommates.</td><td></td><td>128367</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -464px 0px"></div></td>
+            <td>Octopart</td>
+            <td>2007/01</td><td></td><td><a href="http://octopart.com">http://octopart.com</a></td><td>Octopart - Electronic Parts, Electronic Components, Datasheets</td><td>Octopart is a search engine for electronic parts. Search for specs, prices, availability, datasheets from multiple distributors.</td><td></td><td>84323</td><td>5</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -480px 0px"></div></td>
+            <td>Heysan</td>
+            <td>2007/01</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://heysan.com">http://heysan.com</a></td>
+                    <td></td>
+                    <td></td><td>$4,000,000</td><td>4520064</td><td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -496px 0px"></div></td>
+            <td>SocialMoth</td>
+            <td>2007/01</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -512px 0px"></div></td>
+            <td>Auctomatic</td>
+            <td>2007/01</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://www.auctomatic.com">http://www.auctomatic.com</a></td><td>Auctomatic.com</td>
+                    <td></td><td>$5,000,000</td><td>1379223</td><td>5</td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -528px 0px"></div></td>
+            <td>Tsumobi</td>
+            <td>2007/01</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -544px 0px"></div></td>
+            <td>Whitenoise Networks</td>
+            <td>2007/01</td><td></td><td><a href="http://www.whitenoisenetworks.com">http://www.whitenoisenetworks.com</a></td><td>whitenoisenetworks.com Coming Soon!</td><td>The owner of this domain has not yet uploaded their website.</td><td></td><td style="color:white">99999999</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -560px 0px"></div></td>
+            <td>Writewith</td>
+            <td>2007/01</td><td></td><td><a href="http://writewith.com">http://writewith.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>2738361</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -576px 0px"></div></td>
+            <td>View3</td>
+            <td>2007/01</td><td></td><td><a href="http://www.view3.com">http://www.view3.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td>3</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -592px 0px"></div></td>
+            <td>Zenter</td>
+            <td>2007/01</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://www.zenter.com">http://www.zenter.com</a></td><td>Zenter</td>
+                    <td></td><td>$4,000,000</td><td>5437559</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -608px 0px"></div></td>
+            <td>Justin.tv</td>
+            <td>2007/06</td><td></td><td><a href="http://www.justin.tv">http://www.justin.tv</a></td><td>Justin.tv - Streaming live video broadcasts for everyone</td><td>Watch live video and chat with friends. Create your own live broadcast channel.</td><td></td><td>399</td><td>7</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -624px 0px"></div></td>
+            <td>Zecter (Versionate)</td>
+            <td>2007/06</td><td></td><td><a href="http://zecter.com">http://zecter.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>4580641</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -640px 0px"></div></td>
+            <td>Adpinion</td>
+            <td>2007/06</td><td></td><td><a href="http://www.adpinion.com">http://www.adpinion.com</a></td><td>WebFaction - Coming soon: Another fine website hosted by WebFaction</td>
+                    <td></td><td></td><td>2079135</td><td>4</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -656px 0px"></div></td>
+            <td>Anywhere.fm</td>
+            <td>2007/06</td><td style="color: green; font-weight: bold">Exited</td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td>$2,000,000</td><td style="color:white">99999999</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -672px 0px"></div></td>
+            <td>Fuzzwich</td>
+            <td>2007/06</td><td></td><td><a href="http://www.fuzzwich.com">http://www.fuzzwich.com</a></td><td>Fuzzwich - Animation for Everyone </td><td>You look clever! Create your very own animated masterpiece in moments. Will it star Obama, the spaceman, or you?</td><td></td><td>1598227</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -688px 0px"></div></td>
+            <td>Bountii</td>
+            <td>2007/06</td><td></td><td><a href="http://bountii.com">http://bountii.com</a></td><td>Bountii - Comparison Shopping: Find the Best Price</td><td>Compare prices and find coupons for electronics and appliances at top stores like Amazon.com, Newegg, CircuitCity, Best Buy, Walmart, Dell and more.</td><td></td><td>98118</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -704px 0px"></div></td>
+            <td>Songkick</td>
+            <td>2007/06</td><td></td><td><a href="http://www.songkick.com">http://www.songkick.com</a></td><td>Songkick — Concerts, tour dates, and festivals for your favorite artists</td><td>Songkick allows you to organize and track your favorite bands and track concerts and dates. Get instant tour dates from your music library.</td><td></td><td>11689</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -720px 0px"></div></td>
+            <td>Disqus</td>
+            <td>2007/06</td><td></td><td><a href="http://www.disqus.com">http://www.disqus.com</a></td><td>
+    Discover your community - DISQUS
+    </td><td>Disqus is a global comment system that improves discussion on websites and connects conversations across the web.</td><td></td><td>2219</td><td>8</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -736px 0px"></div></td>
+            <td>Splashup</td>
+            <td>2007/06</td><td></td><td><a href="http://www.splashup.com">http://www.splashup.com</a></td><td>Splashup</td><td>Splashup is the only full-featured, free range, image editor online. Create new images, edit existing images and manipulate layers with filters, layer effects and myriad other drawing and image editing tools.</td><td></td><td>46551</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -752px 0px"></div></td>
+            <td>Draftmix</td>
+            <td>2007/06</td><td></td><td><a href="http://www.draftmix.com">http://www.draftmix.com</a></td><td>draftmix</td>
+                    <td></td><td></td><td>5235444</td><td>4</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -768px 0px"></div></td>
+            <td>Appjet</td>
+            <td>2007/06</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://www.appjet.com">http://www.appjet.com</a></td><td>EtherPad</td>
+                    <td></td><td>$10,000,000</td><td>2176138</td><td>6</td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -784px 0px"></div></td>
+            <td>Reble</td>
+            <td>2007/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -800px 0px"></div></td>
+            <td>Clickpass</td>
+            <td>2007/06</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://www.clickpass.com">http://www.clickpass.com</a></td><td>Clickpass</td>
+                    <td></td><td>$1,000,000</td><td>324967</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -816px 0px"></div></td>
+            <td>Dropbox</td>
+            <td>2007/06</td><td></td><td><a href="http://www.dropbox.com">http://www.dropbox.com</a></td><td>Dropbox 
+        - Home
+        - Online backup, file sync and sharing made easy.
+    </td><td>Dropbox is the easiest way to store, sync, and, share files online. There's no complicated interface to learn. Dropbox works seamlessly with your operating system and automatically makes sure your files are up-to-date. Available for Windows, Mac, and Linux.</td><td></td><td>665</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -832px 0px"></div></td>
+            <td>Cloudant</td>
+            <td>2007/06</td><td></td><td><a href="https://cloudant.com">https://cloudant.com</a></td><td>Cloudant: CouchDB hosting</td>
+                    <td></td><td></td><td>785442</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -848px 0px"></div></td>
+            <td>SlapVid</td>
+            <td>2007/06</td><td></td><td><a href="http://www.slapvid.com">http://www.slapvid.com</a></td><td>slapvid.com</td><td>Slapvid Peer to Peer Video Sharing Technology</td><td></td><td>5391612</td><td>4</td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -864px 0px"></div></td>
+            <td>??</td>
+            <td>2007/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -880px 0px"></div></td>
+            <td>??</td>
+            <td>2007/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -896px 0px"></div></td>
+            <td>??</td>
+            <td>2007/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -912px 0px"></div></td>
+            <td>Webmynd</td>
+            <td>2008/01</td><td></td><td><a href="http://www.webmynd.com">http://www.webmynd.com</a></td><td>WebMynd Content Concierge - create search sidebars with your content</td>
+                    <td></td><td></td><td>168918</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -928px 0px"></div></td>
+            <td>RescueTime</td>
+            <td>2008/01</td><td></td><td><a href="http://www.rescuetime.com">http://www.rescuetime.com</a></td><td>Time Management, Productivity, & Project Tracking Software (Mac/PC) | RescueTime</td>
+                    <td></td><td></td><td>26344</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -944px 0px"></div></td>
+            <td>Heroku</td>
+            <td>2008/01</td><td></td><td><a href="http://heroku.com">http://heroku.com</a></td><td>Heroku | Ruby Cloud Platform as a Service</td>
+                    <td></td><td></td><td>5762</td><td>6</td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -960px 0px"></div></td>
+            <td>Tipjoy</td>
+            <td>2008/01</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -976px 0px"></div></td>
+            <td>Addmired</td>
+            <td>2008/01</td><td></td><td><a href="http://www.addher.com">http://www.addher.com</a></td><td>DynDNS.com Parked Domain Page</td>
+                    <td></td><td></td><td>8103759</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -992px 0px"></div></td>
+            <td>Kirkland North</td>
+            <td>2008/01</td><td></td><td><a href="http://www.playturf.net">http://www.playturf.net</a></td><td>www.playturf.net</td>
+                    <td></td><td></td><td>15561042</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1008px 0px"></div></td>
+            <td>Wundrbar</td>
+            <td>2008/01</td><td></td><td><a href="http://wundrbar.com">http://wundrbar.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>5007730</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1024px 0px"></div></td>
+            <td>Chatterous</td>
+            <td>2008/01</td><td></td><td><a href="http://www.chatterous.com">http://www.chatterous.com</a></td><td>
+      Chatterous - group chat using the web, IM, email or phone
+   </td><td>Chatterous is group chat using the web, im, email or sms. You can create chat rooms and embed them on your site. Chatterous can also be used to boadcast messages to people over im, email or sms.</td><td></td><td>234072</td><td>5</td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1040px 0px"></div></td>
+            <td>Mixwit</td>
+            <td>2008/01</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1056px 0px"></div></td>
+            <td>Snaptalent</td>
+            <td>2008/01</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1072px 0px"></div></td>
+            <td>Insoshi</td>
+            <td>2008/01</td><td></td><td><a href="http://insoshi.com">http://insoshi.com</a></td><td>insoshi's insoshi at master - GitHub</td><td>An open source social networking platform in Ruby on Rails</td><td></td><td>588361</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1088px 0px"></div></td>
+            <td>MightyQuiz</td>
+            <td>2008/01</td><td></td><td><a href="http://www.mightyquiz.com">http://www.mightyquiz.com</a></td><td>MightyQuiz: Bite-Size Knowledge - Quizzes, Trivia, and Facts</td><td>MightyQuiz is a quiz and trivia site. Test your knowledge on over 30,000 topics! Contribute your knowledge by writing questions, quizzes, and facts.</td><td></td><td>2388262</td><td>5</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1104px 0px"></div></td>
+            <td>280 North</td>
+            <td>2008/01</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://www.280north.com">http://www.280north.com</a></td><td>280 North - Home</td>
+                    <td></td><td>$20,000,000</td><td>424246</td><td>5</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1120px 0px"></div></td>
+            <td>Omnisio</td>
+            <td>2008/01</td><td style="color: green; font-weight: bold">Exited</td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td>$15,000,000</td><td style="color:white">99999999</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1136px 0px"></div></td>
+            <td>8aweek</td>
+            <td>2008/01</td><td></td><td><a href="http://www.8aweek.com">http://www.8aweek.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>3497914</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1152px 0px"></div></td>
+            <td>BaseShield</td>
+            <td>2008/01</td><td></td><td><a href="http://www.baseshield.com">http://www.baseshield.com</a></td><td>BaseShield is no more.</td>
+                    <td></td><td></td><td style="color:white">99999999</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1168px 0px"></div></td>
+            <td>Deluux</td>
+            <td>2008/01</td><td></td><td><a href="http://www.deluux.com">http://www.deluux.com</a></td><td>
+	real estate apartment for rent  at deluux.com
+</td><td>real estate apartment for rent personals cheap airfare vacation packages</td><td></td><td>6558290</td><td>1</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1184px 0px"></div></td>
+            <td>YumDots</td>
+            <td>2008/01</td><td></td><td><a href="http://www.yumdots.com">http://www.yumdots.com</a></td><td>YumDots</td>
+                    <td></td><td></td><td>19004112</td><td>2</td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1200px 0px"></div></td>
+            <td>Joberator</td>
+            <td>2008/01</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1216px 0px"></div></td>
+            <td>Ninite</td>
+            <td>2008/01</td><td></td><td><a href="http://ninite.com">http://ninite.com</a></td><td>Ninite Easy PC Setup - Silent Unattended Install Multiple Programs At Once</td>
+                    <td></td><td></td><td>43596</td><td>6</td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1232px 0px"></div></td>
+            <td>???</td>
+            <td>2008/01</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1248px 0px"></div></td>
+            <td>???</td>
+            <td>2008/01</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1264px 0px"></div></td>
+            <td>Socialbrowse</td>
+            <td>2008/06</td><td></td><td><a href="http://socialbrowse.com">http://socialbrowse.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>3384623</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1280px 0px"></div></td>
+            <td>Posterous</td>
+            <td>2008/06</td><td></td><td><a href="https://posterous.com">https://posterous.com</a></td><td>Posterous - The Easiest Way to Post and Share Anything</td><td>Posterous is the easiest publishing platform around. If you can email, you can manage a website and share it with small groups or the world.</td><td></td><td>539</td><td>7</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1296px 0px"></div></td>
+            <td>Anyvite</td>
+            <td>2008/06</td><td></td><td><a href="http://anyvite.com">http://anyvite.com</a></td><td>Free Online Invitations, Party Planning and Guest List Management from Anyvite</td>
+                    <td></td><td></td><td>141147</td><td>5</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1312px 0px"></div></td>
+            <td>Slinkset</td>
+            <td>2008/06</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://www.slinkset.com">http://www.slinkset.com</a></td><td>slinkset.com: share -> vote -> comment</td><td>Create your own social news site in seconds.</td><td></td><td>13717</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1328px 0px"></div></td>
+            <td>TicketStumbler</td>
+            <td>2008/06</td><td></td><td><a href="http://www.ticketstumbler.com">http://www.ticketstumbler.com</a></td><td>Farewell</td>
+                    <td></td><td></td><td>647836</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1344px 0px"></div></td>
+            <td>ContestMachine</td>
+            <td>2008/06</td><td></td><td><a href="http://www.contestmachine.com">http://www.contestmachine.com</a></td><td>ContestMachine: Promotions Made Easy</td>
+                    <td></td><td></td><td>395979</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1360px 0px"></div></td>
+            <td>PopCuts</td>
+            <td>2008/06</td><td></td><td><a href="http://www.popcuts.com">http://www.popcuts.com</a></td><td>
+Home
+ - Popcuts </td><td>
+Popcuts is the music store where you have a stake in the music you buy. Once you purchase a song here, we let you have your share every time we sell that song in the future. That's it. No work on your end. Buy music. Make money.
+</td><td></td><td>2208403</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1376px 0px"></div></td>
+            <td>Ididwork</td>
+            <td>2008/06</td><td></td><td><a href="http://www.ididwork.com">http://www.ididwork.com</a></td><td>ididwork - The work log that shares</td>
+                    <td></td><td></td><td>1690699</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1392px 0px"></div></td>
+            <td>Startuply</td>
+            <td>2008/06</td><td></td><td><a href="http://www.startuply.com">http://www.startuply.com</a></td><td>
+	Startuply: Startup companies. Startup jobs.
+</td><td>Startuply: Startup Companies, Startup Jobs. Jobs at the world's best angel- and venture-backed web, media, and technology companies.</td><td></td><td>52018</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1408px 0px"></div></td>
+            <td>Picwing</td>
+            <td>2008/06</td><td></td><td><a href="http://www.picwing.com">http://www.picwing.com</a></td><td>Easy Photo Printing - Regularly Send Printed Photos to Loved Ones | Picwing</td><td>Upload or email photos to Picwing. Picwing will automatically print and mail them to your family twice a month.</td><td></td><td>604696</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1424px 0px"></div></td>
+            <td>CO2Stats</td>
+            <td>2008/06</td><td></td><td><a href="http://www.co2stats.com">http://www.co2stats.com</a></td><td>Green Certified Site | CO2Stats</td><td>CO2Stats makes your website green and carbon neutral, and shows visitors you're environmentally friendly through increased energy efficiency and renewable energy.</td><td></td><td>281507</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1440px 0px"></div></td>
+            <td>PollEverywhere</td>
+            <td>2008/06</td><td></td><td><a href="http://www.polleverywhere.com">http://www.polleverywhere.com</a></td><td>Text Message (SMS) Polls and Voting, Audience Response System | Poll Everywhere</td><td>Audience response system that uses mobile phones, twitter, and the web. Responses are displayed in real-time on gorgeous charts in PowerPoint, Keynote, or web browser.</td><td></td><td>230465</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1456px 0px"></div></td>
+            <td>Backtype</td>
+            <td>2008/06</td><td></td><td><a href="http://www.backtype.com">http://www.backtype.com</a></td><td>BackType</td><td>BackType is a social analytics platform that helps companies understand their social impact.</td><td></td><td>8753</td><td>7</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1472px 0px"></div></td>
+            <td>ContestMachine</td>
+            <td>2008/06</td><td></td><td><a href="http://www.contestmachine.com">http://www.contestmachine.com</a></td><td>ContestMachine: Promotions Made Easy</td>
+                    <td></td><td></td><td>395979</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1488px 0px"></div></td>
+            <td>Frogmetrics</td>
+            <td>2008/06</td><td></td><td><a href="http://www.frogmetrics.com">http://www.frogmetrics.com</a></td><td>Frogmetrics</td><td>Frogmetrics is building the next generation of touchcreen customer feedback systems.</td><td></td><td>3718925</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1504px 0px"></div></td>
+            <td>Snipd</td>
+            <td>2008/06</td><td></td><td><a href="http://snipd.com">http://snipd.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>1463335</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1520px 0px"></div></td>
+            <td>Meetcast</td>
+            <td>2008/06</td><td></td><td><a href="http://www.meetcast.com">http://www.meetcast.com</a></td><td>Team Apart - Real simple. Real-time.</td><td>Team Apart provides small remote teams with an online space to meet and collaborate in real-time.</td><td></td><td>19294069</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1536px 0px"></div></td>
+            <td>People and Pages</td>
+            <td>2008/06</td><td></td><td><a href="http://www.peopleandpages.com">http://www.peopleandpages.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td>1</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1552px 0px"></div></td>
+            <td>Youlicit</td>
+            <td>2008/06</td><td></td><td><a href="http://www.youlicit.com">http://www.youlicit.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>2435208</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1568px 0px"></div></td>
+            <td>TeamApart</td>
+            <td>2008/06</td><td></td><td><a href="http://www.teamapart.com">http://www.teamapart.com</a></td><td>Team Apart - Real simple. Real-time.</td><td>Team Apart provides small remote teams with an online space to meet and collaborate in real-time.</td><td></td><td>2815648</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1584px 0px"></div></td>
+            <td>Ninite</td>
+            <td>2008/06</td><td></td><td><a href="http://ninite.com">http://ninite.com</a></td><td>Ninite Easy PC Setup - Silent Unattended Install Multiple Programs At Once</td>
+                    <td></td><td></td><td>43596</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1600px 0px"></div></td>
+            <td>Scoopler</td>
+            <td>2008/06</td><td></td><td><a href="http://www.scoopler.com">http://www.scoopler.com</a></td><td>JustSpotted.com - Your favorite celebrities are right here </td><td>See what any celebrity is up to right now.  The latest sightings, tweets, news and updates in one place.</td><td></td><td>360011</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1616px 0px"></div></td>
+            <td>Vidly</td>
+            <td>2008/06</td><td></td><td><a href="http://www.vidly.com">http://www.vidly.com</a></td><td>Treehouse | The best way to share photos from your iPhone.</td>
+                    <td></td><td></td><td>3165622</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1632px 0px"></div></td>
+            <td>Fliggo</td>
+            <td>2008/06</td><td></td><td><a href="http://www.fliggo.com">http://www.fliggo.com</a></td><td>Treehouse | The best way to share photos from your iPhone.</td>
+                    <td></td><td></td><td>2183281</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1648px 0px"></div></td>
+            <td>FathomDB</td>
+            <td>2008/06</td><td></td><td><a href="http://fathomdb.com">http://fathomdb.com</a></td><td>FathomDB: Databases-as-a-Service</td><td>fathomdb: relational databases as a service</td><td></td><td>2057086</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1664px 0px"></div></td>
+            <td>Heyzap</td>
+            <td>2009/01</td><td></td><td><a href="http://www.heyzap.com">http://www.heyzap.com</a></td><td>Heyzap › Powered Up Products for Game Developers and Publishers</td>
+                    <td></td><td></td><td>27125</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1680px 0px"></div></td>
+            <td>Foodoro</td>
+            <td>2009/01</td><td></td><td><a href="http://foodoro.com">http://foodoro.com</a></td><td>Foodoro - Discover Great Food</td><td>Foodoro is the marketplace to buy and sell gourmet food.  Our goal is to help people discover amazing food products and connect them with the folks who make their food.</td><td></td><td>493217</td><td>4</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1696px 0px"></div></td>
+            <td>Divvyshot</td>
+            <td>2009/01</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://divvyshot.com">http://divvyshot.com</a></td><td>Welcome to Facebook</td><td> Facebook is a social utility that connects people with friends and others who work, study and live around them. People use Facebook to keep up with friends, upload an unlimited number of photos, post links and videos, and learn more about the people they meet.</td><td>$5,000,000</td><td>3344764</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1712px 0px"></div></td>
+            <td>Echodio</td>
+            <td>2009/01</td><td></td><td><a href="http://www.echodio.com">http://www.echodio.com</a></td><td>Echodio : Sync iTunes Libraries</td>
+                    <td></td><td></td><td>1370474</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1728px 0px"></div></td>
+            <td>Cloudkick</td>
+            <td>2009/01</td><td></td><td><a href="https://www.cloudkick.com">https://www.cloudkick.com</a></td><td>Cloudkick | Cloud monitoring and management tools</td><td>Simple, powerful tools for managing and monitoring cloud servers. Administer servers from multiple cloud providers all in one easy-to-use dashboard. Set up monitoring in under 60 seconds and get access to interactive graphs, diagnostic tools, and alerts that will let you know when your servers have a problem. Simple tools like tagging, colors, and sorting make it easy to keep track of all your infrastructure.</td><td></td><td>333526</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1744px 0px"></div></td>
+            <td>AirBnb</td>
+            <td>2009/01</td><td></td><td><a href="http://www.airbnb.com">http://www.airbnb.com</a></td><td>Vacation rentals, private rooms, sublets by the night - Accommodations on Airbnb</td><td>Don't stay at a hotel. Airbnb is a global network of accommodations offered by locals. It's more fun and very cheap, especially in big cities like New York, San Francisco, Paris, etc.</td><td></td><td>9839</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1760px 0px"></div></td>
+            <td>TheSixtyOne</td>
+            <td>2009/01</td><td></td><td><a href="http://www.thesixtyone.com">http://www.thesixtyone.com</a></td><td>
+  thesixtyone - a music adventure
+  </td><td>on thesixtyone, new artists make music and listeners decide what's good</td><td></td><td>46826</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1776px 0px"></div></td>
+            <td>Voxli</td>
+            <td>2009/01</td><td></td><td><a href="http://voxli.com">http://voxli.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>314796</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1792px 0px"></div></td>
+            <td>Skysheet</td>
+            <td>2009/01</td><td></td><td><a href="http://www.skysheet.com">http://www.skysheet.com</a></td><td>Skysheet</td>
+                    <td></td><td></td><td>24374037</td><td>3</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1808px 0px"></div></td>
+            <td>reMail</td>
+            <td>2009/01</td><td style="color: green; font-weight: bold">Exited</td><td><a href="http://remail.com">http://remail.com</a></td>
+                    <td></td>
+                    <td></td><td></td><td>1088700</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1824px 0px"></div></td>
+            <td>Nambii</td>
+            <td>2009/01</td><td></td><td><a href="http://www.nambii.com">http://www.nambii.com</a></td><td>Account Suspended</td>
+                    <td></td><td></td><td>1837081</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1840px 0px"></div></td>
+            <td>Picurio</td>
+            <td>2009/01</td><td></td><td><a href="http://picurio.com">http://picurio.com</a></td><td>Picurio - Photo sharing built for groups</td>
+                    <td></td><td></td><td>1651114</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1856px 0px"></div></td>
+            <td>Propable</td>
+            <td>2009/01</td><td></td><td><a href="http://www.propable.com">http://www.propable.com</a></td><td>propable.com Coming Soon!</td><td>The owner of this domain has not yet uploaded their website.</td><td></td><td>25052317</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1872px 0px"></div></td>
+            <td>Wattvision</td>
+            <td>2009/01</td><td></td><td><a href="http://www.wattvision.com">http://www.wattvision.com</a></td><td>wattvision | save money on energy</td><td>Wattvision makes it easy for you to save money on energy by giving you a live view of your energy use on the web or on your mobile device.</td><td></td><td>822529</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1888px 0px"></div></td>
+            <td>[???] PocketFunGames</td>
+            <td>2009/01</td><td></td><td><a href="http://www.pocketfungames.com">http://www.pocketfungames.com</a></td><td>Pocket Fun Games</td>
+                    <td></td><td></td><td>15576968</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1904px 0px"></div></td>
+            <td>Adioso</td>
+            <td>2009/01</td><td></td><td><a href="http://adioso.com">http://adioso.com</a></td><td>Cheap flights from easyJet, Air Asia, JetBlue, WestJet, AirBerlin, Jetstar and more</td><td>Forget your plans! Adioso is the natural-language travel search engine that helps you decide where to travel & when. Amazingly flexible travel search!</td><td></td><td>107387</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1920px 0px"></div></td>
+            <td>Bump</td>
+            <td>2009/06</td><td></td><td><a href="http://bumptechnologies.com">http://bumptechnologies.com</a></td><td>The Bump App for iPhone and Android | Bump Technologies, Inc.</td>
+                    <td></td><td></td><td style="color:white">99999999</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1936px 0px"></div></td>
+            <td>RentHop</td>
+            <td>2009/06</td><td></td><td><a href="http://www.renthop.com">http://www.renthop.com</a></td><td> No Fee NYC Apartment Rentals - RentHop.com </td><td> Search NYC apartment rentals on RentHop for free, no registration required!  RentHop provides full landlord addresses and contact information with each listing, no broker fees attached.  Listings include no-fee New York City and Manhattan apartment rental listings, free of charge.  No registration or sign-up required, free New York City apartment hunting service with no broker fee.  Free New York rental apartment hunting guide. </td><td></td><td>227151</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1952px 0px"></div></td>
+            <td>HighlightCam</td>
+            <td>2009/06</td><td></td><td><a href="http://www.highlightcam.com">http://www.highlightcam.com</a></td><td>HighlightCam - Life Summarized.</td><td>HighlightCam is the easiest and fastest way to edit and send videos to friends and family. Just upload digital video in any format and HightlightCam finds the most important scenes to produce complete high-quality movies you can send in minutes.</td><td></td><td>1215312</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1968px 0px"></div></td>
+            <td>RethinkDB</td>
+            <td>2009/06</td><td></td><td><a href="http://www.rethinkdb.com">http://www.rethinkdb.com</a></td><td>RethinkDB - The database for solid state drives.</td>
+                    <td></td><td></td><td>798537</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -1984px 0px"></div></td>
+            <td>DirectedEdge</td>
+            <td>2009/06</td><td></td><td><a href="http://www.directededge.com">http://www.directededge.com</a></td><td>Directed Edge - Home</td>
+                    <td></td><td></td><td>571325</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2000px 0px"></div></td>
+            <td>Listia</td>
+            <td>2009/06</td><td></td><td><a href="http://www.listia.com">http://www.listia.com</a></td><td>Give & Get Free Stuff - Listia.com Auctions</td><td>Listia is an auction site for Free Stuff where you bid on other people's items using credits instead of real money. We make it easy for users to get rid of stuff they don't need anymore and find stuff they want for free. Listia is a marketplace where people enjoy giving and getting items for free.</td><td></td><td>32213</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2016px 0px"></div></td>
+            <td>FanChatter</td>
+            <td>2009/06</td><td></td><td><a href="http://www.fanchatter.com">http://www.fanchatter.com</a></td><td>FanChatter :: Mobile + Social Fan Engagement</td>
+                    <td></td><td></td><td>935389</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2032px 0px"></div></td>
+            <td>InstantQ</td>
+            <td>2009/06</td><td></td><td><a href="http://www.instantq.com">http://www.instantq.com</a></td><td>InstantQ - customer loyalty program that makes your customers visit more often and spend more</td><td>customer loyalty program for creating, distributing, managing promotions. More customer, more sales, guaranteed!</td><td></td><td>11819893</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2048px 0px"></div></td>
+            <td>Mixpanel</td>
+            <td>2009/06</td><td></td><td><a href="http://mixpanel.com">http://mixpanel.com</a></td><td>Mixpanel | Real-time Web Analytics, Funnel Analysis</td><td>Mixpanel is a real-time analytics service that can help you understand how people interact with your web application. Try our funnel analysis tool!</td><td></td><td>55494</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2064px 0px"></div></td>
+            <td>Jobspice</td>
+            <td>2009/06</td><td></td><td><a href="http://www.jobspice.com">http://www.jobspice.com</a></td><td>JobSpice | Resume Builder</td><td>JobSpice is a resume builder that can help you design a professional resume in 15 minutes.</td><td></td><td>330659</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2080px 0px"></div></td>
+            <td>DailyBooth</td>
+            <td>2009/06</td><td></td><td><a href="http://dailybooth.com">http://dailybooth.com</a></td><td>DailyBooth</td>
+                    <td></td><td></td><td>4981</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2096px 0px"></div></td>
+            <td>Flightcaster</td>
+            <td>2009/06</td><td></td><td><a href="http://flightcaster.com">http://flightcaster.com</a></td><td>FlightCaster</td>
+                    <td></td><td></td><td>455460</td><td>6</td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2112px 0px"></div></td>
+            <td>Jobpic</td>
+            <td>2009/06</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2128px 0px"></div></td>
+            <td>Olark</td>
+            <td>2009/06</td><td></td><td><a href="http://www.olark.com">http://www.olark.com</a></td><td>
+      Olark | Real-time chat and monitoring of your website visitors through Google Talk and Jabber
+    </td><td>Real-time chat and monitoring of your website visitors through Google Talk and Jabber</td><td></td><td>27442</td><td>6</td></tr><tr class="exited">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2144px 0px"></div></td>
+            <td>GraffitiGeo</td>
+            <td>2009/06</td><td style="color: green; font-weight: bold">Exited</td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td>$1,500,000</td><td style="color:white">99999999</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2160px 0px"></div></td>
+            <td>Plurchase</td>
+            <td>2009/06</td><td></td><td><a href="http://www.plurchase.com">http://www.plurchase.com</a></td><td>Plurchase - Shop with friends</td>
+                    <td></td><td></td><td>1818141</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2176px 0px"></div></td>
+            <td>Wakemate</td>
+            <td>2009/06</td><td></td><td><a href="http://www.wakemate.com">http://www.wakemate.com</a></td><td>
+  WakeMate–Wake up fresh; sleep smarter
+ - WakeMate</td>
+                    <td></td><td></td><td>272431</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2192px 0px"></div></td>
+            <td>Lingt</td>
+            <td>2009/06</td><td></td><td><a href="http://lingt.com">http://lingt.com</a></td><td>Lingt</td><td>A more efficient and compelling way to learn a new language.</td><td></td><td>662167</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2208px 0px"></div></td>
+            <td>WePay</td>
+            <td>2009/06</td><td></td><td><a href="https://www.wepay.com">https://www.wepay.com</a></td><td>Collect Money, Group Payments, Collect Dues, Fundraising, Tickets | WePay</td><td>WePay makes it easy to securely collect money online.</td><td></td><td>110676</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2224px 0px"></div></td>
+            <td>MeetingMix</td>
+            <td>2009/06</td><td></td><td><a href="http://meetingmix.com">http://meetingmix.com</a></td><td>Meeting agenda, meeting minutes, better meetings - MeetingMix</td><td>MeetingMix is an online meeting agenda and meeting minutes template that you can share with attendees</td><td></td><td>291337</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2240px 0px"></div></td>
+            <td>CarWoo</td>
+            <td>2009/06</td><td></td><td><a href="http://carwoo.com">http://carwoo.com</a></td><td>The best way to buy a new car | CarWoo!</td><td>CarWoo! is simply the best way to buy a new car. Try it and see.</td><td></td><td>115689</td><td>2</td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2256px 0px"></div></td>
+            <td>22</td>
+            <td>2009/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2272px 0px"></div></td>
+            <td>23</td>
+            <td>2009/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2288px 0px"></div></td>
+            <td>24</td>
+            <td>2009/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2304px 0px"></div></td>
+            <td>25</td>
+            <td>2009/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2320px 0px"></div></td>
+            <td>CardPool</td>
+            <td>2010/01</td><td></td><td><a href="http://www.cardpool.com">http://www.cardpool.com</a></td><td>Gift Card Exchange - Buy, Sell, Discount Gift Cards | Cardpool.com</td><td>Buy discount gift cards up to 30% off, sell gift cards for cash, or trade / swap gift cards at the most trusted and most popular gift card exchange.</td><td></td><td>186417</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2336px 0px"></div></td>
+            <td>Etacts</td>
+            <td>2010/01</td><td></td><td><a href="https://etacts.com">https://etacts.com</a></td><td>Etacts - Relationship management for email</td>
+                    <td></td><td></td><td>276513</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2352px 0px"></div></td>
+            <td>Crocodoc</td>
+            <td>2010/01</td><td></td><td><a href="http://crocodoc.com">http://crocodoc.com</a></td><td>Comment on, edit, and fill PDF files, Word documents, images and more | crocodoc</td>
+                    <td></td><td></td><td>292587</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2368px 0px"></div></td>
+            <td>140bets</td>
+            <td>2010/01</td><td></td><td><a href="http://www.140bets.com">http://www.140bets.com</a></td><td>Bets Sports Odds From Best People | 140bets.com</td>
+                    <td></td><td></td><td>6102728</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2384px 0px"></div></td>
+            <td>datamarketplace</td>
+            <td>2010/01</td><td></td><td><a href="http://www.datamarketplace.com">http://www.datamarketplace.com</a></td><td>Data Marketplace : Find, buy and sell data online</td>
+                    <td></td><td></td><td>1586547</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2400px 0px"></div></td>
+            <td>Notifo</td>
+            <td>2010/01</td><td></td><td><a href="http://notifo.com">http://notifo.com</a></td><td>Mobile Notifications for Everything - Notifo</td><td>Notifo is a mobile notifications platform - notifications for everything</td><td></td><td>190363</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2416px 0px"></div></td>
+            <td>ChromaOm</td>
+            <td>2010/01</td><td></td><td><a href="http://chromaom.com">http://chromaom.com</a></td><td>CHROMAom : Color Enlightenment</td>
+                    <td></td><td></td><td>241865</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2432px 0px"></div></td>
+            <td>Launchhear</td>
+            <td>2010/01</td><td></td><td><a href="http://www.launchhear.com">http://www.launchhear.com</a></td><td>LaunchHear</td>
+                    <td></td><td></td><td>3810284</td><td>0</td></tr><tr class="dead">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2448px 0px"></div></td>
+            <td>NewsLabs</td>
+            <td>2010/01</td><td style="color: red; font-weight: bold">Dead</td><td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td style="color:white">99999999</td>
+                <td></td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2464px 0px"></div></td>
+            <td>SeeingInteractive</td>
+            <td>2010/01</td><td></td><td><a href="http://seeinginteractive.com">http://seeinginteractive.com</a></td><td>Seeing Interactive</td>
+                    <td></td><td></td><td>709874</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2480px 0px"></div></td>
+            <td>Zencoder</td>
+            <td>2010/01</td><td></td><td><a href="http://zencoder.com">http://zencoder.com</a></td><td>Video Encoding/Transcoding Software as a Service | Zencoder</td><td>Audio and video encoding/transcoding software as a service. Convert videos online into web and mobile formats using our cloud encoding API.</td><td></td><td>108727</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2496px 0px"></div></td>
+            <td>Nowmov</td>
+            <td>2010/01</td><td></td><td><a href="http://nowmov.com">http://nowmov.com</a></td><td>nowmov</td><td>What's the world watching now?</td><td></td><td>363619</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2512px 0px"></div></td>
+            <td>Gamador</td>
+            <td>2010/01</td><td></td><td><a href="http://www.gamador.com">http://www.gamador.com</a></td><td>Gamador baked you a pie</td>
+                    <td></td><td></td><td>594144</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2528px 0px"></div></td>
+            <td>Tweetflow</td>
+            <td>2010/01</td><td></td><td><a href="http://www.tweetflow.com">http://www.tweetflow.com</a></td><td>Tweetflow, the multi user tweet publisher!</td>
+                    <td></td><td></td><td>4034547</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2544px 0px"></div></td>
+            <td>Answerly.com</td>
+            <td>2010/01</td><td></td><td><a href="http://alpha.answerly.com">http://alpha.answerly.com</a></td><td>Answerly | Ask Questions and Get Answers in Minutes</td><td>Answerly is a free service where real people research your questions and send answers to your email inbox in minutes.</td><td></td><td>399381</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2560px 0px"></div></td>
+            <td>Zenedy</td>
+            <td>2010/01</td><td></td><td><a href="http://zenedy.com">http://zenedy.com</a></td><td>Learn Something New Every Day | Zenedy</td><td>Learn something new every day with new articles written daily about topics discovered from all around the web.</td><td></td><td>1113604</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2576px 0px"></div></td>
+            <td>Embedster</td>
+            <td>2010/01</td><td></td><td><a href="http://www.embedster.com">http://www.embedster.com</a></td><td>Embedster - Launching Soon</td>
+                    <td></td><td></td><td>3430370</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2592px 0px"></div></td>
+            <td>Embedly</td>
+            <td>2010/01</td><td></td><td><a href="http://www.embed.ly">http://www.embed.ly</a></td><td>Embedly</td><td>Embedly, Inc. provides a service which makes every URL on the internet embeddable for any website or web application in which it is posted. Currently, we serve over 500,000 embeds per day to over 200 sites.</td><td></td><td>192426</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2608px 0px"></div></td>
+            <td>500Friends</td>
+            <td>2010/01</td><td></td><td><a href="http://www.500friends.com">http://www.500friends.com</a></td><td>500Friends - Social Commerce Technologies for Ecommerce</td><td>500Friends - Social Commerce Technologies for Ecommerce</td><td></td><td>170167</td><td>1</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2624px 0px"></div></td>
+            <td>Infoharmoni</td>
+            <td>2010/01</td><td></td><td><a href="http://www.infoharmoni.com">http://www.infoharmoni.com</a></td><td>
+		Infoharmoni: The Data Is The Interface
+	</td>
+                    <td></td><td></td><td>3534679</td><td>2</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2640px 0px"></div></td>
+            <td>Greplin</td>
+            <td>2010/01</td><td></td><td><a href="https://www.greplin.com">https://www.greplin.com</a></td><td>Greplin</td>
+                    <td></td><td></td><td>192808</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2656px 0px"></div></td>
+            <td>Browsarity</td>
+            <td>2010/01</td><td></td><td><a href="http://www.browsarity.com">http://www.browsarity.com</a></td><td>Browsarity - The new way to give back</td>
+                    <td></td><td></td><td>5417347</td><td>2</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2672px 0px"></div></td>
+            <td>Swagapalooza</td>
+            <td>2010/01</td><td></td><td><a href="http://www.swagapalooza.com">http://www.swagapalooza.com</a></td><td>SWAGAPALOOZA</td>
+                    <td></td><td></td><td>1549931</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2688px 0px"></div></td>
+            <td>Mertado</td>
+            <td>2010/01</td><td></td><td><a href="http://www.mertado.com">http://www.mertado.com</a></td><td>Mertado Social Deals</td><td>Mertado offers exclusive, limited-time deals to our members. Mertado is a great new way to shop with your friends and save more, get 50-80% off on top brands. Friends don't let friends pay retail! Mertado is free to join, so register now to start saving right away!</td><td></td><td>274738</td><td>2</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2704px 0px"></div></td>
+            <td>Fabricly</td>
+            <td>2010/01</td><td></td><td><a href="http://www.fabricly.com">http://www.fabricly.com</a></td><td>Fabricly | Influence & Own Fashion</td>
+                    <td></td><td></td><td>795604</td><td>2</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2720px 0px"></div></td>
+            <td>Movity</td>
+            <td>2010/01</td><td></td><td><a href="http://www.movity.com">http://www.movity.com</a></td><td>Movity.com</td>
+                    <td></td><td></td><td>1402277</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2736px 0px"></div></td>
+            <td>Optimizely</td>
+            <td>2010/01</td><td></td><td><a href="http://www.optimizely.com">http://www.optimizely.com</a></td><td>Optimizely: A/B Testing you'll actually use</td>
+                    <td></td><td></td><td>99761</td><td>3</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2752px 0px"></div></td>
+            <td>FanPulse</td>
+            <td>2010/06</td><td></td><td><a href="http://fanpul.se">http://fanpul.se</a></td><td>Today's Games - Fanvibe</td><td>Fanvibe.com allows you to watch and follow games with friends for the World Cup, NFL, MLB, NBA, Premier League, College Football, and College Basketball.</td><td></td><td style="color:white">99999999</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2768px 0px"></div></td>
+            <td>Indinero</td>
+            <td>2010/06</td><td></td><td><a href="https://indinero.com">https://indinero.com</a></td><td>Easy Business Finance Software, Simplified Small Business Accounting  and Cashflow Planning | inDinero.com</td>
+                    <td></td><td></td><td>133304</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2784px 0px"></div></td>
+            <td>1000Memories</td>
+            <td>2010/06</td><td></td><td><a href="http://1000memories.com">http://1000memories.com</a></td><td>Remember the life of a loved one, together. | 1000Memories</td><td> 1000Memories is a place for family and friends to remember and record the story of a loved one's life.</td><td></td><td>187590</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2800px 0px"></div></td>
+            <td>PagerDuty</td>
+            <td>2010/06</td><td></td><td><a href="http://www.pagerduty.com">http://www.pagerduty.com</a></td><td>Phone call and SMS alerting for your monitoring systems | PagerDuty - Home</td><td>Phone & SMS alerting and on-call scheduling for Nagios, Zenoss, Munin, Monit, and most other IT monitoring tools.</td><td></td><td>571003</td><td>4</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2816px 0px"></div></td>
+            <td>GazeHawk</td>
+            <td>2010/06</td><td></td><td><a href="http://www.gazehawk.com">http://www.gazehawk.com</a></td><td>GazeHawk - Eye Tracking For Everyone - Usability Services & Software</td><td>GazeHawk provides affordable quality eye tracking services. Use it to see what your users are looking at on your site. Improve conversions, increase usability, and measure ad spot quality.</td><td></td><td>241242</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2832px 0px"></div></td>
+            <td>Rapportive</td>
+            <td>2010/06</td><td></td><td><a href="http://rapportive.com:80">http://rapportive.com:80</a></td><td>Rapportive</td><td>Rapportive shows you everything about your contacts right inside your inbox. We combine what you know, what your organization knows, and what the web knows.</td><td></td><td>43455</td><td>5</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2848px 0px"></div></td>
+            <td>HireHive</td>
+            <td>2010/06</td><td></td><td><a href="http://hirehive.com">http://hirehive.com</a></td><td>HireHive</td><td>Prescreen job candidates using video. Candidates record in the browser. No scheduling necessary.</td><td></td><td>263678</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2864px 0px"></div></td>
+            <td>FutureAdvisor</td>
+            <td>2010/06</td><td></td><td><a href="https://futureadvisor.com">https://futureadvisor.com</a></td><td>FutureAdvisor: Your online investment advisor</td>
+                    <td></td><td></td><td>635606</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2880px 0px"></div></td>
+            <td>Whereoscope</td>
+            <td>2010/06</td><td></td><td><a href="http://www.whereoscope.com">http://www.whereoscope.com</a></td><td>Whereoscope | See where your kids are</td>
+                    <td></td><td></td><td>899858</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2896px 0px"></div></td>
+            <td>AdGrok</td>
+            <td>2010/06</td><td></td><td><a href="http://adgrok.com">http://adgrok.com</a></td><td>AdGrok | Search engine marketing for the masses.</td>
+                    <td></td><td></td><td>217069</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2912px 0px"></div></td>
+            <td>I Move You</td>
+            <td>2010/06</td><td></td><td><a href="http://imoveyou.com">http://imoveyou.com</a></td><td>I Move You - Challenge your friends</td>
+                    <td></td><td></td><td>369272</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2928px 0px"></div></td>
+            <td>Hipmunk</td>
+            <td>2010/06</td><td></td><td><a href="http://www.hipmunk.com">http://www.hipmunk.com</a></td><td>Hipmunk: Better Flight Search</td><td>Find the flight you want with our popular flight search tool.</td><td></td><td>30007</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2944px 0px"></div></td>
+            <td>Teevox</td>
+            <td>2010/06</td><td></td><td><a href="http://www.teevox.com">http://www.teevox.com</a></td><td>Teevox</td>
+                    <td></td><td></td><td>711735</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2960px 0px"></div></td>
+            <td>GinzaMetrics</td>
+            <td>2010/06</td><td></td><td><a href="http://www.ginzametrics.com">http://www.ginzametrics.com</a></td><td>SEO (Search Engine Optimization) Software, Reporting and Analytics Dashboard  | Ginzametrics</td><td>Ginzametrics is powerful, easy-to-use SEO (Search Engine Optimization) software. Our reporting and analytics dashboard does the heavy lifting and provides customized recommendations to help you quickly optimize your website.</td><td></td><td>127797</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2976px 0px"></div></td>
+            <td>Koduco</td>
+            <td>2010/06</td><td></td><td><a href="http://koduco.com">http://koduco.com</a></td><td>Koduco Games</td><td>Your #1 source for news on Koduco Games works for the iPad</td><td></td><td>1024549</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -2992px 0px"></div></td>
+            <td>Chart.io</td>
+            <td>2010/06</td><td></td><td><a href="http://www.chart.io">http://www.chart.io</a></td>
+                    <td></td>
+                    <td></td><td></td><td>321243</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3008px 0px"></div></td>
+            <td>The Fridge</td>
+            <td>2010/06</td><td></td><td><a href="http://frid.ge">http://frid.ge</a></td><td>welcome to the frid.ge</td>
+                    <td></td><td></td><td>115588</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3024px 0px"></div></td>
+            <td>Simperium</td>
+            <td>2010/06</td><td></td><td><a href="http://www.simplenoteapp.com">http://www.simplenoteapp.com</a></td><td>Simplenote. An easy way to keep notes, lists, ideas, and more.</td><td>Simplenote is an easy way to keep notes, lists, ideas, and more. Keep notes on the web, your mobile device, and your computer. Find notes quickly with instant searching and simple tags. Share a list, post some instructions, or publish your thoughts.</td><td></td><td>84417</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3040px 0px"></div></td>
+            <td>Brushes</td>
+            <td>2010/06</td><td></td><td><a href="http://www.brushesapp.com">http://www.brushesapp.com</a></td><td>Brushes</td>
+                    <td></td><td></td><td>464664</td><td>6</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3056px 0px"></div></td>
+            <td>Leftronic</td>
+            <td>2010/06</td><td></td><td><a href="http://www.leftronic.com">http://www.leftronic.com</a></td><td>Leftronic Dashboards</td>
+                    <td></td><td></td><td>454238</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3072px 0px"></div></td>
+            <td>MessageParty</td>
+            <td>2010/06</td><td></td><td><a href="http://www.messageparty.net">http://www.messageparty.net</a></td><td>message party</td>
+                    <td></td><td></td><td>635102</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3088px 0px"></div></td>
+            <td>ReadyForZero</td>
+            <td>2010/06</td><td></td><td><a href="https://www.readyforzero.com">https://www.readyforzero.com</a></td><td>
+    ReadyForZero
+  </td>
+                    <td></td><td></td><td>676457</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3104px 0px"></div></td>
+            <td>OhLife</td>
+            <td>2010/06</td><td></td><td><a href="http://ohlife.com">http://ohlife.com</a></td><td>The easiest way to write your life story | OhLife</td>
+                    <td></td><td></td><td>139574</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3120px 0px"></div></td>
+            <td>Gantto</td>
+            <td>2010/06</td><td></td><td><a href="http://gantto.com">http://gantto.com</a></td><td>Gantto Beta - Presentable Gantt Charts</td>
+                    <td></td><td></td><td>402383</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3136px 0px"></div></td>
+            <td>Opzi</td>
+            <td>2010/06</td><td></td><td><a href="http://www.opzi.com">http://www.opzi.com</a></td><td>
+    
+    
+    
+      Opzi
+    
+  </td>
+                    <td></td><td></td><td>488360</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3152px 0px"></div></td>
+            <td>EmailOracle</td>
+            <td>2010/06</td><td></td><td><a href="https://emailoracle.com">https://emailoracle.com</a></td><td>EmailOracle - Track who opens and responds to your email</td>
+                    <td></td><td></td><td>265900</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3168px 0px"></div></td>
+            <td>Tapzilla</td>
+            <td>2010/06</td><td></td><td><a href="http://tapzilla.com">http://tapzilla.com</a></td><td>Get Daily Paid iPhone, iPod Touch and iPad Apps for Free | TapZilla</td><td>Get 100% off amazing off paid iPhone, iPod Touch and iPad applications and games.  One amazing paid apps is offered for free daily from some of the best developers out there on TapZilla.</td><td></td><td>566735</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3184px 0px"></div></td>
+            <td>Workflowy</td>
+            <td>2010/06</td><td></td><td><a href="http://www.workflowy.com">http://www.workflowy.com</a></td><td>WorkFlowy - Organize your brain.</td>
+                    <td></td><td></td><td>158901</td><td>0</td></tr><tr class="active">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3200px 0px"></div></td>
+            <td>Crowdbooster</td>
+            <td>2010/06</td><td></td><td><a href="http://crowdbooster.com">http://crowdbooster.com</a></td><td>Crowdbooster - Measure and optimize your social media marketing</td><td>Crowdbooster - measure and optimize your social media. Crowdbooster measures how well you are performing on Twitter and gives you insights that make you more effective. We building the first great social media optimization company.</td><td></td><td>662871</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3216px 0px"></div></td>
+            <td>30</td>
+            <td>2010/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3232px 0px"></div></td>
+            <td>31</td>
+            <td>2010/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3248px 0px"></div></td>
+            <td>32</td>
+            <td>2010/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3264px 0px"></div></td>
+            <td>33</td>
+            <td>2010/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3280px 0px"></div></td>
+            <td>34</td>
+            <td>2010/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3296px 0px"></div></td>
+            <td>35</td>
+            <td>2010/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr><tr class="unknown">
+            <td><div style="width: 16px; height: 16px; background: url('/media/img/favicons.png'); background-position: -3312px 0px"></div></td>
+            <td>36</td>
+            <td>2010/06</td><td></td><td><a href=""></a></td>
+                    <td></td>
+                    <td></td><td></td><td style="color:white">99999999</td><td></td></tr></tbody>
+</table>
+<p>Data imported from <a href="https://spreadsheets.google.com/ccc?key=t_toYuVyy6fci0MAiIaZ30A#gid=0">this spreadsheet</a>.</p>
+<p>Last updated: 11/21/2010</p>
+</div>
+</body>
+</html>

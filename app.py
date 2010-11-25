@@ -1,6 +1,7 @@
 from models import Company
-from flask import Flask, render_template
-import locale
+import locale; locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+
+OUTFILE = 'public/index.html'
 
 
 class YCList(object):
@@ -20,6 +21,7 @@ class YCList(object):
             self.companies.append((i, company, ' '.join(cl)))
 
     def serve(self):
+        from flask import Flask, render_template
         app = Flask(__name__)
         app.debug = True
 
@@ -29,7 +31,12 @@ class YCList(object):
 
         app.run()
 
+    def generate_static(self):
+        from jinja2 import Template
+        t = Template(open('templates/index.html', 'r').read())
+        open(OUTFILE, 'w').write(t.render(companies=self.companies).encode('UTF-8'))
+
+
 if __name__ == '__main__':
-    # locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
-    locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
-    YCList().serve()
+    # YCList().serve()
+    YCList().generate_static()
