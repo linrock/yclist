@@ -137,24 +137,22 @@ class Company(Entity):
 
     @staticmethod
     def convert_and_merge_favicons():
-        icon_names = [f for f in os.listdir('icons') if f.endswith('.ico')]
-        for name in icon_names:
-            old_icon = os.path.join(favicon_dir, name)
-            new_icon = os.path.join(favicon_dir, '%s.png' % name[:-4])
-            os.system('convert %s[0] -resize 16x16 -flatten %s' % (old_icon, new_icon))
-        companies = Company.query.all()
-        favicon_sequence = []
         num_valid = 0
-        for company in companies:
-            host = urlparse.urlsplit(company.url).netloc
-            path = os.path.join(favicon_dir, '%s.png' % host)
-            if os.path.isfile(path):
-                favicon_sequence.append(path)
-                num_valid += 1
+        favicon_sequence = []
+        for c in Company.query.all():
+            if c.favicon_filename:
+                icon_filename = os.path.join(favicon_dir, c.favicon_filename)
+                new_icon_filename = os.path.join(favicon_dir, '%s.png' % c.favicon_filename[:-4])
+                exit = os.system('convert %s[0] -resize 16x16 -flatten %s' % (icon_filename, new_icon_filename))
+                if exit != 0:
+                    print 'Failed to convert: %s' % c.favicon_filename
+                    favicon_sequence.append('public/img/blank.png')
+                else:
+                    favicon_sequence.append(new_icon_filename)
+                    num_valid += 1
             else:
-                print '%s favicon invalid: %s' % (company.url, path)
                 favicon_sequence.append('public/img/blank.png')
-        print '#valid: %d' % num_valid
+        print '#valid favicons: %d' % num_valid
         os.system('convert %s +append public/img/favicons.png' % ' '.join(favicon_sequence))
 
     def formatted_date(self):
