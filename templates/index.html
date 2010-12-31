@@ -62,7 +62,8 @@
             <th>Title</th>
             <th>Meta Desc</th>
             <th>Est Aq Price</th>
-            <th>Alexa Rank</th>
+            <th>Notes</th>
+            <th>Alexa</th>
             <th style="width: 30px">PR</th>
         </tr>
     </thead>
@@ -99,6 +100,7 @@
                     <td></td>
                 {%- endif -%}
                 <td>{{ company.formatted_aq_price() }}</td>
+                <td>{{ company.notes }}</td>
                 {%- if company.alexa > 0 -%}
                     <td>{{ company.alexa }}</td>
                 {%- else -%}

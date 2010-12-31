@@ -1,0 +1,1664 @@
+- aq_price: '15000000'
+  class_year: 2005-06-01 00:00:00
+  dead: false
+  exited: true
+  hostname: reddit.com
+  name: Reddit
+  notes: ''
+  url: http://reddit.com
+- aq_price: null
+  class_year: 2005-06-01 00:00:00
+  dead: true
+  exited: true
+  hostname: ''
+  name: Infogami
+  notes: Merged with Reddit
+  url: ''
+- aq_price: '258000'
+  class_year: 2005-06-01 00:00:00
+  dead: true
+  exited: true
+  hostname: ''
+  name: Kiko
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2005-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: loopt.com
+  name: Loopt
+  notes: ''
+  url: http://loopt.com
+- aq_price: null
+  class_year: 2005-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: clickfacts.com
+  name: ClickFacts
+  notes: ''
+  url: http://clickfacts.com
+- aq_price: '3000000'
+  class_year: 2005-06-01 00:00:00
+  dead: true
+  exited: true
+  hostname: textpayme.com
+  name: Firecrawl
+  notes: Morphed to TextPayMe, which was acquired by Amazon
+  url: http://textpayme.com
+- aq_price: null
+  class_year: 2005-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: ''
+  name: Simmery
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2005-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: ''
+  name: Memamp
+  notes: One founder joined Reddit
+  url: ''
+- aq_price: null
+  class_year: 2006-01-01 00:00:00
+  dead: true
+  exited: false
+  hostname: ''
+  name: Flagr
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2006-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: wufoo.com
+  name: Wufoo
+  notes: ''
+  url: http://wufoo.com
+- aq_price: '4000000'
+  class_year: 2006-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: youos.com
+  name: YouOS
+  notes: Pivoted to Project Wedding, which was acquired
+  url: http://youos.com
+- aq_price: null
+  class_year: 2006-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: inklingmarkets.com
+  name: InklingMarkets
+  notes: ''
+  url: http://inklingmarkets.com
+- aq_price: null
+  class_year: 2006-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: AudioBeta
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2006-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: clustrix.com
+  name: Clustrix
+  notes: ''
+  url: http://clustrix.com
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: ''
+  name: PollGround
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: likebetter.com
+  name: LikeBetter
+  notes: ''
+  url: http://likebetter.com
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: thinkature.com
+  name: Thinkature
+  notes: ''
+  url: http://thinkature.com
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: jamglue.com
+  name: JamGlue
+  notes: ''
+  url: http://jamglue.com
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: ''
+  name: Shoutfit
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: scribd.com
+  name: Scribd
+  notes: ''
+  url: http://scribd.com
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: xobni.com
+  name: Xobni
+  notes: ''
+  url: http://xobni.com
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: jumpchat.com
+  name: JumpChat
+  notes: ''
+  url: http://jumpchat.com
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: talkito.com
+  name: Talkito
+  notes: ''
+  url: http://talkito.com
+- aq_price: null
+  class_year: 2006-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: omgpop.com
+  name: OMGPOP
+  notes: Iminlikewithyou
+  url: http://omgpop.com
+- aq_price: '5000000'
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: parakey.com
+  name: Parakey
+  notes: ''
+  url: http://parakey.com
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: weebly.com
+  name: Weebly
+  notes: ''
+  url: http://weebly.com
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: snipshot.com
+  name: Snipshot
+  notes: ''
+  url: http://snipshot.com
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: virtualmin.com
+  name: VirtualMin
+  notes: ''
+  url: http://virtualmin.com
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: buxfer.com
+  name: Buxfer
+  notes: ''
+  url: http://buxfer.com
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: octopart.com
+  name: Octopart
+  notes: ''
+  url: http://octopart.com
+- aq_price: '4000000'
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: heysan.com
+  name: Heysan
+  notes: ''
+  url: http://heysan.com
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: true
+  exited: false
+  hostname: ''
+  name: SocialMoth
+  notes: ''
+  url: ''
+- aq_price: '5000000'
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: auctomatic.com
+  name: Auctomatic
+  notes: ''
+  url: http://auctomatic.com
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: Tsumobi
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: whitenoisenetworks.com
+  name: Whitenoise Networks
+  notes: ''
+  url: http://www.whitenoisenetworks.com
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: writewith.com
+  name: Writewith
+  notes: ''
+  url: http://writewith.com
+- aq_price: null
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: view3.com
+  name: View3
+  notes: ''
+  url: http://view3.com
+- aq_price: '4000000'
+  class_year: 2007-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: zenter.com
+  name: Zenter
+  notes: ''
+  url: http://zenter.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: justin.tv
+  name: Justin.tv
+  notes: 'Founded 10/07, founders from Kiko 6/05 '
+  url: http://justin.tv
+- aq_price: '25000000'
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: true
+  hostname: zecter.com
+  name: Zecter (Versionate)
+  notes: ZumoDrive, acquired by Motorola Mobility
+  url: http://zecter.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: adpinion.com
+  name: Adpinion
+  notes: ''
+  url: http://adpinion.com
+- aq_price: '2000000'
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: true
+  hostname: ''
+  name: Anywhere.fm
+  notes: Acquired by imeem
+  url: ''
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: fuzzwich.com
+  name: Fuzzwich
+  notes: ''
+  url: http://fuzzwich.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: bountii.com
+  name: Bountii
+  notes: ''
+  url: http://bountii.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: songkick.com
+  name: Songkick
+  notes: ''
+  url: http://songkick.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: disqus.com
+  name: Disqus
+  notes: ''
+  url: http://disqus.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: splashup.com
+  name: Splashup
+  notes: fauxto
+  url: http://splashup.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: draftmix.com
+  name: Draftmix
+  notes: ''
+  url: http://draftmix.com
+- aq_price: '10000000'
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: true
+  hostname: appjet.com
+  name: Appjet
+  notes: ''
+  url: http://appjet.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: ''
+  name: Reble
+  notes: ''
+  url: ''
+- aq_price: '1000000'
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: true
+  hostname: clickpass.com
+  name: Clickpass
+  notes: ''
+  url: http://clickpass.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: dropbox.com
+  name: Dropbox
+  notes: ''
+  url: http://dropbox.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: cloudant.com
+  name: Cloudant
+  notes: ''
+  url: http://cloudant.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: slapvid.com
+  name: SlapVid
+  notes: ''
+  url: http://slapvid.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: ??
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: ??
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: ??
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: webmynd.com
+  name: Webmynd
+  notes: ''
+  url: http://webmynd.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: rescuetime.com
+  name: RescueTime
+  notes: ''
+  url: http://rescuetime.com
+- aq_price: '212000000'
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: heroku.com
+  name: Heroku
+  notes: ''
+  url: http://heroku.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: true
+  exited: false
+  hostname: tipjoy.com
+  name: Tipjoy
+  notes: ''
+  url: http://tipjoy.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: addher.com
+  name: Addmired
+  notes: ''
+  url: http://addher.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: playturf.net
+  name: Kirkland North
+  notes: ''
+  url: http://playturf.net
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: wundrbar.com
+  name: Wundrbar
+  notes: ''
+  url: http://wundrbar.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: chatterous.com
+  name: Chatterous
+  notes: ''
+  url: http://chatterous.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: true
+  exited: false
+  hostname: mixwit.com
+  name: Mixwit
+  notes: ''
+  url: http://mixwit.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: true
+  exited: false
+  hostname: snaptalent.com
+  name: Snaptalent
+  notes: ''
+  url: http://snaptalent.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: insoshi.com
+  name: Insoshi
+  notes: ''
+  url: http://insoshi.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: mightyquiz.com
+  name: MightyQuiz
+  notes: ''
+  url: http://mightyquiz.com
+- aq_price: '20000000'
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: 280north.com
+  name: 280 North
+  notes: Acquired by Motorola
+  url: http://280north.com
+- aq_price: '15000000'
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: ''
+  name: Omnisio
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: 8aweek.com
+  name: 8aweek
+  notes: ''
+  url: http://www.8aweek.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: baseshield.com
+  name: BaseShield
+  notes: ''
+  url: http://www.baseshield.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: deluux.com
+  name: Deluux
+  notes: ''
+  url: http://www.deluux.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: yumdots.com
+  name: YumDots
+  notes: ''
+  url: http://www.yumdots.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: Joberator
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ninite.com
+  name: Ninite
+  notes: ''
+  url: http://ninite.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: ???
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: ???
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: socialbrowse.com
+  name: Socialbrowse
+  notes: Qwisk
+  url: http://socialbrowse.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: posterous.com
+  name: Posterous
+  notes: ''
+  url: http://posterous.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: anyvite.com
+  name: Anyvite
+  notes: ''
+  url: http://anyvite.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: true
+  hostname: slinkset.com
+  name: Slinkset
+  notes: ''
+  url: http://slinkset.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ticketstumbler.com
+  name: TicketStumbler
+  notes: ''
+  url: http://ticketstumbler.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: contestmachine.com
+  name: ContestMachine
+  notes: ''
+  url: http://contestmachine.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: popcuts.com
+  name: PopCuts
+  notes: ''
+  url: http://popcuts.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ididwork.com
+  name: Ididwork
+  notes: Same team as MeetingMix, OhLife
+  url: http://ididwork.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: startuply.com
+  name: Startuply
+  notes: Job Syndicate, Job Alchemist
+  url: http://startuply.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: picwing.com
+  name: Picwing
+  notes: ''
+  url: http://picwing.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: co2stats.com
+  name: CO2Stats
+  notes: ''
+  url: http://co2stats.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: polleverywhere.com
+  name: PollEverywhere
+  notes: ''
+  url: http://polleverywhere.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: backtype.com
+  name: Backtype
+  notes: ''
+  url: http://backtype.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: contestmachine.com
+  name: ContestMachine
+  notes: ''
+  url: http://contestmachine.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: frogmetrics.com
+  name: Frogmetrics
+  notes: ''
+  url: http://frogmetrics.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: snipd.com
+  name: Snipd
+  notes: ''
+  url: http://snipd.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: meetcast.com
+  name: Meetcast
+  notes: ''
+  url: http://www.meetcast.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: peopleandpages.com
+  name: People and Pages
+  notes: ''
+  url: http://www.peopleandpages.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: youlicit.com
+  name: Youlicit
+  notes: ''
+  url: http://www.youlicit.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: teamapart.com
+  name: TeamApart
+  notes: ''
+  url: http://teamapart.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ninite.com
+  name: Ninite
+  notes: Secure by Design
+  url: http://ninite.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: scoopler.com
+  name: Scoopler
+  notes: ''
+  url: http://www.scoopler.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: vidly.com
+  name: Vidly
+  notes: Same team as Fliggo
+  url: http://vidly.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: fliggo.com
+  name: Fliggo
+  notes: Same team as Vidly, Treehouse app
+  url: http://fliggo.com
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: fathomdb.com
+  name: FathomDB
+  notes: ''
+  url: http://fathomdb.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: heyzap.com
+  name: Heyzap
+  notes: ''
+  url: http://heyzap.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: foodoro.com
+  name: Foodoro
+  notes: ''
+  url: http://foodoro.com
+- aq_price: '5000000'
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: divvyshot.com
+  name: Divvyshot
+  notes: Acquired by Facebook
+  url: http://divvyshot.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: echodio.com
+  name: Echodio
+  notes: ''
+  url: http://echodio.com
+- aq_price: '50000000'
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: cloudkick.com
+  name: Cloudkick
+  notes: Acquired by Rackspace
+  url: http://cloudkick.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: airbnb.com
+  name: AirBnb
+  notes: ''
+  url: http://airbnb.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: thesixtyone.com
+  name: TheSixtyOne
+  notes: Aweditorium on iPad
+  url: http://thesixtyone.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: voxli.com
+  name: Voxli
+  notes: ''
+  url: http://voxli.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: skysheet.com
+  name: Skysheet
+  notes: ''
+  url: http://skysheet.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: remail.com
+  name: reMail
+  notes: ''
+  url: http://remail.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: nambii.com
+  name: Nambii
+  notes: ''
+  url: http://nambii.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: picurio.com
+  name: Picurio
+  notes: ''
+  url: http://picurio.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: propable.com
+  name: Propable
+  notes: ''
+  url: http://www.propable.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: wattvision.com
+  name: Wattvision
+  notes: ''
+  url: http://www.wattvision.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: pocketfungames.com
+  name: '[???] PocketFunGames'
+  notes: NOT confirmed
+  url: http://pocketfungames.com
+- aq_price: null
+  class_year: 2009-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: adioso.com
+  name: Adioso
+  notes: ''
+  url: http://adioso.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: bumptechnologies.com
+  name: Bump
+  notes: ''
+  url: http://bumptechnologies.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: renthop.com
+  name: RentHop
+  notes: ''
+  url: http://renthop.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: highlightcam.com
+  name: HighlightCam
+  notes: ''
+  url: http://highlightcam.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: rethinkdb.com
+  name: RethinkDB
+  notes: hexagram 49
+  url: http://rethinkdb.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: directededge.com
+  name: DirectedEdge
+  notes: ''
+  url: http://directededge.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: listia.com
+  name: Listia
+  notes: ''
+  url: http://listia.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: fanchatter.com
+  name: FanChatter
+  notes: ''
+  url: http://fanchatter.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: instantq.com
+  name: InstantQ
+  notes: ''
+  url: http://instantq.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: mixpanel.com
+  name: Mixpanel
+  notes: ''
+  url: http://mixpanel.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: jobspice.com
+  name: Jobspice
+  notes: ''
+  url: http://jobspice.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: dailybooth.com
+  name: DailyBooth
+  notes: ''
+  url: http://dailybooth.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: flightcaster.com
+  name: Flightcaster
+  notes: ''
+  url: http://flightcaster.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: jobpic.com
+  name: Jobpic
+  notes: ''
+  url: http://jobpic.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: olark.com
+  name: Olark
+  notes: ''
+  url: http://olark.com
+- aq_price: '1500000'
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: true
+  hostname: ''
+  name: GraffitiGeo
+  notes: Acquired by Loopt (YC company)
+  url: ''
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: plurchase.com
+  name: Plurchase
+  notes: ''
+  url: http://plurchase.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: wakemate.com
+  name: Wakemate
+  notes: ''
+  url: http://wakemate.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: lingt.com
+  name: Lingt
+  notes: ''
+  url: http://lingt.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: wepay.com
+  name: WePay
+  notes: ''
+  url: http://wepay.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: meetingmix.com
+  name: MeetingMix
+  notes: Same team as IDidWork and OhLife
+  url: http://meetingmix.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: carwoo.com
+  name: CarWoo
+  notes: ''
+  url: http://carwoo.com
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '22'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '23'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '24'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2009-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '25'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: cardpool.com
+  name: CardPool
+  notes: Founder also started Anywhere.FM (YC company)
+  url: http://cardpool.com
+- aq_price: '5000000'
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: etacts.com
+  name: Etacts
+  notes: Acquired by Salesforce.com
+  url: http://etacts.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: crocodoc.com
+  name: Crocodoc
+  notes: ''
+  url: http://crocodoc.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: 140bets.com
+  name: 140bets
+  notes: Tweetbracket
+  url: http://140bets.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: datamarketplace.com
+  name: datamarketplace
+  notes: ''
+  url: http://datamarketplace.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: notifo.com
+  name: Notifo
+  notes: ''
+  url: http://notifo.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: chromaom.com
+  name: ChromaOm
+  notes: ''
+  url: http://chromaom.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: launchhear.com
+  name: Launchhear
+  notes: ''
+  url: http://launchhear.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: true
+  exited: false
+  hostname: newslabs.com
+  name: NewsLabs
+  notes: ''
+  url: http://newslabs.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: seeinginteractive.com
+  name: SeeingInteractive
+  notes: ''
+  url: http://seeinginteractive.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: zencoder.com
+  name: Zencoder
+  notes: ''
+  url: http://zencoder.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: nowmov.com
+  name: Nowmov
+  notes: ''
+  url: http://nowmov.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: gamador.com
+  name: Gamador
+  notes: ''
+  url: http://gamador.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: tweetflow.com
+  name: Tweetflow
+  notes: ''
+  url: http://tweetflow.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: answerly.com
+  name: Answerly.com
+  notes: ''
+  url: http://answerly.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: zenedy.com
+  name: Zenedy
+  notes: ''
+  url: http://zenedy.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: embedster.com
+  name: Embedster
+  notes: ''
+  url: http://embedster.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: embed.ly
+  name: Embedly
+  notes: ''
+  url: http://embed.ly
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: 500friends.com
+  name: 500Friends
+  notes: ''
+  url: http://500friends.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: infoharmoni.com
+  name: Infoharmoni
+  notes: ''
+  url: http://infoharmoni.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: greplin.com
+  name: Greplin
+  notes: ''
+  url: http://greplin.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: browsarity.com
+  name: Browsarity
+  notes: ''
+  url: http://browsarity.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: swagapalooza.com
+  name: Swagapalooza
+  notes: ''
+  url: http://swagapalooza.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: mertado.com
+  name: Mertado
+  notes: ''
+  url: http://mertado.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: fabricly.com
+  name: Fabricly
+  notes: ''
+  url: http://fabricly.com
+- aq_price: '15000000'
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: movity.com
+  name: Movity
+  notes: Acquired by Trulia
+  url: http://movity.com
+- aq_price: null
+  class_year: 2010-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: optimizely.com
+  name: Optimizely
+  notes: ''
+  url: http://optimizely.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: fanpul.se
+  name: FanPulse
+  notes: ''
+  url: http://fanpul.se
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: indinero.com
+  name: Indinero
+  notes: ''
+  url: http://indinero.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: 1000memories.com
+  name: 1000Memories
+  notes: ''
+  url: http://1000memories.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: pagerduty.com
+  name: PagerDuty
+  notes: ''
+  url: http://pagerduty.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: gazehawk.com
+  name: GazeHawk
+  notes: ''
+  url: http://gazehawk.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: rapportive.com
+  name: Rapportive
+  notes: ''
+  url: http://rapportive.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: hirehive.com
+  name: HireHive
+  notes: ''
+  url: http://hirehive.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: futureadvisor.com
+  name: FutureAdvisor
+  notes: ''
+  url: http://futureadvisor.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: whereoscope.com
+  name: Whereoscope
+  notes: ''
+  url: http://whereoscope.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: adgrok.com
+  name: AdGrok
+  notes: ''
+  url: http://adgrok.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: imoveyou.com
+  name: I Move You
+  notes: ''
+  url: http://imoveyou.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: hipmunk.com
+  name: Hipmunk
+  notes: Reddit founder
+  url: http://hipmunk.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: teevox.com
+  name: Teevox
+  notes: ''
+  url: http://teevox.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ginzametrics.com
+  name: GinzaMetrics
+  notes: ''
+  url: http://ginzametrics.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: koduco.com
+  name: Koduco
+  notes: ''
+  url: http://koduco.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: chart.io
+  name: Chart.io
+  notes: ''
+  url: http://chart.io
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: frid.ge
+  name: The Fridge
+  notes: ''
+  url: http://www.frid.ge
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: simplenoteapp.com
+  name: Simperium
+  notes: SimpleNote
+  url: http://simplenoteapp.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: brushesapp.com
+  name: Brushes
+  notes: ''
+  url: http://brushesapp.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: leftronic.com
+  name: Leftronic
+  notes: ''
+  url: http://leftronic.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: messageparty.net
+  name: MessageParty
+  notes: ''
+  url: http://messageparty.net
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: readyforzero.com
+  name: ReadyForZero
+  notes: ''
+  url: http://readyforzero.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ohlife.com
+  name: OhLife
+  notes: Same team as IDidWork and MeetingMix
+  url: http://ohlife.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: gantto.com
+  name: Gantto
+  notes: ''
+  url: http://gantto.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: opzi.com
+  name: Opzi
+  notes: ''
+  url: http://opzi.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: emailoracle.com
+  name: EmailOracle
+  notes: May have been in W10 vs. S10 cohort??
+  url: http://emailoracle.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: tapzilla.com
+  name: Tapzilla
+  notes: ''
+  url: http://tapzilla.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: workflowy.com
+  name: Workflowy
+  notes: ''
+  url: http://workflowy.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: crowdbooster.com
+  name: Crowdbooster
+  notes: ''
+  url: http://crowdbooster.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: dotcloud.com
+  name: Dotcloud
+  notes: ''
+  url: http://dotcloud.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '31'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '32'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '33'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '34'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '35'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '36'
+  notes: ''
+  url: ''
