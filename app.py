@@ -39,5 +39,5 @@ class YCList(object):
 
 
 if __name__ == '__main__':
-    YCList().serve()
-    # YCList().generate_static()
+    # YCList().serve()
+    YCList().generate_static()
