@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>DynDNS.com Parked Domain Page</title>
+</head>
+<style>
+body{
+	padding:0px;
+	margin:0px;
+	background-image: url(/images/lp_bkg2.gif);
+	background-repeat:repeat-x;
+	background-color:#90A8BB;
+	}
+	
+#lp_title {
+	width:576px;
+	height:62px;
+	margin-top:40px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+#lp_guy {
+	width:409px;
+	height:255px;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+#lp_ad {
+	width:909px;
+	height:347px;
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+#footer {
+	width:100%;
+	height:22;
+	position:absolute;
+	bottom:0px;
+	font-size:10px;
+	text-align:right;
+	margin-bottom:5px;
+	color:#555;
+	}
+
+</style>
+<body>
+<map name="main_map" id="main_map">
+	<area shape="rect" coords="11,272,312,341" href="http://www.dyndns.com/ad/parkeddns/" alt="DynDNS.com" />
+	<area shape="rect" coords="442,22,900,345" href="http://www.dyndns.com/ad/parkeddns/services/springserver/" alt="Find out more about Mailhop Forward." />
+	<area shape="rect" coords="-4,140,433,256" href="http://www.dyndns.com/ad/parkeddns/services/mailhop/forward.html" alt="Find out more about Mailhop Forward." />
+	<area shape="rect" coords="-7,21,431,136" href="http://www.dyndns.com/ad/parkeddns/services/dns/custom/" alt="Find out more about Custom DNS." />
+</map>
+<div id="lp_title"><img src="/images/lp_title.gif" width="576" height="62" alt="You've got a Domain. Now what?" /></div>
+<div id="lp_guy"><img src="/images/lp_guy.jpg" width="409" height="255" alt="" /></div>
+<div id="lp_ad"><img src="/images/lp_mainadd.jpg" alt="" width="909" height="347" border="0" usemap="#main_map" /></div>
+<div id="footer">&copy;&nbsp;1998-2010&nbsp;<a href='http://www.dyndns.com/ad/parkeddns/about/'>Dynamic Network Services Inc</a>.</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-210032-25");
+pageTracker._trackPageview();
+pageTracker._trackEvent('Hostname', window.location.hostname); 
+} catch(err) {}</script>
+</body>
+</html>
