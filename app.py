@@ -27,7 +27,7 @@ class YCList(object):
 
         @app.route('/')
         def show():
-            return render_template('index.html', companies=self.companies)
+            return render_template('index.jinja', companies=self.companies)
 
         app.run()
 
