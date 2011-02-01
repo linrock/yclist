@@ -46,4 +46,5 @@ def load_yaml_data():
 
 if __name__ == '__main__':
     pass
+    import_spreadsheet()
     # load_yaml_data()

@@ -1,5 +1,6 @@
 from models import Company
 import locale; locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+from datetime import date
 
 OUTFILE = 'public/index.html'
 
@@ -34,8 +35,12 @@ class YCList(object):
     def generate_static(self):
         from jinja2 import Template
         print 'Generating static HTML (%s)...' % OUTFILE
-        t = Template(open('templates/index.html', 'r').read())
-        open(OUTFILE, 'w').write(t.render(companies=self.companies).encode('UTF-8'))
+        t = Template(open('templates/index.jinja', 'r').read())
+        kwargs = {
+            'companies': self.companies,
+            'last_updated': date.strftime(date.today(), '%m/%d/%Y')
+        }
+        open(OUTFILE, 'w').write(t.render(**kwargs).encode('UTF-8'))
 
 
 if __name__ == '__main__':

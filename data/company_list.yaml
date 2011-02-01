@@ -664,7 +664,7 @@
   url: http://slinkset.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: ticketstumbler.com
   name: TicketStumbler
@@ -1046,10 +1046,10 @@
   name: DailyBooth
   notes: ''
   url: http://dailybooth.com
-- aq_price: null
+- aq_price: '15000000'
   class_year: 2009-06-01 00:00:00
   dead: false
-  exited: false
+  exited: true
   hostname: flightcaster.com
   name: Flightcaster
   notes: ''
@@ -1190,10 +1190,10 @@
   name: 140bets
   notes: Tweetbracket
   url: http://140bets.com
-- aq_price: null
+- aq_price: '600000'
   class_year: 2010-01-01 00:00:00
   dead: false
-  exited: false
+  exited: true
   hostname: datamarketplace.com
   name: datamarketplace
   notes: ''
@@ -1660,5 +1660,341 @@
   exited: false
   hostname: ''
   name: '36'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: appharbor.com
+  name: AppHarbor
+  notes: ''
+  url: http://appharbor.com
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: grubwith.us
+  name: GrubWithUs
+  notes: ''
+  url: http://grubwith.us
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: tutorspree.com
+  name: Tutorspree
+  notes: ''
+  url: http://tutorspree.com
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: lanyrd.com
+  name: Lanyrd
+  notes: ''
+  url: http://lanyrd.com
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '5'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '6'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '7'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '8'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '9'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '10'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '11'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '12'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '13'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '14'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '15'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '16'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '17'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '18'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '19'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '20'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '21'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '22'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '23'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '24'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '25'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '26'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '27'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '28'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '29'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '30'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '31'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '32'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '33'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '34'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '35'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '36'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '37'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '38'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '39'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '40'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '41'
+  notes: ''
+  url: ''
+- aq_price: null
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: ''
+  name: '42'
   notes: ''
   url: ''
