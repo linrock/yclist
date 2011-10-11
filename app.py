@@ -9,7 +9,11 @@ class YCList(object):
     companies = []
 
     def __init__(self):
+        seen = set()
         for i,company in enumerate(Company.query.all()):
+            if company.name in seen:
+                continue
+            seen.add(company.name)
             cl = []
             if (not company.url and not company.exited and not company.dead) or not company.class_year:
                 cl.append('unknown')
@@ -37,7 +41,7 @@ class YCList(object):
         print 'Generating static HTML (%s)...' % OUTFILE
         t = Template(open('templates/index.jinja', 'r').read())
         kwargs = {
-            'companies': self.companies,
+            'companies': sorted(self.companies, key=lambda c: (-c[1].class_year.toordinal(), c[1].name)),
             'last_updated': date.strftime(date.today(), '%m/%d/%Y')
         }
         open(OUTFILE, 'w').write(t.render(**kwargs).encode('UTF-8'))
@@ -46,3 +50,7 @@ class YCList(object):
 if __name__ == '__main__':
     # YCList().serve()
     YCList().generate_static()
+    # Company.scrape_all()
+    # Company.update_all_stats()
+    # Company.convert_and_merge_favicons()
+
