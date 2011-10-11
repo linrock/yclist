@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Farewell</title>
+    <style type="text/css">
+      div {
+        width: 400px;
+        margin: 0 auto;
+      }
+      p {
+        padding: 0;
+        margin: 1em 0;
+      }
+      #lyrics {
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <img src="farewell.png" alt="TicketStumbler: January 2008 to November 2010"> 
+      <p>
+        After nearly three years, TicketStumbler is no more.
+      </p>
+      <p>
+        The site had been on life support since the tragic death of my
+        co-founder in late 2009. My heart was never in returning to active
+        development but I kept the site online because it was useful to a lot of
+        people. Most of those people have now gone elsewhere&mdash;and who could
+        blame them: there are now <a href="http://seatgeek.com">much better alternatives</a>.
+        And I moved on, too. I caught the startup bug again and have already
+        begun work on the "<a href="http://swaptitude.com">next big thing</a>."
+      </p>
+      <p>
+        To all those who used TicketStumbler: you unwittingly supported the
+        crazy entrepreneurial dream of a couple disenchanted Ohioans, and for
+        that I thank you with all my heart. To all our wonderful friends and
+        loved ones who provided feedback and support, thanks for making
+        TicketStumbler the great product that it was. And to Dan: thanks for
+        being the rare sort of friend who'd start such a journey. My one regret
+        is you won't be here at the end&mdash;there is still so much road left
+        to travel.
+      </p>
+      <p>
+        &mdash;<a href="mailto:tom@ticketstumbler.com">Tom</a>
+      </p>
+      <p id="lyrics">
+        For everything that could have been,</br>
+        Well at least we took the ride.
+      </p>
+    </div>
+  </body>
+</html>

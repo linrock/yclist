@@ -1,0 +1,334 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Movity.com</title>
+<link rel="stylesheet" type="text/css" href="/site_media/css/splashpage.css"/>
+<script src="http://www.google.com/jsapi"></script>
+<script>
+google.load("jquery", "1.4.1");
+</script>	
+<script type="text/javascript">
+function clearMe(formfield){
+if (formfield.defaultValue==formfield.value)
+formfield.value = ""
+}
+function returnMe(formfield){
+if (formfield.value=="")
+formfield.value = formfield.defaultValue
+}
+$(document).ready(function() {
+$('.panelButton').click(function() {
+// hide all panels
+$('.panel').hide()
+// un-highlight all as well
+$('.panelButton').removeClass('bluebuttonhighlighted');
+// show the selected panel
+var selectedPanel = $(this).attr('panelTarget');
+$('#' + selectedPanel).show();
+// highlight the selected button
+$(this).addClass('bluebuttonhighlighted');
+// Resize black background to fit
+var preferredHeight = parseInt($(this).attr('preferredHeight'));
+$('#contentBackground').height(preferredHeight);
+});
+});
+</script>
+</head>
+<body>
+<div id="movityheader"> <img src="http://sharpio.com/images/movityheader.png" /></div>
+<div id="main">
+<div id="contentBackground"></div>
+<div id="contentContainer">
+<div id="contentLeft">
+<div id="signupPanel" class="panel">
+<div>
+<a href="/"><img src="/site_media/images/splash/logo-movity.png" /></a>
+</div>
+<div id="logoCaption">
+Moving is easy.
+</div>
+<div id="aboutUsText">We're now proudly part of the Trulia.com family.</div>  
+<div id="logoCaption" style="font-size:16px;">
+Check out our work: <a href="http://trulia.com/crime">Crime Maps</a>, <a 
+href="http://tendernoise.movity.com">Tendernoise</a>, 
+<a href="http://weeplaces.com">WeePlaces</a>, <a href="http://insights.truliablog.com">Trulia 
+Insights</a>.
+</div>
+<br />
+<br />
+<div id="logoCaption" style="font-size:16px;">
+<a 
+href="http://www.truliablog.com/2010/12/21/innovate-accelerate-and-celebrate/">Trulia Announcement of Movity 
+Acquisition</a>
+</div>
+<div id="signupInputPanel" style="display:none;">
+<div id="privatebeta" style="display:none;">		
+Want a private beta invite? 
+</div>
+<form id="mainForm" name="input" action="javascript:storeBetaEmail($('#beta_email').val());" method="get">
+<input id="beta_email" class="inputbox" type="text" name="user" value="Your Email" onfocus="clearMe(this)" onblur="returnMe(this)" />
+<input class="submit" type="submit" value="" />
+</form>
+<div class="clearboth"></div>
+</div>
+<div id="signupInputPanelCompleted" style="display:none;">
+<div id="postsignupthanks" style="font-size:24px;">		
+Thanks! We'll send you an invite when we're ready for more users.
+</div>
+<div id="postsignupemail">		
+Email Eric if you want to chat: <a href="mailto:eric@movity.com">eric@movity.com</a> 
+</div>
+</div>
+</div>
+<div id="aboutUsPanel" class="panel" style="display:none;">
+<h2 style="margin-top: -20px;">We bring transparency to geo-data and local content.</h2>
+<br/>
+<p class="pAboutUs" style="margin-top: -10px;">
+When you move, location matters. We answer the questions home buyers, renters, and movers want to know:
+</p>
+<p class="pAboutUs" style="margin-top: 5px;">
+<br/>
+<ul style="margin:-10px 0 15px 25px;">
+<li>How safe is it?</li>
+<li>Who lives next door?</li>
+<li>How noisy will it be?</li>
+<li>What do locals say?</li>
+</ul>
+</p>   
+<p class="pAboutUs" style="margin-top: 5px;">   
+End goal: Inform home buyers and renters of what the location is REALLY like.
+</p>
+<div class="aboutUsHeading">Our Team</div>
+<div class="horizontalLine"></div>
+<div class="teamBox">
+<img src="/site_media/images/splash/ericwu.png" />
+<div> <span class="name"> Eric Wu, </span> <span class="subtitle">the real estate dude</span></div>
+<div class="teamName"> 
+Founder of RentWiki.com<br />
+Top 25 Entrepreneur by BusinessWeek<br />
+Speaker: NAA, Harvard, NMHC, etc.<br />
+</div>
+</div>
+<div class="teamBox">
+<img src="/site_media/images/splash/sha.png" />
+<div> <span class="name"> Sha Hwang, </span> <span class="subtitle">the map/viz genius</span></div>
+<div class="teamName"> 
+Stamen Design<br />
+Projects for Twitter, Flickr, CNN, MTV<br />
+Speaker at data viz conferences<br />
+</div>
+</div>
+<div class="teamBox">
+<img src="/site_media/images/splash/vaughn.png">
+<div> <span class="name"> Vaughn Koch, </span> <span class="subtitle">the architect</span></div>
+<div class="teamName"> 
+Development Manager: Expedia, Bing<br />
+Architect/Core search technology<br />
+</div>
+</div>					
+<div class="clearboth"></div>
+<div class="teamBox">
+<img src="/site_media/images/splash/zain.png" />
+<div> <span class="name"> Zain Memon, </span> <span class="subtitle">the backend stud</span></div>
+<div class="teamName"> 
+Key Django Contributor<br />
+Graduated H.S. at 16<br />
+Speaker at Django conferences<br />
+</div>
+</div>
+<div class="teamBox">
+<img src="/site_media/images/splash/jon.png" />
+<div> <span class="name" style="font-size:16px;"> Jonathan McCoy, </span> <span class="subtitle">data ninja</span></div>
+<div class="teamName"> 
+Founded 2 successful startups<br />
+Artificial Intelligence background<br />
+Web metrics/JS enthusiast<br />
+</div>
+</div>
+<div class="clearboth"></div>
+<div class="aboutUsHeading">Investors / Advisors</div>
+<div class="horizontalLine"></div>
+<div class="investorBox">
+<img src="/site_media/images/splash/logo-yc.png" />
+<div class="investorName">YCombinator</div>
+<div class="investorDescription">(Winter Class 2010)</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/naval.png">
+<div class="investorName">Naval Ravikant</div>
+<div class="investorDescription">(VentureHacks, Epinions)</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/paul.png">
+<div class="investorName">Paul Buchheit</div>
+<div class="investorDescription">(Gmail, Friendfeed, Fb)</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/sanjeev.png">
+<div class="investorName">Sanjeev Singh</div>
+<div class="investorDescription">(Gmail, Friendfeed, Fb)</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/keith.png">
+<div class="investorName">Keith Rabois</div>
+<div class="investorDescription">(Yelp, Paypal, LinkedIn)</div>
+</div>
+<div class="clearboth"></div>
+<div class="investorBox">
+<img src="/site_media/images/splash/google.png">
+<div class="investorName">Aydin Senkut</div>
+<div class="investorDescription">(Google)&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/steve.png">
+<div class="investorName">Steve Chen</div>
+<div class="investorDescription">(YouTube)</div>
+</div>				
+<div class="investorBox">
+<img src="/site_media/images/splash/barney.png">
+<div class="investorName">Barney Pell</div>
+<div class="investorDescription">(Powerset, Bing)</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/google.png">
+<div class="investorName">Maneesh Arora</div>
+<div class="investorDescription">(Zynga, Google)</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/jeff.png">
+<div class="investorName">Jeff Fluhr</div><br />
+<div class="investorDescription">(StubHub)</div>
+</div>
+<div class="clearboth"></div>
+<div class="investorBox">
+<img src="/site_media/images/splash/google.png">
+<div class="investorName">David King</div>
+<div class="investorDescription">(Google, Playdom)</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/elad.png">
+<div class="investorName">Elad Gil</div>
+<div class="investorDescription">(Twitter, GeoAPI)</div>
+</div>				
+<div class="investorBox">
+<img src="/site_media/images/splash/reddit.png">
+<div class="investorName">Steve Huffman</div>
+<div class="investorDescription">(YC, Reddit)</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/vark.png">
+<div class="investorName">Rob Spiro</div>
+<div class="investorDescription">(Vark, Google)</div>
+</div>
+<div class="investorBox">
+<img src="/site_media/images/splash/google.png">
+<div class="investorName">Ben Ling</div><br />
+<div class="investorDescription">(Google, YouTube)</div>
+</div>
+</div>
+<div id="hiringPanel" class="panel" style="display:none;">
+<h2 style="margin-top: -20px;">We're hiring at Movity.</h2>
+<br/>
+<p class="pAboutUs" style="margin-top: -10px;">
+Join a fun, young startup with the vision to solve real pain for millions of people. 
+</p>
+<p class="pAboutUs" style="margin-top: 5px;">
+<br/>
+<ul style="margin:-10px 0 15px 25px;">
+<li>Be team member #6</li>
+<li>Impact product, technology, and company culture</li>
+<li>Be paired with our mentors and advisors</li>
+<li>Help grow a small startup to a large business</li>
+</ul>
+</p>   
+<p class="pAboutUs" style="margin-top: 5px;">   
+We're focused on a strong company culture, being process oriented, and Friday beers.<br />
+We're always looking for talent, so drop us a line even if a position is not listed below.
+</p>
+<div style="clear:both;"> &nbsp; </div>
+<div class="hiringBox" style="margin-top: -7px;" > 
+<div>
+<span class="name" style="margin-left: 0px;">UI/UX designer </span>
+</div>
+<div class="hiringName">
+<ul class=hiringUl">
+<li>Drive core product and user-interaction</li>
+<li>Previous experience in UI/UX</li>
+<li>Rich understanding of product flows, user interviews, and user-centric design</li>
+</ul>
+</div>
+</div>
+<div style="clear:both;"> &nbsp; </div>
+<div class="hiringBox" style="margin-top: -7px;" > 
+<div>
+<span class="name" style="margin-left: 0px;">Frontend Engineer</span>
+</div>
+<div class="hiringName">
+<ul class=hiringUl">
+<li>Drive core functionality and experience of the web interface</li>
+<li>Experience with jQuery, CSS/HTML, Javascript</li>
+<li>UX experience</li>
+</ul>
+</div>
+</div>
+<div style="clear:both;"> &nbsp; </div>
+<div class="hiringBox" style="margin-top: -7px;" > 
+<div><span class="name" style="margin-left: 0px;">Community Manager/Content Manager </span></div>
+<div class="hiringName">
+<ul class=hiringUl">
+<li>Engage and help build our user community</li>
+<li>Talk to users and identify product improvements</li>
+<li>Make sure people have a great user experience</li>
+</ul>
+</div>
+</div>
+<div style="clear:both;"> &nbsp; </div> 
+<div style="font-size: 14px;"> To apply, email your resume to <a href="mailto:eric@movity.com">eric@movity.com</a>.</div>
+<div class=clearboth></div>
+</div>
+</div>
+<div id="contentRight">
+<div id="bluebuttonsContainer">
+<div id="getInvited" preferredHeight="360" panelTarget="signupPanel" class="panelButton bluebutton bluebuttonhighlighted">Get invited</div>
+<div id="aboutUsButton" preferredHeight="640" panelTarget="aboutUsPanel" class="panelButton bluebutton">About Us</div>
+<div id="hiringButton" preferredHeight="640" panelTarget="hiringPanel" class="panelButton bluebutton">We're Hiring</div>
+</div>
+</div>
+<div class="clearboth"></div>
+<div id="contentFooter">
+<div id="sayhello">		
+<a href="mailto:eric@movity.com" style=" text-decoration:underline;">Say hello.</a> 
+</div>
+<div id="footerLinks"><a href="http://blog.movity.com/"> 
+<span style="color: rgb(87, 142, 204);">m</span>Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://twitter.com/movity"> <span style="color: rgb(87, 142, 204);">m</span>Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/">Movity.com &copy; 2010</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+<script type="text/javascript">
+function submitBetaForm(betaEmail)
+{
+$('#signup').hide();
+$('#postsignup').show();
+alert(betaEmail);
+}
+function storeBetaEmail(betaEmail)
+{
+var ajax_url = "/beta/store_beta_email/";
+$.post(ajax_url,{ email : betaEmail }, function(j){
+if(j.status == 'success')
+{
+$('#signupInputPanel').hide();
+$('#signupInputPanelCompleted').show();
+}
+},
+"json");
+}
+</script>
+</html>
