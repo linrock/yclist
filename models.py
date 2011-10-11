@@ -1,11 +1,13 @@
 from datetime import datetime, timedelta
 import urlparse
+import socket
 import locale
 import os
 import re
 
 from elixir import *
 import mechanize
+import httplib
 import urllib2
 
 from radiant.tools import wash_url
@@ -118,8 +120,12 @@ class Company(Entity):
                 print '404 - %s' % favicon_url
             except urllib2.URLError:
                 print 'URLError - %s' % favicon_url
+            except httplib.BadStatusLine:
+                print 'Bad Status Line - %s' % favicon_url
             except TypeError:
                 print 'TypeError WTF - %s' % favicon_url
+            except socket.error:
+                print 'socket.error WTF - %s' % favicon_url
             else:
                 company.favicon_filename = favicon_filename
                 company.favicon_url = favicon_url
