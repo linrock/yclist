@@ -70,10 +70,10 @@
   name: Flagr
   notes: ''
   url: ''
-- aq_price: null
+- aq_price: '35000000'
   class_year: 2006-01-01 00:00:00
   dead: false
-  exited: false
+  exited: true
   hostname: wufoo.com
   name: Wufoo
   notes: ''
@@ -94,6 +94,14 @@
   name: InklingMarkets
   notes: ''
   url: http://inklingmarkets.com
+- aq_price: null
+  class_year: 2006-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: snipshot.com
+  name: Snipshot
+  notes: ''
+  url: http://snipshot.com
 - aq_price: null
   class_year: 2006-01-01 00:00:00
   dead: false
@@ -210,14 +218,6 @@
   class_year: 2007-01-01 00:00:00
   dead: false
   exited: false
-  hostname: snipshot.com
-  name: Snipshot
-  notes: ''
-  url: http://snipshot.com
-- aq_price: null
-  class_year: 2007-01-01 00:00:00
-  dead: false
-  exited: false
   hostname: virtualmin.com
   name: VirtualMin
   notes: ''
@@ -272,7 +272,7 @@
   url: ''
 - aq_price: null
   class_year: 2007-01-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: whitenoisenetworks.com
   name: Whitenoise Networks
@@ -280,7 +280,7 @@
   url: http://www.whitenoisenetworks.com
 - aq_price: null
   class_year: 2007-01-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: writewith.com
   name: Writewith
@@ -288,7 +288,7 @@
   url: http://writewith.com
 - aq_price: null
   class_year: 2007-01-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: view3.com
   name: View3
@@ -382,7 +382,7 @@
   name: Draftmix
   notes: ''
   url: http://draftmix.com
-- aq_price: '10000000'
+- aq_price: '9000000'
   class_year: 2007-06-01 00:00:00
   dead: false
   exited: true
@@ -430,28 +430,28 @@
   name: SlapVid
   notes: ''
   url: http://slapvid.com
-- aq_price: null
+- aq_price: '8000000'
   class_year: 2007-06-01 00:00:00
   dead: false
+  exited: true
+  hostname: socialpicks.com
+  name: SocialPicks
+  notes: Acquired by FinancialContent
+  url: http://socialpicks.com
+- aq_price: null
+  class_year: 2007-06-01 00:00:00
+  dead: true
   exited: false
   hostname: ''
-  name: ??
+  name: Biographicon
   notes: ''
   url: ''
 - aq_price: null
   class_year: 2007-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: ''
-  name: ??
-  notes: ''
-  url: ''
-- aq_price: null
-  class_year: 2007-06-01 00:00:00
-  dead: false
-  exited: false
-  hostname: ''
-  name: ??
+  name: iJigg
   notes: ''
   url: ''
 - aq_price: null
@@ -504,7 +504,7 @@
   url: http://playturf.net
 - aq_price: null
   class_year: 2008-01-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: wundrbar.com
   name: Wundrbar
@@ -568,7 +568,7 @@
   url: ''
 - aq_price: null
   class_year: 2008-01-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: 8aweek.com
   name: 8aweek
@@ -610,33 +610,41 @@
   class_year: 2008-01-01 00:00:00
   dead: false
   exited: false
+  hostname: biographicon.com
+  name: Biographicon
+  notes: ''
+  url: http://biographicon.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
+  hostname: contestmachine.com
+  name: ContestMachine
+  notes: ''
+  url: http://contestmachine.com
+- aq_price: null
+  class_year: 2008-01-01 00:00:00
+  dead: false
+  exited: false
   hostname: ninite.com
   name: Ninite
-  notes: ''
+  notes: Secure by Design
   url: http://ninite.com
 - aq_price: null
   class_year: 2008-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: ???
+  hostname: fathomdb.com
+  name: FathomDB
   notes: ''
-  url: ''
-- aq_price: null
-  class_year: 2008-01-01 00:00:00
-  dead: false
-  exited: false
-  hostname: ''
-  name: ???
-  notes: ''
-  url: ''
+  url: http://fathomdb.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: socialbrowse.com
   name: Socialbrowse
-  notes: Qwisk
+  notes: Qwisk, 8aweek. One founder now with chart.io
   url: http://socialbrowse.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
@@ -660,7 +668,7 @@
   exited: true
   hostname: slinkset.com
   name: Slinkset
-  notes: ''
+  notes: Acquired by Posterous
   url: http://slinkset.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
@@ -670,14 +678,6 @@
   name: TicketStumbler
   notes: ''
   url: http://ticketstumbler.com
-- aq_price: null
-  class_year: 2008-06-01 00:00:00
-  dead: false
-  exited: false
-  hostname: contestmachine.com
-  name: ContestMachine
-  notes: ''
-  url: http://contestmachine.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
   dead: false
@@ -705,10 +705,10 @@
 - aq_price: null
   class_year: 2008-06-01 00:00:00
   dead: false
-  exited: false
+  exited: true
   hostname: picwing.com
   name: Picwing
-  notes: ''
+  notes: Assets bought by PicPlum (YC S11)
   url: http://picwing.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
@@ -726,13 +726,13 @@
   name: PollEverywhere
   notes: ''
   url: http://polleverywhere.com
-- aq_price: null
+- aq_price: '50000000'
   class_year: 2008-06-01 00:00:00
   dead: false
-  exited: false
+  exited: true
   hostname: backtype.com
   name: Backtype
-  notes: ''
+  notes: Acquired by Twitter
   url: http://backtype.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
@@ -744,7 +744,7 @@
   url: http://contestmachine.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: frogmetrics.com
   name: Frogmetrics
@@ -752,7 +752,7 @@
   url: http://frogmetrics.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: snipd.com
   name: Snipd
@@ -768,7 +768,7 @@
   url: http://www.meetcast.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: peopleandpages.com
   name: People and Pages
@@ -776,7 +776,7 @@
   url: http://www.peopleandpages.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: youlicit.com
   name: Youlicit
@@ -784,52 +784,52 @@
   url: http://www.youlicit.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: teamapart.com
   name: TeamApart
-  notes: ''
+  notes: Meetcast
   url: http://teamapart.com
-- aq_price: null
-  class_year: 2008-06-01 00:00:00
-  dead: false
-  exited: false
-  hostname: ninite.com
-  name: Ninite
-  notes: Secure by Design
-  url: http://ninite.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
   dead: false
   exited: false
   hostname: scoopler.com
   name: Scoopler
-  notes: ''
+  notes: JustSpotted
   url: http://www.scoopler.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: vidly.com
-  name: Vidly
-  notes: Same team as Fliggo
+  name: Vidly / Fliggo
+  notes: Treehouse app
   url: http://vidly.com
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
-  hostname: fliggo.com
-  name: Fliggo
-  notes: Same team as Vidly, Treehouse app
-  url: http://fliggo.com
+  hostname: ''
+  name: UrbanTakeover
+  notes: ''
+  url: ''
 - aq_price: null
   class_year: 2008-06-01 00:00:00
-  dead: false
+  dead: true
   exited: false
-  hostname: fathomdb.com
-  name: FathomDB
+  hostname: ''
+  name: Precognate
+  notes: MindMobs
+  url: ''
+- aq_price: null
+  class_year: 2008-06-01 00:00:00
+  dead: true
+  exited: false
+  hostname: ''
+  name: AwesomeHighlighter
   notes: ''
-  url: http://fathomdb.com
+  url: ''
 - aq_price: null
   class_year: 2009-01-01 00:00:00
   dead: false
@@ -1130,18 +1130,18 @@
   class_year: 2009-06-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '22'
-  notes: ''
-  url: ''
+  hostname: lockitron.com
+  name: Lockitron
+  notes: Company name = Apigy
+  url: http://lockitron.com
 - aq_price: null
   class_year: 2009-06-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '23'
+  hostname: tuxebo.com
+  name: Tuxebo
   notes: ''
-  url: ''
+  url: http://tuxebo.com
 - aq_price: null
   class_year: 2009-06-01 00:00:00
   dead: false
@@ -1172,7 +1172,7 @@
   exited: true
   hostname: etacts.com
   name: Etacts
-  notes: Acquired by Salesforce.com
+  notes: Acquired by Salesforce.com, also EmailOracle
   url: http://etacts.com
 - aq_price: null
   class_year: 2010-01-01 00:00:00
@@ -1188,7 +1188,7 @@
   exited: false
   hostname: 140bets.com
   name: 140bets
-  notes: Tweetbracket
+  notes: Tweetbracket, 140fire.com
   url: http://140bets.com
 - aq_price: '600000'
   class_year: 2010-01-01 00:00:00
@@ -1200,7 +1200,7 @@
   url: http://datamarketplace.com
 - aq_price: null
   class_year: 2010-01-01 00:00:00
-  dead: false
+  dead: true
   exited: false
   hostname: notifo.com
   name: Notifo
@@ -1236,7 +1236,7 @@
   exited: false
   hostname: seeinginteractive.com
   name: SeeingInteractive
-  notes: ''
+  notes: OwnLocal
   url: http://seeinginteractive.com
 - aq_price: null
   class_year: 2010-01-01 00:00:00
@@ -1276,7 +1276,7 @@
   exited: false
   hostname: answerly.com
   name: Answerly.com
-  notes: ''
+  notes: InboxQ
   url: http://answerly.com
 - aq_price: null
   class_year: 2010-01-01 00:00:00
@@ -1358,7 +1358,7 @@
   name: Fabricly
   notes: ''
   url: http://fabricly.com
-- aq_price: '15000000'
+- aq_price: '9000000'
   class_year: 2010-01-01 00:00:00
   dead: false
   exited: true
@@ -1382,13 +1382,13 @@
   name: FanPulse
   notes: ''
   url: http://fanpul.se
-- aq_price: null
+- aq_price: '8000000'
   class_year: 2010-06-01 00:00:00
   dead: false
-  exited: false
+  exited: true
   hostname: indinero.com
   name: Indinero
-  notes: ''
+  notes: aka FanVibe
   url: http://indinero.com
 - aq_price: null
   class_year: 2010-06-01 00:00:00
@@ -1428,7 +1428,7 @@
   exited: false
   hostname: hirehive.com
   name: HireHive
-  notes: ''
+  notes: Hackrecruiter
   url: http://hirehive.com
 - aq_price: null
   class_year: 2010-06-01 00:00:00
@@ -1446,13 +1446,13 @@
   name: Whereoscope
   notes: ''
   url: http://whereoscope.com
-- aq_price: null
+- aq_price: '8000000'
   class_year: 2010-06-01 00:00:00
   dead: false
-  exited: false
+  exited: true
   hostname: adgrok.com
   name: AdGrok
-  notes: ''
+  notes: Sold to Twitter
   url: http://adgrok.com
 - aq_price: null
   class_year: 2010-06-01 00:00:00
@@ -1460,7 +1460,7 @@
   exited: false
   hostname: imoveyou.com
   name: I Move You
-  notes: ''
+  notes: aka Contagion Health
   url: http://imoveyou.com
 - aq_price: null
   class_year: 2010-06-01 00:00:00
@@ -1578,14 +1578,6 @@
   class_year: 2010-06-01 00:00:00
   dead: false
   exited: false
-  hostname: emailoracle.com
-  name: EmailOracle
-  notes: May have been in W10 vs. S10 cohort??
-  url: http://emailoracle.com
-- aq_price: null
-  class_year: 2010-06-01 00:00:00
-  dead: false
-  exited: false
   hostname: tapzilla.com
   name: Tapzilla
   notes: ''
@@ -1618,26 +1610,34 @@
   class_year: 2010-06-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '31'
+  hostname: anyleaf.com
+  name: AnyLeaf
   notes: ''
-  url: ''
+  url: http://anyleaf.com
 - aq_price: null
   class_year: 2010-06-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '32'
-  notes: ''
-  url: ''
+  hostname: stripe.com
+  name: Stripe
+  notes: Not sure which class for Stripe...
+  url: http://stripe.com
 - aq_price: null
   class_year: 2010-06-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '33'
+  hostname: elacarte.com
+  name: E la Carte
   notes: ''
-  url: ''
+  url: http://elacarte.com
+- aq_price: null
+  class_year: 2010-06-01 00:00:00
+  dead: false
+  exited: false
+  hostname: aerofs.com
+  name: AeroFS
+  notes: ''
+  url: http://aerofs.com
 - aq_price: null
   class_year: 2010-06-01 00:00:00
   dead: false
@@ -1698,226 +1698,226 @@
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '5'
+  hostname: fitfu.com
+  name: FitFu
   notes: ''
-  url: ''
+  url: http://fitfu.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '6'
+  hostname: swipegood.com
+  name: SwipeGood
   notes: ''
-  url: ''
+  url: http://swipegood.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '7'
+  hostname: convore.com
+  name: Convore
   notes: ''
-  url: ''
+  url: http://convore.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '8'
+  hostname: taskforceapp.com
+  name: Taskforce
   notes: ''
-  url: ''
+  url: http://taskforceapp.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '9'
+  hostname: chirply.com
+  name: Chirply
   notes: ''
-  url: ''
+  url: http://chirply.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '10'
+  hostname: hellofax.com
+  name: HelloFax
   notes: ''
-  url: ''
+  url: http://hellofax.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '11'
+  hostname: custora.com
+  name: Custora
   notes: ''
-  url: ''
+  url: http://custora.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '12'
+  hostname: comprehendsystems.com
+  name: Comprehend Systems
   notes: ''
-  url: ''
+  url: http://comprehendsystems.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '13'
+  hostname: tellfi.com
+  name: TellFi
   notes: ''
-  url: ''
+  url: http://tellfi.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '14'
+  hostname: noteleaf.com
+  name: Noteleaf
   notes: ''
-  url: ''
+  url: http://noteleaf.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '15'
+  hostname: yougotlistings.com
+  name: YouGotListings
   notes: ''
-  url: ''
+  url: http://yougotlistings.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '16'
+  hostname: drchrono.com
+  name: Dr Chrono
   notes: ''
-  url: ''
+  url: http://drchrono.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '17'
+  hostname: like.fm
+  name: Like.fm
   notes: ''
-  url: ''
+  url: http://like.fm
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '18'
+  hostname: earbits.com
+  name: Earbits
   notes: ''
-  url: ''
+  url: http://earbits.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '19'
+  hostname: curebit.com
+  name: Curebit
   notes: ''
-  url: ''
+  url: http://curebit.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '20'
+  hostname: moki.tv
+  name: Moki.TV
   notes: ''
-  url: ''
+  url: http://moki.tv
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '21'
+  hostname: minomonsters.com
+  name: MinoMonsters
   notes: ''
-  url: ''
+  url: http://minomonsters.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '22'
+  hostname: beetailer.com
+  name: Beetailer
   notes: ''
-  url: ''
+  url: http://beetailer.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '23'
+  hostname: giftrocket.com
+  name: Giftrocket
   notes: ''
-  url: ''
+  url: http://giftrocket.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '24'
+  hostname: sendoid.com
+  name: Sendoid
   notes: ''
-  url: ''
+  url: http://sendoid.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '25'
+  hostname: fivestarscard.com
+  name: Five Stars
   notes: ''
-  url: ''
+  url: http://fivestarscard.com
+- aq_price: '5000000'
+  class_year: 2011-01-01 00:00:00
+  dead: false
+  exited: true
+  hostname: talkbin.com
+  name: TalkBin
+  notes: ''
+  url: http://talkbin.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '26'
+  hostname: nowjs.com
+  name: NowJS
   notes: ''
-  url: ''
+  url: http://nowjs.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '27'
+  hostname: mailgun.net
+  name: MailGun
   notes: ''
-  url: ''
+  url: http://mailgun.net
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '28'
+  hostname: whereberry.com
+  name: WhereBerry
   notes: ''
-  url: ''
+  url: http://whereberry.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '29'
+  hostname: tumultco.com
+  name: Hype
   notes: ''
-  url: ''
+  url: http://www.tumultco.com/hype
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '30'
+  hostname: zerocater.com
+  name: ZeroCater
   notes: ''
-  url: ''
+  url: http://zerocater.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
   exited: false
-  hostname: ''
-  name: '31'
+  hostname: memsql.com
+  name: MemSQL
   notes: ''
-  url: ''
-- aq_price: null
-  class_year: 2011-01-01 00:00:00
-  dead: false
-  exited: false
-  hostname: ''
-  name: '32'
-  notes: ''
-  url: ''
+  url: http://memsql.com
 - aq_price: null
   class_year: 2011-01-01 00:00:00
   dead: false
