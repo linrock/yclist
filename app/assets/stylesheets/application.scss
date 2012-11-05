@@ -1,0 +1,57 @@
+@import "reset";
+@import "bourbon";
+
+
+body {
+  height: 100%;
+  padding: 40px 15px 0 15px;
+  font-size: 11px;
+  font-family: $helvetica;
+  color: #555;
+}
+
+a {
+  color: inherit;
+}
+
+th {
+  padding-right: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  font-weight: bold;
+  &.tablesorter-header {
+    cursor: pointer;
+  }
+}
+
+td {
+  padding-bottom: 10px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+#sidebar {
+  position: fixed;
+  height: 100%;
+  > div {
+    position: relative;
+    height: 100%;
+  }
+}
+
+#last_update {
+  position: absolute;
+  bottom: 115px;
+}
+
+#sources {
+  position: absolute;
+  bottom: 60px;
+}
+
+#companies {
+  margin-left: 160px;
+  margin-bottom: 50px;
+}

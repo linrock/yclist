@@ -3,12 +3,11 @@ class CreateCompanies < ActiveRecord::Migration
     create_table :companies do |t|
       t.string :name
       t.string :url
-      t.string :yc_class
+      t.string :cohort
       t.string :status
       t.string :title
       t.string :description
-      t.text :notes
-      t.integer :acquisition_price
+      t.text :data
       t.timestamps
     end
   end
