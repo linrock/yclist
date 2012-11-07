@@ -1,6 +1,12 @@
-@import "reset";
+//= require reset
+//= require_tree .
+
 @import "bourbon";
 
+
+* {
+  @include box-sizing(border-box);
+}
 
 body {
   height: 100%;

@@ -35,7 +35,7 @@ class Company < ActiveRecord::Base
     ico_filename = dir.join("#{id}.ico").to_s
     png_filename = dir.join("#{id}.png").to_s
     `wget -nv http://localhost:4567/#{url} -O #{ico_filename}`
-    `convert -resize "16x16" -flatten #{ico_filename} #{png_filename}`
+    `convert -resize "16x16!" -flatten #{ico_filename} #{png_filename}`
     `rm #{ico_filename}`
   end
 

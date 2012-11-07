@@ -8,10 +8,6 @@ $ ->
       4:
         sorter: false
 
-  $("th").each (i,e) ->
-    $e = $(e)
-    $e.css(width: $e.width())
-
   $.each ["operating", "exited", "dead"], (i,status) ->
 
     toggleStatus = ->

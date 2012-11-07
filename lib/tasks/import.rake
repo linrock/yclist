@@ -1,7 +1,7 @@
 namespace :import do
 
-  desc "Import data from http://www.seed-db.com"
-  task :data => :environment do
+  desc "Import company data from http://www.seed-db.com"
+  task :companies => :environment do
     require 'nokogiri'
     require 'open-uri'
 
@@ -60,14 +60,5 @@ namespace :import do
     Company.find_each &:set_description_from_crunchbase
   end
 
-
-  # Favicon grabbing services:
-  # http://g.etfv.co/
-  # http://a.fvicon.com/google.com
-  desc "Import favicons"
-  task :favicons => :environment do
-    dir = Rails.root.join("data/favicons")
-    Dir.mkdir dir rescue nil
-    Company.find_each &:fetch_favicon
-  end
 end
+

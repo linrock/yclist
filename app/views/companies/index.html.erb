@@ -52,11 +52,7 @@
       <% @companies.each do |c| %>
         <tr class="<%= c.status.downcase %>">
           <td class="favicon">
-            <% if c.url.present? %>
-              <img src="/favicons/<%= c.id %>.png">
-            <% else %>
-              <img src="/transparent.png">
-            <% end %>
+            <div class="c-icon c-<%= c.id %>"></div>
           </td>
           <td class="name"><%= c.name %></td>
           <td><a href="<%= c.url %>" target="_blank"><%= c.url %></a></td>
