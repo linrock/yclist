@@ -5,7 +5,8 @@
 #   git config --global core.excludesfile ~/.gitignore_global
 
 /data
-/public
+/public/assets
+/public/index.html*
 /app/assets/stylesheets/favicons.css.*
 /app/assets/images/favicons.*
 
