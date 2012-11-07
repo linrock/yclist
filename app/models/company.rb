@@ -28,6 +28,17 @@ class Company < ActiveRecord::Base
     cb_url.sub('www','api').sub('crunchbase.com','crunchbase.com/v/1') + '.json'
   end
 
+  def fetch_favicon
+    return unless url.present?
+    dir = Rails.root.join("data/favicons")
+    puts "Fetching favicon for... #{url}"
+    ico_filename = dir.join("#{id}.ico").to_s
+    png_filename = dir.join("#{id}.png").to_s
+    `wget -nv http://localhost:4567/#{url} -O #{ico_filename}`
+    `convert -resize "16x16" -flatten #{ico_filename} #{png_filename}`
+    `rm #{ico_filename}`
+  end
+
   def fetch_crunchbase_data
     require 'open-uri'
 
@@ -42,7 +53,7 @@ class Company < ActiveRecord::Base
   end
 
   # Sets a description using Crunchbase information
-  def set_description
+  def set_description_from_crunchbase
     return unless fetch_crunchbase_data.present?
 
     require 'tactful_tokenizer'
@@ -61,7 +72,7 @@ class Company < ActiveRecord::Base
   private
 
   def data_path
-    Rails.root.join('app/data')
+    Rails.root.join('data')
   end
 
   def set_data

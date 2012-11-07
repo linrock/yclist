@@ -9,7 +9,6 @@ gem 'nokogiri', :require => false
 gem 'tactful_tokenizer', :require => false
 gem 'htmlentities', :require => false
 
-
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do

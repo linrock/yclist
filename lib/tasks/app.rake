@@ -33,10 +33,6 @@ namespace :import do
 
     Company.destroy_all
 
-    # Favicon grabbing services:
-    # http://g.etfv.co/
-    # http://a.fvicon.com/google.com
-
     @data = open('list.html').read
     @doc = Nokogiri::HTML @data
     @entries = @doc.css("table > tbody > tr")
@@ -58,9 +54,20 @@ namespace :import do
     puts "Loaded #{Company.count} companies!"
   end
 
-  desc "Import data from http://crunchbase.com"
-  task :data do
-    # asdf
+
+  desc "Import descriptions from http://crunchbase.com"
+  task :descriptions do
+    Company.find_each &:set_description_from_crunchbase
   end
 
+
+  # Favicon grabbing services:
+  # http://g.etfv.co/
+  # http://a.fvicon.com/google.com
+  desc "Import favicons"
+  task :favicons => :environment do
+    dir = Rails.root.join("data/favicons")
+    Dir.mkdir dir rescue nil
+    Company.find_each &:fetch_favicon
+  end
 end

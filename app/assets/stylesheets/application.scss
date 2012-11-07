@@ -10,8 +10,24 @@ body {
   color: #555;
 }
 
+h1, h2, h3 {
+  font-weight: bold;
+}
+
 a {
   color: inherit;
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+tr {
+  &.dead > td:nth-child(5) {
+    color: #f00000;
+  }
+  &.exited > td:nth-child(5) {
+    color: #33cc00;
+  }
 }
 
 th {
@@ -25,11 +41,15 @@ th {
 }
 
 td {
-  padding-bottom: 10px;
-}
-
-h1, h2, h3 {
-  font-weight: bold;
+  padding: 4px 0 4px 0;
+  height: 16px;
+  vertical-align: middle;
+  &.favicon {
+    padding-right: 12px;
+  }
+  &.name {
+    padding-right: 12px;
+  }
 }
 
 #sidebar {
