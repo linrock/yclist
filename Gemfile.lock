@@ -33,6 +33,7 @@ GEM
       sass (>= 3.2)
       thor
     builder (3.0.3)
+    coderay (1.0.8)
     coffee-rails (3.2.2)
       coffee-script (>= 2.2.0)
       railties (~> 3.2.0)
@@ -55,12 +56,15 @@ GEM
       i18n (>= 0.4.0)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
+    method_source (0.8.1)
     mime-types (1.19)
     multi_json (1.3.6)
     nokogiri (1.5.5)
     polyglot (0.3.3)
-    puma (1.6.3)
-      rack (~> 1.2)
+    pry (0.9.10)
+      coderay (~> 1.0.5)
+      method_source (~> 0.8)
+      slop (~> 3.3.1)
     rack (1.4.1)
     rack-cache (1.2)
       rack (>= 0.4)
@@ -91,6 +95,7 @@ GEM
       railties (~> 3.2.0)
       sass (>= 3.1.10)
       tilt (~> 1.3)
+    slop (3.3.3)
     sprockets (2.1.3)
       hike (~> 1.2)
       rack (~> 1.0)
@@ -116,7 +121,7 @@ DEPENDENCIES
   htmlentities
   jquery-rails
   nokogiri
-  puma
+  pry
   rails (= 3.2.8)
   sass-rails (~> 3.2.3)
   sqlite3
