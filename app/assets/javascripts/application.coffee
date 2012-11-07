@@ -1,11 +1,10 @@
-#= require jquery
 #= require jquery.tablesorter
 
 $ ->
 
   $("table").tablesorter
     headers:
-      4:
+      5:
         sorter: false
 
   $.each ["operating", "exited", "dead"], (i,status) ->

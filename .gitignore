@@ -5,8 +5,9 @@
 #   git config --global core.excludesfile ~/.gitignore_global
 
 /data
-/public/favicons.png
-/app/assets/stylesheets/favicons.css
+/public
+/app/assets/stylesheets/favicons.css.*
+/app/assets/images/favicons.*
 
 # Ignore bundler config
 /.bundle
