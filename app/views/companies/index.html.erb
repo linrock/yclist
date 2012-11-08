@@ -1,4 +1,4 @@
-<aside id="sidebar">
+<div id="sidebar">
   <div>
     <h1>YC List</h1>
 
@@ -18,22 +18,26 @@
 
     <div id="last_update">
       <h3>Last Update:</h3>
-      <p>Nov. 4, 2012</p>
+      <p>Nov. 7, 2012</p>
     </div>
 
     <div id="sources">
-      <h3>Sources:</h3>
+      <h3>Resources:</h3>
       <ul>
         <li><a href="http://www.seed-db.com/accelerators/view?acceleratorid=1011"
                target="_blank">www.seed-db.com</a>
         <li><a href="http://www.crunchbase.com" target="_blank">www.crunchbase.com</a>
+        <% if false %>
+        <li><a href="http://ycuniverse.com/ycombinator-companies.php"
+               target="_blank">ycuniverse.com</a>
+        <% end %>
       </ul>
     </div>
   </div>
-</aside>
+</div>
 
 
-<section id="companies">
+<div id="companies">
 
   <table>
 
@@ -55,7 +59,11 @@
             <div class="c-icon c-<%= c.id %>"></div>
           </td>
           <td class="name"><%= c.name %></td>
-          <td><a href="<%= c.url %>" target="_blank"><%= c.url %></a></td>
+          <td>
+            <% unless c.dead? %>
+              <a href="<%= c.url %>" target="_blank"><%= c.url %></a>
+            <% end %>
+          </td>
           <td><%= c.cohort_str %></td>
           <td><%= c.status_str %></td>
           <td><%= c.title %></td>
@@ -65,7 +73,7 @@
 
   </table>
 
-</section>
+</div>
 
 <% if Rails.env.production? %>
   <script type="text/javascript">

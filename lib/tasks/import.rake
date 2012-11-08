@@ -1,9 +1,13 @@
+namespace :app do
+
 namespace :import do
 
   desc "Import company data from http://www.seed-db.com"
   task :companies => :environment do
     require 'nokogiri'
     require 'open-uri'
+
+    return false
 
     def parse_row(row)
       # company name
@@ -62,3 +66,4 @@ namespace :import do
 
 end
 
+end

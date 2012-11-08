@@ -1,3 +1,5 @@
+namespace :app do
+
 namespace :favicons do
 
   # Favicon grabbing services:
@@ -37,5 +39,7 @@ namespace :favicons do
     end
 
   end
+
+end
 
 end

@@ -12,6 +12,7 @@ body {
   height: 100%;
   padding: 40px 15px 0 15px;
   font-size: 11px;
+  line-height: 12px;
   font-family: $helvetica;
   color: #555;
 }
@@ -28,8 +29,13 @@ a {
 }
 
 tr {
-  &.dead > td:nth-child(5) {
-    color: #f00000;
+  &.dead > td {
+    &:nth-child(3) {
+      color: #ddd;
+    }
+    &:nth-child(5) {
+      color: #f00000;
+    }
   }
   &.exited > td:nth-child(5) {
     color: #33cc00;
@@ -53,9 +59,23 @@ td {
   &.favicon {
     padding-right: 12px;
   }
+  &.id {
+    padding-right: 12px;
+  }
   &.name {
     padding-right: 12px;
   }
+}
+
+input[type="text"] {
+  width: 200px;
+  padding: 3px;
+  margin-right: 12px;
+  border: 1px solid #ccc;
+}
+
+select {
+  margin-right: 12px;
 }
 
 #sidebar {

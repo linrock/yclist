@@ -1,0 +1,67 @@
+<form method="POST" action="/update">
+
+<div id="sidebar">
+
+  <input type="submit" value="Save All">
+
+  <br>
+  <br>
+
+  <div>
+    <%= flash[:success].html_safe if flash[:success] %>
+  </div>
+
+</div>
+
+<div id="companies">
+
+  <table>
+
+    <thead>
+      <tr>
+        <th class="favicon"></th>
+        <th>ID</th>
+        <th>Name</th>
+        <th>URL</th>
+        <th>Class</th>
+        <th>Status</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <% @companies.each do |c| %>
+        <tr class="<%= c.status.downcase %>">
+          <td class="favicon">
+            <div class="c-icon c-<%= c.id %>"></div>
+          </td>
+          <td class="id"><%= c.id %></td>
+          <td class="name">
+            <input type="text" name="companies[<%= c.id %>][name]"
+                   value="<%= c.name %>">
+          </td>
+          <td>
+            <input type="text" name="companies[<%= c.id %>][url]"
+                   value="<%= c.url %>">
+          </td>
+          <td><%= c.cohort_str %></td>
+          <td>
+            <select name="companies[<%= c.id %>][status]">
+              <option <%= "selected" if c.status == "Operating" %>>Operating</option>
+              <option <%= "selected" if c.status == "Exited" %>>Exited</option>
+              <option <%= "selected" if c.status == "Dead" %>>Dead</option>
+            </select>
+          </td>
+          <td>
+            <textarea rows="3" cols="50"
+                      name="companies[<%= c.id %>][title]"><%= c.title %></textarea>
+          </td>
+        </tr>
+      <% end %>
+    </tbody>
+
+  </table>
+
+</div>
+
+</form>

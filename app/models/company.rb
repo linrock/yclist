@@ -9,6 +9,8 @@ class Company < ActiveRecord::Base
 
   serialize :data, JSON
 
+  attr_accessible :name, :url, :status, :title
+
   def cohort_str
     year = cohort[-2..-1]
     case cohort[0]
@@ -67,6 +69,14 @@ class Company < ActiveRecord::Base
     rescue nil
     end
     self.save
+  end
+
+  def dead?
+    status == "Dead"
+  end
+
+  def exited?
+    status == "Exited"
   end
 
   private
