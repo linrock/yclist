@@ -79,6 +79,10 @@ class Company < ActiveRecord::Base
     status == "Exited"
   end
 
+  def self.export_json
+    all.to_json only: [:name, :url, :cohort, :status, :title]
+  end
+
   private
 
   def data_path
