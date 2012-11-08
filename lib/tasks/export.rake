@@ -2,18 +2,27 @@ namespace :app do
 
   namespace :export do
 
+    desc "Generates all static files"
+    task :all => :environment do
+      raise Exception.new("Use production environment!") unless Rails.env.production?
+      Rake::Task["assets:clean"].invoke
+      Rake::Task["assets:precompile"].invoke
+      Rake::Task["app:export:html"].invoke
+    end
+
     desc "Generate a static page from companies#index"
-    task :html do
-      index_tmp = Rails.root.join('public/index.html.tmp')
+    task :html => :environment do
       index = Rails.root.join('public/index.html')
       `rm -f #{index}`
-      `wget -nv localhost:3000 -O #{index_tmp}`
-      puts "index.html before:  #{`du -hs #{index_tmp}`}"
-      html = open(index_tmp).read
-      open(index_tmp,'w') {|f| f.write html.gsub(/\n\s+/,'') }
-      puts "index.html after:   #{`du -hs #{index_tmp}`}"
-      `mv #{index_tmp} #{index}`
+      `rm -f #{index}.gz`
+      app = ActionController::Integration::Session.new(Yclist::Application)
+      app.get '/'
+      html = app.body.gsub(/\n\s+/,'')
+      raise Exception.new("wtf") unless html.length > 0
+      open(index,'w') {|f| f.write html }
       `gzip -c -9 #{index} > #{index}.gz`
+      puts "index.html:  #{`du -hs #{index}`}"
+      puts "Generated all static files!"
     end
 
     desc "Export company data to JSON"
