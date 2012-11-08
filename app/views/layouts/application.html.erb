@@ -2,14 +2,15 @@
 <html>
 <head>
   <title>Unofficial Y Combinator Company List</title>
-  <% if true %>
+  <% if Rails.env.production? %>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
   <% else %>
     <script src="/assets/jquery.js"></script>
   <% end %>
   <%= javascript_include_tag "application" %>
   <%= stylesheet_link_tag    "application", :media => "all" %>
-  <meta name="description" content="A list and descriptions of companies funded by Y Combinator since 2005.">
+  <meta name="description"
+        content="Names and descriptions of companies funded by Y Combinator, a seed accelerator.">
 </head>
 <body>
 

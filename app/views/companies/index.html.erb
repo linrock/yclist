@@ -1,38 +1,54 @@
 <div id="sidebar">
   <div>
-    <h1>YC List</h1>
+    <div class="top">
 
-    <br>
+      <h1>YC List</h1>
 
-    <ul>
-      <li><label><input type="checkbox" id="toggle-operating" checked="checked"> Show Active</label>
-      <li><label><input type="checkbox" id="toggle-exited" checked="checked"> Show Exited</label>
-      <li><label><input type="checkbox" id="toggle-dead" checked="checked"> Show Dead</label>
-    </ul>
+      <br>
 
-    <br>
-
-    <div>
-      <span id="companies_count">400</span> companies shown
-    </div>
-
-    <div id="last_update">
-      <h3>Last Update:</h3>
-      <p>Nov. 7, 2012</p>
-    </div>
-
-    <div id="sources">
-      <h3>Resources:</h3>
       <ul>
-        <li><a href="http://www.seed-db.com/accelerators/view?acceleratorid=1011"
-               target="_blank">www.seed-db.com</a>
-        <li><a href="http://www.crunchbase.com" target="_blank">www.crunchbase.com</a>
-        <% if false %>
-        <li><a href="http://ycuniverse.com/ycombinator-companies.php"
-               target="_blank">ycuniverse.com</a>
-        <% end %>
+        <li><label><input type="checkbox" id="toggle-operating" checked="checked"> Show Active</label>
+        <li><label><input type="checkbox" id="toggle-exited" checked="checked"> Show Exited</label>
+        <li><label><input type="checkbox" id="toggle-dead" checked="checked"> Show Dead</label>
       </ul>
+
+      <br>
+
+      <div>
+        <span id="companies_count">400</span> companies shown
+      </div>
+
+      <br>
+
     </div>
+
+    <div class="bottom">
+
+      <div>
+        <h3>Last Update:</h3>
+        <p>Nov. 7, 2012</p>
+      </div>
+
+      <br>
+
+      <div>
+        <h3>Resources:</h3>
+        <ul>
+          <li><a href="http://www.seed-db.com/accelerators/view?acceleratorid=1011"
+                 target="_blank">www.seed-db.com</a>
+          <li><a href="http://www.crunchbase.com" target="_blank">www.crunchbase.com</a>
+          <li><a href="http://techcrunch.com" target="_blank">www.techcrunch.com</a>
+          <% if false %>
+          <li><a href="http://ycuniverse.com/ycombinator-companies.php"
+                 target="_blank">ycuniverse.com</a>
+
+          http://ycpages.info/companies
+          <% end %>
+        </ul>
+      </div>
+
+    </div>
+
   </div>
 </div>
 
@@ -43,7 +59,7 @@
 
     <thead>
       <tr>
-        <th class="favicon"></th>
+        <th></th>
         <th>Name</th>
         <th>URL</th>
         <th>Class</th>
@@ -55,10 +71,8 @@
     <tbody>
       <% @companies.each do |c| %>
         <tr class="<%= c.status.downcase %>">
-          <td class="favicon">
-            <div class="c-icon c-<%= c.id %>"></div>
-          </td>
-          <td class="name"><%= c.name %></td>
+          <td><div class="c-icon c-<%= c.id %>"></div></td>
+          <td><%= c.name %></td>
           <td>
             <% unless c.dead? %>
               <a href="<%= c.url %>" target="_blank"><%= c.url %></a>

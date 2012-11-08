@@ -4,9 +4,7 @@
 @import "bourbon";
 
 
-* {
-  @include box-sizing(border-box);
-}
+* { @include box-sizing(border-box); }
 
 body {
   height: 100%;
@@ -56,13 +54,7 @@ td {
   padding: 4px 0 4px 0;
   height: 16px;
   vertical-align: middle;
-  &.favicon {
-    padding-right: 12px;
-  }
-  &.id {
-    padding-right: 12px;
-  }
-  &.name {
+  &:nth-child(-n+3) {
     padding-right: 12px;
   }
 }
@@ -85,19 +77,21 @@ select {
     position: relative;
     height: 100%;
   }
-}
-
-#last_update {
-  position: absolute;
-  bottom: 115px;
-}
-
-#sources {
-  position: absolute;
-  bottom: 60px;
+  .top {
+    z-index: 3;
+    background: white;
+    position: relative;
+  }
+  .bottom {
+    z-index: 2;
+    color: #777;
+    position: absolute;
+    bottom: 60px;
+  }
 }
 
 #companies {
   margin-left: 160px;
   margin-bottom: 50px;
 }
+
