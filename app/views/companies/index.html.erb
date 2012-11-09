@@ -15,7 +15,7 @@
       <br>
 
       <div>
-        <span id="companies_count">400</span> companies shown
+        <span id="companies_count">0</span> companies shown
       </div>
 
       <br>
@@ -26,7 +26,7 @@
 
       <div>
         <h3>Last Update:</h3>
-        <p>Nov. 7, 2012</p>
+        <p>Nov. 9, 2012</p>
       </div>
 
       <br>
@@ -78,7 +78,9 @@
               <a href="<%= c.url %>" target="_blank"><%= c.url %></a>
             <% end %>
           </td>
-          <td><%= c.cohort_str %></td>
+          <td class="<%= c.cohort_str[0] == 'W' ? "winter" : "summer" %>">
+            <%= c.cohort_str %>
+          </td>
           <td><%= c.status_str %></td>
           <td><%= c.title %></td>
         </tr>

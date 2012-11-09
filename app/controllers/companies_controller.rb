@@ -31,6 +31,11 @@ class CompaniesController < ApplicationController
   private
 
   def get_companies
-    @companies = Company.all.sort_by {|c| Date.strptime c.cohort, "%m/%Y" }.reverse
+    @companies = Company.all.sort_by do |c|
+      [
+        -Date.strptime(c.cohort,"%m/%Y").to_time.to_i,
+        c.name.downcase.gsub(/^\d+/,'zzz')
+      ]
+    end
   end
 end

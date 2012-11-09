@@ -9,7 +9,7 @@ class Company < ActiveRecord::Base
 
   serialize :data, JSON
 
-  attr_accessible :name, :url, :status, :title
+  attr_accessible :name, :url, :status, :title, :cohort
 
   def cohort_str
     year = cohort[-2..-1]
