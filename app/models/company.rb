@@ -36,7 +36,7 @@ class Company < ActiveRecord::Base
     puts "Fetching favicon for... #{url}"
     ico_filename = dir.join("#{id}.ico").to_s
     png_filename = dir.join("#{id}.png").to_s
-    `wget -nv http://localhost:4567/#{url} -O #{ico_filename}`
+    `wget -nv -t 2 http://localhost:4567/#{url} -O #{ico_filename}`
     `convert -resize "16x16!" -flatten #{ico_filename} #{png_filename}`
     `rm #{ico_filename}`
   end
