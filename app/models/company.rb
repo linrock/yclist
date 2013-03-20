@@ -1,6 +1,8 @@
 class Company < ActiveRecord::Base
   include ActionView::Helpers::SanitizeHelper
 
+  STATUSES = %w( Operating Dead Exited )
+
   validates_presence_of :name
   validates_uniqueness_of :name
 
