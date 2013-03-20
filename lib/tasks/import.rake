@@ -3,7 +3,7 @@ namespace :app do
 namespace :import do
 
   desc "Import company data from http://www.seed-db.com"
-  task :companies => :environment do
+  task :seeddb => :environment do
     require 'nokogiri'
     require 'open-uri'
 
@@ -62,6 +62,25 @@ namespace :import do
   desc "Import descriptions from http://crunchbase.com"
   task :descriptions do
     Company.find_each &:set_description_from_crunchbase
+  end
+
+  desc "Import companies from .json file"
+  task :json, [:filename] => :environment do |t, args|
+    filename = args[:filename]
+    puts "Importing companies from #{filename}"
+
+    Company.destroy_all
+
+    companies = JSON.parse(open(filename).read)
+    companies.each do |company|
+      c = Company.new
+      c.name = company['name']
+      c.cohort = company['cohort']
+      c.status = company['status']
+      c.title = company['title']
+      c.url = company['url']
+      c.save!
+    end
   end
 
 end
