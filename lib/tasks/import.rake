@@ -69,6 +69,7 @@ namespace :import do
     filename = args[:filename]
     puts "Importing companies from #{filename}"
 
+    puts "Deleting #{Company.count} old companies."
     Company.destroy_all
 
     companies = JSON.parse(open(filename).read)
@@ -81,6 +82,7 @@ namespace :import do
       c.url = company['url']
       c.save!
     end
+    puts "Imported #{Company.count} companies!"
   end
 
 end
