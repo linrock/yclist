@@ -17,7 +17,7 @@ namespace :favicons do
 
     merge_list = [Rails.root.join("data/misc/transparent-16x16.png")]
     i = 1
-    css = ".c-icon { background: url(<%= asset_path 'favicons.gif' %>) no-repeat;
+    css = ".c-icon { background: url(<%= asset_path 'favicons.png' %>) no-repeat;
                      width: 16px;
                      height: 16px; }\n"
     Company.all.each do |company|
@@ -30,9 +30,9 @@ namespace :favicons do
         css += ".c-#{company.id} { background-position-x: 0px; }\n"
       end
     end
-    merged_file = Rails.root.join("app/assets/images/favicons.gif")
-    `convert #{merge_list.join " "} -colorspace RGB +append gif:#{merged_file}`
-    puts "Merged #{merge_list.length} favicons into favicons.gif"
+    merged_file = Rails.root.join("app/assets/images/favicons.png")
+    `convert #{merge_list.join " "} -colorspace RGB +append png:#{merged_file}`
+    puts "Merged #{merge_list.length} favicons into favicons.png"
     puts `du -hs #{merged_file}`
     open Rails.root.join("app/assets/stylesheets/favicons.css.erb"), 'w' do |f|
       f.write css
