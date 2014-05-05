@@ -3,6 +3,7 @@ class CompaniesController < ApplicationController
 
   # Homepage - list all companies
   def index
+    @last_update = Date.today.strftime("%b %d, %Y")
   end
 
   # Page to edit company information
