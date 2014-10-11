@@ -4,8 +4,8 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile ~/.gitignore_global
 
-/data/favicons/*.ico
-/data/favicons/*.png
+# /data/favicons/*.ico
+# /data/favicons/*.png
 
 /public/assets
 /public/index.html*
