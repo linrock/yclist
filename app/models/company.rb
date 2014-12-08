@@ -5,6 +5,8 @@ class Company < ActiveRecord::Base
 
   validates_presence_of :name
   validates_uniqueness_of :name
+  validates_inclusion_of :status, :in => STATUSES
+  validate :validate_cohort_format
 
   after_initialize :set_data
   before_validation :standardize_url
@@ -97,6 +99,11 @@ class Company < ActiveRecord::Base
 
   def standardize_url
     self.url = URI.parse(self.url).to_s.downcase.gsub(/\/$/,'') rescue nil
+  end
+
+  def validate_cohort_format
+    return if cohort[/[16]\/20\d{2}/].present?
+    self.errors.add :cohort, "format must be 1/20XX or 6/20XX"
   end
 
 end

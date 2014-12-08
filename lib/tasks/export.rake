@@ -17,9 +17,10 @@ namespace :app do
       `rm -f #{index}`
       `rm -f #{index}.gz`
       app = ActionController::Integration::Session.new(Yclist::Application)
+      sleep 1
       app.get '/'
       html = app.body.gsub(/\n\s+/,'')
-      raise Exception.new("wtf") unless html.length > 0
+      raise "HTML export failed" unless html.length > 0
       open(index,'w') {|f| f.write html }
       `gzip -c -9 #{index} > #{index}.gz`
       puts "index.html:  #{`du -hs #{index}`}"
