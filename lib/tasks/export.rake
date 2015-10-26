@@ -13,17 +13,20 @@ namespace :app do
 
     desc "Generate a static page from companies#index"
     task :html => :environment do
-      index = Rails.root.join('public/index.html')
+      Rails.env = "production"
+      Rake::Task["assets:clean"].invoke
+      Rake::Task["assets:precompile"].invoke
+      index = Rails.root.join('public/companies.html')
       `rm -f #{index}`
       `rm -f #{index}.gz`
-      app = ActionController::Integration::Session.new(Yclist::Application)
-      sleep 1
-      app.get '/'
+      app = ActionDispatch::Integration::Session.new(Yclist::Application)
+      sleep 3
+      app.get '/dynamic'
       html = app.body.gsub(/\n\s+/,'')
       raise "HTML export failed" unless html.length > 0
       open(index,'w') {|f| f.write html }
       `gzip -c -9 #{index} > #{index}.gz`
-      puts "index.html:  #{`du -hs #{index}`}"
+      puts "companies.html:  #{`du -hs #{index}`}"
       puts "Generated all static files!"
     end
 

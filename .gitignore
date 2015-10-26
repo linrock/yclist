@@ -9,6 +9,8 @@
 
 /public/assets
 /public/index.html*
+/public/companies.html*
+
 /app/assets/stylesheets/favicons.css.*
 /app/assets/images/favicons.*
 
