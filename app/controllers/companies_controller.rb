@@ -9,6 +9,7 @@ class CompaniesController < ApplicationController
   def dynamic
     @last_update = Date.today.strftime("%b %d, %Y")
     @company_rows = GoogleSheetsParser.sorted_all_company_rows
+    @cached_favicons_only = true
   end
 
   # Page to edit company information

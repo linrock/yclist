@@ -71,7 +71,11 @@
     <tbody>
       <% @company_rows.each do |c| %>
         <tr class="<%= c.status.downcase %>">
-          <td><div class="c-icon c-<%# c.id %>"></div></td>
+          <td>
+            <% if c.favicon(:cache_only => @cached_favicons_only) %>
+              <img src="data:image/png;base64,<%= c.favicon_base64(:cache_only => @cached_favicons_only) %>">
+            <% end %>
+          </td>
           <td><%= c.name %></td>
           <td>
             <% unless c.dead? %>
