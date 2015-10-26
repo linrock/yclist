@@ -7,14 +7,8 @@ class CompaniesController < ApplicationController
   end
 
   def dynamic
-    @company_rows = []
-    all_data = GoogleSheetsParser.load_yearly_data_from_most_recent_zip_file
-    all_data.sort.reverse.each do |year, yearly_data|
-      yearly_data.sorted_companies.each do |company|
-        next unless company.url.present?
-        @company_rows << company
-      end
-    end
+    @last_update = Date.today.strftime("%b %d, %Y")
+    @company_rows = GoogleSheetsParser.sorted_all_company_rows
   end
 
   # Page to edit company information
