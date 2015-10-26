@@ -16,7 +16,7 @@ namespace :app do
       Rails.env = "production"
       Rake::Task["assets:clean"].invoke
       Rake::Task["assets:precompile"].invoke
-      index = Rails.root.join('public/companies.html')
+      index = Rails.root.join('public/exported.html')
       `rm -f #{index}`
       `rm -f #{index}.gz`
       app = ActionDispatch::Integration::Session.new(Yclist::Application)
@@ -24,7 +24,7 @@ namespace :app do
       app.get '/dynamic'
       html = app.body.gsub(/\n\s+/,'')
       raise "HTML export failed" unless html.length > 0
-      open(index,'w') {|f| f.write html }
+      open(index, 'w') {|f| f.write html }
       `gzip -c -9 #{index} > #{index}.gz`
       puts "companies.html:  #{`du -hs #{index}`}"
       puts "Generated all static files!"

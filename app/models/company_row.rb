@@ -37,6 +37,10 @@ class CompanyRow
     Base64.encode64(data).split.join if data.present?
   end
 
+  def cached_favicon?
+    FaviconAccessor.new(url).fetch_from_cache.present?
+  end
+
   def dead?
     status == "Dead"
   end

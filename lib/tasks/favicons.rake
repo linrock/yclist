@@ -40,7 +40,19 @@ namespace :favicons do
 
   end
 
-  desc "Generate a tileset from favicons"
+  desc "Fetch favicons for each company if they don't exist"
+  task :fetch2 => :environment do
+    i = 0
+    GoogleSheetsParser.sorted_all_company_rows.each do |company_row|
+      next if company_row.cached_favicon?
+      puts "Fetching favicon for #{company_row.url}"
+      company_row.favicon
+      i += 1
+    end
+    puts "Fetched favicons for #{i} companies"
+  end
+
+  desc "Generate a spritesheet (image + css) from favicons"
   task :merge2 => :environment do
     `mkdir -p /tmp/yclist/favicons/`
 
