@@ -8,7 +8,7 @@ class CompaniesController < ApplicationController
 
   def dynamic
     @company_rows = []
-    all_data = GoogleSheetsParser.new.load_yearly_data_from_zip_file("/tmp/YC List.zip")
+    all_data = GoogleSheetsParser.load_yearly_data_from_most_recent_zip_file
     all_data.sort.reverse.each do |year, yearly_data|
       yearly_data.sorted_companies.each do |company|
         next unless company.url.present?

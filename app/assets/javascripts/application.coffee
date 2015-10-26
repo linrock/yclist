@@ -1,5 +1,6 @@
 #= require jquery.tablesorter
 
+
 $.tablesorter.addParser
   id: 'name'
   is: -> true
