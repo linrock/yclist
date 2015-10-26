@@ -1,0 +1,108 @@
+<div id="sidebar">
+  <div>
+    <div class="top">
+
+      <h1>YC List</h1>
+
+      <br>
+
+      <ul>
+        <li><label><input type="checkbox" id="toggle-operating" checked="checked"> Show Active</label>
+        <li><label><input type="checkbox" id="toggle-exited" checked="checked"> Show Exited</label>
+        <li><label><input type="checkbox" id="toggle-dead" checked="checked"> Show Dead</label>
+      </ul>
+
+      <br>
+
+      <div>
+        <span id="companies_count">0</span> companies shown
+      </div>
+
+      <br>
+
+    </div>
+
+    <div class="bottom">
+
+      <div>
+        <h3>Last Update:</h3>
+        <p><%= @last_update %></p>
+      </div>
+
+      <br>
+
+      <div>
+        <h3>Resources:</h3>
+        <ul>
+          <li><a href="http://www.seed-db.com/accelerators/view?acceleratorid=1011"
+                 target="_blank">www.seed-db.com</a>
+          <li><a href="http://www.crunchbase.com" target="_blank">www.crunchbase.com</a>
+          <li><a href="http://techcrunch.com" target="_blank">www.techcrunch.com</a>
+          <% if false %>
+          <li><a href="http://ycuniverse.com/ycombinator-companies.php"
+                 target="_blank">ycuniverse.com</a>
+
+          http://ycpages.info/companies
+          <% end %>
+        </ul>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+
+<div id="companies">
+
+  <table>
+
+    <thead>
+      <tr>
+        <th></th>
+        <th>Name</th>
+        <th>URL</th>
+        <th>Class</th>
+        <th>Status</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <% @company_rows.each do |c| %>
+        <tr class="<%= c.status.downcase %>">
+          <td><div class="c-icon c-<%# c.id %>"></div></td>
+          <td><%= c.name %></td>
+          <td>
+            <% unless c.dead? %>
+              <a href="<%= c.url %>" target="_blank"><%= c.url %></a>
+            <% end %>
+          </td>
+          <td class="<%= c.cohort_season %>">
+            <%= c.cohort %>
+          </td>
+          <td><%= c.status_str %></td>
+          <td><%= c.description %></td>
+        </tr>
+      <% end %>
+    </tbody>
+
+  </table>
+
+</div>
+
+<% if Rails.env.production? %>
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-36138590-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+<% end %>
