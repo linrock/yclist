@@ -6,7 +6,7 @@ class CompanyRow
   validates_presence_of :name
   validates_format_of :url, :with => /\Ahttps?:\/\//, :allow_blank => true
   validates_format_of :cohort, :with => /\A(S|W)\d+\z/
-  validates_inclusion_of :status, :in => %w( Dead Exited ), :allow_blank => true
+  validates_inclusion_of :status, :in => %w( Operating Dead Exited ), :allow_blank => true
   # validates_presence_of :url
 
 
@@ -18,7 +18,7 @@ class CompanyRow
     self.name = data[0]
     self.url = data[1] if data[1].present?
     self.cohort = data[2]
-    self.status = data[3]
+    self.status = data[3].present? && data[3] || "Operating"
     self.description = data[4] if data[4].present?
     self
   end

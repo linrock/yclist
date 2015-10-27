@@ -33,7 +33,7 @@ $ ->
 
     toggleStatus = ->
       $e = $(".#{status}")
-      if $(@).attr('checked') then $e.show() else $e.hide()
+      if $(@).is(":checked") then $e.show() else $e.hide()
       updateCompanyCount()
 
     $("#toggle-#{status}").on "change", toggleStatus

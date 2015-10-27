@@ -88,6 +88,10 @@ namespace :favicons do
                      height: 16px; }\n"
 
     GoogleSheetsParser.sorted_all_company_rows.each do |company_row|
+      if !company_row.url.present?
+        i += 1
+        next
+      end
       favicon_data = company_row.favicon(:cache_only => true)
       if favicon_data
         filename = "/tmp/yclist/favicons/#{i}.png"
