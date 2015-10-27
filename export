@@ -1,0 +1,3 @@
+#!/bin/bash
+
+RAILS_ENV=production rake app:export:html

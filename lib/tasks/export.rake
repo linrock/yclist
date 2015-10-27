@@ -22,11 +22,12 @@ namespace :app do
       app = ActionDispatch::Integration::Session.new(Yclist::Application)
       sleep 3
       app.get '/dynamic'
-      html = app.body.gsub(/\n\s+/,'')
+      # html = app.body.gsub(/\n\s+/,'')
+      html = app.body
       raise "HTML export failed" unless html.length > 0
       open(index, 'w') {|f| f.write html }
       `gzip -c -9 #{index} > #{index}.gz`
-      puts "companies.html:  #{`du -hs #{index}`}"
+      puts "exported.html:  #{`du -hs #{index}`}"
       puts "Generated all static files!"
     end
 
