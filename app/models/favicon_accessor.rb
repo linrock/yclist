@@ -30,7 +30,9 @@ class FaviconAccessor
   end
 
   def typhoeus_request
-    Typhoeus::Request.new(favicon_url, :followlocation => true)
+    Typhoeus::Request.new(favicon_url, :followlocation => true,
+                                       :timeout => 5,
+                                       :accept_encoding => "gzip")
   end
 
   private
