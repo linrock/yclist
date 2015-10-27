@@ -4,6 +4,8 @@ gem 'rails', '4.2.4'
 gem 'pry'
 
 gem 'ethon'
+gem 'typhoeus'
+
 gem 'sqlite3'
 gem 'bourbon'
 gem 'nokogiri', :require => false
