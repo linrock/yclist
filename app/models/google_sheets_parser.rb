@@ -45,7 +45,7 @@ class GoogleSheetsParser
       company_rows = []
       load_yearly_data_from_most_recent_zip_file.sort.reverse.each do |year, data|
         data.sorted_companies.each do |company|
-          next unless company.url.present?
+          # next unless company.url.present?
           company_rows << company
         end
       end

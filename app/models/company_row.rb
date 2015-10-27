@@ -41,6 +41,10 @@ class CompanyRow
     FaviconAccessor.new(url).fetch_from_cache.present?
   end
 
+  def need_favicon?
+    url.present? && !cached_favicon?
+  end
+
   def dead?
     status == "Dead"
   end

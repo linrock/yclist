@@ -44,11 +44,35 @@ namespace :favicons do
   task :fetch2 => :environment do
     i = 0
     GoogleSheetsParser.sorted_all_company_rows.each do |company_row|
-      next if company_row.cached_favicon?
+      next unless company_row.need_favicon?
       puts "Fetching favicon for #{company_row.url}"
       company_row.favicon
       i += 1
     end
+    puts "Fetched favicons for #{i} companies"
+  end
+
+  desc "Fetch favicons for each company if they don't exist in parallel"
+  task :fetch_parallel => :environment do
+    hydra = Typhoeus::Hydra.new(:max_concurrency => 10)
+    i = 0
+    GoogleSheetsParser.sorted_all_company_rows.each do |company_row|
+      next unless company_row.need_favicon?
+      # puts "Fetching favicon for #{company_row.url}"
+      accessor = FaviconAccessor.new(company_row.url)
+      request = accessor.typhoeus_request
+      request.on_complete do |response|
+        if response.success?
+          puts "Fetched favicon for #{company_row.url}"
+          accessor.cache.set response.body
+        else
+          puts "Failed to fetch favicon for #{company_row.url}"
+        end
+      end
+      hydra.queue request
+      i += 1
+    end
+    hydra.run
     puts "Fetched favicons for #{i} companies"
   end
 
