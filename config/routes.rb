@@ -4,7 +4,4 @@ Yclist::Application.routes.draw do
 
   get '/dynamic' => 'companies#dynamic'
 
-  get '/edit' => 'companies#edit'
-  post '/update' => 'companies#update'
-
 end
