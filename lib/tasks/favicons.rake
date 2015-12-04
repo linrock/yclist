@@ -46,33 +46,28 @@ namespace :favicons do
     GoogleSheetsParser.sorted_all_company_rows.each do |company_row|
       next unless company_row.need_favicon?
       puts "Fetching favicon for #{company_row.url}"
-      company_row.favicon
+      favicon = company_row.favicon
+      puts "Favicon not found" unless favicon.present?
       i += 1
     end
-    puts "Fetched favicons for #{i} companies"
+    puts "Tried fetching favicons for #{i} companies"
   end
 
   desc "Fetch favicons for each company if they don't exist in parallel"
   task :fetch_parallel => :environment do
-    hydra = Typhoeus::Hydra.new(:max_concurrency => 10)
     i = 0
-    GoogleSheetsParser.sorted_all_company_rows.each do |company_row|
-      next unless company_row.need_favicon?
-      # puts "Fetching favicon for #{company_row.url}"
-      accessor = FaviconAccessor.new(company_row.url)
-      request = accessor.typhoeus_request
-      request.on_complete do |response|
-        if response.success?
-          puts "Fetched favicon for #{company_row.url}"
-          accessor.cache.set response.body
-        else
-          puts "Failed to fetch favicon for #{company_row.url}"
-        end
+    companies = GoogleSheetsParser.sorted_all_company_rows.select(&:need_favicon?)
+    puts "#{companies.length} companies need favicons"
+    Parallel.each(companies, :in_threads => 10) do |company|
+      puts "Fetching favicon for #{company.url}"
+      accessor = FaviconAccessor.new(company.url)
+      if accessor.fetch_and_cache!
+        puts "Fetched favicon for #{company.url}"
+      else
+        puts "Failed to fetch favicon for #{company.url}"
       end
-      hydra.queue request
       i += 1
     end
-    hydra.run
     puts "Fetched favicons for #{i} companies"
   end
 

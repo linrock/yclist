@@ -28,7 +28,7 @@ class CompanyRow
     if options[:cache_only]
       accessor.fetch_from_cache
     else
-      accessor.fetch
+      accessor.fetch_and_cache!
     end
   end
 

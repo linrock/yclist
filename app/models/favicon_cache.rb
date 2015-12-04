@@ -2,20 +2,21 @@ class FaviconCache
 
   def initialize(hostname)
     @hostname = hostname
+    @cache = Rails.cache
   end
 
   def get
-    Rails.cache.read cache_key("data")
+    @cache.read cache_key("data")
   end
 
   def set(favicon_data)
-    Rails.cache.write cache_key("data"), favicon_data
-    Rails.cache.write cache_key("updated_at"), Time.now.to_i
+    @cache.write cache_key("data"), favicon_data
+    @cache.write cache_key("updated_at"), Time.now.to_i
     favicon_data
   end
 
   def updated_at
-    Rails.cache.read cache_key("updated_at")
+    @cache.read cache_key("updated_at")
   end
 
   def age

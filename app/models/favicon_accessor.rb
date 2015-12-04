@@ -1,7 +1,5 @@
 class FaviconAccessor
 
-  FETCHER_PREFIX = "http://localhost:9292/favicons?q="
-
   attr_accessor :url, :host, :cache
 
   def initialize(url)
@@ -16,7 +14,11 @@ class FaviconAccessor
     return favicon if favicon.present?
     favicon = fetch_from_service
     return unless favicon.present?
-    @cache.set favicon
+  end
+
+  def fetch_and_cache!
+    favicon = fetch
+    @cache.set(favicon) if favicon.present?
   end
 
   def fetch_from_cache
@@ -24,21 +26,8 @@ class FaviconAccessor
   end
 
   def fetch_from_service
-    easy = Ethon::Easy.new(:url => "#{FETCHER_PREFIX}#{@host}")
-    easy.perform
-    return easy.response_body if easy.response_code == 200
-  end
-
-  def typhoeus_request
-    Typhoeus::Request.new(favicon_url, :followlocation => true,
-                                       :timeout => 5,
-                                       :accept_encoding => "gzip")
-  end
-
-  private
-
-  def favicon_url
-    "#{FETCHER_PREFIX}#{@host}"
+    favicon = FaviconParty.fetch(@host)
+    favicon.to_png if favicon.present?
   end
 
 end
