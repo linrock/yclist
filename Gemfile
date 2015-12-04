@@ -4,9 +4,6 @@ gem 'rails', '4.2.5'
 gem 'sqlite3'
 gem 'pry'
 
-gem 'ethon'
-gem 'typhoeus'
-
 gem 'favicon_party'
 gem 'parallel'
 
