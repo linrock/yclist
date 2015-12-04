@@ -1,12 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.4'
+gem 'rails', '4.2.5'
 gem 'pry'
 
 gem 'ethon'
 gem 'typhoeus'
 
-gem 'sqlite3'
 gem 'bourbon'
 gem 'nokogiri', :require => false
 gem 'tactful_tokenizer', :require => false
