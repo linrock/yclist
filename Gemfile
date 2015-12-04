@@ -8,6 +8,7 @@ gem 'ethon'
 gem 'typhoeus'
 
 gem 'favicon_party'
+gem 'parallel'
 
 gem 'bourbon'
 gem 'nokogiri', :require => false
