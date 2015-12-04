@@ -21,7 +21,7 @@ namespace :app do
       `rm -f #{index}.gz`
       app = ActionDispatch::Integration::Session.new(Yclist::Application)
       sleep 3
-      app.get '/dynamic'
+      app.get '/'
       # html = app.body.gsub(/\n\s+/,'')
       html = app.body
       raise "HTML export failed" unless html.length > 0
