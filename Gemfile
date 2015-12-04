@@ -7,6 +7,8 @@ gem 'pry'
 gem 'ethon'
 gem 'typhoeus'
 
+gem 'favicon_party'
+
 gem 'bourbon'
 gem 'nokogiri', :require => false
 gem 'tactful_tokenizer', :require => false
