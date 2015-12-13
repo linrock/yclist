@@ -14,17 +14,10 @@ class CompanyRow
     GoogleSheets::ZipballLoader.sorted_all_company_rows
   end
 
-  def initialize
-  end
-
-  def init_from_tr(tr)
-    data = tr.css("td").map(&:text)
-    self.name = data[0]
-    self.url = data[1] if data[1].present?
-    self.cohort = data[2]
-    self.status = data[3].present? && data[3] || "Operating"
-    self.description = data[4] if data[4].present?
-    self
+  def initialize(attributes = {})
+    attributes.each {|attr, value|
+      self.send("#{attr}=", value)
+    }
   end
 
   def favicon(options = {})

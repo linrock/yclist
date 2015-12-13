@@ -32,13 +32,24 @@ module GoogleSheets
       doc = Nokogiri::HTML.fragment html
       doc.css("tr")[3..-1].map do |tr|
         next if tr.css("td").map(&:text).all?(&:blank?)
-        row = CompanyRow.new.init_from_tr(tr)
+        row = CompanyRow.new(attributes_from_tr(tr))
         unless row.valid?
           binding.pry
           raise "Invalid company data"
         end
         row
       end.compact
+    end
+
+    def attributes_from_tr(tr)
+      data = tr.css("td").map(&:text)
+      {
+        :name => data[0],
+        :url => data[1].present? && data[1],
+        :cohort => data[2],
+        :status => data[3].present? && data[3] || "Operating",
+        :description => data[4].present? && data[4]
+      }
     end
 
     def sorted_all_company_rows
