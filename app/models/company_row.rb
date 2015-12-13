@@ -10,6 +10,10 @@ class CompanyRow
   # validates_presence_of :url
 
 
+  def self.all
+    GoogleSheets::ZipballLoader.sorted_all_company_rows
+  end
+
   def initialize
   end
 

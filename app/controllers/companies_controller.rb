@@ -5,7 +5,7 @@ class CompaniesController < ApplicationController
   #
   def index
     @last_update = Date.today.strftime("%b %d, %Y")
-    @company_rows = GoogleSheetsParser.sorted_all_company_rows
+    @company_rows = CompanyRow.all
     @use_favicon_sprites = true
     # @cached_favicons_only = true
   end

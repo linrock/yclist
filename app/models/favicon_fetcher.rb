@@ -2,7 +2,7 @@ module FaviconFetcher
 
   def fetch_parallel
     i = 0
-    companies = GoogleSheetsParser.sorted_all_company_rows.select(&:need_favicon?)
+    companies = CompanyRow.all.select(&:need_favicon?)
     puts "#{companies.length} companies need favicons"
     Parallel.each(companies, :in_threads => 10) do |company|
       puts "Fetching favicon for #{company.url}"
@@ -19,7 +19,7 @@ module FaviconFetcher
 
   def fetch_one_by_one
     i = 0
-    GoogleSheetsParser.sorted_all_company_rows.each do |company_row|
+    CompanyRow.all.each do |company_row|
       next unless company_row.need_favicon?
       puts "Fetching favicon for #{company_row.url}"
       favicon = company_row.favicon

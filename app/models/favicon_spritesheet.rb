@@ -13,7 +13,7 @@ class FaviconSpritesheet
     @css = ".c-icon { background: url(<%= asset_path 'favicons.png' %>) no-repeat;
                       width: 16px;
                       height: 16px; }\n"
-    GoogleSheetsParser.sorted_all_company_rows.each do |company_row|
+    CompanyRow.all.each do |company_row|
       if !company_row.url.present?
         i += 1
         next
