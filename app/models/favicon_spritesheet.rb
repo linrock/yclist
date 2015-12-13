@@ -2,18 +2,19 @@ class FaviconSpritesheet
 
   attr_accessor :png, :css
 
-  def initialize
-    `mkdir -p /tmp/yclist/favicons/`
+  def initialize(companies)
+    @companies = CompanyRow.all
   end
 
   def generate!
+    `mkdir -p /tmp/yclist/favicons/`
     merge_list = [Rails.root.join("data/misc/transparent-16x16.png")]
     sprite_index = 1
     i = 0
     @css = ".c-icon { background: url(<%= asset_path 'favicons.png' %>) no-repeat;
                       width: 16px;
                       height: 16px; }\n"
-    CompanyRow.all.each do |company_row|
+    @companies.each do |company_row|
       if !company_row.url.present?
         i += 1
         next

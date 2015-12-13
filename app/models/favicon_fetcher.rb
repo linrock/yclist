@@ -1,33 +1,33 @@
-module FaviconFetcher
+class FaviconFetcher
+
+  def initialize(companies)
+    @companies = companies.select(&:need_favicon?)
+    puts "#{@companies.length} of #{companies.length} companies need favicons"
+  end
 
   def fetch_parallel
-    i = 0
-    companies = CompanyRow.all.select(&:need_favicon?)
-    puts "#{companies.length} companies need favicons"
-    Parallel.each(companies, :in_threads => 10) do |company|
-      puts "Fetching favicon for #{company.url}"
-      accessor = FaviconAccessor.new(company.url)
-      if accessor.fetch_and_cache!
-        puts "Fetched favicon for #{company.url}"
-      else
-        puts "Failed to fetch favicon for #{company.url}"
-      end
-      i += 1
+    Parallel.each(@companies, :in_threads => 10) do |company|
+      log_fetch_attempt(company)
     end
-    puts "Fetched favicons for #{i} companies"
+    puts "Tried fetching favicons for #{@companies.count} companies"
   end
 
   def fetch_one_by_one
-    i = 0
-    CompanyRow.all.each do |company_row|
-      next unless company_row.need_favicon?
-      puts "Fetching favicon for #{company_row.url}"
-      favicon = company_row.favicon
-      puts "Favicon not found" unless favicon.present?
-      i += 1
+    @companies.each do |company|
+      log_fetch_attempt(company)
     end
-    puts "Tried fetching favicons for #{i} companies"
+    puts "Tried fetching favicons for #{@companies.count} companies"
   end
 
-  extend self
+  def log_fetch_attempt(company)
+    $stdout.write "Fetching favicon for #{company.url}... "
+    if (favicon = company.favicon).present?
+      $stdout.write "success\n"
+      return true
+    else
+      $stdout.write "NOT FOUND\n"
+      return false
+    end
+  end
+
 end

@@ -7,7 +7,6 @@ class CompanyRow
   validates_format_of :url, :with => /\Ahttps?:\/\//, :allow_blank => true
   validates_format_of :cohort, :with => /\A(S|W)\d+\z/
   validates_inclusion_of :status, :in => %w( Operating Dead Exited ), :allow_blank => true
-  # validates_presence_of :url
 
 
   def self.all
