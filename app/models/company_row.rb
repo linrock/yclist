@@ -20,6 +20,12 @@ class CompanyRow
     }
   end
 
+  def ==(company)
+    %w( name url status cohort description ).all? do |attribute|
+      self.send(attribute) == company.send(attribute)
+    end
+  end
+
   def favicon(options = {})
     accessor = FaviconAccessor.new(url)
     if options[:cache_only]
@@ -35,7 +41,7 @@ class CompanyRow
   end
 
   def cached_favicon?
-    FaviconAccessor.new(url).fetch_from_cache.present?
+    favicon(:cache_only => true).present?
   end
 
   def need_favicon?

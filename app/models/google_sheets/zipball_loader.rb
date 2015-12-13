@@ -45,7 +45,7 @@ module GoogleSheets
       data = tr.css("td").map(&:text)
       {
         :name => data[0],
-        :url => data[1].present? && data[1],
+        :url => data[1].present? && data[1] || nil,
         :cohort => data[2],
         :status => data[3].present? && data[3] || "Operating",
         :description => data[4].present? && data[4]
