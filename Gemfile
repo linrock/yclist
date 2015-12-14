@@ -4,7 +4,7 @@ gem 'rails', '4.2.5'
 gem 'sqlite3'
 gem 'pry'
 
-gem 'favicon_party'
+gem 'favicon_party', :github => "linrock/favicon_party"
 gem 'parallel'
 
 gem 'bourbon'
