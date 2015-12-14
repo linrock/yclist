@@ -14,7 +14,10 @@ namespace :favicons do
 
   desc "Generate a spritesheet (image + css) from favicons"
   task :merge => :environment do
-    FaviconSpritesheet.new.generate!
+    spritesheet = FaviconSpritesheet.new
+    spritesheet.generate!
+    spritesheet.export_png!
+    spritesheet.export_css!
   end
 
 end

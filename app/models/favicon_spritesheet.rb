@@ -1,14 +1,16 @@
+# Generates a favicon png spritesheet + corresponding css
+#
 class FaviconSpritesheet
 
   attr_accessor :png, :css
 
-  def initialize(companies)
+  def initialize
     @companies = CompanyRow.all
   end
 
   def generate!
     `mkdir -p /tmp/yclist/favicons/`
-    merge_list = [Rails.root.join("data/misc/transparent-16x16.png")]
+    merge_list = [Rails.root.join("favicons/transparent-16x16.png")]
     sprite_index = 1
     i = 0
     @css = ".c-icon { background: url(<%= asset_path 'favicons.png' %>) no-repeat;
@@ -30,9 +32,7 @@ class FaviconSpritesheet
       i += 1
     end
     @png = `convert #{merge_list.join " "} -colorspace RGB +append png:fd:1`
-    puts "Merged #{merge_list.length} favicons into favicons.png"
-    export_png!
-    export_css!
+    puts "Merged #{merge_list.length} favicons into a spritesheet"
   end
 
   def export_png!
@@ -45,9 +45,12 @@ class FaviconSpritesheet
   end
 
   def export_css!
-    open Rails.root.join("app/assets/stylesheets/favicons.css.erb"), 'w' do |f|
+    spritesheet_css = Rails.root.join("app/assets/stylesheets/favicons.css.erb")
+    open(spritesheet_css, 'w') do |f|
       f.write @css
     end
+    file_size = `du -hs #{spritesheet_css}`
+    puts "favicons.css.erb - #{file_size}"
   end
 
 end

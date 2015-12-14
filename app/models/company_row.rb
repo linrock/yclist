@@ -26,25 +26,24 @@ class CompanyRow
   end
 
   def favicon(options = {})
-    accessor = FaviconAccessor.new(url)
     if options[:cache_only]
-      accessor.fetch_from_cache
+      Favicon.find_by_url(self.url)
     else
-      accessor.fetch_and_cache!
+      Favicon.find_or_create_by_url(self.url)
     end
   end
 
   def favicon_base64(options = {})
     data = favicon(options)
-    Base64.encode64(data).split.join if data.present?
+    Base64.encode64(data).split.join if !data.nil?
   end
 
-  def cached_favicon?
-    favicon(:cache_only => true).present?
+  def has_favicon?
+    !favicon(:cache_only => true).nil?
   end
 
   def need_favicon?
-    url.present? && !cached_favicon?
+    url.present? && !has_favicon?
   end
 
   def dead?
