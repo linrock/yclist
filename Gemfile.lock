@@ -52,7 +52,7 @@ GEM
     concurrent-ruby (1.0.0)
     erubis (2.7.0)
     execjs (2.6.0)
-    favicon_party (0.7.3)
+    favicon_party (0.7.4)
       nokogiri (~> 1.6)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
