@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/linrock/favicon_party.git
-  revision: 10e287d1b8c194293d01335278ab37be022addb5
+  revision: e616293985cf63135de7d3201da7634e070b80bc
   specs:
     favicon_party (0.7.5)
       nokogiri (~> 1.6)
@@ -150,6 +150,3 @@ DEPENDENCIES
   sass-rails
   sqlite3
   uglifier (>= 1.0.3)
-
-BUNDLED WITH
-   1.11.0
