@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/linrock/favicon_party.git
-  revision: 6a06110df703adc94612fe620b5fc53e077c979b
+  revision: 10e287d1b8c194293d01335278ab37be022addb5
   specs:
-    favicon_party (0.7.4)
+    favicon_party (0.7.5)
       nokogiri (~> 1.6)
 
 GEM
@@ -55,13 +55,12 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source (1.9.1.1)
+    coffee-script-source (1.10.0)
     concurrent-ruby (1.0.0)
     erubis (2.7.0)
     execjs (2.6.0)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
-    htmlentities (4.3.4)
     i18n (0.7.0)
     jquery-rails (4.0.5)
       rails-dom-testing (~> 1.0)
@@ -111,7 +110,7 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
     rake (10.4.2)
-    sass (3.4.19)
+    sass (3.4.20)
     sass-rails (5.0.4)
       railties (>= 4.0.0, < 5.0)
       sass (~> 3.1)
@@ -119,7 +118,7 @@ GEM
       sprockets-rails (>= 2.0, < 4.0)
       tilt (>= 1.1, < 3)
     slop (3.6.0)
-    sprockets (3.5.0)
+    sprockets (3.5.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (2.3.3)
@@ -127,7 +126,6 @@ GEM
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
     sqlite3 (1.3.11)
-    tactful_tokenizer (0.0.5)
     thor (0.19.1)
     thread_safe (0.3.5)
     tilt (2.0.1)
@@ -144,7 +142,6 @@ DEPENDENCIES
   bourbon
   coffee-rails
   favicon_party!
-  htmlentities
   jquery-rails
   nokogiri
   parallel
@@ -152,5 +149,7 @@ DEPENDENCIES
   rails (= 4.2.5)
   sass-rails
   sqlite3
-  tactful_tokenizer
   uglifier (>= 1.0.3)
+
+BUNDLED WITH
+   1.11.0

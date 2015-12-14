@@ -9,8 +9,6 @@ gem 'parallel'
 
 gem 'bourbon'
 gem 'nokogiri', :require => false
-gem 'tactful_tokenizer', :require => false
-gem 'htmlentities', :require => false
 
 gem 'sass-rails' #,   '~> 3.2.3'
 gem 'coffee-rails' #, '~> 3.2.1'
