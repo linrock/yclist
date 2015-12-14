@@ -1,3 +1,0 @@
-copy development db -> production db
-RAILS_ENV=production rake app:export:all
-rake app:deploy:all
