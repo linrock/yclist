@@ -99,11 +99,11 @@
 
 </div>
 
-<% if Rails.env.production? %>
+<% if Rails.env.production? && Remote.ga_id %>
   <script type="text/javascript">
 
     var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-36138590-1']);
+    _gaq.push(['_setAccount', '<%= Remote.ga_id %>']);
     _gaq.push(['_trackPageview']);
 
     (function() {

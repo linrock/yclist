@@ -14,6 +14,8 @@
 /app/assets/stylesheets/favicons.css.*
 /app/assets/images/favicons.*
 
+config/remote.yml
+
 # Ignore bundler config
 /.bundle
 *.swp
