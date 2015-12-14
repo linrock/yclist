@@ -101,3 +101,15 @@ select {
   margin-bottom: 50px;
 }
 
+.contributing {
+  margin-top: 30px;
+  line-height: 16px;
+
+  a {
+    color: rgba(100,100,100,0.6);
+    &:hover {
+      color: rgba(100,100,100,1);
+    }
+  }
+
+}
