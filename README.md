@@ -19,3 +19,7 @@ Thanks to everyone who's helped out!
 - [pfista](https://github.com/pfista)
 - [mattangriffel](https://github.com/mattangriffel)
 - [Amelia-7Cups](https://github.com/Amelia-7Cups)
+- [JustinChavez](https://github.com/JustinChavez)
+- [jlcx](https://github.com/jlcx)
+- [alexandon11](https://github.com/alexandon11)
+- [surjikal](https://github.com/surjikal)
