@@ -2,6 +2,9 @@
 
 An unofficial list of companies funded by [YCombinator](http://www.ycombinator.com/)
 
+For a Google spreadsheet of the company list, go here:
+https://docs.google.com/spreadsheets/d/1OoT1PjIQHLsBZ955rceXN8Sy2_49fuc_MOl2sTQw_hc/pub
+
 
 ## Contributing
 
@@ -23,3 +26,7 @@ Thanks to everyone who's helped out!
 - [jlcx](https://github.com/jlcx)
 - [alexandon11](https://github.com/alexandon11)
 - [surjikal](https://github.com/surjikal)
+- [pwyrod](https://github.com/pwyrod)
+- [ClemMakesApps](https://github.com/ClemMakesApps)
+- [AaronMorais](https://github.com/AaronMorais)
+- [nicholasbs](https://github.com/nicholasbs)
