@@ -48,7 +48,8 @@ module GoogleSheets
         :url => data[1].present? && data[1] || nil,
         :cohort => data[2],
         :status => data[3].present? && data[3] || "Operating",
-        :description => data[4].present? && data[4] || nil
+        :description => data[4].present? && data[4] || nil,
+        :metadata => (data[5..-1].select(&:present?).join("\n    ")) || nil
       }
     end
 
@@ -61,6 +62,16 @@ module GoogleSheets
         end
       end
       company_rows
+    end
+
+    def export_yaml_files
+      load_yearly_data_from_most_recent_zip_file.each do |year, companies|
+        %w( summer winter ).each do |season|
+          open("data/companies/#{year}.#{season}.yml", "w") do |f|
+            f.write companies.to_yaml_str(season)
+          end
+        end
+      end
     end
 
     extend self

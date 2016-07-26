@@ -36,6 +36,27 @@ class YearlyCompanies
     summer_companies.sort_by(&:name) + winter_companies.sort_by(&:name)
   end
 
+  def to_yaml_str(season)
+    companies =
+      case season
+      when "summer" then summer_companies
+      when "winter" then winter_companies
+      end
+    output = ""
+    companies.sort_by(&:name).each do |c|
+      data = [
+        "-",
+        "  name: #{c.name}",
+        "  url: #{c.url}",
+        "  description: #{c.description}"
+      ]
+      data << "  status: #{c.status}" if %w( Dead Exited ).include?(c.status)
+      data << "  metadata: #{c.metadata}" if c.metadata.present?
+      output += data.join("\n") + "\n"
+    end
+    output
+  end
+
   private
 
   def year_suffix

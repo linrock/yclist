@@ -1,7 +1,7 @@
 class CompanyRow
   include ActiveModel::Validations
 
-  attr_accessor :name, :url, :status, :cohort, :description
+  attr_accessor :name, :url, :status, :cohort, :description, :metadata
 
   validates_presence_of :name
   validates_format_of :url, :with => /\Ahttps?:\/\//, :allow_blank => true
