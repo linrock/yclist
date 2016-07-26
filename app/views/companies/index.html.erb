@@ -85,7 +85,7 @@ Email me at linmiao.xu AT gmail.com if you have suggestions!
 
     <tbody>
       <% @company_rows.each_with_index do |c, i| %>
-        <tr class="<%= c.status.downcase %>">
+        <tr class="<%= c.status_str %>">
           <td>
             <% if @use_favicon_sprites %>
               <div class="c-icon c-<%= i %>"></div>

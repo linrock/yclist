@@ -10,12 +10,13 @@ class CompanyRow
 
 
   def self.all
-    GoogleSheets::ZipballLoader.sorted_all_company_rows
+    # GoogleSheets::ZipballLoader.sorted_all_company_rows
+    YamlLoader.sorted_all_company_rows
   end
 
   def initialize(attributes = {})
     attributes.each {|attr, value|
-      self.send("#{attr}=", value)
+      self.send("#{attr}=", value.to_s)
     }
   end
 

@@ -67,9 +67,10 @@ module GoogleSheets
     def export_yaml_files
       load_yearly_data_from_most_recent_zip_file.each do |year, companies|
         %w( summer winter ).each do |season|
-          open("data/companies/#{year}.#{season}.yml", "w") do |f|
-            f.write companies.to_yaml_str(season)
-          end
+          filename = "data/companies/#{year}.#{season}.yml"
+          data = companies.to_yaml_str(season)
+          next unless data.present?
+          open(filename, "w") { |f| f.write data }
         end
       end
     end
