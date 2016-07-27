@@ -1,7 +1,8 @@
 class CompanyRow
   include ActiveModel::Validations
 
-  attr_accessor :name, :url, :status, :cohort, :description, :metadata, :annotation
+  attr_accessor :name, :url, :status, :cohort, :description,
+                :metadata, :options, :annotation
 
   validates_presence_of :name
   validates_format_of :url, :with => /\Ahttps?:\/\//, :allow_blank => true
@@ -16,13 +17,13 @@ class CompanyRow
   end
 
   def initialize(attributes = {})
-    attributes.each {|attr, value|
-      if attr == "annotation"
+    attributes.each do |attr, value|
+      if %w( options annotation ).include?(attr)
         self.send("#{attr}=", value.symbolize_keys)
       else
         self.send("#{attr}=", value.to_s)
       end
-    }
+    end
   end
 
   def ==(company)
@@ -50,6 +51,12 @@ class CompanyRow
 
   def need_favicon?
     url.present? && !has_favicon?
+  end
+
+  def show_url?
+    return false if dead?
+    return false if options && options[:hide_url]
+    true
   end
 
   def dead?

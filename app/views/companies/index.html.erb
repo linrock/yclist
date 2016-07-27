@@ -97,7 +97,7 @@ Email me at linmiao.xu AT gmail.com if you have suggestions!
           </td>
           <td><%= c.name %></td>
           <td>
-            <% unless c.dead? %>
+            <% if c.show_url? %>
               <a href="<%= c.url %>" target="_blank"><%= c.url %></a>
             <% end %>
           </td>

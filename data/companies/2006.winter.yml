@@ -17,10 +17,14 @@
   description: Inkling provides a platform for companies to run their own internal or external prediction marketplaces
 -
   name: Snipshot
-  url:
+  url: http://snipshot.com
   description: Snipshot is a photo editor that lets you start editing any photo with one click of a bookmarklet
   status: Exited
-  metadata: http://www.ansa.com/snipshot/
+  metadata:
+  options:
+    hide_url: true
+  annotation:
+    exit: Acquired by Ark in 2013.
 -
   name: Wufoo
   url: http://wufoo.com

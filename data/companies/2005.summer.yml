@@ -23,11 +23,11 @@
   description: Loopt is a social service that connects people to their community
   status: Exited
   annotation:
-    exit: Acquired by Green Dot for $43.4 MM.
+    exit: Acquired by Green Dot for $43.4MM.
 -
   name: Memamp
   url: 
-  description: 
+  description: A better desktop search solution
   status: Dead
 -
   name: Reddit
@@ -47,4 +47,4 @@
   description: An SMS payment service that lets you send money to other people using cell phone text messaging
   status: Exited
   annotation:
-    exit: Acquired by Amazon for ~$3 MM
+    exit: Acquired by Amazon for ~$3MM.

@@ -81,9 +81,13 @@
   status: Dead
 -
   name: Hackermeter
-  url:
+  url: http://www.hackermeter.com
   description: Hackermeter pairs talented developers with great jobs
   status: Exited
+  annotation:
+    exit: Acquired by Pinterest.
+  options:
+    hide_url: true
   metadata: Acquired by Pinterest - https://techcrunch.com/2013/10/11/pinterest-acquires-hackermeter-right-out-of-the-gate-will-shut-it-down
 -
   name: Hum
