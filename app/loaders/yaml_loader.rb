@@ -33,7 +33,6 @@ module YamlLoader
       return unless klass > 0
       options[:filename] = "data/companies/fellowship.v#{klass}.yml"
       options[:cohort] = "F#{klass}"
-      puts options
     else
       options[:filename] = "data/companies/#{year}.#{season}.yml"
       options[:cohort] = "#{season[0].capitalize}#{year.to_s[-2..-1]}"
