@@ -1,0 +1,398 @@
+-
+  name: TenantTurner
+  url: http://tenantturner.com
+  description: Fewer showings, faster leases, better tenants, and happier owners
+  metadata: funding = $500,000
+-
+  name: Triplebyte
+  url: http://triplebyte.com
+  description: We're building a new kind of interview, evaluating tech skills, not credentials
+  metadata: funding = $3,000,000
+-
+  name: Gigster
+  url: http://trygigster.com
+  description: Hire an elite development team in minutes
+-
+  name: Maderight
+  url: http://maderight.com
+  description: Apparel sourcing, production, and logistics for the modern age
+-
+  name: SourceDNA
+  url: http://sourcedna.com
+  description: Code transparency for platform & app developers
+-
+  name: Jopwell
+  url: https://www.jopwell.com
+  description: Land your dream job or internship
+-
+  name: Instawork
+  url: https://www.instawork.com
+  description: The best place to find restaurant jobs
+-
+  name: Interviewed
+  url: https://www.interviewed.com
+  description: Combine structured job assessments and employee testing to identify the strongest job candidates
+-
+  name: Nebia
+  url: https://nebia.com
+  description: Experience water. You've taken thousands of showers, but never one like this
+-
+  name: GovPredict
+  url: https://govpredict.com
+  description: GovPredict organizes, tracks, and predicts legislative and political activity
+-
+  name: Gemnote
+  url: http://www.gemnote.com
+  description: Premium corporate gifting made easy
+-
+  name: Branch8
+  url: https://www.branch8.com
+  description: One plae to sell on every marketplace in the world
+-
+  name: Flirtey
+  url: http://flirtey.com
+  description: Flirtey is making drone delivery possible for everyone
+-
+  name: Markhor
+  url: http://themarkhor.com
+  description: Markhor makes shoes with attention to details
+-
+  name: VIVE
+  url: https://vive.co
+  description: The best way to book blowouts today, tomorrow, or next week
+-
+  name: Shotput
+  url: https://shotput.com
+  description: Effortlessly get products to customers across the world
+-
+  name: TetraScience
+  url: http://tetrascience.com
+  description: Mission control for your lab
+-
+  name: Bitmovin
+  url: https://bitmovin.com
+  description: Video infrastructure for the web
+-
+  name: CareLedger
+  url: http://www.careledger.com
+  description: Get free medical care. Find great doctors for tests and procedures
+-
+  name: Scentbird
+  url: http://scentbird.com
+  description: The thrill of new scents. 30-day supply of any designer fragrance every month
+-
+  name: Second Measure
+  url: https://secondmeasure.com
+  description: See inside companies. Get an edge from consumer spending data
+-
+  name: Tab
+  url: http://tabmoney.com
+  description: Powering local tourism, everywhere
+-
+  name: Greenshoe
+  url: http://getsaida.com
+  description: Cash for your everyday needs
+-
+  name: Oolu
+  url: http://oolusolar.com
+  description: Oolu is an innovative off-grid solar company operating in West Africa
+-
+  name: Ohm
+  url: http://www.getohm.com
+  description: Ohn is a drop-in replacement for your car battery
+-
+  name: Serica
+  url: https://sericapay.com
+  description: SericaPay makes it easy for customers to feel confident and secure to buy products they need
+-
+  name: Captain 401
+  url: https://captain401.com
+  description: The automated, affordable 401(k)
+-
+  name: Supply
+  url: http://www.madebysupply.com
+  description: Wireless power, through the air
+-
+  name: AppCanary
+  url: https://appcanary.com
+  description: Appcanary monitors your apps and servers, and notifies you whenever you're vulnerable
+-
+  name: The Ticket Fairy
+  url: https://theticketfairy.com
+  description: Buying tickets to events just got a whole lot better
+-
+  name: VOIQ
+  url: http://www.voiq.com
+  description: Professional sales call agents teeing-up qualified leads for your sales team
+-
+  name: Shred Video
+  url: http://shredvideo.com
+  description: 1-button video editing
+-
+  name: Heroic Labs
+  url: https://heroiclabs.com
+  description: Backend for game developers. Power your games' achievements, leaderboards, multiplayer, and more
+-
+  name: Seva Coffee
+  url: http://www.sevacoffee.com
+  description: Passion for the art of coffee, and the art of precision engineering
+-
+  name: Cloudstitch
+  url: http://cloudstitch.io
+  description: Build and share spreadsheet-powered apps that work anywhere
+-
+  name: Klarismo
+  url: http://www.klarismo.com
+  description: Measure and track your health and fitness potential
+-
+  name: InnerSpace
+  url: http://www.helloinnerspace.org
+  description: A community of founders committed to building companies as great as their products
+-
+  name: teaBOT
+  url: http://www.teabot.com
+  description: Experience loose leaf tea in a completely new way
+-
+  name: Vernox Labs
+  url: http://www.vernoxlabs.com
+  description: Construction project planning simplified
+-
+  name: Traversal Networks
+  url: http://traversalnetworks.com
+  description: A new form of network intrusion detection system designed to catch unknown threats
+-
+  name: Zeplin
+  url: http://zeplin.io
+  description: Build pixel perfect apps in peace. Design hand-off has never been easier
+-
+  name: Tesorio
+  url: https://www.tesorio.com
+  description: Saving for buyers. Early payments for vendors
+-
+  name: GO1
+  url: https://www.go1.com
+  description: Train your team quickly and easily!
+-
+  name: Smyte
+  url: https://www.smyte.com
+  description: Our trust and safety system stops scams, spam, harassment and credit card fraud before they happen
+-
+  name: Bistrobot
+  url: http://bistrobot.com
+  description: Bistrobot makes robots that make sandwiches
+-
+  name: Click & Grow
+  url: http://www.clickandgrow.com
+  description: Our smart gardens make it easy to access top-quality ingredients 24/7
+-
+  name: Breakout Room
+  url: http://breakoutroom.co
+  description: Instant replay for mobile apps. Record and replay every user interaction
+-
+  name: OnboardIQ
+  url: https://onboardiq.com
+  description: The most advanced hiring platform for screening and managing a modern workforce, all in one place
+-
+  name: Drip Capital
+  url: http://dripcapitalef.com
+  description: Future of global trade finance
+-
+  name: Auro Robotics
+  url: http://aurobots.com
+  description: Driverless shuttles. Safe and modern solution for in-campus travel
+-
+  name: Roomblocker
+  url: http://www.roomblocker.com
+  description: Book hotels for groups and events. No fees or markups
+-
+  name: Sywork
+  url: https://sywork.tv
+  description: Watch live illustrators. The journey is long, but it doesn't have to be lonely
+-
+  name: Instant eSports
+  url: http://instantesports.com
+  description: Keep up with the latest eSports news
+-
+  name: New Story Charity
+  url: http://newstorycharity.org
+  description: We transform slums into sustainable communities. One home at a time with video proof
+-
+  name: Plate Joy
+  url: http://platejoy.com
+  description: The happy way to cook & feel great
+-
+  name: ScopeAR
+  url: http://scopear.com
+  description: Putting knowledge where you need it
+-
+  name: Afrostream
+  url: https://afrostream.tv/en
+  description: The best black films and TV series
+-
+  name: Fonticons
+  url: https://fonticons.com
+  description: Build and manage icons and typefaces in a single place, then serve them with a single line of code
+-
+  name: Livecoding.tv
+  url: https://www.livecoding.tv
+  description: The world's leading coding livestreaming platform
+-
+  name: Paribus
+  url: https://paribus.co
+  description: Find out for free if online stores owe you a refund
+-
+  name: Ironclad
+  url: https://www.ironcladapp.com
+  description: An automated assistant that manages legal paperwork for your company
+-
+  name: Mimir
+  url: https://mimirhq.com
+  description: We build amazing tools for education
+-
+  name: PlateIQ
+  url: http://plateiq.com
+  description: Automate your restaurant finances
+-
+  name: Gravitational
+  url: http://gravitational.com
+  description: Appliations delivered as a service on any infrastructure
+-
+  name: Leada
+  url: https://www.teamleada.com
+  description: Remove roadblocks to your data
+-
+  name: Foxpass
+  url: https://www.foxpass.com
+  description: Increases your organization's network security by ensuring employee accounts have access only to what they need
+-
+  name: Get Scale
+  url: http://getscale.com
+  description: Automated recording of your factory's testing
+-
+  name: Verge Genomics
+  url: http://www.vergegenomics.com
+  description: We use genomic data to find better drugs, faster
+-
+  name: Xfers
+  url: http://www.xfers.io
+  description: Automate your online banking transactions
+-
+  name: L. International
+  url: https://thisisl.com
+  description: For every condom you buy, one is donated to a female entrepreneur in a developing country in need
+-
+  name: 80000 Hours
+  url: https://80000hours.org
+  description: Find a fulfilling career that does good
+-
+  name: Luna Sleep
+  url: http://lunasleep.com
+  description: A premium brand of mattress protection products
+-
+  name: Wheelys Cafe
+  url: http://www.wheelyscafe.com
+  description: Organic cafes
+-
+  name: Cofactor Genomics
+  url: http://cofactorgenomics.com
+  description: Using RNA to diagnose disease
+-
+  name: Ross Intelligence
+  url: http://www.rossintelligence.com
+  description: ROSS is an A.I. lawyer that helps human lawyers research faster and focus on advising clients
+-
+  name: Chaldal
+  url: https://chaldal.com
+  description: An online shop in Dhaka, Bangladesh
+-
+  name: Circle Medical
+  url: http://circlemedical.co
+  description: The doctor's office that comes to you
+-
+  name: Transcend Lighting
+  url: http://www.transcendlighting.com
+  description: The world's most efficient LED grow lights
+-
+  name: Convox
+  url: http://convox.com
+  description: Build, deploy, and manage applications with ease
+-
+  name: Bizzy.io
+  url: http://bizzy.io
+  description: The smartest way to boost conversions from your email list
+-
+  name: Eden
+  url: http://edentech.co
+  description: Make your office work like magic
+-
+  name: Vest
+  url: https://www.vestfin.com
+  description: Invest in peace of mind. Vest builds protected investments
+-
+  name: BlueCrew
+  url: https://www.bluecrewjobs.com
+  description: Find work that fits your. Build a flexible career with BlueCrew
+-
+  name: Open Invest
+  url: https://openinvest.co
+  description: Invest with your values. Grow your nest egg with peace of mind
+-
+  name: Xendit
+  url: https://www.xendit.co
+  description: Pay and get paid, instantly, for free
+-
+  name: MicroHealth
+  url: https://microhealth.com
+  description: We help people using biologic meds to succeed in treatment
+-
+  name: Call9
+  url: http://callnine.com
+  description: Providing quality, compassionate emergency medical care to the people you love most
+-
+  name: Give Campus
+  url: https://www.givecampus.com
+  description: A social fundraising and engagement platform that empowers educational institutions
+-
+  name: ShapeScale
+  url: http://www.shapescale.com
+  description: Digitize your body in 3D. Know exactly where you lose fat and gain muscle
+-
+  name: Hickory
+  url: http://hickorytraining.com
+  description: A training tool focused on retention, turning your sales and customer service staff into brand experts
+-
+  name: Bodyport
+  url: http://bodyport.com
+  description: One step. Your whole health picture
+-
+  name: Willing
+  url: http://willing.com
+  description: The best free way to make your legal will online
+-
+  name: zPREDICTA
+  url: http://zpredicta.com
+  description: We create technology to reconstruct physiologically relevant organ-specific human microenvironments
+-
+  name: GrowSumo
+  url: http://www.growsumo.com
+  description: Get paid to recommend products you love
+-
+  name: RedCarpetUp
+  url: https://www.redcarpetup.com
+  description: Get instant credit for any online purchase
+-
+  name: Lugg
+  url: http://lu.gg
+  description: We load, haul & deliver anything for you. With a few taps, a truck and movers are headed your way in minutes!
+-
+  name: Cymmetria
+  url: http://www.cymmetria.com
+  description: A comprehensive cyber deception solution
+-
+  name: Her
+  url: https://weareher.com
+  description: Join your community in California and worldwide
+-
+  name: PickTrace
+  url: http://picktrace.com
+  description: Fast, affordable PTI compliance. PickTrace was created with the farmer in mind
