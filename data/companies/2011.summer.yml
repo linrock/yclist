@@ -24,7 +24,7 @@
   description: Codecademy is a web-based programming tutorial designed to teach JavaScript, HTML, CSS, JQuery and Python
 -
   name: DebtEye
-  url: http://www.debteye.com
+  url:
   description: We are an automated credit counseling solution to help customers get out of debt, a little like a “turbo tax” for those who need debt relief.
   status: Dead
 -

@@ -12,8 +12,9 @@
   description: InboxQ is a browser extension that delivers a persistent stream of questions from Twitter directly to you.
 -
   name: Browsarity
-  url: http://www.browsarity.com
+  url:
   description: Browsarity.com is a browser application that allows people to donate to charity while shopping online.
+  status: Dead
 -
   name: CardPool
   url: http://www.cardpool.com
