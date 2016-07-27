@@ -11,7 +11,10 @@ $.tablesorter.addParser
   id: 'cohort'
   is: -> true
   format: (s) ->
-    "#{s[1..-1]}#{if s[0] == "W" then 0 else 1}"
+    if s[0] == "F"
+      "165"
+    else
+      "#{s[1..-1]}#{if s[0] == "W" then 0 else 9}"
   type: 'numeric'
 
 
