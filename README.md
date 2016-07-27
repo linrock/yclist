@@ -34,3 +34,4 @@ Thanks to everyone who's helped out!
 - [AaronMorais](https://github.com/AaronMorais)
 - [nicholasbs](https://github.com/nicholasbs)
 - [blairanderson](https://github.com/blairanderson)
+- [tedmiston](https://github.com/tedmiston)
