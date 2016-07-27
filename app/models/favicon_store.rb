@@ -3,7 +3,7 @@ class FaviconStore
 
   def initialize(url)
     @key = store_key(url)
-    @base_dir = Rails.root.join("favicons/companies")
+    @base_dir = Rails.root.join("data/favicons")
   end
 
   def get

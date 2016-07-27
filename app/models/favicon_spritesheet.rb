@@ -10,7 +10,7 @@ class FaviconSpritesheet
 
   def generate!
     `mkdir -p /tmp/yclist/favicons/`
-    merge_list = [Rails.root.join("favicons/transparent-16x16.png")]
+    merge_list = [Rails.root.join("data/favicons/transparent-16x16.png")]
     sprite_index = 1
     i = 0
     @css = ".c-icon { background: url(<%= asset_path 'favicons.png' %>) no-repeat;
