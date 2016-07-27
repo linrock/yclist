@@ -1,38 +1,41 @@
 -
   name: 1000Memories
   url:
-  description: 1000memories is the new shoebox for your old photos.
+  description: 1000memories is the new shoebox for your old photos
   status: Exited
+  annotation:
+    exit: Acquired by Ancestry in 2012.
 -
   name: AdGrok
   url:
-  description: AdGrok allows business owners to automate the process of choosing and bidding on keywords on Google AdWords.
+  description: AdGrok allows business owners to automate the process of choosing and bidding on keywords on Google AdWords
   status: Exited
+  annotation:
+    exit: Acquired by Twitter in 2011.
 -
   name: AeroFS
   url: http://www.aerofs.com
-  description: AeroFS is a program where users are able to manage and store their files and data in a cloud-like platform.
+  description: AeroFS is a program where users are able to manage and store their files and data in a cloud-like platform
 -
   name: AnyList
   url: https://www.anylistapp.com
-  description: The best way to create and share a grocery shopping list and organize your recipes.
+  description: The best way to create and share a grocery shopping list and organize your recipes
 -
   name: Brushes
   url: http://brushesapp.com
-  description: Brushes is a painting app designed exclusively for the iPhone, iPod touch, and iPad.
+  description: Brushes is a painting app designed exclusively for the iPhone, iPod touch, and iPad
 -
   name: Chart.io
-  url: http://chart.io
-  description: Chart.io helps businesses analyze and track their critical data.
+  url: https://chartio.com
+  description: Analytics for everyone. A platform for everyone to explore and visualize data
 -
   name: Crowdbooster
   url: http://crowdbooster.com
-  description: Crowdbooster provides the world's first intelligent social media dashboard designed to help businesses effectively grow and manage their presence online.
+  description: An intelligent social media dashboard designed to help businesses effectively grow and manage their presence online
 -
-  name: Dotcloud
-  url: http://www.dotcloud.com
-  description: DotCloud is a 2nd-generation platform-as-a-service.
-  status: Exited
+  name: Docker
+  url: http://www.docker.com
+  description: A software containerization platform. Formerly dotCloud
 -
   name: E la Carte
   url: http://elacarte.com
@@ -40,29 +43,33 @@
 -
   name: FanVibe
   url:
-  description: Check-in to games to chat and trash-talk with friends who are also watching.
+  description: A social platform for watching sports and communicating with others who are watching the same game
   status: Exited
+  annotation:
+    exit: Acquired by beRecruited in 2011.
 -
   name: FutureAdvisor
   url: https://www.futureadvisor.com
-  description: FutureAdvisor was founded in 2010 on the premise that investing for your future does not have to be difficult or expensive.
+  description: You already have investment accounts, we help make them smarter
 -
   name: Gantto
   url: http://gantto.com
-  description: Gantto was conceived to fill one obvious gap in our weekly management routine.
+  description: Gantto was conceived to fill one obvious gap in our weekly management routine
 -
   name: GazeHawk
   url: http://www.gazehawk.com
-  description: GazeHawk is a Y Combinator-funded company that provides eye tracking services using ordinary webcams.
+  description: Eeye tracking services using ordinary webcams
   status: Exited
+  annotation:
+    exit: Acquired by Facebook.
 -
   name: GinzaMetrics
   url: http://ginzametrics.com
-  description: Ginzametrics makes enterprise SEO simple and easy to manage.
+  description: Ginzametrics makes enterprise SEO simple and easy to manage
 -
   name: Hipmunk
   url: http://www.hipmunk.com
-  description: Hipmunk is a travel search site that aims to take the agony out of travel planning.
+  description: Hipmunk is a travel search site that aims to take the agony out of travel planning
 -
   name: I Move You
   url: 
@@ -71,41 +78,43 @@
 -
   name: Indinero
   url: http://indinero.com
-  description: Accounting, taxes & payroll. One solution. inDinero is your company's accounting department.
+  description: Accounting, taxes & payroll. One solution. inDinero is your company's accounting department
 -
   name: Koduco
   url:
-  description: Koduco makes iPad games that focus on multiplayer collaboration on the same device.
+  description: Koduco makes iPad games that focus on multiplayer collaboration on the same device
   status: Dead
 -
   name: Leftronic
   url: https://www.leftronic.com
-  description: Leftronic is a Y Combinator-funded company that develops a web-based real-time dashboard application for monitoring a company's most important data.
+  description: Leftronic develops a web-based real-time dashboard application for monitoring a company's most important data
 -
   name: MessageParty
   url: http://messageparty.com
-  description: MessageParty is a new kind of mobile blogging service.
+  description: MessageParty is a new kind of mobile blogging service
 -
   name: OhLife
   url: http://ohlife.com
-  description: Write in private about your life.
+  description: Write in private about your life
 -
   name: Opzi
   url: http://www.opzi.com
-  description: Opzi is creating software to make corporate knowledge accessible.
+  description: Opzi is creating software to make corporate knowledge accessible
 -
   name: PagerDuty
   url: http://www.pagerduty.com
-  description: PagerDuty is an alarm dispatching service for system administrators and support teams.
+  description: PagerDuty is an alarm dispatching service for system administrators and support teams
 -
   name: Rapportive
   url: http://rapportive.com
-  description: Rapportive shows you everything about your contacts right inside your inbox.
+  description: Rapportive shows you everything about your contacts right inside your inbox
   status: Exited
+  annotation:
+    exit: Acquired by LinkedIn.
 -
   name: ReadyForZero
   url: https://www.readyforzero.com
-  description: ReadyForZero creates online financial software that helps people control and reduce debt.
+  description: ReadyForZero creates online financial software that helps people control and reduce debt
 -
   name: Simperium
   url: http://simplenoteapp.com
@@ -113,11 +122,11 @@
 -
   name: Stripe
   url: https://stripe.com
-  description: Stripe is a simple, developer-friendly way to accept payments online.
+  description: Stripe is a simple, developer-friendly way to accept payments online
 -
   name: Tapzilla
   url: http://tapzilla.com
-  description: TapZilla is a Y Combinator-backed company that launched October 13, 2010 and is taking the daily deal model and applying it to discounts on paid mobile apps.
+  description: Taking the daily deal model and applying it to discounts on paid mobile apps
 -
   name: Teevox
   url: http://teevox.com
@@ -125,18 +134,20 @@
 -
   name: The Fridge
   url: http://www.frid.ge
-  description: The Fridge is a platform for lightweight single serving social networks for the functionality of Facebook without being on Facebook.
+  description: The Fridge is a platform for lightweight single serving social networks for the functionality of Facebook
   status: Exited
+  annotation:
+    exit: Acquired by Google.
 -
   name: The Recurse Center
   url: https://www.recurse.com
-  description: The Recurse Center is a free, self-directed, educational retreat for people who want to get better at programming. Formerly Hacker School
+  description: A free, self-directed, educational retreat for people who want to get better at programming. Formerly Hacker School
   metadata: https://www.recurse.com/blog/77-hacker-school-is-now-the-recurse-center
 -
   name: Whereoscope
   url: http://whereoscope.com
-  description: Whereoscope is a service designed to help parents keep know where their kids are.
+  description: Whereoscope is a service designed to help parents keep know where their kids are
 -
   name: Workflowy
   url: http://workflowy.com
-  description: WorkFlowy is a tool for organizing your brain.
+  description: WorkFlowy is a tool for organizing your brain

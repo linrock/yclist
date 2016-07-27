@@ -10,6 +10,7 @@
   name: Balanced Payments
   url: https://www.balancedpayments.com
   description: Payments for marketplaces. Pay sellers, campaign organizers and service providers.
+  status: Dead
 -
   name: Beetailer
   url: http://www.beetailer.com
@@ -24,12 +25,13 @@
   description: Chirply is a platform for crowd-sourcing & crowd-curating design.
 -
   name: Circle
-  url: http://discovercircle.com
-  description: Know when your friends & networks are nearby, wherever you are, no matter where you go. Circle tells you when your friends, or people from your networks (college, work, hometown, professional group, etc.), are near you.
+  url:
+  description: Know when your friends & networks are nearby, wherever you are, no matter where you go
+  status: Dead
 -
   name: Comprehend Systems
   url: http://www.comprehend.com
-  description: Comprehend Systems is the maker of Comprehend Clinical, which is a reporting and visualization tool which runs against multiple databases in real time, while leaving the data in place.
+  description: A reporting and visualization tool which runs against multiple databases in real time, while leaving the data in place
 -
   name: Curebit
   url: http://www.curebit.com
@@ -62,8 +64,10 @@
 -
   name: Grove
   url: https://grove.io
-  description: Hosted IRC and so much more.
+  description: Hosted IRC and so much more
   status: Exited
+  annotation:
+    exit: Acquired by Revolution Systems
 -
   name: GrubWithUs
   url: http://grubwithus.com
@@ -101,6 +105,8 @@
   url: http://www.mailgun.net
   description: Mailgun provides a web service for integrating email inboxes into apps.
   status: Exited
+  annotation:
+    exit: Acquired by Rackspace in 2012.
 -
   name: Meetings.io
   url: http://meetings.io
@@ -139,6 +145,8 @@
   url: http://sendoid.com
   description: Sendoid is an on-demand peer to peer transfer system.
   status: Exited
+  annotation:
+    exit: Acquired by Facebook in 2012.
 -
   name: SwipeGood
   url: https://swipegood.com
@@ -148,6 +156,8 @@
   url: http://www.talkbin.com
   description: TalkBin is a feedback platform for local businesses.
   status: Exited
+  annotation:
+    exit: Acquired by Google.
 -
   name: Taskforce
   url: http://siasto.com
@@ -175,8 +185,8 @@
 -
   name: YouGotListings
   url: http://www.yougotlistings.com
-  description: YouGotListings is the online rental technology platform that provides real estate offices and landlords with the easy-to-learn tools to enhance their professional lives.
+  description: The online rental technology platform that provides real estate offices and landlords with easy-to-learn tools
 -
   name: ZeroCater
   url: http://zerocater.com
-  description: ZeroCater makes it easy for companies to enjoy meals delivered from the best local restaurants, caterers and private chefs.
+  description: ZeroCater makes it easy for companies to enjoy meals delivered from the best local restaurants, caterers and private chefs

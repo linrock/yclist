@@ -8,23 +8,24 @@
 -
   name: 8aweek
   url: http://8aweek.com
-  description: 8aweek is a Firefox extension that monitors surfing behavior to let you know when you spend too much time on time wasting sites.
+  description: A Firefox extension that monitors surfing behavior to let you know when you spend too much time on time wasting sites
 -
   name: Addmired
   url: http://www.addmired.com
-  description: Addmired, Inc. is a software company in Palo Alto, CA, focused on creating new and engaging applications and games for users of social networks and mobile devices.
+  description: A company that creates new and engaging applications and games for users of social networks and mobile devices
 -
   name: Chatterous
   url: http://www.chatterous.com
-  description: Chatterous is a communications service that aims to allow groups of friends to stay in contact with each other synchronously through any communications channel.
+  description: Group chat using the web, IM, email, or phone
 -
   name: Deluux
   url: http://deluux.com
-  description: Deluux aims to become distributed Facebook, or inverted Ning, by relocating the center of peoples' online identities to their websites, which exist outside of any one social network.
+  description: Deluux aims to relocate the center of peoples' online identities to their personal websites instead of a single social network
+  status: Dead
 -
   name: FathomDB
   url: http://www.fathomdb.com
-  description: FathomDB offers databases as a service, taking care of many of the day-to-day tasks database administrators have to deal with and letting them focus on more complex issues.
+  description: Databases as a service, taking care of the many tasks database admins deal with, and letting them focus on more complex issues
 -
   name: Heroku
   url: http://www.heroku.com
@@ -38,26 +39,26 @@
   description: Insoshi is an open-source open networking platform.
 -
   name: Joberator
-  url: http://apps.facebook.com/joberator
-  description: Joberator will help employers find developer talent by encouraging computer science students to refer their developer friends, of whom they have more intimate knowledge than any professional recruiter.
+  url: http://joberator.com
+  description: A search, recruitment and talent acquisition platform connecting skilled professionals with in-demand employers
 -
   name: Kirkland North
   url: 
-  description: Kirkland North is taking an infectious campus-wide game that it ran at Yale and Harvard last year and spreading it to other campuses around the country.
+  description: A game that pits sections of campuses against each other in a virtual battle for university-wide domination
   status: Dead
 -
   name: MightyQuiz
   url: http://mightyquiz.com
-  description: MightyQuiz powers a collection of user generated quiz questions that can be answered and rated on-site or through a distributable widget.
+  description: User-generated quiz questions that can be answered and rated on-site or through a distributable widget
 -
   name: Mixwit
   url: 
-  description: Mixwit describes itself as a combination of Slide and iTunes.
+  description: Mixwit describes itself as a combination of Slide and iTunes
   status: Dead
 -
   name: Ninite
   url: http://ninite.com
-  description: The easiest, fastest way to update or install software. Ninite downloads and installs programs automatically in the background.
+  description: The easiest, fastest way to update or install software
 -
   name: Omnisio
   url: http://omnisio.com
@@ -68,27 +69,27 @@
 -
   name: RescueTime
   url: http://rescuetime.com
-  description: RescueTime is a frictionless web-based time management tool that keeps track of what you do and for how long when you are on your computer.
+  description: A web-based time management tool that keeps track of what you do and for how long when you are on your computer
 -
   name: Snaptalent
   url: 
-  description: Snaptalent powers a distributed job advertisement network primarily meant for developer listings.
+  description: Snaptalent powers a distributed job advertisement network primarily meant for developer listings
   status: Dead
 -
   name: Tipjoy
   url: 
-  description: Tipjoy is a simple, social payments engine that allows merchants to sell digital content and features, charities to raise money for causes, and individuals to give money to one another.
+  description: A social payments engine that allowed userse to easily collect 'tips' from their followings as Paypal transfers
   status: Dead
 -
   name: Webmynd
   url: http://webmynd.com
-  description: WebMynd is a Y Combinator-funded startup launched in January 2008.
+  description: A browser plugin that tries to improve the way you search
 -
   name: Wundrbar
   url: 
-  description: Wundrbar wants to improve upon the search bar experience by providing users with powerful inline commands.
+  description: Wundrbar wants to improve upon the search bar experience by providing users with powerful inline commands
   status: Dead
 -
   name: YumDots
   url: http://yumdots.com
-  description: YumDots wants to be the go-to mobile application for finding places to eat when out on the town.
+  description: YumDots wants to be the go-to mobile application for finding places to eat when out on the town

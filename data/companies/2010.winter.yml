@@ -29,6 +29,8 @@
   url: http://www.crocodoc.com
   description: Crocodoc is the trusted leader in HTML5 document viewing.
   status: Exited
+  annotation:
+    exit: Acquired by Box.
 -
   name: Cue
   url: https://www.cueup.com

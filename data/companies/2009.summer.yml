@@ -1,7 +1,10 @@
 -
   name: Bump
   url: http://bu.mp
-  description: Bump Technologies builds mobile applications and APIs that allow two smartphones to identify one another and connect by simply being bumped together.
+  description: Mobile applications and APIs that allow two smartphones to identify each other and connect by being bumped together
+  status: Exited
+  annotation:
+    exit: Acquired by Google in 2013.
 -
   name: CarWoo
   url: http://carwoo.com
@@ -11,10 +14,12 @@
   url: http://dailybooth.com
   description: DailyBooth lets users follow their friends and update them in real-time through the use of pictures and status updates.
   status: Exited
+  annotation:
+    exit: Acquired by Airbnb in 2012.
 -
   name: DirectedEdge
   url: http://www.directededge.com
-  description: Directed Edge delivers Amazon-like “People who bought this also bought…” and “We think you'd also like”-style recommendations to other sites, using existing data being collected such as purchase or click histories.
+  description: Directed Edge delivers e-commerce and social recommendations using existing data such as purchase or click histories
 -
   name: FanChatter
   url: http://fanchatter.com
@@ -22,13 +27,17 @@
 -
   name: Flightcaster
   url: http://www.flightcaster.com
-  description: FlightCaster predicts flight delays.
+  description: FlightCaster predicts flight delays
   status: Exited
+  annotation:
+    exit: Acquired by Next Jump in 2011.
 -
   name: GraffitiGeo
   url: http://graffitigeo.com
-  description: At its core GraffitiGeo allows users to leave brief reviews of restaurants, or for those too lazy to do that, to simply leave a thumbs up or thumbs down. It's like a highly condensed version of Yelp, or a Digg for the world
+  description: Users leave brief reviews of restaurants, or just a thumbs up or thumbs down, like a highly condensed version of Yelp
   status: Exited
+  annotation:
+    exit: Acquired by Loopt.
 -
   name: HighlightCam
   url: http://highlightcam.com
@@ -49,8 +58,10 @@
 -
   name: Lingt
   url: http://www.lingt.com
-  description: Lingt is a service for learning languages that takes advantage of gameplay mechanics to keep users coming back for more.
+  description: Lingt is a service for learning languages that helps teachers enable their students to speak
   status: Exited
+  annotation:
+    exit: Acquired by dictionary.com in 2010.
 -
   name: Listia
   url: http://www.listia.com
@@ -66,7 +77,7 @@
 -
   name: Mixpanel
   url: http://www.mixpanel.com
-  description: Mixpanel is an advanced analytics service that helps improve web and mobile applications by tracking how users interact & engage with them.
+  description: Mixpanel is an advanced analytics service that helps improve web and mobile applications by tracking how users interact & engage with them
 -
   name: Olark
   url: http://www.olark.com
@@ -83,7 +94,7 @@
 -
   name: RethinkDB
   url: http://www.rethinkdb.com
-  description: RethinkDB is designed to be extremely fast, and implements powerful features that are cumbersome and inefficient with rotational storage.
+  description: RethinkDB is designed to be extremely fast, and implements powerful features that are cumbersome and inefficient with rotational storage
 -
   name: Tuxebo
   url: http://www.tuxebo.co.uk
@@ -91,7 +102,7 @@
 -
   name: Wakemate
   url: http://www.wakemate.com
-  description: WakeMate makes personalized alarm clocks that sync with both a user's body and their cell phone, enabling the iPhone alarm system to sound at the end of a REM cycle.
+  description: Personalized alarm clocks that sync with a user's body and their iPhone, enabling the alarm to sound after a REM cycle
 -
   name: WePay
   url: https://www.wepay.com
