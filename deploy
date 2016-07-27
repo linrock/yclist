@@ -11,7 +11,7 @@ end
 
 
 puts "Deploying assets and html to production..."
-`rsync -avzP #{Rails.root.join("public").to_s}/ #{remote_host}:#{remote_path}`
+`rsync -avzP public/ #{remote_host}:#{remote_path}`
 commands = [
   "cd #{remote_path}",
   "mv exported.html index.html",
