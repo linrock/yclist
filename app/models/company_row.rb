@@ -64,6 +64,10 @@ class CompanyRow
     end
   end
 
+  def status_class
+    status&.downcase || "operating"
+  end
+
   def status_str
     status == "Operating" && "" || status
   end
