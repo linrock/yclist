@@ -5,7 +5,7 @@ class CompanyRow
 
   validates_presence_of :name
   validates_format_of :url, :with => /\Ahttps?:\/\//, :allow_blank => true
-  validates_format_of :cohort, :with => /\A(S|W)\d+\z/
+  validates_format_of :cohort, :with => /\A(S|F|W)\d+\z/
   validates_inclusion_of :status, :in => %w( Operating Dead Exited ), :allow_blank => true
 
 
@@ -53,7 +53,11 @@ class CompanyRow
   end
 
   def cohort_season
-    cohort[0] == "W" ? "winter" : "summer"
+    case cohort[0]
+    when "W" then "winter"
+    when "S" then "summer"
+    when "F" then "fellowship"
+    end
   end
 
   def status_str

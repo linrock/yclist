@@ -4,7 +4,13 @@
 @import "bourbon";
 
 
-* { @include box-sizing(border-box); }
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 
 body {
   height: 100%;
@@ -59,6 +65,9 @@ td {
   }
   &.winter {
     color: #bbb;
+  }
+  &.fellowship {
+    color: #2b6cc2;
   }
   &.summer {
     color: orange;
