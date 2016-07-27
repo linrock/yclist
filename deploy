@@ -1,3 +1,20 @@
-#!/bin/bash
+#!/usr/bin/env ruby
 
-rake app:deploy:all
+
+remote_host = ENV["DEPLOY_HOST"]
+remote_path = ENV["DEPLOY_PATH"]
+
+unless remote_host && remote_path
+  puts "Must define DEPLOY_HOST and DEPLOY_PATH"
+  exit 1
+end
+
+
+puts "Deploying assets and html to production..."
+`rsync -avzP #{Rails.root.join("public").to_s}/ #{remote_host}:#{remote_path}`
+commands = [
+  "cd #{remote_path}",
+  "mv exported.html index.html",
+  "mv exported.html.gz index.html.gz"
+]
+`ssh #{remote_host} "#{commands.join(" ; ")}"`
