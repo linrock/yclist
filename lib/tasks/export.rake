@@ -10,9 +10,11 @@ namespace :app do
       output_file = Rails.root.join('public/exported.html')
       `rm -f #{output_file} #{output_file}.gz`
       app = ActionDispatch::Integration::Session.new(Yclist::Application)
+      sleep 1
       status_code = app.get '/'
       html = app.body
       raise "HTML export failed - #{status_code}" unless html.length > 0
+      raise "HTML export failed - asset digest missing" unless html =~ /application-[a-z0-9]{64}/
       open(output_file, 'w') {|f| f.write html }
       `gzip -c -9 #{output_file} > #{output_file}.gz`
       puts "exported.html:     #{`du -hs #{output_file}`}"
