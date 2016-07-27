@@ -8,7 +8,10 @@ https://docs.google.com/spreadsheets/d/1OoT1PjIQHLsBZ955rceXN8Sy2_49fuc_MOl2sTQw
 
 ## Contributing
 
-Help keep YC List up-to-date! Feel free to file [an issue](https://github.com/linrock/yclist) to suggest changes
+Help keep YC List up-to-date! You can:
+
+* Open a pull request that directly changes [a company data file](https://github.com/linrock/yclist/tree/master/data/companies)
+* File [an issue](https://github.com/linrock/yclist) to suggest changes
 
 
 ## Contributors
@@ -30,3 +33,4 @@ Thanks to everyone who's helped out!
 - [ClemMakesApps](https://github.com/ClemMakesApps)
 - [AaronMorais](https://github.com/AaronMorais)
 - [nicholasbs](https://github.com/nicholasbs)
+- [blairanderson](https://github.com/blairanderson)
