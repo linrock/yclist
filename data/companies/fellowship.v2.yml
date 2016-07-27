@@ -56,8 +56,9 @@
   description: Tinder for private networks
 -
   name: Pramp
-  url: http://pramp.com
-  description: P2P practice for livecoding interviews
+  url: https://www.pramp.com
+  description: A free peer-to-peer technical mock interviewing platform for engineers
+  metadata: https://www.crunchbase.com/organization/pramp
 -
   name: Queen B Robotics
   url: http://queenb-robotics.com
