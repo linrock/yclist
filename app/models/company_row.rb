@@ -10,7 +10,8 @@ class CompanyRow
 
 
   def self.all
-    # GoogleSheets::ZipballLoader.sorted_all_company_rows
+    # GsZipballLoader.sorted_all_company_rows
+    # GsPublishedPageLoader.sorted_all_company_rows
     YamlLoader.sorted_all_company_rows
   end
 
