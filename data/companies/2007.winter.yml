@@ -1,36 +1,42 @@
 -
   name: Auctomatic
   url: http://auctomatic.com
-  description: Auctomatic, a Y Combinator company, offers an auction and marketplace management system for all of those individual sellers on such sites as Ebay, Amazon, Overstock and others.
+  description: An auction and marketplace management system for individual sellers on sites like Ebay and Amazon
   status: Exited
+  annotation:
+    exit: Acquired by Live Current Media in 2008.
 -
   name: Buxfer
   url: http://www.buxfer.com
-  description: Buxfer is the next-generation personal finance solution, taking money management to the web.
+  description: Buxfer is the next-generation personal finance solution, taking money management to the web
 -
   name: Heysan
   url: 
-  description: Heysan is a free mobile messaging and community based in San Francisco, California.
+  description: Heysan was a free mobile messaging and community
   status: Exited
+  annotation:
+    exit: Acquired by Good Technology in May 2009.
 -
   name: Octopart
-  url: http://octopart.com
-  description: Vertical search engine Octopart, which launched not too long ago, focuses on putting an end the inadequate search engines used by electronics parts manufacturers.
+  url: https://octopart.com
+  description: A search engine for electronic parts
 -
   name: Parakey
-  url: http://www.parakey.com
-  description: Parakey was founded in early 2006 by Blake Ross and Joe Hewitt of Mozilla/Firefox fame.
+  url:
+  description: Parakey was a Web-based computer user interface
   status: Exited
+  annotation:
+    exit: Acquired by Facebook in July 2007.
 -
   name: SocialMoth
   url: http://socialmoth.com
-  description: Socialmoth is a community to post your thoughts anonymously.
+  description: Socialmoth is a community to post your thoughts anonymously
   status: Dead
   metadata: https://www.crunchbase.com/organization/socialmoth#/entity
 -
   name: Tsumobi
-  url: http://tsumobi.com
-  description: Mobile applications have so far been nightmares to implement.
+  url:
+  description: A J2ME compatible programming language to download mobile apps for Tsumobi-enabled sites
 -
   name: View3
   url: 
@@ -39,23 +45,26 @@
 -
   name: VirtualMin
   url: http://www.virtualmin.com
-  description: Virtualmin is taking on the lack of innovation in the server admin programs, like Plesk, by making a more accessable version for pages managed by the non-technical crowd.
+  description: A powerful and flexible web hosting control panel for Linux and BSD systems
 -
   name: Weebly
   url: http://www.weebly.com
-  description: Weebly is an AJAX website creator that allows you to create pages with template skins and content widgets.
+  description: Weebly is an AJAX website creator that allows you to create pages with template skins and content widgets
 -
   name: Whitenoise Networks
   url: 
-  description: Whitenoise is like a social network for the music industry.
+  description: Whitenoise is like a social network for the music industry
   status: Dead
 -
   name: Writewith
   url: 
-  description: Writewith is a collaborative writing web app, enabling you to easily flow through the steps of writing, editing, and publishing a document with a group.
+  description: A collaborative writing web app, enabling you to easily write, edit, and publish a document with a group
   status: Dead
 -
   name: Zenter
   url: 
-  description: 
+  description: Zenter provided software for creating online slide presentations
   status: Exited
+  annotation:
+    exit: Acquired by Google in June 2007.
+  metadata: https://techcrunch.com/2007/06/19/google-acquires-zenter-to-fill-out-coming-powerpoint-application/

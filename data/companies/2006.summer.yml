@@ -1,36 +1,38 @@
 -
   name: JamGlue
   url: 
-  description: Jamglue is an online community where you can listen to or mix music from a library of user-contributed music.
+  description: An online community where you can listen to or mix music from a library of user-contributed music
   status: Dead
 -
   name: JumpChat
   url: 
-  description: A platform bridging mobile text messages, email, and IM communication without needing to download anything. Users can send mass messages on any of the platforms and JumpChat will send it to the platform the receiver activates.
+  description: A platform bridging mobile text messages, email, and IM communication without needing to download anything
   status: Dead
 -
   name: LikeBetter
   url: 
-  description: An online personality test game, where you look at two photos and choose which one you “Like Better”.
+  description: An online personality test game, where you look at two photos and choose which one you like better
   status: Dead
 -
   name: OMGPOP
   url: http://omgpop.com
-  description: OMGPOP (formerly known as iminlikewithyou) developer and publisher of multiplayer, social and mobile games.
+  description: A developer/publisher of multiplayer, social and mobile games. Created Draw Something
   status: Exited
+  annotation:
+    exit: Acquired by Zynga for ~$180MM in 2012.
 -
   name: PollGround
   url: 
-  description: A social polling site. Pollground allows you to easily create surveys and allow the “wisdom of the crowd” to answer your questions. Questions and comments can be posted anonymously.
+  description: A social polling site. Easily create surveys and allow the "wisdom of the crowd" to answer your questions
   status: Dead
 -
   name: Scribd
-  url: http://scribd.com
-  description: Scribd is a social reading and publishing website.
+  url: https://www.scribd.com
+  description: Join the membership for readers, and get monthly access to books, audiobooks, and more
 -
   name: Shoutfit
   url: 
-  description: A “fashion related community”.
+  description: Upload images to create an online closet, and build a network of fashionable friends
   status: Dead
 -
   name: Talkito
@@ -45,6 +47,8 @@
 -
   name: Xobni
   url: http://www.xobni.com
-  description: Xobni (the word inbox spelled backwards) makes your inbox and address book smarter.
+  description: Xobni (the word inbox spelled backwards) makes your inbox and address book smarter
   status: Exited
+  annotation:
+    exit: Acquired by Yahoo for ~70MM in 2013.
   metadata: http://blog.xobni.com/post/54534193175/oohay
