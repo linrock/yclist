@@ -1,0 +1,61 @@
+-
+  name: Auctomatic
+  url: http://auctomatic.com
+  description: Auctomatic, a Y Combinator company, offers an auction and marketplace management system for all of those individual sellers on such sites as Ebay, Amazon, Overstock and others.
+  status: Exited
+-
+  name: Buxfer
+  url: http://www.buxfer.com
+  description: Buxfer is the next-generation personal finance solution, taking money management to the web.
+-
+  name: Heysan
+  url: 
+  description: Heysan is a free mobile messaging and community based in San Francisco, California.
+  status: Exited
+-
+  name: Octopart
+  url: http://octopart.com
+  description: Vertical search engine Octopart, which launched not too long ago, focuses on putting an end the inadequate search engines used by electronics parts manufacturers.
+-
+  name: Parakey
+  url: http://www.parakey.com
+  description: Parakey was founded in early 2006 by Blake Ross and Joe Hewitt of Mozilla/Firefox fame.
+  status: Exited
+-
+  name: SocialMoth
+  url: http://socialmoth.com
+  description: Socialmoth is a community to post your thoughts anonymously.
+  status: Dead
+  metadata: https://www.crunchbase.com/organization/socialmoth#/entity
+-
+  name: Tsumobi
+  url: http://tsumobi.com
+  description: Mobile applications have so far been nightmares to implement.
+-
+  name: View3
+  url: 
+  description: 
+  status: Dead
+-
+  name: VirtualMin
+  url: http://www.virtualmin.com
+  description: Virtualmin is taking on the lack of innovation in the server admin programs, like Plesk, by making a more accessable version for pages managed by the non-technical crowd.
+-
+  name: Weebly
+  url: http://www.weebly.com
+  description: Weebly is an AJAX website creator that allows you to create pages with template skins and content widgets.
+-
+  name: Whitenoise Networks
+  url: 
+  description: Whitenoise is like a social network for the music industry.
+  status: Dead
+-
+  name: Writewith
+  url: 
+  description: Writewith is a collaborative writing web app, enabling you to easily flow through the steps of writing, editing, and publishing a document with a group.
+  status: Dead
+-
+  name: Zenter
+  url: 
+  description: 
+  status: Exited

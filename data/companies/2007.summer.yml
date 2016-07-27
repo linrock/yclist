@@ -1,0 +1,89 @@
+-
+  name: Adpinion
+  url: 
+  description: Adpinion was trying to get rid of the antagonism between advertisers and web surfers by letting you vote for the ads you want.
+  status: Dead
+-
+  name: Anywhere.fm
+  url: http://www.anywhere.fm
+  description: Anywhere.fm lets you upload your music collection onto their site and then play your music anywhere from the web.
+  status: Exited
+-
+  name: Appjet
+  url: http://appjet.com
+  description: AppJet is an online programming tool for building simple web apps.
+  status: Exited
+-
+  name: Biographicon
+  url: 
+  description: Biographicon was a wiki-based website containing biographies of famous and non-famous people.
+  status: Dead
+-
+  name: Bountii
+  url: http://bountii.com
+  description: Browse the best deals on electronics and appliances from top stores like Amazon.com, Newegg, CircuitCity, Best Buy, Walmart, and Dell.
+-
+  name: Clickpass
+  url: http://www.clickpass.com
+  description: Clickpass makes OpenID easy to use and brings OpenID closer to the mainstream than any other company has done before.
+  status: Exited
+-
+  name: Cloudant
+  url: http://cloudant.com
+  description: The Cloudant Data Layer is the cloud database service managed by experts.
+-
+  name: Disqus
+  url: http://www.disqus.com
+  description: Beautiful, real-time, engaging discussions for your website. With a few quick steps, you can turn your old comment system into a new way to engage your visitors.
+-
+  name: Draftmix
+  url: http://www.draftmix.com
+  description: On DraftMix fantasy sports fans can sign up and play pickup games against other players on the site for virtual dollars or for real money .
+-
+  name: Dropbox
+  url: http://www.dropbox.com
+  description: Dropbox was founded in 2007 by Drew Houston and Arash Ferdowsi.
+-
+  name: Fuzzwich
+  url: 
+  description: Habit Industries is currently pursuing the online animation space with Fuzzwich and has previously launched Minivid, a simple, playful animator.
+  status: Dead
+-
+  name: Justin.tv
+  url: http://www.justin.tv
+  description: Justin.tv is the easiest way to create live video and show anyone in the world what's happening right now. Justin.tv makes it fun, easy and fast to gather and engage with a live audience.
+-
+  name: Reble
+  url: 
+  description: Reble offers a software download, only for windows, that allows users to stream music from your friends who also have installed Reble.
+  status: Dead
+-
+  name: SlapVid
+  url: 
+  description: SlapVid was a video site built on peer-to-peer technology that allows you to browse, search and watch video pulled from top video sites.
+  status: Dead
+-
+  name: SocialPicks
+  url: http://www.socialpicks.com
+  description: SocialPicks provides individual investors with a trusted online investing community where they can invest smarter together.
+  status: Exited
+-
+  name: Songkick
+  url: http://songkick.com
+  description: Launched October 2007 by co-founders Ian Hogarth, Michelle You and Pete Smith, Songkick is an online database of concerts for music enthusiasts.
+-
+  name: Splashup
+  url: http://www.splashup.com
+  description: Splashup, formerly known as fauxto, is an online image editing service that provides some advanced tools and is unique for its incorporation of image editing layer effects.
+  status: Dead
+  metadata: https://www.crunchbase.com/organization/splashup#/entity
+-
+  name: Zecter (Versionate)
+  url: http://www.zecter.com
+  description: Zecter is creating technology that aims to make it easy to share files with others over the internet.
+  status: Exited
+-
+  name: iJigg
+  url: 
+  description: iJigg is a social music site that lets users vote on submitted singles using Digg-like voting.
+  status: Dead

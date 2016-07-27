@@ -1,0 +1,39 @@
+-
+  name: ClickFacts
+  url: http://clickfacts.com
+  description: ClickFacts is a Malware Software Solutions company for buyers and sellers of online media.
+-
+  name: Infogami
+  url: 
+  description: 
+  status: Exited
+-
+  name: Kiko
+  url: http://kiko.com
+  description: Kiko is a web calendar for anyone who wants to keep and share a calendar online.
+  status: Exited
+-
+  name: Loopt
+  url: http://www.loopt.com
+  description: Loopt is a social service that connects people to their community.
+  status: Exited
+-
+  name: Memamp
+  url: 
+  description: 
+  status: Dead
+-
+  name: Reddit
+  url: http://reddit.com
+  description: A social news website that displays news based on your personal preferences and what the community likes.
+  status: Exited
+-
+  name: Simmery
+  url: 
+  description: 
+  status: Dead
+-
+  name: TextPayMe
+  url: http://www.textpayme.com
+  description: An SMS payment service that lets you send money to other people using cell phone text messaging.
+  status: Exited

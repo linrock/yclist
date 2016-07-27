@@ -1,0 +1,33 @@
+-
+  name: AudioBeta
+  url: 
+  description: 
+-
+  name: Clustrix
+  url: http://www.clustrix.com
+  description: Clustrix has built a NewSQL database with no limits.
+-
+  name: Flagr
+  url: http://flagr.com
+  description: Flagr enables users to share places, adding photos, video and descriptions from their mobile phone.
+  status: Dead
+-
+  name: InklingMarkets
+  url: http://inklingmarkets.com
+  description: Inkling provides a platform for companies to run their own internal or external prediction marketplaces.
+-
+  name: Snipshot
+  url: http://snipshot.com
+  description: Snipshot is a photo editor that lets you start editing any photo with one click of a bookmarklet.
+  status: Exited
+  metadata: http://www.ansa.com/snipshot/
+-
+  name: Wufoo
+  url: http://wufoo.com
+  description: Wufoo's HTML form builder helps you create online web forms. Use our web form creator to power your contact forms, online surveys, and event registrations.
+  status: Exited
+-
+  name: YouOS
+  url: 
+  description: YouOS provides a platform for developers to create and distribute applications that live in a browser-based “desktop” environment.
+  status: Dead

@@ -1,0 +1,98 @@
+-
+  name: Bump
+  url: http://bu.mp
+  description: Bump Technologies builds mobile applications and APIs that allow two smartphones to identify one another and connect by simply being bumped together.
+-
+  name: CarWoo
+  url: http://carwoo.com
+  description: CarWoo! is an online new-car buying service and marketplace.
+-
+  name: DailyBooth
+  url: http://dailybooth.com
+  description: DailyBooth lets users follow their friends and update them in real-time through the use of pictures and status updates.
+  status: Exited
+-
+  name: DirectedEdge
+  url: http://www.directededge.com
+  description: Directed Edge delivers Amazon-like “People who bought this also bought…” and “We think you'd also like”-style recommendations to other sites, using existing data being collected such as purchase or click histories.
+-
+  name: FanChatter
+  url: http://fanchatter.com
+  description: FanChatter fuels your fans so they can promote you better than any ad ever could.
+-
+  name: Flightcaster
+  url: http://www.flightcaster.com
+  description: FlightCaster predicts flight delays.
+  status: Exited
+-
+  name: GraffitiGeo
+  url: http://graffitigeo.com
+  description: At its core GraffitiGeo allows users to leave brief reviews of restaurants, or for those too lazy to do that, to simply leave a thumbs up or thumbs down. It's like a highly condensed version of Yelp, or a Digg for the world
+  status: Exited
+-
+  name: HighlightCam
+  url: http://highlightcam.com
+  description: Create amazing movies right from your iOS or Android device - automatically!
+-
+  name: InstantQ
+  url: http://www.instantq.com
+  description: InstantQ allows restaurants to fill tables by varying prices to increase demand.
+-
+  name: Jobpic
+  url: 
+  description: 
+  status: Dead
+-
+  name: Jobspice
+  url: http://www.jobspice.com
+  description: JobSpice is a surprisingly easy-to-use, intuitive online tool for creating a resume.
+-
+  name: Lingt
+  url: http://www.lingt.com
+  description: Lingt is a service for learning languages that takes advantage of gameplay mechanics to keep users coming back for more.
+  status: Exited
+-
+  name: Listia
+  url: http://www.listia.com
+  description: Listia, which launched in August 2009, is eBay for free stuff.
+-
+  name: Lockitron
+  url: http://lockitron.com
+  description: Keyless entry using your phone.
+-
+  name: MeetingMix
+  url: http://meetingmix.com
+  description: Save time writing your agenda and minutes.
+-
+  name: Mixpanel
+  url: http://www.mixpanel.com
+  description: Mixpanel is an advanced analytics service that helps improve web and mobile applications by tracking how users interact & engage with them.
+-
+  name: Olark
+  url: http://www.olark.com
+  description: Olark is a lightweight tool to chat with visitors to your website using your existing instant messaging client.
+-
+  name: Plurchase
+  url: 
+  description: Plurchase is an online social shopping site.
+  status: Dead
+-
+  name: RentHop
+  url: http://www.renthop.com
+  description: Search NYC Apartments and Listings by Location. Find New York City Apartment Rentals. Contact Landlords Online.
+-
+  name: RethinkDB
+  url: http://www.rethinkdb.com
+  description: RethinkDB is designed to be extremely fast, and implements powerful features that are cumbersome and inefficient with rotational storage.
+-
+  name: Tuxebo
+  url: http://www.tuxebo.co.uk
+  description: Tuxebo connects people looking for things to rent from local rental companies.
+-
+  name: Wakemate
+  url: http://www.wakemate.com
+  description: WakeMate makes personalized alarm clocks that sync with both a user's body and their cell phone, enabling the iPhone alarm system to sound at the end of a REM cycle.
+-
+  name: WePay
+  url: https://www.wepay.com
+  description: WePay is an online payments platform for individuals, organizations, and businesses.

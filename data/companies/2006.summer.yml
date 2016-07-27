@@ -1,0 +1,50 @@
+-
+  name: JamGlue
+  url: 
+  description: Jamglue is an online community where you can listen to or mix music from a library of user-contributed music.
+  status: Dead
+-
+  name: JumpChat
+  url: 
+  description: A platform bridging mobile text messages, email, and IM communication without needing to download anything. Users can send mass messages on any of the platforms and JumpChat will send it to the platform the receiver activates.
+  status: Dead
+-
+  name: LikeBetter
+  url: 
+  description: An online personality test game, where you look at two photos and choose which one you “Like Better”.
+  status: Dead
+-
+  name: OMGPOP
+  url: http://omgpop.com
+  description: OMGPOP (formerly known as iminlikewithyou) developer and publisher of multiplayer, social and mobile games.
+  status: Exited
+-
+  name: PollGround
+  url: 
+  description: A social polling site. Pollground allows you to easily create surveys and allow the “wisdom of the crowd” to answer your questions. Questions and comments can be posted anonymously.
+  status: Dead
+-
+  name: Scribd
+  url: http://scribd.com
+  description: Scribd is a social reading and publishing website.
+-
+  name: Shoutfit
+  url: 
+  description: A “fashion related community”.
+  status: Dead
+-
+  name: Talkito
+  url: 
+  description: A service that enables its users to meet and chat when they visit the same websites.
+  status: Dead
+-
+  name: Thinkature
+  url: 
+  description: An online collaboration environment that allows users to chat and draw diagrams on a shared whiteboard.
+  status: Dead
+-
+  name: Xobni
+  url: http://www.xobni.com
+  description: Xobni (the word inbox spelled backwards) makes your inbox and address book smarter.
+  status: Exited
+  metadata: http://blog.xobni.com/post/54534193175/oohay
