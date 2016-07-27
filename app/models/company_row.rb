@@ -1,7 +1,7 @@
 class CompanyRow
   include ActiveModel::Validations
 
-  attr_accessor :name, :url, :status, :cohort, :description, :metadata
+  attr_accessor :name, :url, :status, :cohort, :description, :metadata, :annotation
 
   validates_presence_of :name
   validates_format_of :url, :with => /\Ahttps?:\/\//, :allow_blank => true
@@ -17,7 +17,11 @@ class CompanyRow
 
   def initialize(attributes = {})
     attributes.each {|attr, value|
-      self.send("#{attr}=", value.to_s)
+      if attr == "annotation"
+        self.send("#{attr}=", value.symbolize_keys)
+      else
+        self.send("#{attr}=", value.to_s)
+      end
     }
   end
 

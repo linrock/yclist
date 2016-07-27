@@ -1,8 +1,10 @@
 -
   name: 280 North
   url: http://280north.com
-  description: 280 North is a web application company based on their proprietary application framework, Cappuccino.
+  description: 280 North was a web application company based on their application framework, Cappuccino
   status: Exited
+  annotation:
+    exit: Acquired by Motorola for $20 MM in 2010.
 -
   name: 8aweek
   url: http://8aweek.com
@@ -18,7 +20,7 @@
 -
   name: Deluux
   url: http://deluux.com
-  description: Deluux aims to become distributed Facebook, or inverted Ning, by relocating the center of peopleâ€™s online identities to their websites, which exist outside of any one social network.
+  description: Deluux aims to become distributed Facebook, or inverted Ning, by relocating the center of peoples' online identities to their websites, which exist outside of any one social network.
 -
   name: FathomDB
   url: http://www.fathomdb.com
@@ -26,8 +28,10 @@
 -
   name: Heroku
   url: http://www.heroku.com
-  description: Heroku is the first and best multi-language cloud application platform, or platform-as-a-service.
+  description: Heroku is a multi-language cloud application platform, or platform-as-a-service
   status: Exited
+  annotation:
+    exit: Acquired by Salesforce for $212 MM in 2010.
 -
   name: Insoshi
   url: http://insoshi.com
@@ -57,8 +61,10 @@
 -
   name: Omnisio
   url: http://omnisio.com
-  description: Omnisio was founded in 2007 by Ryan Junee, Simon Ratner and Julian Frumar, and was subsquently acquired by YouTube in July 2008.
+  description: Omnisio lets users annotate videos and mash various clips up
   status: Exited
+  annotation:
+    exit: Acquired by Google for $15 MM in 2008.
 -
   name: RescueTime
   url: http://rescuetime.com

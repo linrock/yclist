@@ -1,22 +1,29 @@
 -
   name: ClickFacts
-  url: http://clickfacts.com
+  url:
   description: ClickFacts is a Malware Software Solutions company for buyers and sellers of online media.
+  metadata: http://clickfacts.com has no DNS entry
 -
   name: Infogami
   url: 
-  description: 
+  description: Infogami is a wiki application framework built on web.py
   status: Exited
+  annotation:
+    exit: Merged with Reddit.
 -
   name: Kiko
   url: http://kiko.com
-  description: Kiko is a web calendar for anyone who wants to keep and share a calendar online.
+  description: Kiko was a web calendar for anyone who wants to keep and share a calendar online.
   status: Exited
+  annotation:
+    exit: Sold for $258k on eBay.
 -
   name: Loopt
   url: http://www.loopt.com
-  description: Loopt is a social service that connects people to their community.
+  description: Loopt is a social service that connects people to their community
   status: Exited
+  annotation:
+    exit: Acquired by Green Dot for $43.4 MM.
 -
   name: Memamp
   url: 
@@ -25,8 +32,10 @@
 -
   name: Reddit
   url: http://reddit.com
-  description: A social news website that displays news based on your personal preferences and what the community likes.
+  description: A social news website that displays news based on your preferences and what the community likes
   status: Exited
+  annotation:
+    exit: Acquired by Conde Nast in 2006.
 -
   name: Simmery
   url: 
@@ -35,5 +44,7 @@
 -
   name: TextPayMe
   url: http://www.textpayme.com
-  description: An SMS payment service that lets you send money to other people using cell phone text messaging.
+  description: An SMS payment service that lets you send money to other people using cell phone text messaging
   status: Exited
+  annotation:
+    exit: Acquired by Amazon for ~$3 MM

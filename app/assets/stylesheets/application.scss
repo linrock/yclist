@@ -41,8 +41,13 @@ tr {
       color: #f00000;
     }
   }
-  &.exited > td:nth-child(5) {
-    color: #33cc00;
+  &.exited {
+    > td:nth-child(5) {
+      color: #33cc00;
+    }
+    .annotation {
+      color: #33cc00;
+    }
   }
 }
 

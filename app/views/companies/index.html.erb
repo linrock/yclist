@@ -105,7 +105,14 @@ Email me at linmiao.xu AT gmail.com if you have suggestions!
             <%= c.cohort %>
           </td>
           <td><%= c.status_str %></td>
-          <td><%= c.description %></td>
+          <td>
+            <% if c.annotation && c.annotation[:exit] %>
+              <span class="annotation">
+                <%= c.annotation[:exit] %>
+              </span>
+            <% end %>
+            <%= c.description %>
+          </td>
         </tr>
       <% end %>
     </tbody>
