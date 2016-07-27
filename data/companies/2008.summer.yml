@@ -5,7 +5,7 @@
 -
   name: AwesomeHighlighter
   url: 
-  description: Awesome Highlighter is a company that provides a tool that enables you to go to a website and highlight information to save for later or share with your friends.
+  description: A company that provides a tool that enables you to go to a website and highlight information to save for later or share with your friends
   status: Dead
 -
   name: Backtype
@@ -15,7 +15,7 @@
 -
   name: CO2Stats
   url: http://co2stats.com
-  description: CO2Stats aims to help website owners understand the electricity usage and related carbon emissions associated with site usage, and then helps site owners manage their carbon footprint.
+  description: Helps website owners understand the electricity usage and carbon emissions associated with site usage, then helps them manage their carbon footprint
 -
   name: ContestMachine
   url: http://www.contestmachine.com
@@ -31,11 +31,11 @@
 -
   name: Meetcast
   url: http://www.meetcast.com
-  description: "MeetCast is browser-based software that provides a host of features critical to effective real time interaction, including: sharing documents and images, whiteboarding, simultaneous text editing, and screen sharing."
+  description: Browser-based software that enables real time interaction, including sharing documents and images, screen sharing, etc.
 -
   name: People and Pages
   url: 
-  description: People and Pages is a service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place.
+  description: A service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place
   status: Dead
 -
   name: Picwing
@@ -102,5 +102,5 @@
 -
   name: Youlicit
   url: 
-  description: The Youlicit web content recommendation engine leverages the wisdom of the crowds to return the most recommended sites related to a website or topic.
+  description: A web content recommendation engine that leverages the wisdom of the crowds to return the most recommended sites related to a website or topic
   status: Dead

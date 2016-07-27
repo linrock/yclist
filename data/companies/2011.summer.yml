@@ -1,7 +1,7 @@
 -
   name: AgileDiagnosis
   url: http://www.agilediagnosis.com
-  description: Agile Diagnosis is building the central place for clinical guidelines, providing clinicians with access to expertise and information in a format they can apply in their practice.
+  description: The central place for clinical guidelines, providing clinicians with access to expertise and information in a format they can apply in their practice
 -
   name: Aisle50
   url: http://www.aisle50.com
@@ -9,7 +9,7 @@
 -
   name: B2Brev
   url: http://b2brev.com
-  description: Our mission is to connect great businesses with each other. We'll help you make smart and easy decisions on products and services based on honest reviews, from one business to another.
+  description: We'll help you make smart and easy decisions on products and services based on honest reviews, from one business to another
 -
   name: Can't Wait
   url: http://cantwa.it
@@ -63,7 +63,7 @@
 -
   name: InterviewStreet
   url: http://interviewstreet.com
-  description: Interviewstreet helps you to create customized programming tests (in any language) and evaluate candidates based on their programming skills before proceeding for an interview.
+  description: Interviewstreet helps you to create customized programming tests and evaluate candidates based on their programming skills before proceeding for an interview
 -
   name: Kicksend
   url: http://kicksend.com
@@ -117,7 +117,7 @@
 -
   name: Parse
   url: http://www.parse.com
-  description: Parse provides cloud services for mobile developers. The complete mobile app platform. Parse lets you focus on creating unique & engaging apps. We take care of the rest.
+  description: Cloud services for mobile developers. Parse lets you focus on creating unique & engaging apps. We take care of the rest
   status: Exited
   metadata: http://blog.parse.com/announcements/the-future-of-parse/
 -
@@ -139,7 +139,7 @@
 -
   name: Science Exchange
   url: http://scienceexchange.com
-  description: Science Exchange is an online marketplace for scientific experiments. The easiest way to get experiments conducted by researchers in top core facilities and institutions.
+  description: An online marketplace for scientific experiments. The easiest way to get experiments conducted by researchers in top core facilities and institutions
 -
   name: Segment
   url: https://segment.com
@@ -185,7 +185,7 @@
 -
   name: Vidyard
   url: http://vidyard.com
-  description: Vidyard is an online video platform for business. Add Video To Your Website In Minutes. Vidyard hosts your videos, analyzes their effectiveness, and transforms them into powerful marketing tools.
+  description: An online video platform for businesses. Vidyard hosts your videos, analyzes their effectiveness, and transforms them into powerful marketing tools
 -
   name: Vimessa
   url: http://vimessa.com

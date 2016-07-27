@@ -1,7 +1,7 @@
 -
   name: 42floors
   url: http://42floors.com
-  description: 42Floors makes office space rentals and commercial real estate listings easier to search by indexing business places for rent, coworking spaces, office sublets, and executive suites.
+  description: 42Floors makes office space rentals and commercial real estate listings easier to search
 -
   name: 99dresses
   url: http://99dresses.com
@@ -119,7 +119,7 @@
 -
   name: Per Vices
   url: http://pervices.com
-  description: Phi is currently designed as a PCIe card for developers. It is hardware (a software defined radio) that allows software developers to write applications to interact with all types of wireless signals and wireless devices.
+  description: Hardware that allows software developers to write applications to interact with all types of wireless signals and wireless devices
 -
   name: PlanGrid
   url: http://plangrid.com

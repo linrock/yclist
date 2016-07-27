@@ -23,7 +23,7 @@
 -
   name: ChromaOm
   url: http://www.chromaom.com
-  description: We want the whole world to find their color enlightenment. We believe that choosing colors shouldn't be a "black and white" process, and that everyone can discover their own personal color enlightenment from within.
+  description: We want the whole world to find their color enlightenment
 -
   name: Crocodoc
   url: http://www.crocodoc.com
@@ -51,7 +51,7 @@
 -
   name: Fabricly
   url: http://www.fabricly.com
-  description: Designers - Sell on Fabricly. Fabricly is a great way for you to gain extra exposure, whether you're already selling online or if you're just getting started.
+  description: Fabricly is a great way for designers to gain extra exposure, whether you're already selling online or if you're just getting started.
 -
   name: Gamador
   url: http://www.gamador.com
@@ -83,7 +83,7 @@
 -
   name: NewsLabs
   url: 
-  description: NewsLabs offers a platform that looks to help “old school” journalists adapt to the web, by giving them help with advertising, SEO, and other issues they may not have had to deal with before.
+  description: A platform that helps old-school journalists adapt to the web, by giving them help with advertising, SEO, and other issues they may not have had dealt with
   status: Dead
 -
   name: Notifo
@@ -102,7 +102,8 @@
 -
   name: OwnLocal
   url: http://www.ownlocal.com
-  description: OwnLocal (previously Seeing Interactive) provides Web-based software to local newspapers and gives them a white-label service for selling online ads and services to local businesses.
+  description: Web-based software for local newspapers that gives them a white-label service for selling online ads and services to local businesses
+  metadata: Previously Seeing Interactive
 -
   name: Tweetflow
   url: http://tweetflow.com
@@ -110,7 +111,7 @@
 -
   name: Zencoder
   url: http://zencoder.com
-  description: Zencoder is web-based video encoding software as a service, designed to quickly convert any video into web and mobile compatible formats.
+  description: Zencoder is web-based video encoding software as a service, designed to quickly convert any video into web and mobile compatible formats
   status: Exited
 -
   name: Zenedy

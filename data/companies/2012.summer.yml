@@ -1,7 +1,7 @@
 -
   name: 9GAG
   url: http://9gag.com
-  description: The world's largest and fastest growing online comedy community that has brought together tens of millions of people who love to laugh, have fun and connect with others through humor.
+  description: An online platform and social media site based around funny pictures and content
 -
   name: AdsOptimal
   url: https://www.adsoptimal.com
@@ -17,7 +17,7 @@
 -
   name: Authy
   url: https://www.authy.com
-  description: Authy makes it easy to add optional two factor authentication to your application. You just add some API calls to your app and your users will be able to use their phones as a second layer of authentication.
+  description: Authy makes it easy to add optional two-factor authentication to your application
 -
   name: BigCalc
   url: http://www.bigcalc.com
@@ -45,7 +45,7 @@
 -
   name: Coco Controller
   url: http://cococontroller.com
-  description: Coco Controller is a Kickstarter project that adds directional controls and game buttons to almost any phone, including the Galaxy SIII, iPhone, and most standard Android handsets.
+  description: A Kickstarter project that adds directional controls and game buttons to almost any phone
 -
   name: Coinbase
   url: http://coinbase.com
@@ -68,8 +68,10 @@
   description: Double is the simplest, most elegant way to be somewhere else in the world without flying there. Wheels for your iPad.
 -
   name: Dreamforge
-  url: http://dreamforge.me
-  description: We believe that 3D printing will fundamentally reshape our relationship with the products and items we use. At Dreamforge, we'll strive to show our beliefs in big ways and small in the products we build and in the example we set.
+  url: http://www.dreamforge.me
+  description: We believe that 3D printing will fundamentally reshape our relationship with the products and items we use
+  options:
+    hide_url: true
 -
   name: Easel
   url: https://easel.io
@@ -97,7 +99,7 @@
 -
   name: FundersClub
   url: https://fundersclub.com
-  description: FundersClub is a web service that gives investors unprecedented access to investment opportunities and the tools to review and invest online with ease and speed.
+  description: A web service that gives investors unprecedented access to investment opportunities and the tools to review and invest online with ease and speed
 -
   name: GetGoing
   url: http://www.getgoing.com
@@ -121,7 +123,7 @@
 -
   name: HipType
   url: http://www.hiptype.com
-  description: Hiptype brings analytics and targeted advertising capabilities to the most popular eBook platforms, where these powerful features have never before been possible.
+  description: Hiptype brings analytics and targeted advertising capabilities to the most popular eBook platforms
 -
   name: Hubchilla
   url: http://www.hubchilla.com
@@ -153,7 +155,7 @@
 -
   name: LightTable
   url: http://www.lighttable.com
-  description: Light Table is a new interactive IDE that lets you modify running programs and embed anything from websites to games. It provides the real time feedback we need to not only answer questions about our code, but to understand how our programs really work.
+  description: A new interactive IDE that lets you modify running programs and embed anything from websites to games
 -
   name: Markupwand
   url: http://www.markupwand.com
@@ -207,7 +209,7 @@
 -
   name: RegistryLove
   url: http://registrylove.com
-  description: The first wedding registry to co-operate with independent retailers & big box stores, RegistryLove lets you register products and services from anywhere & consolidate them all onto ONE registry.
+  description: RegistryLove lets you register products and services from anywhere & consolidate them all onto ONE registry
 -
   name: Rent.io
   url: http://www.rent.io
@@ -239,7 +241,7 @@
 -
   name: Submittable
   url: http://www.submittable.com
-  description: Submittable is a cloud-based submission management platform used by 1000s of businesses, publishers and art organizations to curate and accept payment with submission (i.e. audio, video, manuscripts, images, applications, and resumes).
+  description: A cloud-based submission management platform used by businesses, publishers and art organizations to curate and accept payments with submissions
 -
   name: Survata
   url: http://www.survata.com
@@ -267,7 +269,7 @@
 -
   name: Vayable
   url: http://www.vayable.com
-  description: Vayable is an online marketplace where people can discover, buy and sell unique travel experiences, including tours, activities and extended trips.
+  description: Vayable is an online marketplace where people can discover, buy and sell unique travel experiences, including tours, activities and extended trips
 -
   name: ViaCycle
   url: http://www.viacycle.com
@@ -275,7 +277,7 @@
 -
   name: Virool
   url: http://www.virool.com
-  description: Get your video seen by millions of people! Leverage our platform to distribute your video to people you want on blogs, social games, and mobile apps.
+  description: Get your video seen by millions of people! Leverage our platform to distribute your video to people you want on blogs, social games, and mobile apps
 -
   name: VoiceGem
   url: http://www.voicegem.com
@@ -283,7 +285,7 @@
 -
   name: Zapier
   url: https://zapier.com
-  description: Zapier lets SaaS users create integrations that push data between dozens of different web applications without having to write any code or wrangle APIs.
+  description: Zapier lets SaaS users create integrations that push data between dozens of different web applications without having to write any code or wrangle APIs
 -
   name: imgfave
   url: http://imgfave.com

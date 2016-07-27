@@ -73,7 +73,7 @@
 -
   name: Padlet
   url: http://padlet.com
-  description: Padlet is an Internet application that allows people to express their thoughts on a common topic easily. It works like an online sheet of paper where people can put any content (e.g. images, videos, documents, text) anywhere on the page, together with anyone, from any device.
+  description: An easy way to create and collaborate, where people can put any content anywhere on the page
 -
   name: PayTango
   url: http://www.paytango.com
@@ -116,8 +116,8 @@
   description: With Swapbox you no longer have to worry about missing deliveries. Use your Swapbox shipping address and your packages will be waiting for you at our nearest location.
 -
   name: Swish
-  url: http://www.swish.com
-  description: Swish is a dynamic, specialized mobile payment company that has developed a ground breaking new card reader and application which provides a complete mobile point of sale solution to any size business.
+  url: http://www.swishme.com
+  description: Simple, secure mobile payments using your phone
 -
   name: Teespring
   url: http://teespring.com
