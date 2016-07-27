@@ -8,6 +8,16 @@ class FaviconSpritesheet
     @companies = CompanyRow.all
   end
 
+  def spritesheet_png
+    Rails.root.join("app/assets/images/favicons.png")
+  end
+
+  def n_companies_processed
+    png_desc = `identify -verbose #{spritesheet_png} | grep Desc`
+    return unless png_desc.present?
+    png_desc[/(\d+) companies/, 1].to_i
+  end
+
   def generate!
     `mkdir -p /tmp/yclist/favicons/`
     merge_list = [Rails.root.join("data/favicons/transparent-16x16.png")]
@@ -35,11 +45,16 @@ class FaviconSpritesheet
     puts "Merged #{merge_list.length} favicons into a spritesheet"
   end
 
+  def write_metadata!
+    txt = "#{@companies.size} companies processed"
+    `convert #{spritesheet_png} -set Desc "#{txt}" #{spritesheet_png}`
+  end
+
   def export_png!
-    spritesheet_png = Rails.root.join("app/assets/images/favicons.png")
     open(spritesheet_png, 'wb') do |f|
       f.write @png
     end
+    write_metadata!
     file_size = `du -hs #{spritesheet_png}`
     puts "favicons.png - #{file_size}"
   end
