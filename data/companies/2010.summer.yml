@@ -1,11 +1,11 @@
 -
   name: 1000Memories
-  url: http://1000memories.com
+  url:
   description: 1000memories is the new shoebox for your old photos.
   status: Exited
 -
   name: AdGrok
-  url: http://adgrok.com
+  url:
   description: AdGrok allows business owners to automate the process of choosing and bidding on keywords on Google AdWords.
   status: Exited
 -
@@ -32,13 +32,14 @@
   name: Dotcloud
   url: http://www.dotcloud.com
   description: DotCloud is a 2nd-generation platform-as-a-service.
+  status: Exited
 -
   name: E la Carte
   url: http://elacarte.com
   description: E la Carte develops tablets for restaurant tables so guests can order, pay and play games from their seats
 -
-  name: FanPulse
-  url: http://fanvibe.com
+  name: FanVibe
+  url:
   description: Check-in to games to chat and trash-talk with friends who are also watching.
   status: Exited
 -

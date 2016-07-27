@@ -11,7 +11,7 @@
   url: http://b2brev.com
   description: Our mission is to connect great businesses with each other. We'll help you make smart and easy decisions on products and services based on honest reviews, from one business to another.
 -
-  name: Can'tWait
+  name: Can't Wait
   url: http://cantwa.it
   description: Be the first to hear about movies that you will love!
 -
@@ -74,8 +74,9 @@
   description: We're creating digital toys and tools that empower kids to create, learn & share their ideas through play.
 -
   name: Leaky
-  url: http://leaky.com
+  url: http://www.leaky.com
   description: Leaky helps consumers make better decisions about insurance.
+  status: Dead
 -
   name: MarketBrief
   url: http://marketbrief.com

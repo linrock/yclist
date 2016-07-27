@@ -42,7 +42,7 @@
   description: Early access to great design.
 -
   name: DataRank
-  url: http://www.datarank.com
+  url: https://www.datarank.com
   description: Gain Insights into your Customers and Competitive Market by monitoring the highest quality online data in real-time.
   status: Exited
 -
@@ -81,9 +81,10 @@
   status: Dead
 -
   name: Hackermeter
-  url: http://www.hackermeter.com
+  url:
   description: Hackermeter pairs talented developers with great jobs
   status: Exited
+  metadata: Acquired by Pinterest - https://techcrunch.com/2013/10/11/pinterest-acquires-hackermeter-right-out-of-the-gate-will-shut-it-down
 -
   name: Hum
   url: http://letshum.com

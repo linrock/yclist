@@ -246,9 +246,10 @@
   description: Vitamins reinvented. Personalized and designed for you
 -
   name: Zip Phone
-  url: http://www.zipphone.com
+  url:
   description: Zip Phone lets users make secure, WiFi-enabled calls
   status: Exited
+  metadata: Acquired by Hike - https://techcrunch.com/2015/01/07/hike-zipphone/
 -
   name: uBiome
   url: http://ubiome.com

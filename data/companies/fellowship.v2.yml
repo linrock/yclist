@@ -4,7 +4,7 @@
   description: AdWords for podcasts
 -
   name: BillionToOne
-  url: http://billiontoone.com
+  url: http://www.billiontoone.com
   description: Fetal genetic testing in India
 -
   name: Bulletin
@@ -12,11 +12,11 @@
   description: Airbnb for retail
 -
   name: Cerplus
-  url: http://getcerplus.com
+  url: http://www.getcerplus.com
   description: B2B marketplace for surplus produce
 -
   name: ConnectHealth
-  url: http://connecthealth.io
+  url: http://www.connecthealth.io
   description: Telemedicine and prescription delivery in Africa
 -
   name: Ctzen
@@ -28,7 +28,7 @@
   description: Nanoparticle tracers for fracking
 -
   name: HDP Health
-  url: http://hdphealth.com
+  url: https://www.hdphealth.com
   description: Helping clinical trials find patients using AI
 -
   name: Ilium VR
@@ -40,11 +40,11 @@
   description: Concierge service for research
 -
   name: Mentat
-  url: http://thementat.com
+  url: https://thementat.com
   description: Concierge service for jobseekers
 -
   name: Müvr Labs 
-  url: http://muvrlabs.com
+  url: http://www.muvrlabs.com
   description: Fitbit for your knees
 -
   name: OMG Digital
@@ -52,7 +52,7 @@
   description: Buzzfeed for Africa
 -
   name: Palaround
-  url: http://palaroundwith.com
+  url: http://palaroundapp.com
   description: Tinder for private networks
 -
   name: Pramp
@@ -61,19 +61,19 @@
   metadata: https://www.crunchbase.com/organization/pramp
 -
   name: Queen B Robotics
-  url: http://queenb-robotics.com
+  url: http://www.queenb-robotics.com
   description: Drones for virtual reality content
 -
   name: Rent Scene
-  url: http://rentscene.com
+  url: https://www.rentscene.com
   description: Apartment hunters for busy people
 -
   name: Sage
-  url: http://getsagecare.com
+  url: https://www.getsagecare.com
   description: Uber for eldercare workers
 -
   name: SmartSite
-  url: http://smartsitesafety.com
+  url: http://www.smartsitesafety.com
   description: Automated health monitoring for construction sites
 -
   name: Spotbot
@@ -81,7 +81,7 @@
   description: Track website changes in Slack
 -
   name: Squire
-  url: http://getsquire.com
+  url: https://getsquire.com
   description: OpenTable for barbershops
 -
   name: Suto
@@ -89,7 +89,7 @@
   description: Personalized product recommendations on demand
 -
   name: Sway
-  url: http://swayfinance.com
+  url: https://swayfinance.com
   description: Chatbot for company finances
 -
   name: The Flex Company
@@ -97,5 +97,5 @@
   description: Menstrual product for mess-free period sex
 -
   name: Zube
-  url: http://zube.io
+  url: https://zube.io
   description: Project management for Github issues
