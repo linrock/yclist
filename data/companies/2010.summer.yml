@@ -55,6 +55,7 @@
   name: Gantto
   url: http://gantto.com
   description: Gantto was conceived to fill one obvious gap in our weekly management routine
+  status: Exited
 -
   name: GazeHawk
   url: http://www.gazehawk.com
@@ -92,10 +93,12 @@
   name: MessageParty
   url: http://messageparty.com
   description: MessageParty is a new kind of mobile blogging service
+  status: Dead
 -
   name: OhLife
   url: http://ohlife.com
   description: Write in private about your life
+  status: Dead
 -
   name: Opzi
   url: http://www.opzi.com
@@ -127,6 +130,7 @@
   name: Tapzilla
   url: http://tapzilla.com
   description: Taking the daily deal model and applying it to discounts on paid mobile apps
+  status: Dead
 -
   name: Teevox
   url: http://teevox.com
@@ -147,6 +151,7 @@
   name: Whereoscope
   url: http://whereoscope.com
   description: Whereoscope is a service designed to help parents keep know where their kids are
+  status: Dead
 -
   name: Workflowy
   url: http://workflowy.com

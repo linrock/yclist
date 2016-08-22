@@ -103,6 +103,7 @@
   name: Move Loot
   url: http://www.moveloot.com
   description: The easiest way to buy and sell furniture.
+  status: Dead
 -
   name: Next Caller
   url: http://nextcaller.com
@@ -175,6 +176,7 @@
   name: The Dating Ring
   url: http://thedatingring.com
   description: We're making dating fun again. We meet all of our members and set up dates. It's like meeting through friends, except much, much better.
+  status: Dead
 -
   name: Threadable
   url: http://threadable.com
@@ -207,6 +209,7 @@
   name: Wit.ai
   url: http://wit.ai
   description: Natural Language for the Internet of Things.
+  status: Exited
 -
   name: Zesty
   url: http://www.zesty.com

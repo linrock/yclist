@@ -6,14 +6,17 @@
   name: Aisle50
   url: http://www.aisle50.com
   description: Aisle50 is the first group-buying outlet for groceries, a $2 trillion business. The best way to save on your groceries.
+  status: Dead
 -
   name: B2Brev
   url: http://b2brev.com
   description: We'll help you make smart and easy decisions on products and services based on honest reviews, from one business to another
+  status: Dead
 -
   name: Can't Wait
   url: http://cantwa.it
   description: Be the first to hear about movies that you will love!
+  status: Dead
 -
   name: Citus Data
   url: http://www.citusdata.com
@@ -35,14 +38,17 @@
   name: EveryMe
   url: http://everyme.com
   description: We believe most stories are meant to be shared with your family and best friends, not 500 strangers. Everyme lets you choose who to share with and how.
+  status: Dead
 -
   name: Firebase
   url: http://www.firebase.com
   description: A scalable real-time backend for your web app. Build apps really fast without the hassle of managing servers.
+  status: Exited
 -
   name: FreshPlum
   url: http://www.freshplum.com
   description: Freshplum's goal is to bring the decision-making power of data science to companies who sell goods and services electronically.
+  status: Dead
 -
   name: Glassmap
   url: http://www.glassmap.com
@@ -56,10 +62,12 @@
   name: Habit Labs
   url: http://habitlabs.com
   description: Habit Labs aims to turn leading a healthier life into a game.
+  status: Dead
 -
   name: Interstate
   url: http://interstateapp.com
   description: The future of open project management. Keep users away from competitors by keeping them in the loop with your product's development.
+  status: Dead
 -
   name: InterviewStreet
   url: http://interviewstreet.com
@@ -68,10 +76,12 @@
   name: Kicksend
   url: http://kicksend.com
   description: Kicksend allows friends and family to easily share files in real-time on the web, mobile, and desktop.
+  status: Dead
 -
   name: Launchpad Toys
   url: http://launchpadtoys.com
   description: We're creating digital toys and tools that empower kids to create, learn & share their ideas through play.
+  status: Exited
 -
   name: Leaky
   url: http://www.leaky.com
@@ -81,6 +91,7 @@
   name: MarketBrief
   url: http://marketbrief.com
   description: The latest SEC Filings, Press Releases, Patents, and Trademarks for 700000+ companies and entities.
+  status: Dead
 -
   name: Meteor
   url: http://www.meteor.com
@@ -114,6 +125,7 @@
   name: Paperlinks
   url: http://www.paperlinks.com
   description: QR codes made easy. Paperlinks is the premier platform for generating QR codes for businesses.
+  status: Dead
 -
   name: Parse
   url: http://www.parse.com
@@ -124,10 +136,12 @@
   name: PicPlum
   url: http://www.picplum.com
   description: Share Your Best Moments. Send photo prints to loved ones in seconds.
+  status: Dead
 -
   name: Proxino
   url: http://www.proxino.com
   description: Proxino is a cloud platform for monitoring and debugging client-side JavaScript.
+  status: Dead
 -
   name: Quartzy
   url: http://www.quartzy.com
@@ -136,6 +150,7 @@
   name: Rentobo
   url: http://www.rentobo.com
   description: Rentobo is a new tool built for landlords, managers, and agents of all sizes to simplify the process of finding and signing a new tenant for your rental property.
+  status: Exited
 -
   name: Science Exchange
   url: http://scienceexchange.com
@@ -152,6 +167,7 @@
   name: Siasto
   url: http://siasto.com
   description: Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox.
+  status: Dead
 -
   name: Sift Science
   url: http://siftscience.com
@@ -160,6 +176,7 @@
   name: Snapjoy
   url: http://snapjoy.com
   description: Snapjoy is an online photo library that imports your photos from anywhere and organizes them into meaningful memories of who, what, when, & where.
+  status: Exited
 -
   name: Streak.com
   url: http://greekstreak.com
@@ -194,10 +211,12 @@
   name: Yardsale
   url: https://www.getyardsale.com
   description: Yardsale, a mobile app to help folks sell goods to local buyers.
+  status: Dead
 -
   name: Zenbox
   url: http://www.zenboxapp.com
   description: Zenbox is a browser extension that connects all of your SaaS services.
+  status: Dead
 -
   name: Zigfu
   url: http://zigfu.com

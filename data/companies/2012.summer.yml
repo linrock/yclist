@@ -22,6 +22,7 @@
   name: BigCalc
   url: http://www.bigcalc.com
   description: Fast, scalable financial analytics. BigCalc lets quants and algo traders run simulations on limitless amounts of historic data.
+  status: Dead
 -
   name: BoostedBoards
   url: http://www.boostedboards.com
@@ -38,6 +39,7 @@
   name: Circular
   url: http://www.circularapp.com
   description: Circular offers an infinitely scrolling feed of content based on people you follow and topics that interest you.
+  status: Dead
 -
   name: Clever
   url: http://getclever.com
@@ -46,6 +48,7 @@
   name: Coco Controller
   url: http://cococontroller.com
   description: A Kickstarter project that adds directional controls and game buttons to almost any phone
+  status: Dead
 -
   name: Coinbase
   url: http://coinbase.com
@@ -76,6 +79,7 @@
   name: Easel
   url: https://easel.io
   description: Easel is an in-browser, high-fidelity web design tool that lets you mockup, share and implement your ideas with ease.
+  status: Dead
 -
   name: Eligible
   url: http://eligibleapi.com
@@ -84,6 +88,7 @@
   name: Everyday.me
   url: http://everyday.me
   description: Everyday.me is an automatic journal that helps you to record your life and store it forever.
+  status: Dead
 -
   name: Filepicker.io
   url: https://www.filepicker.io
@@ -124,6 +129,7 @@
   name: HipType
   url: http://www.hiptype.com
   description: Hiptype brings analytics and targeted advertising capabilities to the most popular eBook platforms
+  status: Dead
 -
   name: Hubchilla
   url: http://www.hubchilla.com
@@ -144,6 +150,7 @@
   name: Kippt
   url: https://kippt.com
   description: With Kippt we want to make your information workflow and archiving effortless.
+  status: Dead
 -
   name: Knowmia
   url: http://knowmia.com
@@ -160,10 +167,12 @@
   name: Markupwand
   url: http://www.markupwand.com
   description: Photoshop to html & css. Generates automatically in minutes
+  status: Dead
 -
   name: MicroEval
   url: http://www.microeval.com
   description: Say goodbye to long forms and meaningless numbers. MicroEval is the quickest and most meaningful way to give feedback to your employees.
+  status: Dead
 -
   name: Mth Sense
   url: http://www.mthsense.com
@@ -218,6 +227,7 @@
   name: Scoutzie
   url: http://www.scoutzie.com
   description: Scoutzie.com is a curated marketplace for design.
+  status: Dead
 -
   name: SmartAsset
   url: http://www.smartasset.com
@@ -250,6 +260,7 @@
   name: TapIn
   url: http://www.tapin.tv
   description: TapIn is the easiest way to go from seeing to sharing. Broadcast mobile videos instantly.
+  status: Dead
 -
   name: Tastemaker
   url: http://www.tastemaker.com
@@ -282,6 +293,7 @@
   name: VoiceGem
   url: http://www.voicegem.com
   description: VoiceGem is the easiest way to send a voice message to anyone.
+  status: Exited
 -
   name: Zapier
   url: https://zapier.com

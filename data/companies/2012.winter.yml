@@ -35,6 +35,7 @@
   name: Embark
   url: http://letsembark.com
   description: Embark makes it easy to get around without a car. We make free, fast, and simple mobile apps for mass transit riders worldwide.
+  status: Dead
 -
   name: EveryArt
   url: http://everyart.com
@@ -55,14 +56,17 @@
   name: Flutter
   url: https://flutterapp.com
   description: Play and pause your music and movies with a gesture!
+  status: Exited
 -
   name: Flypad
   url: http://flypadapp.com
   description: Flypad turns your iPhone into a motion-sensing game controller for PC, Steam, & indie games.
+  status: Dead
 -
   name: Givespark
   url: http://givespark.com
   description: Where fans and celebrities gather for good.
+  status: Dead
 -
   name: Grouper
   url: http://www.joingrouper.com
@@ -71,6 +75,7 @@
   name: HackPad
   url: http://hackpad.com
   description: Smart collaborative documents. Company wiki. Personal notes. Event planning. Classroom collaboration.
+  status: Exited
 -
   name: HireArt
   url: http://www.hireart.com
@@ -84,10 +89,12 @@
   name: Kyte
   url: https://www.kytephone.com
   description: Kytephone is a free app that transforms an Android smartphone into a safe and fun smartphone for kids.
+  status: Dead
 -
   name: LVL6
   url: http://www.lvl6.com
   description: LVL6 creates social mobile games on Android and iOS.
+  status: Dead
 -
   name: LendUp
   url: https://www.lendup.com
@@ -104,10 +111,12 @@
   name: Medigram
   url: https://www.medigr.am
   description: Healthcare communication made simple. Medigram provides a HIPAA-compliant communication platform to make any medical conversation convenient and secure.
+  status: Dead
 -
   name: Midnox
   url: http://midnox.com
   description: Create stunning HD videos and share them with your friends.
+  status: Dead
 -
   name: MineFold
   url: http://www.minefold.com
@@ -116,6 +125,7 @@
   name: Pair
   url: http://trypair.com
   description: Pair is an app just for the two of you.
+  status: Dead
 -
   name: Per Vices
   url: http://pervices.com
@@ -128,6 +138,7 @@
   name: PopSet
   url: http://www.popset.com
   description: Popset is the easiest way to start group photo albums with friends, directly from a mobile phone.
+  status: Dead
 -
   name: Priceonomics
   url: http://priceonomics.com
@@ -161,6 +172,7 @@
   name: TiKL
   url: http://www.tikl.mobi
   description: An Android and iOS app that turns your phone into a real-time push-to-talk walkie-talkie that also sends texts, voicemail, images, and video.
+  status: Dead
 -
   name: Your Mechanic
   url: http://yourmechanic.com
@@ -173,6 +185,7 @@
   name: Zillabyte
   url: http://www.zillabyte.com
   description: Zillabyte is an online big-data analysis platform currently in stealth mode.
+  status: Dead
 -
   name: chute
   url: http://getchute.com

@@ -30,6 +30,7 @@
   name: Errplane
   url: http://errplane.com
   description: Monitoring, error reporting, and metrics for all your applications.
+  status: Dead
 -
   name: Experiment
   url: https://experiment.com
@@ -42,6 +43,7 @@
   name: FlightCar
   url: http://flightcar.com
   description: FlightCar lets people parking at the airport rent their vehicles out to other travelers. Never pay for airport parking again.
+  status: Dead
 -
   name: Goldbely
   url: http://www.goldbely.com
@@ -70,6 +72,7 @@
   name: Myo
   url: https://getmyo.com
   description: The MYO armband lets you use the electrical activity in your muscles to wirelessly control your computer, phone, and other favorite digital technologies.
+  status: Dead
 -
   name: Padlet
   url: http://padlet.com
@@ -126,6 +129,7 @@
   name: Terascore
   url: https://www.terascore.com
   description: Set up exams, tests and assessments with ease. Get student answers securely. Get them graded instantly.
+  status: Dead
 -
   name: Watsi
   url: http://watsi.org

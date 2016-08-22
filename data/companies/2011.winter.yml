@@ -72,6 +72,7 @@
   name: GrubWithUs
   url: http://grubwithus.com
   description: Grubwithus social meals allow you to meet new people, while dining at some of your city's best restaurants.
+  status: Dead
 -
   name: HelloFax
   url: http://www.hellofax.com
@@ -96,6 +97,7 @@
   name: Lanyrd
   url: http://lanyrd.com
   description: Lanyrd is a directory of conferences, events and speakers.
+  status: Exited
 -
   name: Like.fm
   url: http://like.fm
@@ -111,6 +113,7 @@
   name: Meetings.io
   url: http://meetings.io
   description: With Meetings.io you can meet face to face with anyone from around the world within your web browser.
+  status: Dead
 -
   name: MemSQL
   url: http://www.memsql.com
@@ -119,6 +122,7 @@
   name: MinoMonsters
   url: http://minomonsters.com
   description: MinoMonsters is a social game where players collect and battle pet monsters.
+  status: Dead
 -
   name: Moki.TV
   url: 
@@ -132,6 +136,7 @@
   name: NowJS
   url: http://flotype.com
   description: Flotype Inc. is a venture-backed company building a suite of enterprise technology for real-time messaging.
+  status: Dead
 -
   name: OrderAhead
   url: http://orderaheadapp.com
@@ -162,14 +167,17 @@
   name: Taskforce
   url: http://siasto.com
   description: Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox.
+  status: Dead
 -
   name: TellFi
   url: https://tellfi.com
   description: Fastest, easiest way to setup a phone system for your business.
+  status: Dead
 -
   name: TrustEgg
   url: http://trustegg.com
   description: The simplest way to save for a child's future.
+  status: Dead
 -
   name: Tutorspree
   url: http://www.tutorspree.com
