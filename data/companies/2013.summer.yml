@@ -177,6 +177,7 @@
   name: Teleborder
   url: http://www.teleborder.com
   description: Immigration, tax, and relocation. All in one place. Teleborder helps you scale your business.
+  status: Dead
 -
   name: True Link Financial
   url: http://www.truelinkcard.com
@@ -185,6 +186,7 @@
   name: URX
   url: http://urx.com
   description: Add urx.io/ to every link and drive users to your app, mobile website, or desktop browser.
+  status: Exited
 -
   name: Watchsend
   url: http://www.watchsend.com
@@ -202,3 +204,5 @@
   name: ixi-play
   url: http://www.ixiplay.com
   description: The Robot Buddy kids will love! Engage, Challenge, Learn.
+  status: Dead
+
