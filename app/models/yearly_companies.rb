@@ -36,9 +36,10 @@ class YearlyCompanies
     @companies.select {|c| c.cohort =~ /\AF\d\z/ }
   end
 
+  # TODO fix hack for sorting cohort companies
   def sorted_companies
     summer_companies.sort_by(&:name) +
-    fellowship_companies.sort_by(&:name) +
+    fellowship_companies.sort_by {|c| (3 - c.cohort[1].to_i).to_s + c.name } +
     winter_companies.sort_by(&:name)
   end
 

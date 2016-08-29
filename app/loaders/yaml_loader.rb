@@ -4,16 +4,25 @@ module YamlLoader
     data = {}
     (2005..2016).each do |year|
       companies = []
-      %w( winter fellowship summer ).each do |season|
+      %w( winter summer ).each do |season|
         options = get_options(year, season)
         next unless options && File.exists?(options[:filename])
-        companies << YAML.load_file(options[:filename]).map do |attrs|
-          CompanyRow.new(attrs.merge({ cohort: options[:cohort] }))
-        end
+        companies << load_companies_from_options(options)
+      end
+      # TODO quick hack for fellowship companies
+      if year == 2016
+        companies << load_companies_from_options(get_options(2015, "fellowship"))
+        companies << load_companies_from_options(get_options(2016, "fellowship"))
       end
       data[year] = YearlyCompanies.new(companies.flatten)
     end
     data
+  end
+
+  def load_companies_from_options(options)
+    YAML.load_file(options[:filename]).map do |attrs|
+      CompanyRow.new(attrs.merge({ cohort: options[:cohort] }))
+    end
   end
 
   def sorted_all_company_rows
