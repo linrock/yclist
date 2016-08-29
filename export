@@ -1,3 +1,5 @@
 #!/bin/bash
 
+rm -f public/assets/*
+DISABLE_SPRING=1 RAILS_ENV=production rake app:favicons:merge
 DISABLE_SPRING=1 RAILS_ENV=production rake app:export:html
