@@ -35,4 +35,5 @@ Thanks to everyone who's helped out!
 - [nicholasbs](https://github.com/nicholasbs)
 - [blairanderson](https://github.com/blairanderson)
 - [tedmiston](https://github.com/tedmiston)
-- [matanzg](https://github.com/matanzg)
+- [confiscate](https://github.com/confiscate)
+- [jancurn](https://github.com/jancurn)
