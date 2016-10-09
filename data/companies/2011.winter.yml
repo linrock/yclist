@@ -99,9 +99,9 @@
   description: Lanyrd is a directory of conferences, events and speakers.
   status: Exited
 -
-  name: Like.fm
-  url: http://like.fm
-  description: Like.fm is a fast, beautiful, and fun way to share your favorite songs.
+  name: Instapainting.com (formerly Like.fm)
+  url: https://www.instapainting.com
+  description: Hand-painted oil paintings on canvas and other artwork shipped from artists just by uploading a photo.
 -
   name: MailGun
   url: http://www.mailgun.net
