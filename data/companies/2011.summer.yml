@@ -105,9 +105,13 @@
   url: http://www.mobileworks.com
   description: MobileWorks is a crowdsourcing platform for businesses and developers that is more accurate, faster and easier to use than existing solutions.
 -
-  name: MongoHQ
-  url: https://mongohq.com
-  description: MongoHQ is the leading provider of data solutions for developers utilizing MongoDB as their data storage technology.
+  name: Compose
+  url: https://www.compose.com
+  description: Database-as-a-Service for hosting and managing MongoDB instances
+  metadata: Formerly MongoHQ
+  status: Exited
+  annotation:
+    exit: Acquired by IBM in July 2015.
 -
   name: Munch On Me
   url: http://www.munchonme.com
