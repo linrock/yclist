@@ -160,6 +160,10 @@
   url: http://leanstartupmachine.com
   description: Lean Startup Machine is the world's leading bootcamp on Lean Startup methodology.
 -
+  name: Lever
+  url: https://www.lever.co/
+  description: A fresh take on the applicant tracking system, Lever combines ATS and CRM functionality to source, nurture, and manage candidates all in one place.
+-
   name: LightTable
   url: http://www.lighttable.com
   description: A new interactive IDE that lets you modify running programs and embed anything from websites to games
