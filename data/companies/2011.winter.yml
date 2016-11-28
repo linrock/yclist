@@ -99,9 +99,9 @@
   description: Lanyrd is a directory of conferences, events and speakers.
   status: Exited
 -
-  name: Instapainting.com (formerly Like.fm)
+  name: Instapainting.com
   url: https://www.instapainting.com
-  description: Hand-painted oil paintings on canvas and other artwork shipped from artists just by uploading a photo.
+  description: Formerly Like.fm. Hand-painted oil paintings on canvas and other artwork shipped from artists just by uploading a photo.
 -
   name: MailGun
   url: http://www.mailgun.net
