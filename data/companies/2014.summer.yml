@@ -231,9 +231,10 @@
   metadata: $1,300,000
 -
   name: Weave
-  url: http://www.getweave.com
-  description: We make it easy for your practice to deliver the best patient experience
-  metadata: $5,000,000
+  url: https://weave.in
+  description: Professional networking to arrange meetings and friendly discussions.
+  status: Dead
+  metadata: $630,000
 -
   name: Zen99
   url: https://zen99.co
