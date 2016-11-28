@@ -67,6 +67,10 @@
   name: Framed Data
   url: http://www.framed.io
   description: Framed retains your users. Framed Data knows how your users behave and warns you when they're about to leave.
+  status: Exited
+  annotation:
+    exit: Acquired by Square
+  metadata: http://fortune.com/2016/03/14/square-framed/
 -
   name: Gbatteries
   url: http://www.gbatteries.com
