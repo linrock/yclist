@@ -11,7 +11,7 @@
 /public/index.html*
 /public/exported.html*
 
-/app/assets/stylesheets/favicons.css.*
+/app/assets/stylesheets/favicons.css
 /app/assets/images/favicons.*
 
 config/remote.yml

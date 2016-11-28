@@ -9,7 +9,7 @@ class FaviconSpritesheet
   end
 
   def spritesheet_png
-    Rails.root.join("app/assets/images/favicons.png")
+    Rails.root.join("public/assets/#{merged_favicons_filename}")
   end
 
   def n_companies_processed
@@ -18,12 +18,20 @@ class FaviconSpritesheet
     png_desc[/(\d+) companies/, 1].to_i
   end
 
+  def favicons_md5_digest
+    @favicons_md5_digest ||= `tar cf - #{Rails.root.join("data/favicons/")} | openssl md5`.strip
+  end
+
+  def merged_favicons_filename
+    "favicons-#{favicons_md5_digest}.png"
+  end
+
   def generate!
     `mkdir -p /tmp/yclist/favicons/`
     merge_list = [Rails.root.join("data/favicons/transparent-16x16.png")]
     sprite_index = 1
     i = 0
-    @css = ".c-icon { background: url(<%= asset_path 'favicons.png' %>) no-repeat;
+    @css = ".c-icon { background: url(/assets/#{merged_favicons_filename}) no-repeat;
                       width: 16px;
                       height: 16px; }\n"
     @companies.each do |company_row|
@@ -60,12 +68,12 @@ class FaviconSpritesheet
   end
 
   def export_css!
-    spritesheet_css = Rails.root.join("app/assets/stylesheets/favicons.css.erb")
+    spritesheet_css = Rails.root.join("app/assets/stylesheets/favicons.css")
     open(spritesheet_css, 'w') do |f|
       f.write @css
     end
     file_size = `du -hs #{spritesheet_css}`
-    puts "favicons.css.erb - #{file_size}"
+    puts "favicons.css - #{file_size}"
   end
 
 end
