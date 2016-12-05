@@ -224,11 +224,10 @@
   description: Vizera brings an unprecedented shopping experience to retail showrooms
   metadata: $120,000
 -
-  name: Walksource
-  url: http://www.walksource.com
-  description: Sell more hotel rooms
-  status: Dead
-  metadata: $1,300,000
+  name: Roomstorm
+  url: http://roomstorm.com
+  description: Hotel booking platform tailored to help airlines with accommodating passengers from delayed and cancelled flights. Formerly known as WalkSource.
+  metadata: $1,100,000
 -
   name: Weave
   url: https://weave.in
