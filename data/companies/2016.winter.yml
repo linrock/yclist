@@ -2,7 +2,7 @@
   name: Able Health
   url: http://ablehealth.co
   description: Able Health gets doctors paid more for higher quality care
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: SOUNDBOKS
@@ -12,506 +12,506 @@
   name: AlphaFlow
   url: http://www.alphaflow.com
   description: AlphaFlow makes investing in real estate as easy as adding stocks to your portfolio. 100% passive with unparalleled diversification
-  annotation:
+  metadata:
     vertical: Fintech
 -
   name: Gigwell
   url: http://gigwell.com
   description: Gigwell streamlines the booking process between entertainers (performers, DJs and public speakers) and entertainment venues
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Goodybag
   url: http://goodybag.com
   description: An online tool for companies to order food from restaurants and caterers
-  annotation:
+  metadata:
     vertical: Enterprise
 -
   name: Index
   url: http://www.index.io
   description: Index gets you warm introductions from your colleagues. It marries public information on people with email data on relationships
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: DevColor
   url: http://www.devcolor.org
   description: We give Black software engineers the support they need to enter and advance in the tech industry
-  annotation:
+  metadata:
     vertical: Developer Tools
 -
   name: Elucify
   url: https://getelucify.com
   description: Elucify is a data service that provides free sales leads for startups/professionals
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Emburse
   url: https://www.emburse.com
   description: Emburse allows businesses to issue virtual or physical debit cards to employees or contractors
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: NURX
   url: http://www.nurx.co
   description: Nurx is the fastest way to get oral contraceptives and Truvada for PrEP
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Revl
   url: http://revl.com
   description: The world’s smartest action camera
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: UnnyWorld
   url: http://unnyhog.com
   description: Video game development company. We are creating unique and revolutionary games
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: TRAC
   url: https://www.tracchicago.com
   description: An end-to-end timing solution for any scale athletic event
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: PocketSuite
   url: http://www.pocketsuite.io
   description: PocketSuite lets any entrepreneur run a local business from their smartphone
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Skymind
   url: http://skymind.io
   description: Cloudera for Deep Learning. We build deep learning solutions for fraud detection, image recognition and predictive analytics
-  annotation:
+  metadata:
     vertical: Enterprise
 -
   name: SHRI
   url: http://www.sanrights.org
   description: Sanitation and Health Rights in India (SHRI) fights alongside communities to end open defecation
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Tovala
   url: http://www.tovala.com
   description: Tovala is a smart oven that sits on your countertop and is paired with a companion meal delivery service
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Secful
   url: http://www.secful.com
   description: SECful secures APIs by detecting and profiling attackers in real-time
-  annotation:
+  metadata:
     vertical: Enterprise
 -
   name: Perlara
   url: http://perlara.com
   description: PLab is a drug discovery platform company for 5,000+ rare genetic diseases
-  annotation:
+  metadata:
     vertical: Biomedical
 -
   name: Castle
   url: http://entercastle.com
   description: Castle manages rental homes for landlords using automation and on-demand labor
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: GoLorry
   url: http://www.golorry.com
   description: New age of logistics
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: GetAccept
   url: https://www.getaccept.com
   description: GetAccept - Reinventing the sales proposal and eSigning workflow to help salespeople close more deals
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Nova
   url: http://www.nova.ai
   description: Nova helps salespeople write highly personalized, 1-1 emails at scale
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Konsus
   url: http://konsus.com
   description: On-demand freelancers for business. Email us office tasks, and we assign pre-vetted freelancers based on skill and availability
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: flexReceipts
   url: http://www.flexreceipts.com
   description: Smart digital receipts for physical stores to help retailers engage customers and increase sales
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: CareSkore
   url: http://www.careskore.com
   description: Predictive patient relation management for hospitals, health systems, IDNs and health plans
-  annotation:
+  metadata:
     vertical: Enterprise
 -
   name: OpenTrons
   url: http://opentrons.com
   description: We are building the PC of life-science labs - a robot connected to Mix.Bio, where scientists can download experiments to run
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Lattice
   url: http://latticehq.com
   description: Modern performance management software. Goal management, weekly check-ins, and 360 performance reviews
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Gecko Robotics
   url: https://www.geckorobotics.com
   description: We develop robots for industrial inspections
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: MagicBus
   url: http://www.magicbus.io
   description: We transport commuters between cities and suburbs. We create new bus routes every day based on where people want to go
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Outschool
   url: http://outschool.com
   description: Community marketplace of classes for kids
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: DoseDr
   url: https://www.dosedr.com
   description: Helping diabetes patients use the correct amount of insulin, preventing diabetes complications and hospitalizations
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Mindori
   url: http://www.mindori.com
   description: Mindori builds white-label voice search for e-commerce apps
-  annotation:
+  metadata:
     vertical: Enterprise
 -
   name: Spinal Singularity
   url: http://www.spinalsingularity.com
   description: Devices to improve the quality of life for people with spinal cord injury and disease
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Toymail
   url: http://www.toymail.co
   description: Connected toys that enable two-way voice messaging between children and their friends and family
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: ZenProspect
   url: http://www.zenprospect.com
   description: Helping B2B teams ramp up outbound sales
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Focal Systems
   url: http://www.focal.systems
   description: A deep learning company building the OS for Brick & Mortar Retail
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Bonsai
   url: https://www.hellobonsai.com
   description: Global operating system for freelance labor
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Unima
   url: http://www.unima.com.mx
   description: Unima created a lab-on-paper technology that diagnoses infectious diseases faster and at a lower cost than available lab tests
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Compgun
   url: http://compgun.com
   description: Sales commission software that grows revenue
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Varden Labs
   url: http://vardenlabs.com
   description: Varden Labs is an expert in self-driving technology
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Petcube
   url: http://petcube.com
   description: Petcube is on the mission to improve lives of pets and pet owners using technology
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: STILT
   url: http://www.stilt.co
   description: We provide simple financial services to immigrants. Our first product is a loan for visa holders (F-1, OPT, H-1B, etc)
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Drive Motors
   url: http://drivemotors.com
   description: Online checkout for car dealerships
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: mRelief
   url: https://www.mrelief.com
   description: mRelief has built an easy-to-use platform for low-income Americans to find out if they qualify for important social services
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Poppy
   url: http://meetpoppy.com
   description: Poppy makes it easy for parents to find high quality childcare with just a text
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Georgette Packaging
   url: http://www.georgettepackaging.com
   description: Georgette Packaging powers the relationship between small businesses and packaging manufacturers
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: msg.ai
   url: http://msg.ai
   description: AI for conversational commerce. Fortune 500 brands use msg.ai deep learning platform to build and manage messaging bots
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Redspread
   url: http://redspread.com
   description: Version control for software environments
   status: Dead
-  annotation:
+  metadata:
     vertical: Developer Tools
 -
   name: InnoVein
   url: http://Innoveinmedical.com
   description: We cure intractable leg wounds with a prosthetic valve for veins
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Iron Ox
   url: http://www.ironox.com
   description: Robotic greenhouses for cheaper, sustainable farming
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: WorldCover
   url: http://worldcovr.com
   description: Funding platform for global insurance, starting with crop insurance in the developing world
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: MineralSoft
   url: https://mineralsoft.com
   description: Data management platform for oil & gas assets
-  annotation:
+  metadata:
     vertical: Fintech
 -
   name: TrendMD
   url: https://www.trendmd.com
   description: Article recommendation engine for doctors
-  annotation:
+  metadata:
     vertical: Biomedical
 -
   name: Paystack
   url: https://www.paystack.co
   description: Modern payments infrastructure for Africa
-  annotation:
+  metadata:
     vertical: Fintech
 -
   name: Mux
   url: http://mux.com
   description: Video analytics & infrastructure for developers
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: iSono Health
   url: http://www.isonohealth.com
   description: At-home ultrasound imaging platform for early breast cancer detection
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: MailTime
   url: http://mailtime.com
   description: MailTime is an open and mobile messenger built with email technology
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Sharethebus
   url: http://www.sharethebus.com
   description: Book charter buses online
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Castle.io
   url: https://castle.io
   description: Castle analyzes user behavior to stop hackers
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Copia
   url: http://www.gocopia.com
   description: COPIA easily connects businesses with surplus food to local nonprofits in need
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Pulpix
   url: https://www.pulpix.com
   description: Content Discovery Inside Video
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Message.io 
   url: http://message.io
   description: The universal chatbot platform
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Lygos
   url: http://www.lygos.com
   description: Lygos engineers yeast to convert sugar into high-value industrial chemicals
-  annotation:
+  metadata:
     vertical: Biomedical
 -
   name: Silver
   url: http://www.scansilver.com
   description: Low cost consumer device for toxin detection
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Lynks
   url: https://www.lynks.com
   description: Lynks is an e-commerce company that makes high demand products accessible to people in developing countries
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: SendBird
   url: https://sendbird.com
   description: SendBird is the chat API for mobile apps and websites. We help developers build 1-on-1 messaging and group chat in 5 minutes
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Hykso
   url: http://www.hykso.com
   description: Hykso builds wrist sensors for Boxing and Martial Arts that recognize which type of punches are thrown and calculate their speed
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Hingeto
   url: https://www.hingeto.com
   description: We build crowdfunding sites that lets clothing brands create and sell products without the risk of inventory
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Kip Health
   url: http://kiphealth.com
   description: Therapy the way it should be - high quality in-person therapy sessions paired with digital support
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Yardbook
   url: https://www.yardbook.com
   description: Marketplace & Software Revolutionizing Yard Care
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Birdly
   url: http://www.getbirdly.com
   description: We let you access your software data (from Salesforce, Zendesk, Intercom, etc) through Slack
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Podium
   url: https://podium.com
   description: Collect and manage real-time online reviews and customer feedback
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: VINEBOX
   url: http://www.getvinebox.com
   description: Wine by the glass, at home
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Luminist
   url: http://luministlabs.com
   description: Data-driven diagnostic platform for early-stage cancer screening
-  annotation:
+  metadata:
     vertical: Biomedical
 -
   name: Wakie
   url: http://www.wakie.com
   description: Wake is a voice conversation app. Set a topic and call someone who is interested right away
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Kisan Network
   url: http://www.kisannetwork.com
   description: Online marketplace for Indian agriculture
-  annotation:
+  metadata:
     vertical: Marketplace
 -
   name: PhysioHealth
   url: https://www.physioh.com
   description: An enterprise health benefits platform that rewards employees for living healthy and decreases healthcare costs
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Enflux
   url: http://enfluxmobile.com
   description: Motion capture clothing that provides full immersion for VR/AR
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: LendEDU
   url: https://lendedu.com
   description: LendEDU is a marketplace for student loans and student loan refinancing
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: QueueHop
   url: http://queuehop.com
   description: QueueHop is an anti-theft apparel security tag. When a payment is made via mobile, shoppers can unlock the security tag and skip checkout
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Deako
   url: https://www.deako.com
   description: We make beautiful connected light switches that allow you to control any light in your home from any switch or your mobile phone
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Meter Feeder
   url: http://www.meterfeeder.com
   description: Meter Feeder enables local government to accept credit card payment, for parking, without upgrading their infrastructure
-  annotation:
+  metadata:
     vertical: Enterprise
 -
   name: UpLabs
   url: http://www.uplabs.com
   description: UpLabs is a place where designers & developers come to share, discover and interact with resources to build sites and apps
-  annotation:
+  metadata:
     vertical: Marketplace
 -
   name: Shypmate
   url: http://www.shypmate.com
   description: Shypmate enables a fast, reliable and cost effective P2P delivery for overseas shoppers
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Function of Beauty
   url: http://www.functionofbeauty.com
   description: Customized formulations of shampoo and conditioners tailored to individual hair goals and needs
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Magic Instruments
@@ -521,103 +521,103 @@
   name: Rappi
   url: http://www.rappi.com
   description: Rappi delivers in minutes groceries, cash, clothing, burgers and more. Everything in Bogotá and Mexico delivered for under 1 dollar
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Stealth Worker
   url: https://www.stealthworker.com
   description: We are building an marketplace where one can hire cyber security experts by the hour, at affordable rates
-  annotation:
+  metadata:
     vertical: Marketplace
 -
   name: Instabug
   url: https://instabug.com
   description: In-app conversations and bug reporting for mobile apps. We help squash bugs in beta apps and engage users in production apps
-  annotation:
+  metadata:
     vertical: Developer Tools
 -
   name: Landed
   url: http://www.landed.com
   description: Landed makes buying a home more affordable and less risky by investing alongside you when you make a down payment
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Chillabit
   url: http://justchillabit.com
   description: Chillabit is a live feed of funny and relatable student stories that capture student life
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Pave
   url: https://paveiq.com
   description: Pave analyzes Google Analytics + marketing data and sends you reports on what's working, what's not, and how to improve
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Streamup
   url: https://streamup.com
   description: Streamup is a live streaming community for music. We make it fun and easy to watch, chat with, and support your favorite musicians
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: OSVehicle
   url: https://www.osvehicle.com
   description: OSVehicle is a B2B company that provides a ready-to-use hardware platform that lets companies produce complete electric vehicles
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: GitPrime
   url: https://gitprime.com
   description: Productivity analytics for software teams
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Chatfuel
   url: http://chatfuel.com
   description: Platform to easily create chatbots to engage with audiences on messengers
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Deepgram
   url: https://www.deepgram.com
   description: Speech search engine and recorded call analytics for business
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Thunkable
   url: http://thunkable.com
   description: Wordpress / Wix / Squarespace for native mobile apps. Drag, drop and block it to invent your own beautiful app
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: Truebill
   url: https://www.truebill.com
   description: Truebill allows users to find, track and manage all their subscriptions and recurring payments from one place
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: NetBeez
   url: https://netbeez.net
   description: Detect network problems before users do
-  annotation:
+  metadata:
     vertical: Enterprise
 -
   name: Restocks
   url: https://restocks.io
   description: Push notifications for superconsumers. We make buying coveted products easy
-  annotation:
+  metadata:
     vertical: Consumer
 -
   name: HistoWiz
   url: http://histowiz.com
   description: Accelerating Histopathology for Cancer Research
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Pluot Communications
   url: https://pluot.co
   description: Big-screen video conferencing that's inexpensive, easy to set up, and easy to use
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Acre Designs
@@ -627,40 +627,42 @@
   name: Zenysis
   url: http://www.zenysis.com
   description: For-profit company building powerful data analysis software for developing countries
-  annotation:
+  metadata:
     vertical: Enterprise
 -
   name: ConstructVR
   url: https://www.constructvr.io
   description: The simplest way to test, manage, and deploy VR/AR apps at scale
-  annotation:
+  metadata:
     vertical: Developer Tools
 -
   name: Boom
   url: http://boom.aero
   description: Supersonic passenger airplanes you can afford to fly. Our subscale prototype will fly in late 2017
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: StrongIntro
   url: https://strongintro.com
   description: StrongIntro helps recruiters turn their entire company into a source for engineering candidates
   status: Dead
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: AmberBox
   url: http://amberbox.com
   description: Active shooter detection and self monitoring fire alarm systems - the ultimate protection for your business
-  annotation:
+  metadata:
     vertical: Hardware
 -
   name: Mason America
   url: http://www.bymason.com
   description: Infrastructure for mobile deployment. Build your own Android device and OS without a hardware team or modifying source code
-  annotation:
+  metadata:
     vertical: B2B
 -
   name: Qurasense
   url: http://qurasense.com
   description: Smart feminine hygiene pad
+  metadata:
+    Initially from Fellowship 1 in winter 2015
