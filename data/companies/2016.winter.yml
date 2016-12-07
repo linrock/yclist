@@ -660,3 +660,7 @@
   description: Infrastructure for mobile deployment. Build your own Android device and OS without a hardware team or modifying source code
   annotation:
     vertical: B2B
+-
+  name: Qurasense
+  url: http://qurasense.com
+  description: Smart feminine hygiene pad
