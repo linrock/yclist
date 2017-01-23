@@ -84,3 +84,8 @@
   name: Restocks
   url: https://restocks.io
   description: Push notifications when sold out products restock
+-
+  name: FlightMate
+  url: https://flightmate.co
+  description: Flexible flight querying with automated booking
+  status: Dead
