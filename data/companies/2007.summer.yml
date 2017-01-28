@@ -58,6 +58,9 @@
   name: Justin.tv
   url: http://www.justin.tv
   description: A website that allowed anyone to broadcast video online
+  status: Exited
+  annotation:
+    exit: Acquired by Amazon in 20014.
 -
   name: Reble
   url: 
