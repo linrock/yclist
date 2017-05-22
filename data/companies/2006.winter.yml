@@ -15,6 +15,10 @@
   name: InklingMarkets
   url: http://inklingmarkets.com
   description: Inkling provides a platform for companies to run their own internal or external prediction marketplaces
+  status: Exited
+  annotation:
+    exit: Acquired by Cultivate Labs in 2015.
+  metadata: Source - http://blog.inklingmarkets.com/2015/09/inklings-final-chapter.html
 -
   name: Snipshot
   url: http://snipshot.com
