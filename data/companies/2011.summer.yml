@@ -44,6 +44,8 @@
   url: http://www.firebase.com
   description: A scalable real-time backend for your web app. Build apps really fast without the hassle of managing servers.
   status: Exited
+  annotation:
+    exit: Acquired by Google in Oct 2014.
 -
   name: FreshPlum
   url: http://www.freshplum.com
@@ -54,6 +56,8 @@
   url: http://www.glassmap.com
   description: Glassmap is a simple, beautiful way to show your friends where you are and what you are doing.
   status: Exited
+  annotation:
+    exit: Acquired by Groupon in Jan 2013.
 -
   name: GoCardless
   url: https://gocardless.com
@@ -82,6 +86,8 @@
   url: http://launchpadtoys.com
   description: We're creating digital toys and tools that empower kids to create, learn & share their ideas through play.
   status: Exited
+  annotation:
+    exit: Acquired by Google in 2015.
 -
   name: Leaky
   url: http://www.leaky.com
@@ -117,6 +123,8 @@
   url: http://www.munchonme.com
   description: Munch On Me is a food discovery portal that connects people with great food at great prices in local communities.
   status: Exited
+  annotation:
+    exit: Acquired by CollegeBudget in May 2012.
 -
   name: Opez
   url: http://www.opez.com
@@ -135,6 +143,8 @@
   url: http://www.parse.com
   description: Cloud services for mobile developers. Parse lets you focus on creating unique & engaging apps. We take care of the rest
   status: Exited
+  annotation:
+    exit: Acquired by Facebook for $85 MM in 2013.
   metadata: http://blog.parse.com/announcements/the-future-of-parse/
 -
   name: PicPlum
@@ -155,6 +165,8 @@
   url: http://www.rentobo.com
   description: Rentobo is a new tool built for landlords, managers, and agents of all sizes to simplify the process of finding and signing a new tenant for your rental property.
   status: Exited
+  annotation:
+    exit: Acquired by Gusto in May 2016.
 -
   name: Science Exchange
   url: http://scienceexchange.com
@@ -180,15 +192,19 @@
   name: Snapjoy
   url: http://snapjoy.com
   description: Snapjoy is an online photo library that imports your photos from anywhere and organizes them into meaningful memories of who, what, when, & where.
+  annotation:
+    exit: Acquired by Dropbox in 2012.
   status: Exited
 -
   name: Streak.com
-  url: http://streak.com
-  description: Streak.com is the only CRM integrated entirely within your Gmail inbox. Use it to track sales, partnerships, support, hiring, and much more.
+  url: https://www.streak.com
+  description: CRM integrated entirely within your Gmail inbox
 -
   name: Stypi
   url: http://www.stypi.com
   description: Stypi is a collaborative real-time text editor similar to Etherpad.
+  annotation:
+    exit: Acquired by Salesforce in 2012.
   status: Exited
 -
   name: Tagstand
@@ -199,6 +215,8 @@
   url: http://tapengage.com
   description: You need a tablet strategy. We can help.
   status: Exited
+  annotation:
+    exit: Acquired by Dropbox in 2012.
 -
   name: Verbling
   url: http://verbling.com
