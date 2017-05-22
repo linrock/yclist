@@ -55,12 +55,14 @@
   description: A browser-based 2D animation studio
   status: Dead
 -
-  name: Justin.tv
-  url: http://www.justin.tv
-  description: A website that allowed anyone to broadcast video online
+  name: Twitch.tv
+  url: https://www.twitch.tv
+  description: A live streaming video platform focused on video gaming and eSports
   status: Exited
   annotation:
-    exit: Acquired by Amazon in 20014.
+    exit: Acquired by Amazon in 2014.
+  metadata:
+    Spun off from justin.tv in June 2011.
 -
   name: Reble
   url: 
