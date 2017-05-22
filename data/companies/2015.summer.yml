@@ -320,6 +320,10 @@
   name: Bizzy.io
   url: http://www.bizzy.io
   description: The smartest way to boost conversions from your email list
+  status: Exited
+  annotation:
+    exit: Acquired by Sendgrid in Mar 2017.
+  metadata: Source - https://sendgrid.com/news/sendgrid-acquires-email-marketing-startup-bizzy/
 -
   name: Eden
   url: https://www.eden.io
