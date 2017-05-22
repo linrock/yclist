@@ -286,11 +286,13 @@
     vertical: B2B
 -
   name: Redspread
-  url: http://redspread.com
+  url: https://redspread.com
   description: Version control for software environments
-  status: Dead
+  status: Exited
   metadata:
     vertical: Developer Tools
+  annotation:
+    exit: Acquired by CoreOS in Oct 2016.
 -
   name: InnoVein
   url: http://Innoveinmedical.com
