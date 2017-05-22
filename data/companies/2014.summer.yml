@@ -36,11 +36,6 @@
   url: http://www.bitaccess.co
   description: The easiest way to buy and sell bitcoin
 -
-  name: BlockScore
-  url: http://blockscore.com
-  description: Real-time identity verification and due diligence
-  metadata: $2,025,000
--
   name: Carlypso
   url: http://www.carlypso.com
   description: Buy pre-owned cars 100% risk free with Carlypso
@@ -54,6 +49,11 @@
   name: ClearTax
   url: http://cleartax.in
   description: The easiest way to e-File income tax returns in India
+-
+  name: Cognito
+  url: https://cognitohq.com
+  description: Frictionless, modern identity verification that starts with just a phone number.
+  metadata: $2,025,000
 -
   name: Craft Coffee
   url: http://craftcoffee.com
