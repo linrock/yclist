@@ -37,6 +37,9 @@
   name: Cloudant
   url: http://cloudant.com
   description: The Cloudant Data Layer is the cloud database service managed by experts
+  status: Exited
+  annotation:
+    exit: Acquired by IBM in 2014.
 -
   name: Disqus
   url: http://www.disqus.com
