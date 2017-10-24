@@ -149,6 +149,9 @@
   name: Pebble Technology
   url: http://www.getpebble.com
   description: Pebble is an infinitely customizable e-paper watch.
+  status: Dead
+  annotation:
+    exit: IP was acquired by Fitbit in 2016
 -
   name: Sendoid
   url: http://sendoid.com
