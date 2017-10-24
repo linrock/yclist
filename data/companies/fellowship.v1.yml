@@ -20,9 +20,9 @@
   url: http://www.shypmate.com
   description: Affordable and fast international peer to peer delivery
 -
-  name: Apifier
-  url: https://www.apifier.com
-  description: Web crawler that works on every website
+  name: Apify (formerly Apifier)
+  url: https://www.apify.com
+  description: The web scraping and automation platform, which enables to turn any website into an API.
 -
   name: EnsoData
   url: http://www.ensodata.io
