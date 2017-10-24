@@ -118,6 +118,9 @@
   name: ReadyForZero
   url: https://www.readyforzero.com
   description: ReadyForZero creates online financial software that helps people control and reduce debt
+  status: Exited
+  annotation:
+    exit: Acquired by Avant in 2015
 -
   name: Simperium
   url: http://simplenoteapp.com
