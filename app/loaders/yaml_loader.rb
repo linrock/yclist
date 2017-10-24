@@ -2,7 +2,7 @@ module YamlLoader
 
   def load_yearly_data_from_yaml_files
     data = {}
-    (2005..2016).each do |year|
+    (2005..2017).each do |year|
       companies = []
       %w( winter summer ).each do |season|
         options = get_options(year, season)
