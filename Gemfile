@@ -9,6 +9,7 @@ gem 'parallel'
 
 gem 'bourbon'
 gem 'nokogiri', :require => false
+gem 'dotenv-rails'
 
 gem 'sass-rails' #,   '~> 3.2.3'
 gem 'coffee-rails' #, '~> 3.2.1'

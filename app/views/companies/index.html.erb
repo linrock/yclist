@@ -121,11 +121,11 @@ Email me at linmiao.xu AT gmail.com if you have suggestions!
 
 </div>
 
-<% if Rails.env.production? && Remote.ga_id %>
+<% if Rails.env.production? && ENV["GA_ID"] %>
   <script type="text/javascript">
 
     var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', '<%= Remote.ga_id %>']);
+    _gaq.push(['_setAccount', '<%= ENV["GA_ID"] %>']);
     _gaq.push(['_trackPageview']);
 
     (function() {

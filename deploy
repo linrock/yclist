@@ -1,20 +1,16 @@
-#!/usr/bin/env ruby
+#!/bin/bash
 
-
-remote_host = ENV["DEPLOY_HOST"]
-remote_path = ENV["DEPLOY_PATH"]
-
-unless remote_host && remote_path
-  puts "Must define DEPLOY_HOST and DEPLOY_PATH"
+source .env
+if ! [[ $DEPLOY_HOST && $DEPLOY_PATH ]]; then
+  echo DEPLOY_HOST and DEPLOY_PATH must be defined
   exit 1
-end
+fi
 
+target=$DEPLOY_HOST:$DEPLOY_PATH
+echo "Deploying assets and html to production... $target"
+rsync -avzP public/ $target
 
-puts "Deploying assets and html to production..."
-`rsync -avzP public/ #{remote_host}:#{remote_path}`
-commands = [
-  "cd #{remote_path}",
-  "mv exported.html index.html",
-  "mv exported.html.gz index.html.gz"
-]
-`ssh #{remote_host} "#{commands.join(" ; ")}"`
+ssh $DEPLOY_HOST "\
+  cd $DEPLOY_PATH; \
+  mv exported.html index.html; \
+  mv exported.html.gz index.html.gz"
