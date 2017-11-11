@@ -169,6 +169,12 @@
   name: Standard Treasury
   url: http://standardtreasury.com
   description: APIs for commercial banks.
+  status: Exited
+  annotation:
+    exit: Acquired by Silicon Valley Bank.
+  options:
+    hide_url: true
+  metadata: Acquired by Silicon Valley Bank - https://www.svb.com/News/Company-News/API-Banking-Startup-Standard-Treasury-Joins-Silicon-Valley-Bank/
 -
   name: StatusPage
   url: http://www.statuspage.io
@@ -205,4 +211,3 @@
   url: http://www.ixiplay.com
   description: The Robot Buddy kids will love! Engage, Challenge, Learn.
   status: Dead
-
