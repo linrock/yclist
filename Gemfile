@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.8'
+gem 'rails', '5.1.4'
 gem 'sqlite3'
 gem 'pry'
 
@@ -15,3 +15,7 @@ gem 'sass-rails' #,   '~> 3.2.3'
 gem 'coffee-rails' #, '~> 3.2.1'
 gem 'uglifier', '>= 1.0.3'
 gem 'jquery-rails'
+
+group :development do
+  gem 'listen'
+end
