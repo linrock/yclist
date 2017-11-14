@@ -267,6 +267,10 @@
   url: http://www.simbi.com
   description: Simbi is a marketplace to barter services.
 -
+  name: SimpleCitizen
+  url: https://simplecitizen.com
+  description: The Digital Immigration and Visa Solution
+-
   name: sixa 
   url: https://sixa.io
   description: Personal computer in the cloud
