@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/linrock/favicon_party.git
+  remote: https://github.com/linrock/favicon_party.git
   revision: 4c0a726c7bdfadcff46fa67dc91e962ca951bd38
   specs:
     favicon_party (0.7.5)
