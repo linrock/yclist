@@ -18,6 +18,10 @@ Help keep YC List up-to-date! You can:
 
 Thanks to everyone who's helped out!
 
+- [People who submitted PRs](https://github.com/linrock/yclist/graphs/contributors)
+
+Some contributors from 2016
+
 - [callmevlad](https://github.com/callmevlad)
 - [RamenAndPho](https://github.com/RamenAndPho)
 - [alexfarrill](https://github.com/alexfarrill)
