@@ -19,7 +19,11 @@ class FaviconSpritesheet
   end
 
   def favicons_md5_digest
-    @favicons_md5_digest ||= `tar cf - #{Rails.root.join("data/favicons/")} | openssl md5`.strip
+    @favicons_md5_digest ||= favicons_md5_digest!
+  end
+
+  def favicons_md5_digest!
+    `tar cf - #{Rails.root.join("data/favicons/")} | openssl md5`[/([a-f0-9]{32})/, 1]
   end
 
   def merged_favicons_filename
