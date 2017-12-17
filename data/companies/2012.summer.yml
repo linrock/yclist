@@ -261,6 +261,10 @@
   url: http://www.survata.com
   description: Survata is a new type of market research and consumer insights service.
 -
+  name: Svbtle
+  url: http://svbtle.com
+  description: Svbtle is publishing network that brings some of the best things from newspapers and magazines to a network of great people.
+-
   name: TapIn
   url: http://www.tapin.tv
   description: TapIn is the easiest way to go from seeing to sharing. Broadcast mobile videos instantly.
