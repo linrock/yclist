@@ -1,31 +1,31 @@
 -
   name: 10 By 10
   url: https://10by10.io
-  description: 10by10 is building a unique marketplace in the recruiting agency industry for recruiters to match engineers with jobs. Recruiting agencies have relationships with proven experienced engineers that you can't find in self-service job boards.
+  description: A marketplace for recruiters to match engineers with jobs
 -
   name: 70MillionJobs
-  url: https://www.70MillionJobs.com
-  description: The Internet's first for-profit recruitment platform for people with criminal records. We match ignored talent (from our community of several million applicants) with jobs that companies can't fill.
+  url: https://www.70millionjobs.com
+  description: A recruitment platform for people with criminal records
 -
   name: Advano
   url: http://www.advanotech.com
-  description: Advano's silicon nanoparticles dramatically increase the energy density lithium-ion batteries 30-40% without sacrificing battery life or increasing the battery cost. Better batteries for ioT, consumer electronics, and EVs.
+  description: Advano's silicon nanoparticles increase the energy density of lithium-ion batteries 30-40% without sacrificing battery life or increasing the battery cost
 -
   name: Airthium
   url: http://www.airthium.com
-  description: We make large scale (1MW+) thermodynamic energy storage systems.
+  description: We make large scale (1MW+) thermodynamic energy storage systems
 -
   name: AssemblyAI
   url: https://www.assemblyai.com
-  description: API for customizable, affordable speech recognition.
+  description: API for customizable, affordable speech recognition
 -
   name: Audm
   url: https://www.audm.com
-  description: Audm is the subscription service for spoken-word audio content.
+  description: The subscription service for spoken-word audio content
 -
   name: AutoHub
   url: https://www.autohub.io
-  description: AutoHub is a marketplace for car dealers to buy and sell used cars from each other.
+  description: A marketplace for car dealers to buy and sell used cars from each other
 -
   name: BillionToOne
   url: https://www.billiontoone.com
@@ -33,42 +33,42 @@
 -
   name: bxblue
   url: http://www.bxblue.com.br
-  description: bxblue is a marketplace for people with guaranteed income in Brazil. This market has 42 million people that borrow over U$40 billion yearly (growing 20% YoY).
+  description: A marketplace for people with guaranteed income in Brazil
 -
   name: Caelum Health
-  url: https://caelumhealth.com/
-  description: Caelum Health is replacing drugs with software. We use behavioral medicine, delivered digitally, to treat diseases where drugs don't work. We're starting with IBS, which affects 20% of the US and costs an additional $6,000 per individual each year.
+  url: https://caelumhealth.com
+  description: Replacing drugs with software. We use behavioral medicine, delivered digitally, to treat diseases where drugs don't work
 -
   name: Cambridge Cancer Genomics
   url: http://ccg.ai
-  description: CCG empowers clinicians to make personalised treatment strategies for cancer patients. We use blood monitoring to measure the effectiveness of cancer therapies and ML to tailor treatment decisions.
+  description: CCG empowers clinicians to make personalised treatment strategies for cancer patients
 -
   name: CarDash
-  url: http://www.CarDash.com
-  description: Managed marketplace for automotive services.
+  url: http://www.cardash.com
+  description: Managed marketplace for automotive services
 -
   name: Carrot Fertility
   url: https://get-carrot.com
-  description: Fertility benefits for modern companies.
+  description: Fertility benefits for modern companies
 -
   name: Cashfree
-  url: https://www.cashfree.com/
-  description: Next-Gen digital payments provider for India.
+  url: https://www.cashfree.com
+  description: Next-Gen digital payments provider for India
 -
   name: Claire
   url: http://www.meetclaire.co
-  description: Claire is a chatbot for testing consumer products. We help brands and retailers identify their best sellers and worst performers before committing to production decisions.
+  description: Claire is a chatbot for testing consumer products for brands and retailers
 -
   name: CocuSocial
   url: http://www.cocusocial.com
-  description: Marketplace for local activities.
+  description: Marketplace for local activities
 -
   name: Contract Simply
   url: https://contractsimply.com
-  description: Helping banks expedite construction loans. Large construction projects are financed by banks through a monthly invoice process called a draw request. Our software makes this process simple.
+  description: Helping banks expedite construction loans
 -
   name: Covetly
-  url: https://www.covetlyapp.com/
+  url: https://www.covetlyapp.com
   description: Covetly gives collectors a better way to buy and sell the things they covet
 -
   name: CureSkin
@@ -76,15 +76,15 @@
   description: AI dermatologist for India
 -
   name: D-ID
-  url: http://www.d-id.com/
-  description: Protecting faces from being identified by facial recognition technologies. Helping governments, HLS and corporations to comply with regulations and secure their citizens, agents, employees and customers.
+  url: http://www.d-id.com
+  description: Protecting faces from being identified by facial recognition technologies
 -
   name: dahmakan
   url: https://dahmakan.com
-  description: dahmakan is the fastest growing food delivery startup in South-East Asia. We produce ready to eat meals at scale and bulk deliver meals which results in 37% profit contribution margins on every meal.
+  description: A food delivery startup in South-East Asia that produces ready-to-eat meals at scale and bulk-delivers meals
 -
   name: Darmiyan
-  url: https://www.darmiyan.com/
+  url: https://www.darmiyan.com
   description: Early detection of Alzheimer's disease
 -
   name: Dharma Labs
@@ -93,55 +93,55 @@
 -
   name: disclosures.io
   url: https://disclosures.io
-  description: Disclosures.io helps real estate agents manage, share and review property disclosures.
+  description: Helps real estate agents manage, share and review property disclosures
 -
   name: Dropleaf
   url: https://dropleaf.io
-  description: Subscription service for all you can play indie PC games.
+  description: Subscription service for all-you-can-play indie PC games
 -
   name: Elucd
   url: http://www.elucd.com
-  description: Polling through mobile ads to enable governments to make better decisions.
+  description: Polling through mobile ads to enable governments to make better decisions
 -
   name: Entocycle
-  url: https://www.entocycle.com/
-  description: Automated factory to produce insect protein for farm animals.
+  url: https://www.entocycle.com
+  description: Automated factory to produce insect protein for farm animals
 -
   name: Enzyme
   url: https://www.enzyme.io
-  description: Enzyme builds software that helps life science companies with FDA approval and compliance. Think TurboTax but for companies that need FDA approval.
+  description: Enzyme builds software that helps life science companies with FDA approval and compliance
 -
   name: Escher Reality
-  url: http://www.escherreality.com/
-  description: The backend for Augmented Reality.
+  url: http://www.escherreality.com
+  description: The backend for Augmented Reality
 -
   name: Fastpad
-  url: https://fastpad.com/
-  description: Hiring Software for India
+  url: https://fastpad.com
+  description: Hiring software for India
 -
   name: Fat Lama
   url: https://fatlama.com
-  description: Fat Lama is the first fully insured peer-to-peer rental marketplace. The insurance allows us to focus on high end professional equipment such as DJ equipment, photography gear and more.
+  description: The first fully insured peer-to-peer rental marketplace with focus on high-end professional equipment
 -
   name: Feather
   url: http://rentfeather.com
-  description: Feather is a modern-day furniture rental company for millennials and businesses.
+  description: Feather is a modern-day furniture rental company for millennials and businesses
 -
   name: Flock
   url: http://www.flocksafety.com
-  description: Flock makes wireless security systems for neighborhoods. While only 13% of non-violent crime is solved today, with our wireless license plate reading cameras, our goal is to take that to 100%.
+  description: Flock makes wireless security systems for neighborhoods
 -
   name: Flowspace
   url: http://www.flow.space
-  description: On-demand warehousing for business.
+  description: On-demand warehousing for business
 -
   name: Forever Labs
   url: https://foreverlabs.com
-  description: We bank your stem cells to help you live healthier, longer.
+  description: We bank your stem cells to help you live healthier, longer
 -
   name: FriendSpot
   url: https://itunes.apple.com/app/id1161050325
-  description: FriendSpot is a group messaging app that helps you coordinate with your friends to meet up in the real world.
+  description: FriendSpot is a group messaging app that helps you coordinate with your friends to meet up in the real world
 -
   name: Gameday
   url: http://playgameday.com
@@ -149,71 +149,71 @@
 -
   name: Gamelynx
   url: https://gamelynx.gg
-  description: A spectator-friendly mobile eSport game for hardcore gamers.
+  description: A spectator-friendly mobile eSport game for hardcore gamers
 -
   name: Goosebump
   url: http://m.me/higoosebump
-  description: Find the best electronic music events in a single message.
+  description: Find the best electronic music events in a single message
 -
   name: Gopher
   url: https://www.gopher.email
-  description: Get things done without leaving your inbox.
+  description: Get things done without leaving your inbox
 -
   name: Greo
   url: http://www.greo.com
-  description: Greo is a mobile video app for conversations about current events.
+  description: A mobile video app for conversations about current events
 -
   name: Guggy
   url: https://guggy.com
-  description: Guggy is building the messaging app of the future with real time, NLP-based personalized GIFs
+  description: Guggy is building the messaging app of the future with real-time, NLP-based personalized GIFs
 -
   name: Guilded
   url: http://www.guilded.gg
   description: Team management for eSports
 -
   name: Gustav
-  url: https://hellogustav.com/
-  description: The marketplace for staffing agencies. Companies leverage the network of Gustav's selected staffing agencies to hire, manage and pay the best talent over one single point of contact with a single requisition.
+  url: https://hellogustav.com
+  description: The marketplace for staffing agencies
 -
   name: Headstart
   url: https://headstartapp.com
-  description: Headstart uses Machine Learning to help companies decide on who to hire. We save founders/recruiters up to 70% of the time typically spent reviewing applicants, and ensure that companies only hire people that would be a good fit for their culture.
+  description: Headstart uses Machine Learning to help companies only hire people that would be a good fit for their culture
 -
   name: HealthWiz
   url: http://www.myhealthwiz.com
-  description: HealthWiz is a SaaS platform to lower employers' healthcare costs by helping employees figure out what's wrong when they're sick and find convenient cost-efficient treatment.
+  description: A SaaS platform to lower employers' healthcare costs by helping employees find convenient cost-efficient treatments when they're sick
 -
   name: Helium Health
   url: http://heliumhealthcare.com
-  description: Electronic medical records for Africa's largest hospitals.
+  description: Electronic medical records for Africa's largest hospitals
 -
   name: Helix Nanotechnologies
   url: http://helixnano.com
-  description: Using AI to cure genetic disease.
+  description: Using AI to cure genetic disease
 -
   name: HelpWear
-  url: http://helpwear.ca/
-  description:
+  url: http://helpwear.ca
+  description: HelpWear is striving to achieve better at-home healthcare
 -
   name: Honeydue
-  url: https://www.honeydue.com/
+  url: https://www.honeydue.com
   description: The simplest way for couples to manage money, together
 -
   name: HotelFlex
   url: https://www.hotelflex.io
-  description: The first fully flexible hotel booking model that lets you check-in and check-out of your room at anytime you want and pay accordingly.
+  description: The first fully-flexible hotel booking model that lets you check-in and check-out of your room at anytime you want and pay accordingly
 -
   name: Indivio
   url: https://indiv.io
-  description: Optimize video ads on Facebook and Instagram. Indivio empowers marketers with software automation to easily create, test, and optimize Facebook and Instagram ads with mass-customizable videos.
+  description: Indivio empowers marketers with software automation to easily create, test, and optimize Facebook and Instagram ads with mass-customizable videos
 -
   name: Just Appraised
   url: https://www.justappraised.com
-  description: Just Appraised automates property valuation for local governments. We use machine learning to verify property transactions and provide more accurate valuations.
+  description: Just Appraised automates property valuation for local governments. We use machine learning to verify property transactions and provide more accurate valuations
 -
   name: Kestrel Materials
-  url: http://kestrel-materials.com/
-  description: Kestrel Materials makes temperature responsive fabrics for bedding and clothes. Thin when warm and thick when cool, the insulation of the Kestrel fabric changes with temperature to offer unrivaled thermal comfort.
+  url: http://kestrel-materials.com
+  description: Kestrel Materials makes temperature-responsive fabrics for bedding and clothes - thin when warm and thick when cool
 -
   name: Lambda School
   url: https://lambdaschool.com
@@ -221,23 +221,23 @@
 -
   name: Leon & George
   url: https://www.leonandgeorge.com
-  description: Buying and owning indoor potted plants made easy.
+  description: Buying and owning indoor potted plants made easy
 -
   name: Life Bot
   url: http://www.asklifebot.com
-  description: Life bot is the only voice app you'll ever need. We help you with your daily routines like hearing personalised news, setting reminders or managing calendars. Currently available on Amazon Alexa in the US. Say "Alexa, enable Life Bot" to get started.
+  description: We help you with your daily routines like hearing personalised news, setting reminders or managing calendars
 -
   name: Loop Support
-  url: https://www.loopsupport.com/
-  description: We do customer support as a service.
+  url: https://www.loopsupport.com
+  description: We do customer support as a service
 -
   name: LotusPay
   url: http://www.lotuspay.com
-  description: Recurring payments solution for businesses in India.
+  description: Recurring payments solution for businesses in India
 -
   name: Lyrebird
-  url: https://lyrebird.ai/
-  description: Our tech speaks for itself.
+  url: https://lyrebird.ai
+  description: Lyrebird allows you to create a digital voice that sounds like you with only one minute of audio
 -
   name: Manycore.io
   url: http://www.manycore.io
@@ -245,7 +245,7 @@
 -
   name: May Mobility
   url: http://maymobility.com
-  description: May Mobility deploys fleets of autonomous vehicles for central business districts, enterprise campuses, and residential communities.
+  description: May Mobility deploys fleets of autonomous vehicles for central business districts, enterprise campuses, and residential communities
 -
   name: Meetingbird
   url: https://www.meetingbird.com
@@ -253,11 +253,11 @@
 -
   name: Modern Fertility
   url: https://www.modernfertility.com
-  description: Modern Fertility is an at-home fertility test for women who aren't ready for kids right now but want to check in on where they stand.
+  description: Modern Fertility is an at-home fertility test for women who aren't ready for kids right now but want to check in on where they stand
 -
   name: Modular Science
-  url: https://www.modularscience.com/
-  description: We're improving farming using robots and science.
+  url: https://www.modularscience.com
+  description: We're improving farming using robots and science
 -
   name: muzmatch
   url: https://muzmatch.com
@@ -265,19 +265,19 @@
 -
   name: Mystery Science
   url: http://mysteryscience.com
-  description: We're fixing STEM education by giving elementary teachers a virtual science expert to co-teach the class.
+  description: We're fixing STEM education by giving elementary teachers a virtual science expert to co-teach the class
 -
   name: Mystro
   url: http://www.mystrodriver.com
-  description: Mystro is an app that makes on-demand drivers 30% more money by automatically accepting the most profitable fares across multiple apps.
+  description: Mystro is an app that makes on-demand drivers 30% more money by automatically accepting the most profitable fares across multiple apps
 -
   name: Net30
-  url: https://net30.io/
-  description: Online invoicing and payments for construction companies.
+  url: https://net30.io
+  description: Online invoicing and payments for construction companies
 -
   name: NextDrop
-  url: https://nextdrop.co/
-  description: NextDrop is the water marketplace for urban India. We connect water buyers with suppliers.
+  url: https://nextdrop.co
+  description: NextDrop is the water marketplace for urban India. We connect water buyers with suppliers
 -
   name: Nimble
   url: http://www.hirenimble.com
@@ -285,15 +285,15 @@
 -
   name: Oncobox
   url: http://oncobox.com
-  description: Finding the right cancer drug for each patient.
+  description: Finding the right cancer drug for each patient
 -
   name: OneLocal
-  url: https://onelocal.com/
-  description: OneLocal is a CRM for local businesses.
+  url: https://onelocal.com
+  description: OneLocal is a CRM for local businesses
 -
   name: Original Tech
-  url: http://www.useoriginal.com
-  description: Original is the world's most intelligent, mobile-first platform that can power in-person and online retail and commercial product originations for financial institutions.
+  url: https://www.useoriginal.com
+  description: A mobile-first platform that can power in-person and online retail and commercial product originations for financial institutions
 -
   name: PAYFAZZ
   url: http://www.payfazz.com
@@ -301,23 +301,23 @@
 -
   name: Peergrade
   url: https://www.peergrade.io
-  description: Students grade each other's work to save the teacher's time and to learn more.
+  description: Students grade each others' work to save teachers time and to learn more
 -
   name: Piggy
   url: https://piggy.co.in
-  description: App for Indians to make investments in mutual funds, manage their investment portfolios, and save for retirement. (Vanguard for India)
+  description: An app for Indians to make investments in mutual funds, manage their investment portfolios, and save for retirement. Vanguard for India
 -
   name: Pilot
   url: https://pilot.co
-  description: Pilot lets companies build teams from our pool of vetted engineering and design talent. Our platform handles contracts, invoicing, payments and more. We're trying to make adding talent to your team as easy as a single click.
+  description: Pilot lets companies build teams from our pool of vetted engineering and design talent
 -
   name: Plasticity
   url: https://www.plasticity.ai
-  description: APIs that help developers create human-like natural language interfaces.
+  description: APIs that help developers create human-like natural language interfaces
 -
   name: Polly
-  url: https://polly.fun/
-  description: Polly is a social polling app for Snapchat and Instagram stories.
+  url: https://polly.fun
+  description: Polly is a social polling app for Snapchat and Instagram stories
 -
   name: PreDxion Bio
   url: http://www.predxionbio.com
@@ -325,7 +325,7 @@
 -
   name: Prism IO
   url: http://prism.io
-  description: User research as a service - We help you get feedback from your churned/lost users and target audience.
+  description: User research as a service - we help you get feedback from your churned/lost users and target audience
 -
   name: PullRequest
   url: http://www.pullrequest.com
@@ -333,71 +333,71 @@
 -
   name: Py
   url: https://www.downloadpy.com
-  description: Py is a mobile app that teaches software engineers new skills and matches them with job opportunities.
+  description: Py is a mobile app that teaches software engineers new skills and matches them with job opportunities
 -
   name: Pyka
   url: https://flypyka.com
-  description: Pilotless, short takeoff and landing electric airplanes large enough to carry humans. We're starting with autonomous crop dusting.
+  description: Pilotless, short takeoff and landing electric airplanes large enough to carry humans. We're starting with autonomous crop dusting
 -
   name: Quilt Data
   url: https://quiltdata.com
-  description: Quilt Is creating Docker for data. Large enterprises in banking and clean energy use Quilt to deploy, version, and audit their data. Just as Docker containers are the standard unit of compute, Quilt packages will become the standard unit of data.
+  description: Quilt is creating Docker for data. Large enterprises in banking and clean energy use Quilt to deploy, version, and audit their data
 -
   name: Relationship Hero
   url: https://relationshiphero.com
-  description: Our live experts help solve your problems with family, friends, romantic partners and coworkers. Available 24x7 over chat or phone.
+  description: Our live experts help solve your problems with family, friends, romantic partners and coworkers. Available 24x7 over chat or phone
 -
   name: Retool
   url: https://retool.in
-  description: Build internal tools dramatically faster.
+  description: Build internal tools dramatically faster
 -
   name: Rev Genomics
   url: https://www.revgenomics.com
-  description: Rev is a biotechnology company creating new strains of cannabis.
+  description: Rev is a biotechnology company creating new strains of cannabis
 -
   name: RideAlong
   url: http://www.getridealong.com
-  description: We save cities millions of dollars by using software to combine the data that cities already have to streamline resources they deploy to their most needy populations.
+  description: We bridge the information gap between police officers and service providers
 -
   name: Roofr
-  url: https://roofr.com/
-  description: Marketplace for roofing with instant satellite roofing estimates for homeowners.
+  url: https://roofr.com
+  description: Marketplace for roofing with instant satellite roofing estimates for homeowners
 -
   name: Seed
   url: http://seed.co
-  description: Mobile banking for small business.
+  description: Mobile banking for small business
 -
   name: ShiftDoc
   url: https://shiftdoc.com
-  description: ShiftDoc is an on-demand healthcare staffing marketplace for private practices. We connect private medical practices with doctors and other healthcare professionals to meet all of their temporary staffing needs.
+  description: ShiftDoc is an on-demand healthcare staffing marketplace for private practices
 -
   name: Sixty
-  url: https://usesixty.com/
-  description: Partner program as a service for SaaS companies.
+  url: https://usesixty.com
+  description: Partner program as a service for SaaS companies
 -
   name: Skyways
   url: http://skyways.com
-  description: Creating a new form of air transportation.
+  description: Creating a new form of air transportation
 -
   name: Slik
   url: http://slik.ai
-  description: Slik enables the long tail to use email outreach.
+  description: Slik enables the long tail to use email outreach
 -
   name: SMB Rate
-  url: http://www.smbrate.com
-  description:
+  url: https://smbrate.com
+  description: An easy way to find small business loans
 -
   name: Solve
   url:
-  description: We save travelers hours by meeting them at their arrival gate, expediting the immigration/customs process, and making sure they're safely off in their vehicle. We operate in over 500 airports worldwide and help with departures and connections too.
+  description: We save travelers hours by meeting them at their arrival gate, expediting the immigration/customs process, and making sure they're safely off in their vehicle
 -
   name: SourceBeacon
   url: https://www.sourcebeacon.com
-  description: SourceBeacon is an on-demand procurement concierge for sourcing products from China. We connect your product requests to our network of verified vendors and deliver quotes directly to you.
+  description: SourceBeacon is an on-demand procurement concierge for sourcing products from China
 -
   name: Sourceress
   url: http://www.sourceress.com
-  description: AI sourcer that scales your recruiting team.
+  description: AI sourcer that scales your recruiting team
 -
   name: Standard Cognition
   url: https://www.standardcognition.com
@@ -405,19 +405,19 @@
 -
   name: Sudden Coffee
   url: http://suddencoffee.com
-  description: No-brew coffee - the easiest way to have great coffee.
+  description: No-brew coffee - the easiest way to have great coffee
 -
   name: Sunfolding
   url: http://www.sunfolding.com
-  description: Sunfolding builds next generation infrastructure for solar farms. By replacing mechanical parts with air, we eliminate installation complexity and maintenance headaches, leading to much lower end-to-end project costs over the lifetime of the farm.
+  description: Sunfolding builds next generation infrastructure for solar farms
 -
   name: Sunu
-  url: http://www.sunu.io/
-  description: Sunu develops devices that augments human capacities to empower the disabled. Our first product is a sonar bracelet enabling the blind to feel the obstacles around them and empowering them to move freely.
+  url: http://www.sunu.io
+  description: Sunu develops devices that augments human capacities to empower the disabled
 -
   name: Surematics
-  url: https://www.surematics.com/
-  description: We help commercial insurance brokers structure complicated deals. Brokers use our collaboration platform to negotiate terms, share documents and agree contracts. We enforce these agreements using blockchain technology.
+  url: https://www.surematics.com
+  description: We help commercial insurance brokers structure complicated deals using blockchain technology
 -
   name: Templarbit
   url: http://www.templarbit.com
@@ -425,35 +425,35 @@
 -
   name: Thematic
   url: http://www.getthematic.com
-  description: Thematic analyses customer feedback to tell companies how to increase satisfaction and decrease churn.
+  description: Thematic analyses customer feedback to tell companies how to increase satisfaction and decrease churn
 -
   name: Totemic Labs
-  url: http://www.totemiclabs.com/
-  description: A hardware device for senior care to allow them to age in place and their loved ones can know they are safe. Using wireless signals and sensor fusion, our system detects activities and falls in a home without the user having to wear anything.
+  url: http://www.totemiclabs.com
+  description: A hardware device for senior care to allow them to age in place and their loved ones can know they are safe
 -
   name: Tpaga
   url: https://www.tpaga.co
-  description: Mobile Wallet for Latin America.
+  description: Mobile wallet for Latin America
 -
   name: Ubiq
   url: https://www.goubiq.com
   description: Screen-sharing for enterprise conference rooms
 -
   name: UpCodes
-  url: https://up.codes/
-  description: Online tools to help with construction compliance.
+  url: https://up.codes
+  description: Online tools to help with construction compliance
 -
   name: Value Voting
   url: https://www.valuevoting.com
-  description: Platform to defeat political extremism through strategic primary voting. We help advocacy leaders identify new voters, vulnerable incumbents, and source candidates. Then we use targeted data to connect strategic voters with centrist candidates.
+  description: Platform to defeat political extremism through strategic primary voting
 -
   name: Vanido
   url: https://vanido.io
-  description: Vanido is your personal AI music teacher, starting with singing. Available for iOS.
+  description: Vanido is your personal AI music teacher, starting with singing. Available for iOS
 -
   name: VergeSense
   url: http://www.vergesense.com
-  description: AI-Powered Building Management
+  description: AI-Powered building management
 -
   name: VIDA & Co.
   url: http://www.shopvida.com
@@ -461,24 +461,24 @@
 -
   name: Warren
   url: http://warrenpay.com
-  description: Warren helps your AP/ AR team automate sending/ receiving payments, find errors, request authorization from supervisors, and streamline your company's cash flow.
+  description: Warren helps your AP/AR team automate sending/receiving payments, find errors, request authorization from supervisors, and streamline your company's cash flow
 -
   name: WheelStreet
-  url: https://www.wheelstreet.com/
-  description: WheelStreet is a Motorbike rental marketplace that connects motorcycle rental vendors in India with riders. The user can book any motorcycle in 30 cites across India through our platform. User can compare bikes on the basis of location and reviews.
+  url: https://www.wheelstreet.com
+  description: WheelStreet is a Motorbike rental marketplace that connects motorcycle rental vendors in India with riders
 -
   name: Wildfire
   url: https://www.wildfireapp.io
-  description: Wildfire is a hyperlocal news app that notifies you in real-time when a major event (from safety to a celebrity sighting) occurs near you!
+  description: Wildfire is a hyperlocal news app that notifies you in real-time when a major event (from safety to a celebrity sighting) occurs near you
 -
   name: Zendar
   url: http://www.zendar.io
-  description: We make high definition radar allowing self-driving cars to see in all weather conditions.
+  description: We make high definition radar allowing self-driving cars to see in all weather conditions
 -
   name: ZenSourcer
-  url: https://www.zensourcer.com/
-  description: Email automation for recruiters.
+  url: https://www.zensourcer.com
+  description: Email automation for recruiters
 -
   name: Zinc Platform
   url: http://www.zincplatform.com
-  description: Insurance Distribution Infrastructure
+  description: Insurance distribution infrastructure
