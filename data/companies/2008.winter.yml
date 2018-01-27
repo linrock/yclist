@@ -26,6 +26,7 @@
   name: FathomDB
   url: http://www.fathomdb.com
   description: Databases as a service, taking care of the many tasks database admins deal with, and letting them focus on more complex issues
+  status: Acquired by Meteor in October 2014.
 -
   name: Heroku
   url: http://www.heroku.com
