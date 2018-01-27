@@ -95,6 +95,7 @@
   name: RethinkDB
   url: http://www.rethinkdb.com
   description: RethinkDB is designed to be extremely fast, and implements powerful features that are cumbersome and inefficient with rotational storage
+  status: Acquired by the Cloud Native Compute Foundation in February 2017.
 -
   name: Tuxebo
   url: http://www.tuxebo.co.uk
