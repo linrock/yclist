@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-  - 2.5.1
+  - 2.4.1
 cache: bundler
 script: bundle exec rake test
 sudo: false
