@@ -276,7 +276,8 @@
 -
   name: TomoGuides
   url: http://tomoguides.com
-  description: Handcrafted iPhone travel guides that are free, offline, and just plain full of awesomeness.
+  description: Handcrafted iPhone travel guides that are free, offline, and just plain full of awesomeness
+  status: Dead
 -
   name: Tracks.by
   url: http://tracksby.com

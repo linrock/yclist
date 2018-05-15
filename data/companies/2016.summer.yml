@@ -360,8 +360,11 @@
   description: Xberts.com is a cross-border marketplace for Chinese hardware products.
 -
   name: YesGraph 
-  url: http://yesgraph.com
-  description: YesGraph recommends exactly who a user should invite to an app. Our API can help boost the performance of sharing, referral, and invite flows. If you have a social application or a referral program, we should talk!
+  url: http://www.yesgraph.com
+  description: YesGraph recommends exactly who a user should invite to an app. Our API can help boost the performance of sharing, referral, and invite flows
+  status: Exited
+  annotation:
+    exit: Acquired by Lyft.
 -
   name: Yoshi 
   url: https://www.startyoshi.com
