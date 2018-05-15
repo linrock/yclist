@@ -4,11 +4,11 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'rails', '5.1.4'
+gem 'rails', '5.1.6'
 gem 'sqlite3'
 gem 'pry'
 
-gem 'favicon_party', :github => "linrock/favicon_party"
+gem 'favicon_party', :github => 'linrock/favicon_party'
 gem 'parallel'
 
 gem 'bourbon'
