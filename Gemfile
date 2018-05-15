@@ -5,8 +5,6 @@ git_source(:github) do |repo_name|
 end
 
 gem 'rails', '5.1.6'
-gem 'sqlite3'
-gem 'pry'
 
 gem 'favicon_party', :github => 'linrock/favicon_party'
 gem 'parallel'
@@ -21,5 +19,6 @@ gem 'uglifier', '>= 1.0.3'
 gem 'jquery-rails'
 
 group :development do
+  gem 'pry'
   gem 'listen'
 end

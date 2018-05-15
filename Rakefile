@@ -11,7 +11,6 @@ Rake::TaskManager.class_eval do
 end
 
 Rake.application.remove_task "doc:app"
-Rake.application.remove_task "test"
 Rake.application.remove_task "test:recent"
 Rake.application.remove_task "test:single"
 Rake.application.remove_task "test:uncommitted"
