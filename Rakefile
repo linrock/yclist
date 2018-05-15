@@ -4,8 +4,6 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Yclist::Application.load_tasks
-
 Rake::TaskManager.class_eval do
   def remove_task(task_name)
     @tasks.delete(task_name.to_s)
@@ -17,3 +15,5 @@ Rake.application.remove_task "test"
 Rake.application.remove_task "test:recent"
 Rake.application.remove_task "test:single"
 Rake.application.remove_task "test:uncommitted"
+
+Yclist::Application.load_tasks

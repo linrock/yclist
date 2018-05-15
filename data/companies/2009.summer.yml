@@ -93,9 +93,11 @@
   description: Search NYC Apartments and Listings by Location. Find New York City Apartment Rentals. Contact Landlords Online.
 -
   name: RethinkDB
-  url: http://www.rethinkdb.com
-  description: RethinkDB is designed to be extremely fast, and implements powerful features that are cumbersome and inefficient with rotational storage
-  status: Acquired by the Cloud Native Compute Foundation in February 2017.
+  url: https://rethinkdb.com
+  description: The open-source database for the realtime web.
+  status: Exited
+  annotation:
+    exit: Acquired by Cloud Native Compute Foundation in February 2017.
 -
   name: Tuxebo
   url: http://www.tuxebo.co.uk

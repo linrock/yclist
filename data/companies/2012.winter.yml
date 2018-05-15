@@ -44,7 +44,9 @@
   name: Exec
   url: http://iamexec.com
   description: Exec lets you outsource the things you don't want to do in life. Let our background checked Execs help you get things done today.
-  status: Acquired by Handy in January 2014.
+  status: Exited
+  annotation:
+    exit: Acquired by Handy in January 2014.
 -
   name: FamilyLeaf
   url: http://familyleaf.com

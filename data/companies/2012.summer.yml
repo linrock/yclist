@@ -18,7 +18,9 @@
   name: Authy
   url: https://www.authy.com
   description: Authy makes it easy to add optional two-factor authentication to your application
-  status: Acquired by Twilio in February 2015.
+  status: Exited
+  annotation:
+    exit: Acquired by Twilio in February 2015.
 -
   name: BigCalc
   url: http://www.bigcalc.com
