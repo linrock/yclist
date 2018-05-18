@@ -50,7 +50,7 @@ class CompanyRow
   end
 
   def need_favicon?
-    url.present? && !has_favicon?
+    !dead? && url.present? && !has_favicon?
   end
 
   def show_url?
