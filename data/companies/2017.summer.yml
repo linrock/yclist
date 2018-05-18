@@ -291,10 +291,6 @@
   url: https://onelocal.com
   description: OneLocal is a CRM for local businesses
 -
-  name: Original Tech
-  url: https://www.useoriginal.com
-  description: A mobile-first platform that can power in-person and online retail and commercial product originations for financial institutions
--
   name: PAYFAZZ
   url: http://www.payfazz.com
   description: WeChat Pay for Indonesia
@@ -322,6 +318,10 @@
   name: PreDxion Bio
   url: http://www.predxionbio.com
   description: Fast blood test to save the lives of ER patients
+-
+  name: Prelim
+  url: https://prelim.com
+  description: A mobile-first platform that can power in-person and online retail and commercial product originations for financial institutions
 -
   name: Prism IO
   url: http://prism.io
