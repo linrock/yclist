@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "@rails/webpacker": "3.5"
+    "@rails/webpacker": "3.5",
+    "jquery": "^3.3.1",
+    "tablesorter": "^2.30.5"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
