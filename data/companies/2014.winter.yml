@@ -88,9 +88,13 @@
   url: http://www.immunityproject.org
   description: We're developing a free vaccine to end HIV and AIDS
 -
-  name: Kimono
+  name: Kimono Labs
   url: http://www.kimonolabs.com
   description: Turn websites into structured APIs from your browser in seconds.
+  status: Exited
+  annotation:
+    exit: Acquired by Palantir
+  metadata: https://techcrunch.com/2016/02/15/palantir-acquires-kimono-labs-for-its-web-scraping-service/
 -
   name: MadeSolid
   url: http://www.madesolid.com
