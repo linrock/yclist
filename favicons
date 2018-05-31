@@ -1,0 +1,22 @@
+#!/bin/bash
+
+if [ -z $@ ]
+then
+  echo favicon commands:
+  echo " fetch - fetch favicons for each company that's missing one"
+  echo " merge - merge and export favicons to a spritesheet"
+  exit
+fi
+
+for i in "$@"
+do
+  case $i in
+    fetch)
+      rails runner 'FaviconFetcher.new(CompanyRow.all).fetch_parallel'
+      ;;
+
+    merge)
+      rails runner 'FaviconSpritesheet.new.export!'
+      ;;
+  esac
+done

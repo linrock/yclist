@@ -1,5 +1,5 @@
 #!/bin/bash
 
 rm -f public/assets/*
-RAILS_ENV=production rake app:favicons:merge
+./favicons merge
 RAILS_ENV=production bundle exec rails runner 'StaticExporter.new.export!'

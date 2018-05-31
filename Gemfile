@@ -8,9 +8,9 @@ gem 'rails', '5.2.0'
 gem 'bootsnap', require: false
 gem 'dotenv-rails'
 
-gem 'sass-rails' #,   '~> 3.2.3'
-gem 'uglifier', '>= 1.0.3'
+gem 'sass-rails'
 gem 'jquery-rails'
+gem 'uglifier', '>= 1.0.3'
 
 gem 'favicon_party', :github => 'linrock/favicon_party'
 gem 'parallel'

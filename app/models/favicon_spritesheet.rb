@@ -2,21 +2,42 @@
 #
 class FaviconSpritesheet
 
+  SPRITESHEET_CSS_FILE = Rails.root.join("app/assets/stylesheets/favicons.css")
+
   attr_accessor :png, :css
 
   def initialize
     @companies = CompanyRow.all
   end
 
-  def n_companies_processed
-    png_desc = `identify -verbose #{spritesheet_png} | grep Desc`
-    return unless png_desc.present?
-    png_desc[/(\d+) companies/, 1].to_i
-  end
-
   def valid?
     n_companies_processed == @companies.length
   end
+
+  def export!
+    generate!
+    export_png!
+    export_css!
+  end
+
+  def export_png!
+    open(spritesheet_png, 'wb') do |f|
+      f.write @png
+    end
+    write_metadata!
+    file_size = `du -hs #{spritesheet_png}`
+    puts "favicons.png - #{file_size}"
+  end
+
+  def export_css!
+    open(SPRITESHEET_CSS_FILE, 'w') do |f|
+      f.write @css
+    end
+    file_size = `du -hs #{SPRITESHEET_CSS_FILE}`
+    puts "favicons.css - #{file_size}"
+  end
+
+  private
 
   def generate!
     `mkdir -p /tmp/yclist/favicons/`
@@ -45,25 +66,11 @@ class FaviconSpritesheet
     puts "Merged #{merge_list.length} favicons into a spritesheet"
   end
 
-  def export_png!
-    open(spritesheet_png, 'wb') do |f|
-      f.write @png
-    end
-    write_metadata!
-    file_size = `du -hs #{spritesheet_png}`
-    puts "favicons.png - #{file_size}"
+  def n_companies_processed
+    png_desc = `identify -verbose #{spritesheet_png} | grep Desc`
+    return unless png_desc.present?
+    png_desc[/(\d+) companies/, 1].to_i
   end
-
-  def export_css!
-    spritesheet_css = Rails.root.join("app/assets/stylesheets/favicons.css")
-    open(spritesheet_css, 'w') do |f|
-      f.write @css
-    end
-    file_size = `du -hs #{spritesheet_css}`
-    puts "favicons.css - #{file_size}"
-  end
-
-  private
 
   def spritesheet_png
     Rails.root.join("public/assets/#{merged_favicons_filename}")
