@@ -51,13 +51,6 @@ GEM
       thor (~> 0.19)
     builder (3.2.3)
     coderay (1.1.2)
-    coffee-rails (4.2.2)
-      coffee-script (>= 2.2.0)
-      railties (>= 4.0.0)
-    coffee-script (2.4.1)
-      coffee-script-source
-      execjs
-    coffee-script-source (1.12.2)
     concurrent-ruby (1.0.5)
     crass (1.0.4)
     dotenv (2.4.0)
@@ -160,7 +153,6 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon
-  coffee-rails
   dotenv-rails
   favicon_party!
   jquery-rails
