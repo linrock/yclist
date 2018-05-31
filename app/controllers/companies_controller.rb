@@ -1,4 +1,5 @@
-class CompaniesController < ApplicationController
+class CompaniesController < ActionController::Base
+  layout 'application'
 
   # Homepage - list all companies, dynamically loaded
   #
@@ -15,5 +16,4 @@ class CompaniesController < ApplicationController
   def valid_favicon_spritesheet?
     FaviconSpritesheet.new.n_companies_processed == @company_rows.size
   end
-
 end
