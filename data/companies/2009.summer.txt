@@ -15,7 +15,7 @@ DailyBooth
   exit: Acquired by Airbnb in 2012.
 
 DirectedEdge
-  http://www.directededge.com
+  https://www.directededge.com
   Directed Edge delivers e-commerce and social recommendations using existing data such as purchase or click histories
 
 FanChatter
@@ -50,13 +50,13 @@ Jobspice
   JobSpice is a surprisingly easy-to-use, intuitive online tool for creating a resume.
 
 Lingt
-  http://www.lingt.com
+  https://www.lingt.com
   Lingt is a service for learning languages that helps teachers enable their students to speak
   status: exited
   exit: Acquired by dictionary.com in 2010.
 
 Listia
-  http://www.listia.com
+  https://www.listia.com
   Listia, which launched in August 2009, is eBay for free stuff.
 
 Lockitron
@@ -68,11 +68,11 @@ MeetingMix
   Save time writing your agenda and minutes.
 
 Mixpanel
-  http://www.mixpanel.com
+  https://mixpanel.com
   Mixpanel is an advanced analytics service that helps improve web and mobile applications by tracking how users interact & engage with them
 
 Olark
-  http://www.olark.com
+  https://www.olark.com
   Olark is a lightweight tool to chat with visitors to your website using your existing instant messaging client.
 
 Plurchase
@@ -80,7 +80,7 @@ Plurchase
   status: dead
 
 RentHop
-  http://www.renthop.com
+  https://www.renthop.com
   Search NYC Apartments and Listings by Location. Find New York City Apartment Rentals. Contact Landlords Online.
 
 RethinkDB

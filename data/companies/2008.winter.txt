@@ -25,7 +25,7 @@ FathomDB
   exit: Acquired by Meteor in October 2014.
 
 Heroku
-  http://www.heroku.com
+  https://www.heroku.com
   Heroku is a multi-language cloud application platform, or platform-as-a-service
   status: exited
   exit: Acquired by Salesforce for $212 MM in 2010.
@@ -57,7 +57,7 @@ Mixwit
   status: dead
 
 Ninite
-  http://ninite.com
+  https://ninite.com
   The easiest, fastest way to update or install software
 
 Omnisio
@@ -67,7 +67,7 @@ Omnisio
   exit: Acquired by Google for $15 MM in 2008.
 
 RescueTime
-  http://rescuetime.com
+  https://www.rescuetime.com
   A web-based time management tool that keeps track of what you do and for how long when you are on your computer
 
 Snaptalent

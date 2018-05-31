@@ -1,9 +1,9 @@
 ACLU
-  https://www.aclu.org/
+  https://www.aclu.org
   Defender of rights and liberties
 
 Aella Credit
-  http://www.aellacredit.com
+  https://www.aellacredit.com
   Aella Credit is a provider of financial employee benefits. We enable employees to borrow at competitive rates through their employers.
 
 AlemHealth
@@ -15,19 +15,19 @@ Ambient
   Visual intelligence for the real world.
 
 AON3D
-  http://www.aon3d.com
+  https://www.aon3d.com
   Industrial 3D printing for manufacturing
 
 Apozy
-  http://www.apozy.com
+  https://www.apozy.com
   Software that stops phishing and malware in the browser.
 
 Armory
-  http://armory.io
+  https://www.armory.io
   Continuous Deployment for the Enterprise.
 
 Arthena
-  https://www.arthena.com
+  https://arthena.com
   Quantitative Investment in Art Assets
 
 Beek
@@ -47,15 +47,15 @@ BloomAPI
   BloomAPI helps doctors share clinical data. Today most healthcare data is still sent by fax and mail. BloomAPI has built technology that can be set up in minutes and share this data in real time.
 
 boxouse
-  http://boxouse.com
+  https://boxouse.com
   portable, affordable, beautiful smart homes
 
 Breaker
-  https://breaker.audio
+  https://www.breaker.audio
   A podcast company.
 
 Bulk MRO Industrial Supply
-  http://www.bulkmro.com
+  https://www.bulkmro.com
   Bulk MRO is the Alibaba for Enterprises in India. We supply over 1.4m products across 5k brands to the largest corporations of India.
 
 Bulletin
@@ -63,7 +63,7 @@ Bulletin
   WeWork for Retail Space
 
 Buypower
-  http://www.buypower.ng
+  https://www.buypower.ng
   Buypower is the Paypal of Africa starting from Nigeria by making the purchase of electricity extremely easy for Africans. We light up homes at the click of a button.
 
 Cambridge Bio-Augmentation Systems
@@ -75,15 +75,15 @@ Cartcam
   Cartcam is an app for opinionated, deal-seeking shoppers. It gives people discounts for creating short video reviews.
 
 Clear Genetics
-  http://cleargenetics.com/
+  http://cleargenetics.com
   Clear Genetics is automating genetic counseling
 
 Clipboard Health
-  http://clipboardhealth.com
+  https://www.clipboardhealth.com
   We connect nurses with jobs they love and information they can trust.
 
 Collectly
-  http://collectly.co/
+  https://collectly.co
   Stripe for Medical Debt Collection. We help doctors collect 2x more debt than they have ever done before. Disrupting the $280B market.
 
 Cowlar
@@ -99,27 +99,27 @@ DELEE
   A medical device company who created a device capable of isolating Circulating Tumor Cells, 10x times faster than the nearest competence, label-free approach, and high purities
 
 DocTalk
-  http://www.getdoctalk.com/
+  http://www.getdoctalk.com
   Paid WhatsApp connecting Indian patients to Indian doctors
 
 Dost Education
-  http://www.dosteducation.com/
+  https://www.dosteducation.com
   Empower parents of any literacy level to get their child ready for kindergarten.
 
 Fibo
-  http://www.fiboapp.com
+  https://www.fiboapp.com
   MS Office like bundle for non-desk teams. Includes scheduling, messaging, time/work tracking, etc. for service, maintenance and construction companies.
 
 Fiix
-  http://www.fiix.io
+  https://www.fiix.io
   Fiix sends expert auto mechanics to your home, so you don't have to waste time & money at the repair shop. It's essentially an Uber for auto repair.
 
 Firsthand
-  http://shopfirsthand.com/
+  http://www.shopfirsthand.com
   Firsthand makes software-enabled, self-serve retail kiosks that carry high margin products. They average $120/kiosk in daily net revenue and cost $300/kiosk to make. Payback period is three days.
 
 FloydHub
-  http://www.floydhub.com/
+  https://www.floydhub.com
   Floyd is Heroku for Machine Learning and Deep Learning. Run and deploy your project to the cloud with zero-setup.
 
 Hivy
@@ -127,19 +127,19 @@ Hivy
   An end-to-end platform for office management. We enable office management teams to gather employees' requests, collaborate on projects and manage their vendors.
 
 Hogaru
-  https://www.hogaru.com/
+  https://www.hogaru.com
   Hogaru provides professional cleaning services to millions of small and medium sized businesses in Latin America. Differently from marketplaces, we employ directly our cleaners, to retain them for the long term and maintain high quality standards.
 
 Humi
-  http://www.humi.ca
+  https://www.humi.ca
   Humi is beautiful, free HR software in the cloud. We make money by brokering insurance to the companies on our platform, and by charging for our more advanced modules (Applicant tracking, Employee performance, etc).
 
 Indee
-  http://www.indeelabs.com
+  http://indeelabs.com
   Indee develops hardware for gene delivery. Our focus is on gene-modified cell therapy production. Gene-modified cell therapies are the most effective platform for patients with late-stage and advanced disease.
 
 Indigo Fair
-  http://www.indigofair.com
+  https://www.indigofair.com
   Indigo Fair connects independent retailers with the makers of products their customers are guaranteed to love.
 
 InnaMed
@@ -147,15 +147,15 @@ InnaMed
   We're creating a connected home blood testing device to improve post acute care.
 
 IQBoxy
-  https://www.iqboxy.com/
+  https://www.iqboxy.com
   IQBOXY is a bookkeeper in your pocket. An intelligent system-of-record for your business tax receipts, invoices & purchases. Includes general ledger coding & reconciliation.
 
 Kangpe
-  http://www.kangpe.com
+  https://www.kangpe.com
   African healthcare is broken, Kangpe is combining telemedicine and health insurance to make healthcare cheaper and easier to access
 
 KidPass
-  https://www.kidpass.com
+  https://kidpass.com
   ClassPass for Kids Activities. A marketplace for parents to discover and book kids activities.
 
 Kudi
@@ -163,11 +163,11 @@ Kudi
   Payments for Africa, over chat.
 
 Ledger Investing
-  https://ledgerinvesting.com/
+  https://ledgerinvesting.com
   Marketplace for insurance securitization.
 
 LitHit
-  http://lithit.com
+  https://lithit.com
   Smart Target for Shooting Sports
 
 Lively
@@ -175,15 +175,15 @@ Lively
   401(k) for healthcare.
 
 lvl5
-  http://www.lvl5.ai
+  https://lvl5.ai
   HD maps for self-driving cars.
 
 Marketfox
-  https://marketfox.io
+  https://www.marketfox.io
   Marketing automation platform optimized for mobile and web.
 
 MDacne
-  https://www.mdacne.com/
+  https://www.mdacne.com
   We build MDacne, a mobile app that helps people solve their skin problems using computer vision. 500M people have acne of them are 90% untreated. Using MDacne they get a customized treatment solution from their smartphone in less than 5 minutes.
 
 Mednet
@@ -191,23 +191,23 @@ Mednet
   Network of doctors helping each other treat cancer
 
 Mere Coffee
-  http://www.merecoffee.com/
+  http://www.merecoffee.com
   The future of coffee. Keurig convenience meets cafe quality.
 
 Millibatt
-  http://www.millibatt.com
+  https://www.millibatt.com
   Millibatt makes world's smallest and most customizable batteries. Millibatt's new small battery technology delivers more than 2x higher energy density than existing small batteries.
 
 Movebutter
-  http://www.movebutter.com
+  https://movebutter.com
   A Modern Trader Joe's. We make and ship our own brand of groceries all over the country.
 
 NanoNets
-  http://nanonets.com
+  https://nanonets.com
   Easy to use Machine Learning API. Needs 10 times less data.
 
 Neema
-  http://getneema.com/
+  https://getneema.com
   Neema is an app for unbanked workers, which provides a checking account, a debit-card and instant remittance to 90 countries, all for $3 a month.
 
 Niles
@@ -223,7 +223,7 @@ Origin
   Keurig for healthy smoothies.
 
 Pantheon
-  http://www.pantheonvr.com
+  https://www.pantheonvr.com
   Pantheon allows anyone to create VR games.
 
 Paragon One
@@ -243,7 +243,7 @@ Pit.AI
   AI-Powered Hedge Fund, committed to charging 0% Management Fees. Return - 40%, Sharpe Ratio - 3.2.
 
 Playment
-  https://playment.io/
+  https://playment.io
   Mechanical Turk for enterprises.
 
 RankScience
@@ -255,7 +255,7 @@ Request Network
   Request Network is a decentralized network for payment requests. Sort of Paypal 2.0
 
 Returnbase
-  http://returnbase.com
+  https://returnbase.com
   We solve returns for retailers.
 
 REZI
@@ -267,11 +267,11 @@ Riley
   Lead qualification as a service.
 
 Rippling
-  http://rippling.com/
+  https://www.rippling.com
   Throw away your new hire checklist
 
 Sandbox
-  http://www.sandboxbanking.com
+  https://sandboxbanking.com
   Sandbox is an app store for banks. It helps them integrate and deploy software from fintech startups.
 
 Scaphold.io
@@ -283,7 +283,7 @@ ScopeAI
   Automatically extract valuable insights from customer service conversations using AI
 
 Scribe
-  http://tryscribe.com/
+  http://tryscribe.com
   Scribe is an AI based Sales Development Representative that you can hire in 10 minutes. Scribe automates an SDR's job, from finding leads all the way up till scheduling calls over email.
 
 ServX
@@ -291,19 +291,19 @@ ServX
   ServX is India's premier mobile app for auto repairs. We connect drivers with vetted local garages, with high quality service and spare parts.
 
 Shipamax
-  http://shipamax.com
+  https://shipamax.com
   Shipamax is on a mission to fix the ship booking experience.
 
 Simple Habit
-  https://www.simplehabit.com/
+  https://www.simplehabit.com
   Simple Habit is the Netflix of meditation. The company has the world's largest curated library of 5 minute meditations, designed for different situations and moods.
 
 Sinovia Technologies
-  http://www.sinoviatech.com
+  https://www.sinoviatech.com
   Flexible printed OLED displays.
 
 Smart Alto
-  http://www.smartalto.com
+  https://www.smartalto.com
   Messaging robot that helps real estate agents respond to leads.
 
 Snappr
@@ -319,15 +319,15 @@ Speak
   An AI English tutor that is the best way to become conversationally fluent in English.
 
 Supr Daily
-  http://www.suprdaily.com/
+  http://www.suprdaily.com
   Daily milk delivery service in India
 
 Sycamore
-  https://www.mysycamore.com/
+  https://www.mysycamore.com
   Marketplace for companies to add a delivery driver in 5 minutes.
 
 Symple
-  http://www.getsymple.com
+  https://www.getsymple.com
   Symple is Venmo for B2B payments. We make it easy to pay your vendors, get paid by your customers, and manage the invoice workflow end-to-end.
 
 Terark
@@ -343,11 +343,11 @@ The Centre for Effective Altruism
   We're your non-profit portfolio managers. We make giving to high-impact charities as easy as investing with Vanguard. We're building a community of donors who put outcomes first and give with the head as well as the heart.
 
 Token Transit
-  http://www.tokentransit.com
+  https://www.tokentransit.com
   A mobile app to pay for public transportation. We sell a mobile ticketing platform for transit agencies.
 
 Tolemi
-  http://www.tolemi.com
+  https://www.tolemi.com
   Tolemi is Palantir for city governments.
 
 Trade
@@ -363,11 +363,11 @@ Upcall
   Upcall provides outbound call professionals on-demand, through its communication platform & API, helping customers fuel their sales pipeline and engage with existing users in minutes.
 
 UpKeep Maintenance Management
-  http://www.onupkeep.com/
+  https://onupkeep.com
   We make beautiful, easy to use mobile software for maintenance teams
 
 Vinsight
-  https://www.vinsight.co/
+  https://www.vinsight.co
   We are building the world's real-time source of commodities supply through yield forecasts on crops.
 
 Vize Software
@@ -379,7 +379,7 @@ VoiceOps
   VoiceOps helps sales managers optimize their team's customer calls.
 
 volans-i
-  http://www.volans-i.com/
+  http://www.volans-i.com
   B2B on-demand delivery service for time-critical shipments using high-speed long-range drones.
 
 Volt Health
@@ -387,7 +387,7 @@ Volt Health
   Volt Health is developing medical devices that deliver electrical stimulation to the muscles of the body to treat disease, starting with urinary incontinence.
 
 Voodoo Manufacturing
-  http://www.voodoomfg.com
+  https://voodoomfg.com
   AWS for manufacturing. Our robotic 3D printing factory can make 1-10k plastic parts in less than 2 weeks, at injection molding prices.
 
 WaystoCap
@@ -403,7 +403,7 @@ Wifi.com.ng
   Comcast for Africa
 
 Wright Electric
-  http://www.weflywright.com
+  https://weflywright.com
   Boeing for electric planes
 
 XIX.ai
@@ -411,5 +411,5 @@ XIX.ai
   XIX uses AI to make your phone predict what you want before you even ask
 
 Zestful
-  https://zestful.com/
+  https://zestful.com
   Find and book awesome group activities for your team.

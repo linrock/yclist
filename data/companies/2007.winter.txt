@@ -5,7 +5,7 @@ Auctomatic
   exit: Acquired by Live Current Media in 2008.
 
 Buxfer
-  http://www.buxfer.com
+  https://www.buxfer.com
   Buxfer is the next-generation personal finance solution, taking money management to the web
 
 Heysan
@@ -35,11 +35,11 @@ View3
   status: dead
 
 VirtualMin
-  http://www.virtualmin.com
+  https://www.virtualmin.com
   A powerful and flexible web hosting control panel for Linux and BSD systems
 
 Weebly
-  http://www.weebly.com
+  https://www.weebly.com
   Weebly is an AJAX website creator that allows you to create pages with template skins and content widgets
 
 Whitenoise Networks

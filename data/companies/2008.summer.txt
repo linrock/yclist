@@ -1,5 +1,5 @@
 Anyvite
-  http://www.anyvite.com
+  http://anyvite.com
   Anyvite is a free site dedicated to event invitation creation and group organization.
 
 AwesomeHighlighter
@@ -28,8 +28,9 @@ Ididwork
   ididwork is an online tool that allows employees to keep track of the work they do over time.
 
 Meetcast
-  http://www.meetcast.com
+  http://meetcast.com
   Browser-based software that enables real time interaction, including sharing documents and images, screen sharing, etc.
+  status: dead
 
 People and Pages
   A service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place
@@ -41,7 +42,7 @@ Picwing
   status: exited
 
 PollEverywhere
-  http://polleverywhere.com
+  https://www.polleverywhere.com
   The best way to create stylish real-time experiences for events using mobile devices.
 
 PopCuts

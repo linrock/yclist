@@ -31,7 +31,7 @@ BillionToOne
   Prenatal genetic testing for every expecting mother
 
 bxblue
-  http://www.bxblue.com.br
+  https://bxblue.com.br
   A marketplace for people with guaranteed income in Brazil
 
 Caelum Health
@@ -239,7 +239,7 @@ Lyrebird
   Lyrebird allows you to create a digital voice that sounds like you with only one minute of audio
 
 Manycore.io
-  http://www.manycore.io
+  https://www.manycore.io
   ManyCore.io speeds up computer programs by spreading them automatically onto several cores
 
 May Mobility
@@ -251,7 +251,7 @@ Meetingbird
   Automated meeting scheduling for teams
 
 Modern Fertility
-  https://www.modernfertility.com
+  https://modernfertility.com
   Modern Fertility is an at-home fertility test for women who aren't ready for kids right now but want to check in on where they stand
 
 Modular Science
@@ -271,7 +271,7 @@ Mystro
   Mystro is an app that makes on-demand drivers 30% more money by automatically accepting the most profitable fares across multiple apps
 
 Net30
-  https://net30.io
+  https://www.net30.io
   Online invoicing and payments for construction companies
 
 NextDrop
@@ -283,7 +283,7 @@ Nimble
   A better applicant tracking system for schools
 
 Oncobox
-  http://oncobox.com
+  https://oncobox.com
   Finding the right cancer drug for each patient
 
 OneLocal
@@ -291,7 +291,7 @@ OneLocal
   OneLocal is a CRM for local businesses
 
 PAYFAZZ
-  http://www.payfazz.com
+  https://www.payfazz.com
   WeChat Pay for Indonesia
 
 Peergrade
@@ -315,7 +315,7 @@ Polly
   Polly is a social polling app for Snapchat and Instagram stories
 
 PreDxion Bio
-  http://www.predxionbio.com
+  http://predxionbio.com
   Fast blood test to save the lives of ER patients
 
 Prelim
@@ -323,11 +323,11 @@ Prelim
   A mobile-first platform that can power in-person and online retail and commercial product originations for financial institutions
 
 Prism IO
-  http://prism.io
+  https://prism.io
   User research as a service - we help you get feedback from your churned/lost users and target audience
 
 PullRequest
-  http://www.pullrequest.com
+  https://www.pullrequest.com
   Code review as a service - combining static tools with on-demand reviewers for code quality
 
 Py
@@ -363,7 +363,7 @@ Roofr
   Marketplace for roofing with instant satellite roofing estimates for homeowners
 
 Seed
-  http://seed.co
+  https://seed.co
   Mobile banking for small business
 
 ShiftDoc
@@ -371,7 +371,7 @@ ShiftDoc
   ShiftDoc is an on-demand healthcare staffing marketplace for private practices
 
 Sixty
-  https://usesixty.com
+  https://www.usesixty.com
   Partner program as a service for SaaS companies
 
 Skyways
@@ -390,11 +390,11 @@ Solve
   We save travelers hours by meeting them at their arrival gate, expediting the immigration/customs process, and making sure they're safely off in their vehicle
 
 SourceBeacon
-  https://www.sourcebeacon.com
+  https://sourcebeacon.com
   SourceBeacon is an on-demand procurement concierge for sourcing products from China
 
 Sourceress
-  http://www.sourceress.com
+  https://www.sourceress.com
   AI sourcer that scales your recruiting team
 
 Standard Cognition
@@ -422,11 +422,11 @@ Templarbit
   Protecting applications from malicious activity
 
 Thematic
-  http://www.getthematic.com
+  https://getthematic.com
   Thematic analyses customer feedback to tell companies how to increase satisfaction and decrease churn
 
 Totemic Labs
-  http://www.totemiclabs.com
+  https://www.totemiclabs.com
   A hardware device for senior care to allow them to age in place and their loved ones can know they are safe
 
 Tpaga
@@ -454,7 +454,7 @@ VergeSense
   AI-Powered building management
 
 VIDA & Co.
-  http://www.shopvida.com
+  https://shopvida.com
   Platform for unique products produced on-demand at mass-scale
 
 Warren
@@ -478,5 +478,5 @@ ZenSourcer
   Email automation for recruiters
 
 Zinc Platform
-  http://www.zincplatform.com
+  https://www.zincplatform.com
   Insurance distribution infrastructure

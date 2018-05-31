@@ -74,7 +74,7 @@ class CompanyRow
 
   def to_text_data
     fields = []
-    fields << url if url.present?
+    fields << url.gsub(/\/\z/, '') if url.present?
     fields << description if description.present?
     fields << "status: #{status.downcase}" if status_class != 'operating'
     fields << "exit: #{exit}" if self.exit.present?
