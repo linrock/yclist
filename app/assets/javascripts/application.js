@@ -49,7 +49,7 @@ $(function() {
 
   $.each(['operating', 'exited', 'dead'], function(i, status) {
     $('#toggle-' + status).on('change', function() {
-      const $e = $('.' + status)
+      var $e = $('.' + status)
       if ($(this).is(':checked')) {
         $e.show();
         trackEvent('show ' + status, 'on');
