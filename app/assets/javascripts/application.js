@@ -28,10 +28,18 @@ $.tablesorter.addParser({
 
 $(function() {
   function updateCompanyCount() {
-    return $("#companies_count").text($("tbody > tr:visible").length);
+    $('#companies_count').text($('tbody > tr:visible').length);
   }
 
-  $("table").tablesorter({
+  function trackEvent(category, action, label) {
+    if (window.ga) {
+      window.ga('send', 'event', category, action, label);
+    } else {
+      console.log('event: ' + category + ', ' + action + ', ' + label);
+    }
+  }
+
+  $('table').tablesorter({
     headers: {
       1: { sorter: 'name'   },
       3: { sorter: 'cohort' },
@@ -39,16 +47,22 @@ $(function() {
     }
   });
 
-  $.each(["operating", "exited", "dead"], function(i, status) {
+  $.each(['operating', 'exited', 'dead'], function(i, status) {
     $('#toggle-' + status).on('change', function() {
       const $e = $('.' + status)
       if ($(this).is(':checked')) {
         $e.show();
+        trackEvent('show ' + status, 'on');
       } else {
         $e.hide();
+        trackEvent('show ' + status, 'off');
       }
       updateCompanyCount();
     });
+  });
+
+  $('a').on('click', function() {
+    trackEvent('link', 'click', $(this).attr('href'));
   });
 
   updateCompanyCount();
