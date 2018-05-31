@@ -17,9 +17,14 @@ class StaticExporter
       html = get_html_output
       ensure_asset_integrity(precompilation_output, html)
     rescue
-      # retry generating html output once
-      html = get_html_output
-      ensure_asset_integrity(precompilation_output, html)
+      # quick hack to retry generating html output twice
+      begin
+        html = get_html_output
+        ensure_asset_integrity(precompilation_output, html)
+      rescue
+        html = get_html_output
+        ensure_asset_integrity(precompilation_output, html)
+      end
     end
     export_html!(html)
   end

@@ -59,7 +59,7 @@ class TextDataFile
       options[:url] = company_data_rows[0]
       company_data_rows.shift
     end
-    if company_data_rows[0] !~ /(status|exit|metadata|annotation|hide_url|options|notes):/
+    if company_data_rows[0] !~ /(status|exit|hide_url|note):/
       options[:description] = company_data_rows[0]
       company_data_rows.shift
     end

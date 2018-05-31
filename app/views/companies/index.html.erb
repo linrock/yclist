@@ -96,9 +96,9 @@
           </td>
           <td class="status"><%= c.status %></td>
           <td>
-            <% if c.annotation && c.annotation[:exit] %>
+            <% if c.exit %>
               <span class="annotation">
-                <%= c.annotation[:exit] %>
+                <%= c.exit %>
               </span>
             <% end %>
             <%= c.description %>

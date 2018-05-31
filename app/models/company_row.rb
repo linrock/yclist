@@ -1,8 +1,8 @@
 class CompanyRow
   include ActiveModel::Validations
 
-  attr_accessor :name, :url, :status, :cohort, :description,
-                :hide_url, :metadata, :notes, :options, :annotation
+  attr_accessor :name, :url, :description, :cohort, :status,
+                :exit, :hide_url, :notes
 
   validates_presence_of :name
   validates_format_of :url, with: /\Ahttps?:\/\//, allow_blank: true
@@ -17,14 +17,7 @@ class CompanyRow
   def initialize(attributes = {})
     @notes = []
     attributes.each do |attr, value|
-      if %w( options annotation ).include?(attr)
-        self.send("#{attr}=", value.symbolize_keys)
-        if attr == "options" && value["hide_url"]
-          self.hide_url = true
-        end
-      else
-        self.send("#{attr}=", value.to_s)
-      end
+      self.send("#{attr}=", value.to_s)
     end
   end
 
@@ -36,14 +29,6 @@ class CompanyRow
 
   def note=(note)
     @notes << note
-  end
-
-  def exit=(exit_info)
-    if self.annotation
-      self.annotation[:exit] = exit_info
-    else
-      self.annotation = { exit: exit_info }
-    end
   end
 
   def favicon(options = {})
@@ -68,10 +53,7 @@ class CompanyRow
   end
 
   def show_url?
-    return false if dead?
-    return false if hide_url
-    return false if options && options[:hide_url]
-    true
+    !(dead? || hide_url)
   end
 
   def dead?
@@ -95,17 +77,8 @@ class CompanyRow
     fields << url if url.present?
     fields << description if description.present?
     fields << "status: #{status.downcase}" if status_class != 'operating'
-    if annotation && annotation[:exit].present?
-      fields << "exit: #{annotation[:exit]}"
-    end
+    fields << "exit: #{exit}" if self.exit.present?
     fields << "hide_url: #{hide_url}" if hide_url.present?
-    if metadata.present?
-      if metadata.include? "=>"
-        fields << "note: #{eval(metadata).map {|k,v| "#{k}: #{v}" }.join(", ")}"
-      else
-        fields << "note: #{metadata}"
-      end
-    end
     @notes.each do |note|
       fields << "note: #{note}"
     end
