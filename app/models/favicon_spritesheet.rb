@@ -8,26 +8,10 @@ class FaviconSpritesheet
     @companies = CompanyRow.all
   end
 
-  def spritesheet_png
-    Rails.root.join("public/assets/#{merged_favicons_filename}")
-  end
-
   def n_companies_processed
     png_desc = `identify -verbose #{spritesheet_png} | grep Desc`
     return unless png_desc.present?
     png_desc[/(\d+) companies/, 1].to_i
-  end
-
-  def favicons_md5_digest
-    @favicons_md5_digest ||= favicons_md5_digest!
-  end
-
-  def favicons_md5_digest!
-    `tar cf - #{Rails.root.join("data/favicons/")} | openssl md5`[/([a-f0-9]{32})/, 1]
-  end
-
-  def merged_favicons_filename
-    "favicons-#{favicons_md5_digest}.png"
   end
 
   def generate!
@@ -57,11 +41,6 @@ class FaviconSpritesheet
     puts "Merged #{merge_list.length} favicons into a spritesheet"
   end
 
-  def write_metadata!
-    txt = "#{@companies.size} companies processed"
-    `convert #{spritesheet_png} -set Desc "#{txt}" #{spritesheet_png}`
-  end
-
   def export_png!
     open(spritesheet_png, 'wb') do |f|
       f.write @png
@@ -80,4 +59,26 @@ class FaviconSpritesheet
     puts "favicons.css - #{file_size}"
   end
 
+  private
+
+  def spritesheet_png
+    Rails.root.join("public/assets/#{merged_favicons_filename}")
+  end
+
+  def favicons_md5_digest
+    @favicons_md5_digest ||= favicons_md5_digest!
+  end
+
+  def favicons_md5_digest!
+    `cd #{Rails.root} && tar cf - data/favicons/ | openssl md5`[/([a-f0-9]{32})/, 1]
+  end
+
+  def merged_favicons_filename
+    "favicons-#{favicons_md5_digest}.png"
+  end
+
+  def write_metadata!
+    txt = "#{@companies.size} companies processed"
+    `convert #{spritesheet_png} -set Desc "#{txt}" #{spritesheet_png}`
+  end
 end
