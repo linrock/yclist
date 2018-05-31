@@ -11,8 +11,14 @@ class StaticExporter
     precompilation_output = precompile_assets!
     `rm -f #{@output_html_file} #{@output_html_file}.gz`
     puts precompilation_output
-    html = get_html_output
-    ensure_asset_integrity(precompilation_output, html)
+    begin
+      html = get_html_output
+      ensure_asset_integrity(precompilation_output, html)
+    rescue
+      # retry generating html output once
+      html = get_html_output
+      ensure_asset_integrity(precompilation_output, html)
+    end
     export_html!(html)
   end
 

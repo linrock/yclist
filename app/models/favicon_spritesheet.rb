@@ -14,6 +14,10 @@ class FaviconSpritesheet
     png_desc[/(\d+) companies/, 1].to_i
   end
 
+  def valid?
+    n_companies_processed == @companies.length
+  end
+
   def generate!
     `mkdir -p /tmp/yclist/favicons/`
     merge_list = [Rails.root.join("data/favicons/transparent-16x16.png")]
