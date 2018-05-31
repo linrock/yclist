@@ -2,9 +2,6 @@
 
 An unofficial list of companies funded by [YCombinator](http://www.ycombinator.com/)
 
-For a Google spreadsheet of the company list, go here:
-https://docs.google.com/spreadsheets/d/1OoT1PjIQHLsBZ955rceXN8Sy2_49fuc_MOl2sTQw_hc/pub
-
 
 ## Contributing
 
