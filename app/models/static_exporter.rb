@@ -9,9 +9,10 @@ class StaticExporter
   end
 
   def export!
-    precompilation_output = precompile_assets!
+    precompilation_output = precompile_assets!.strip
     `rm -f #{HTML_OUTPUT_FILE} #{HTML_OUTPUT_FILE}.gz`
     puts precompilation_output
+    ensure_favicon_spritesheet_integrity
     begin
       html = get_html_output
       ensure_asset_integrity(precompilation_output, html)
@@ -26,7 +27,7 @@ class StaticExporter
   private
 
   def precompile_assets!
-    puts `RAILS_ENV=production bundle exec rake assets:clean`
+    `RAILS_ENV=production bundle exec rake assets:clean`
     `RAILS_ENV=production bundle exec rake assets:precompile 2>&1`
   end
 
@@ -61,5 +62,9 @@ class StaticExporter
     unless html_css_hash == exported_css_hash
       raise "CSS asset hash mismatch - #{html_css_hash} #{exported_css_hash}"
     end
+  end
+
+  def ensure_favicon_spritesheet_integrity
+    raise "Favicon spritesheet is invalid" unless FaviconSpritesheet.new.valid?
   end
 end
