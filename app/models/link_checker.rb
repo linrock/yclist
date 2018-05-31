@@ -3,20 +3,26 @@
 class LinkChecker
 
   def initialize(companies)
-    @companies = companies.select {|c| c.url.present? }
+    @companies = companies.select {|c| c.url.present? && !c.dead? }
   end
 
   def check_link(url)
     final_url = `curl -sLI -o /dev/null -m 10 -w %{url_effective} "#{url}"`
     if final_url.gsub(/\/\z/, '') != url
-      puts "#{url} -> #{final_url}"
+      "#{url} -> #{final_url}"
     end
   end
 
   def check_all
+    different_links = []
     Parallel.each(@companies, :in_threads => 10) do |company|
-      check_link(company.url)
+      result = check_link(company.url)
+      if result
+        puts result
+        different_links << result
+      end
     end
+    puts "#{different_links.length} out of #{@companies.length} companies have different links"
     true
   end
 end

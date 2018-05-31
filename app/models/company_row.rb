@@ -78,5 +78,4 @@ class CompanyRow
   def status_str
     status == "Operating" && "" || status
   end
-
 end

@@ -1,6 +1,6 @@
 -
   name: 10 By 10
-  url: https://10by10.io
+  url: https://www.10by10.io
   description: A marketplace for recruiters to match engineers with jobs
 -
   name: 70MillionJobs
@@ -44,11 +44,11 @@
   description: CCG empowers clinicians to make personalised treatment strategies for cancer patients
 -
   name: CarDash
-  url: http://www.cardash.com
+  url: https://www.cardash.com
   description: Managed marketplace for automotive services
 -
   name: Carrot Fertility
-  url: https://get-carrot.com
+  url: https://www.get-carrot.com
   description: Fertility benefits for modern companies
 -
   name: Cashfree
@@ -60,11 +60,11 @@
   description: Claire is a chatbot for testing consumer products for brands and retailers
 -
   name: CocuSocial
-  url: http://www.cocusocial.com
+  url: https://cocusocial.com
   description: Marketplace for local activities
 -
   name: Contract Simply
-  url: https://contractsimply.com
+  url: https://www.contractsimply.com
   description: Helping banks expedite construction loans
 -
   name: Covetly
@@ -72,7 +72,7 @@
   description: Covetly gives collectors a better way to buy and sell the things they covet
 -
   name: CureSkin
-  url: http://cureskin.com
+  url: https://cureskin.com
   description: AI dermatologist for India
 -
   name: D-ID
@@ -108,7 +108,7 @@
   description: Automated factory to produce insect protein for farm animals
 -
   name: Enzyme
-  url: https://www.enzyme.io
+  url: https://www.enzyme.com
   description: Enzyme builds software that helps life science companies with FDA approval and compliance
 -
   name: Escher Reality
@@ -128,11 +128,11 @@
   description: Feather is a modern-day furniture rental company for millennials and businesses
 -
   name: Flock
-  url: http://www.flocksafety.com
+  url: https://www.flocksafety.com
   description: Flock makes wireless security systems for neighborhoods
 -
   name: Flowspace
-  url: http://www.flow.space
+  url: https://www.flow.space
   description: On-demand warehousing for business
 -
   name: Forever Labs
@@ -160,7 +160,7 @@
   description: Get things done without leaving your inbox
 -
   name: Greo
-  url: http://www.greo.com
+  url: https://greo.com
   description: A mobile video app for conversations about current events
 -
   name: Guggy
@@ -168,7 +168,7 @@
   description: Guggy is building the messaging app of the future with real-time, NLP-based personalized GIFs
 -
   name: Guilded
-  url: http://www.guilded.gg
+  url: https://www.guilded.gg
   description: Team management for eSports
 -
   name: Gustav
@@ -176,7 +176,7 @@
   description: The marketplace for staffing agencies
 -
   name: Headstart
-  url: https://headstartapp.com
+  url: https://www.headstartapp.com
   description: Headstart uses Machine Learning to help companies only hire people that would be a good fit for their culture
 -
   name: HealthWiz
@@ -184,11 +184,11 @@
   description: A SaaS platform to lower employers' healthcare costs by helping employees find convenient cost-efficient treatments when they're sick
 -
   name: Helium Health
-  url: http://heliumhealthcare.com
+  url: https://heliumhealthcare.com
   description: Electronic medical records for Africa's largest hospitals
 -
   name: Helix Nanotechnologies
-  url: http://helixnano.com
+  url: https://www.helixnano.com
   description: Using AI to cure genetic disease
 -
   name: HelpWear
@@ -224,7 +224,7 @@
   description: Buying and owning indoor potted plants made easy
 -
   name: Life Bot
-  url: http://www.asklifebot.com
+  url: https://www.asklifebot.com
   description: We help you with your daily routines like hearing personalised news, setting reminders or managing calendars
 -
   name: Loop Support
@@ -232,7 +232,7 @@
   description: We do customer support as a service
 -
   name: LotusPay
-  url: http://www.lotuspay.com
+  url: https://www.lotuspay.com
   description: Recurring payments solution for businesses in India
 -
   name: Lyrebird
@@ -244,7 +244,7 @@
   description: ManyCore.io speeds up computer programs by spreading them automatically onto several cores
 -
   name: May Mobility
-  url: http://maymobility.com
+  url: https://maymobility.com
   description: May Mobility deploys fleets of autonomous vehicles for central business districts, enterprise campuses, and residential communities
 -
   name: Meetingbird
@@ -268,7 +268,7 @@
   description: We're fixing STEM education by giving elementary teachers a virtual science expert to co-teach the class
 -
   name: Mystro
-  url: http://www.mystrodriver.com
+  url: https://www.mystrodriver.com
   description: Mystro is an app that makes on-demand drivers 30% more money by automatically accepting the most profitable fares across multiple apps
 -
   name: Net30
@@ -356,7 +356,7 @@
   description: Rev is a biotechnology company creating new strains of cannabis
 -
   name: RideAlong
-  url: http://www.getridealong.com
+  url: https://getridealong.com
   description: We bridge the information gap between police officers and service providers
 -
   name: Roofr
@@ -380,7 +380,7 @@
   description: Creating a new form of air transportation
 -
   name: Slik
-  url: http://slik.ai
+  url: https://slik.ai
   description: Slik enables the long tail to use email outreach
 -
   name: SMB Rate
@@ -404,7 +404,7 @@
   description: AI-powered checkout for retail
 -
   name: Sudden Coffee
-  url: http://suddencoffee.com
+  url: https://www.suddencoffee.com
   description: No-brew coffee - the easiest way to have great coffee
 -
   name: Sunfolding
@@ -420,7 +420,7 @@
   description: We help commercial insurance brokers structure complicated deals using blockchain technology
 -
   name: Templarbit
-  url: http://www.templarbit.com
+  url: https://www.templarbit.com
   description: Protecting applications from malicious activity
 -
   name: Thematic
@@ -460,7 +460,7 @@
   description: Platform for unique products produced on-demand at mass-scale
 -
   name: Warren
-  url: http://warrenpay.com
+  url: https://www.warrenpay.com
   description: Warren helps your AP/AR team automate sending/receiving payments, find errors, request authorization from supervisors, and streamline your company's cash flow
 -
   name: WheelStreet
