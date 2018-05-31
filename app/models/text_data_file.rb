@@ -7,7 +7,7 @@ class TextDataFile
     @cohort = get_cohort(filename)
   end
 
-  def company_rows
+  def company_rows_from_file
     open(@filename, 'r') do |f|
       f.read.strip.split(/\n\n/).map do |company_data|
         company_row = data_to_company_row company_data
@@ -17,13 +17,10 @@ class TextDataFile
     end
   end
 
-  def to_text_data
-    company_rows.map { |row| company_row_to_data(row) }.join("\n\n")
-  end
-
   def export_company_rows!(company_rows)
+    data = company_rows.sort_by {|c| c.name.downcase }.map(&:to_text_data).join("\n\n")
     open(@filename, 'w') do |f|
-      f.write company_rows.sort_by(&:name).map(&:to_text_data).join("\n\n") + "\n"
+      f.write data + "\n"
     end
   end
 
@@ -62,23 +59,11 @@ class TextDataFile
       options[:url] = company_data_rows[0]
       company_data_rows.shift
     end
-    if company_data_rows[0] !~ /(status|exit|metadata|annotation|hide_url|notes):/
+    if company_data_rows[0] !~ /(status|exit|metadata|annotation|hide_url|options|notes):/
       options[:description] = company_data_rows[0]
       company_data_rows.shift
     end
     options.merge!(parse_metadata_rows(company_data_rows))
     CompanyRow.new(options)
-  end
-
-  def company_row_to_data(company_row)
-    fields = []
-    fields << company_row.url if company_row.url.present?
-    fields << company_row.description if company_row.description.present?
-    fields << "status: #{company_row.status.downcase}" if company_row.status.present?
-    if company_row.annotation && company_row.annotation[:exit].present?
-      fields << "exit: #{company_row.exit}"
-    end
-    fields << "metadata: #{company_row.metadata}" if company_row.metadata.present?
-    ([company_row.name] + fields.map {|f| "  #{f}" }).join("\n")
   end
 end

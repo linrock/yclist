@@ -34,7 +34,7 @@ class TextDataFileLoader
   private
 
   def company_rows_from_options(options)
-    TextDataFile.new(options[:filename]).company_rows
+    TextDataFile.new(options[:filename]).company_rows_from_file
   end
 
   def get_options(year, season)

@@ -2,24 +2,26 @@ class CompanyRow
   include ActiveModel::Validations
 
   attr_accessor :name, :url, :status, :cohort, :description,
-                :metadata, :options, :annotation
+                :hide_url, :metadata, :notes, :options, :annotation
 
   validates_presence_of :name
-  validates_format_of :url, :with => /\Ahttps?:\/\//, :allow_blank => true
-  validates_format_of :cohort, :with => /\A(S|F|W)\d+\z/
-  validates_inclusion_of :status, :in => %w( Operating Dead Exited ), :allow_blank => true
-
+  validates_format_of :url, with: /\Ahttps?:\/\//, allow_blank: true
+  validates_format_of :status, with: /\A(dead|exited)\z/, allow_blank: true
+  validates_format_of :cohort, with: /\A(S|F|W)\d+\z/
 
   def self.all
-    # GsZipballLoader.sorted_all_company_rows
-    # GsPublishedPageLoader.sorted_all_company_rows
-    YamlLoader.sorted_all_company_rows
+    # YamlLoader.new.sorted_all_company_rows
+    TextDataFileLoader.new.sorted_all_company_rows
   end
 
   def initialize(attributes = {})
+    @notes = []
     attributes.each do |attr, value|
       if %w( options annotation ).include?(attr)
         self.send("#{attr}=", value.symbolize_keys)
+        if attr == "options" && value["hide_url"]
+          self.hide_url = true
+        end
       else
         self.send("#{attr}=", value.to_s)
       end
@@ -29,6 +31,18 @@ class CompanyRow
   def ==(company)
     %w( name url status cohort description ).all? do |attribute|
       self.send(attribute) == company.send(attribute)
+    end
+  end
+
+  def note=(note)
+    @notes << note
+  end
+
+  def exit=(exit_info)
+    if self.annotation
+      self.annotation[:exit] = exit_info
+    else
+      self.annotation = { exit: exit_info }
     end
   end
 
@@ -55,12 +69,13 @@ class CompanyRow
 
   def show_url?
     return false if dead?
+    return false if hide_url
     return false if options && options[:hide_url]
     true
   end
 
   def dead?
-    status == "Dead"
+    status&.downcase == "dead"
   end
 
   def cohort_season
@@ -75,7 +90,25 @@ class CompanyRow
     status&.downcase || "operating"
   end
 
-  def status_str
-    status == "Operating" && "" || status
+  def to_text_data
+    fields = []
+    fields << url if url.present?
+    fields << description if description.present?
+    fields << "status: #{status.downcase}" if status_class != 'operating'
+    if annotation && annotation[:exit].present?
+      fields << "exit: #{annotation[:exit]}"
+    end
+    fields << "hide_url: #{hide_url}" if hide_url.present?
+    if metadata.present?
+      if metadata.include? "=>"
+        fields << "note: #{eval(metadata).map {|k,v| "#{k}: #{v}" }.join(", ")}"
+      else
+        fields << "note: #{metadata}"
+      end
+    end
+    @notes.each do |note|
+      fields << "note: #{note}"
+    end
+    ([name] + fields.map {|f| "  #{f}" }).join("\n")
   end
 end
