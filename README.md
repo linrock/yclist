@@ -7,7 +7,7 @@ An unofficial list of companies funded by [YCombinator](http://www.ycombinator.c
 
 Help keep YC List up-to-date! You can:
 
-* Open a pull request that directly changes [a company data file](https://github.com/linrock/yclist/tree/master/data/companies)
+* Open a pull request that directly changes [a company data file](https://github.com/linrock/yclist/tree/master/companies)
 * File [an issue](https://github.com/linrock/yclist) to suggest changes
 
 

@@ -42,12 +42,12 @@ class TextDataFileLoader
       fellowship_class = year - 2014
       return unless fellowship_class > 0
       {
-        filename: "data/companies/fellowship.v#{fellowship_class}.txt",
+        filename: "../companies/fellowship.v#{fellowship_class}.txt",
         cohort: "F#{fellowship_class}"
       }
     else
       {
-        filename: "data/companies/#{year}.#{season}.txt",
+        filename: "../companies/#{year}.#{season}.txt",
         cohort: "#{season[0].capitalize}#{year.to_s[-2..-1]}"
       }
     end
