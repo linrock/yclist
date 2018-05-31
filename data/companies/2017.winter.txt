@@ -1,0 +1,415 @@
+ACLU
+  https://www.aclu.org/
+  Defender of rights and liberties
+
+Aella Credit
+  http://www.aellacredit.com
+  Aella Credit is a provider of financial employee benefits. We enable employees to borrow at competitive rates through their employers.
+
+AlemHealth
+  https://www.alemhealth.com
+  AI Radiologist in a Box - We provide a vertically integrated AI radiology solution for hospitals and radiology centres in emerging market to ensure access to radiology anywhere.
+
+Ambient
+  https://ambient.ai
+  Visual intelligence for the real world.
+
+AON3D
+  http://www.aon3d.com
+  Industrial 3D printing for manufacturing
+
+Apozy
+  http://www.apozy.com
+  Software that stops phishing and malware in the browser.
+
+Armory
+  http://armory.io
+  Continuous Deployment for the Enterprise.
+
+Arthena
+  https://www.arthena.com
+  Quantitative Investment in Art Assets
+
+Beek
+  https://www.beek.io
+  Today - Biggest book review site in Latin America. Tomorrow - Biggest everything review site in Latin America
+
+Bicycle AI
+  http://bicycleai.com
+  Bicycle AI provides customer support as a service. We work on top of existing helpdesks and respond to repetitive and routine support requests. We've built a full stack solution that marries human & machine intelligence.
+
+Bitrise
+  https://www.bitrise.io
+  Hosted Continuous Integration and Delivery for mobile apps
+
+BloomAPI
+  https://www.bloomapi.com
+  BloomAPI helps doctors share clinical data. Today most healthcare data is still sent by fax and mail. BloomAPI has built technology that can be set up in minutes and share this data in real time.
+
+boxouse
+  http://boxouse.com
+  portable, affordable, beautiful smart homes
+
+Breaker
+  https://breaker.audio
+  A podcast company.
+
+Bulk MRO Industrial Supply
+  http://www.bulkmro.com
+  Bulk MRO is the Alibaba for Enterprises in India. We supply over 1.4m products across 5k brands to the largest corporations of India.
+
+Bulletin
+  https://bulletin.co
+  WeWork for Retail Space
+
+Buypower
+  http://www.buypower.ng
+  Buypower is the Paypal of Africa starting from Nigeria by making the purchase of electricity extremely easy for Africans. We light up homes at the click of a button.
+
+Cambridge Bio-Augmentation Systems
+  http://www.CBAS.global
+  At CBAS we are standardizing the hardware & software interface between the body and any bionic device. Our aim is to enable high functionality bionics for treating health conditions to be easily and cheaply developed & delivered to patients.
+
+Cartcam
+  https://www.cartcam.com
+  Cartcam is an app for opinionated, deal-seeking shoppers. It gives people discounts for creating short video reviews.
+
+Clear Genetics
+  http://cleargenetics.com/
+  Clear Genetics is automating genetic counseling
+
+Clipboard Health
+  http://clipboardhealth.com
+  We connect nurses with jobs they love and information they can trust.
+
+Collectly
+  http://collectly.co/
+  Stripe for Medical Debt Collection. We help doctors collect 2x more debt than they have ever done before. Disrupting the $280B market.
+
+Cowlar
+  http://www.cowlar.com
+  Fitbit for dairy cows. Farms use cowlar's alerts & recommendations to improve dairy margins by 30%. We charge $3 / month per cow for the service. We are IoT & machine learning experts solving a real problem for dairy farms.
+
+Credy
+  https://www.credy.in
+  Credy is an online platform for P2P lending, backed by biometric ID and leveraging India's latest digital infrastructure.
+
+DELEE
+  http://www.delee.bio
+  A medical device company who created a device capable of isolating Circulating Tumor Cells, 10x times faster than the nearest competence, label-free approach, and high purities
+
+DocTalk
+  http://www.getdoctalk.com/
+  Paid WhatsApp connecting Indian patients to Indian doctors
+
+Dost Education
+  http://www.dosteducation.com/
+  Empower parents of any literacy level to get their child ready for kindergarten.
+
+Fibo
+  http://www.fiboapp.com
+  MS Office like bundle for non-desk teams. Includes scheduling, messaging, time/work tracking, etc. for service, maintenance and construction companies.
+
+Fiix
+  http://www.fiix.io
+  Fiix sends expert auto mechanics to your home, so you don't have to waste time & money at the repair shop. It's essentially an Uber for auto repair.
+
+Firsthand
+  http://shopfirsthand.com/
+  Firsthand makes software-enabled, self-serve retail kiosks that carry high margin products. They average $120/kiosk in daily net revenue and cost $300/kiosk to make. Payback period is three days.
+
+FloydHub
+  http://www.floydhub.com/
+  Floyd is Heroku for Machine Learning and Deep Learning. Run and deploy your project to the cloud with zero-setup.
+
+Hivy
+  https://hivyapp.com
+  An end-to-end platform for office management. We enable office management teams to gather employees' requests, collaborate on projects and manage their vendors.
+
+Hogaru
+  https://www.hogaru.com/
+  Hogaru provides professional cleaning services to millions of small and medium sized businesses in Latin America. Differently from marketplaces, we employ directly our cleaners, to retain them for the long term and maintain high quality standards.
+
+Humi
+  http://www.humi.ca
+  Humi is beautiful, free HR software in the cloud. We make money by brokering insurance to the companies on our platform, and by charging for our more advanced modules (Applicant tracking, Employee performance, etc).
+
+Indee
+  http://www.indeelabs.com
+  Indee develops hardware for gene delivery. Our focus is on gene-modified cell therapy production. Gene-modified cell therapies are the most effective platform for patients with late-stage and advanced disease.
+
+Indigo Fair
+  http://www.indigofair.com
+  Indigo Fair connects independent retailers with the makers of products their customers are guaranteed to love.
+
+InnaMed
+  http://www.InnaMed.com
+  We're creating a connected home blood testing device to improve post acute care.
+
+IQBoxy
+  https://www.iqboxy.com/
+  IQBOXY is a bookkeeper in your pocket. An intelligent system-of-record for your business tax receipts, invoices & purchases. Includes general ledger coding & reconciliation.
+
+Kangpe
+  http://www.kangpe.com
+  African healthcare is broken, Kangpe is combining telemedicine and health insurance to make healthcare cheaper and easier to access
+
+KidPass
+  https://www.kidpass.com
+  ClassPass for Kids Activities. A marketplace for parents to discover and book kids activities.
+
+Kudi
+  https://kudi.ai
+  Payments for Africa, over chat.
+
+Ledger Investing
+  https://ledgerinvesting.com/
+  Marketplace for insurance securitization.
+
+LitHit
+  http://lithit.com
+  Smart Target for Shooting Sports
+
+Lively
+  https://livelyme.com
+  401(k) for healthcare.
+
+lvl5
+  http://www.lvl5.ai
+  HD maps for self-driving cars.
+
+Marketfox
+  https://marketfox.io
+  Marketing automation platform optimized for mobile and web.
+
+MDacne
+  https://www.mdacne.com/
+  We build MDacne, a mobile app that helps people solve their skin problems using computer vision. 500M people have acne of them are 90% untreated. Using MDacne they get a customized treatment solution from their smartphone in less than 5 minutes.
+
+Mednet
+  http://www.themednet.com
+  Network of doctors helping each other treat cancer
+
+Mere Coffee
+  http://www.merecoffee.com/
+  The future of coffee. Keurig convenience meets cafe quality.
+
+Millibatt
+  http://www.millibatt.com
+  Millibatt makes world's smallest and most customizable batteries. Millibatt's new small battery technology delivers more than 2x higher energy density than existing small batteries.
+
+Movebutter
+  http://www.movebutter.com
+  A Modern Trader Joe's. We make and ship our own brand of groceries all over the country.
+
+NanoNets
+  http://nanonets.com
+  Easy to use Machine Learning API. Needs 10 times less data.
+
+Neema
+  http://getneema.com/
+  Neema is an app for unbanked workers, which provides a checking account, a debit-card and instant remittance to 90 countries, all for $3 a month.
+
+Niles
+  https://niles.ai
+  Knowledge Assistant for Work.
+
+No Lean Season
+  http://www.noleanseason.org
+  A bus ticket out of poverty
+
+Origin
+  http://eatorigin.com
+  Keurig for healthy smoothies.
+
+Pantheon
+  http://www.pantheonvr.com
+  Pantheon allows anyone to create VR games.
+
+Paragon One
+  http://www.ParagonOne.com
+  Online college career service. Parents pay $3,000 and our platform automatically connects students with professionals from successful companies who coach them on picking the right career and preparing for interviews. 100% of students get offers.
+
+Peer5
+  https://www.peer5.com
+  P2P delivery network that enables high quality video streaming at massive scale.
+
+Penny
+  https://www.pennyapp.io
+  Penny makes keeping track of your finances as easy as having a conversation.
+
+Pit.AI
+  https://www.pit.ai
+  AI-Powered Hedge Fund, committed to charging 0% Management Fees. Return - 40%, Sharpe Ratio - 3.2.
+
+Playment
+  https://playment.io/
+  Mechanical Turk for enterprises.
+
+RankScience
+  https://www.rankscience.com
+  SEO Automation + Split-Testing
+
+Request Network
+  https://request.network
+  Request Network is a decentralized network for payment requests. Sort of Paypal 2.0
+
+Returnbase
+  http://returnbase.com
+  We solve returns for retailers.
+
+REZI
+  https://www.rentrezi.com
+  OpenDoor for leases
+
+Riley
+  https://getrileynow.com
+  Lead qualification as a service.
+
+Rippling
+  http://rippling.com/
+  Throw away your new hire checklist
+
+Sandbox
+  http://www.sandboxbanking.com
+  Sandbox is an app store for banks. It helps them integrate and deploy software from fintech startups.
+
+Scaphold.io
+  https://scaphold.io
+  The Universal API
+
+ScopeAI
+  https://www.getscopeai.com
+  Automatically extract valuable insights from customer service conversations using AI
+
+Scribe
+  http://tryscribe.com/
+  Scribe is an AI based Sales Development Representative that you can hire in 10 minutes. Scribe automates an SDR's job, from finding leads all the way up till scheduling calls over email.
+
+ServX
+  http://servx.in
+  ServX is India's premier mobile app for auto repairs. We connect drivers with vetted local garages, with high quality service and spare parts.
+
+Shipamax
+  http://shipamax.com
+  Shipamax is on a mission to fix the ship booking experience.
+
+Simple Habit
+  https://www.simplehabit.com/
+  Simple Habit is the Netflix of meditation. The company has the world's largest curated library of 5 minute meditations, designed for different situations and moods.
+
+Sinovia Technologies
+  http://www.sinoviatech.com
+  Flexible printed OLED displays.
+
+Smart Alto
+  http://www.smartalto.com
+  Messaging robot that helps real estate agents respond to leads.
+
+Snappr
+  https://www.snappr.co
+  Snappr lets you instantly book a pre-vetted photographer at a fixed price, only hours ahead of the shoot time, from $59.
+
+Soomgo
+  https://soomgo.com
+  Soomgo is Thumbtack for Korea/Asia. We are a marketplace that helps local service providers such as movers, piano teachers, and wedding planners find new customers.
+
+Speak
+  http://usespeak.com
+  An AI English tutor that is the best way to become conversationally fluent in English.
+
+Supr Daily
+  http://www.suprdaily.com/
+  Daily milk delivery service in India
+
+Sycamore
+  https://www.mysycamore.com/
+  Marketplace for companies to add a delivery driver in 5 minutes.
+
+Symple
+  http://www.getsymple.com
+  Symple is Venmo for B2B payments. We make it easy to pay your vendors, get paid by your customers, and manage the invoice workflow end-to-end.
+
+Terark
+  http://www.terark.com
+  Fastest Storage Engine with the Best Compression, we enables direct search on highly compressed data, making databases 200X faster random read with 10X smaller storage,resulting in larger scalability with lower cost for big data/cloud applications
+
+Tetra
+  https://asktetra.com
+  AI notetaker for phone calls
+
+The Centre for Effective Altruism
+  https://app.effectivealtruism.org/funds
+  We're your non-profit portfolio managers. We make giving to high-impact charities as easy as investing with Vanguard. We're building a community of donors who put outcomes first and give with the head as well as the heart.
+
+Token Transit
+  http://www.tokentransit.com
+  A mobile app to pay for public transportation. We sell a mobile ticketing platform for transit agencies.
+
+Tolemi
+  http://www.tolemi.com
+  Tolemi is Palantir for city governments.
+
+Trade
+  http://www.tradeghana.co
+  We're building Africa's Commodity Exchange.
+
+Tress
+  https://www.tressapp.co
+  Tress is a social community for black women's hairstyles. We are building a social community for black women to discover hairstyle inspiration, find stylists, buy products and discuss their hair needs with an engaged community.
+
+Upcall
+  http://www.upcall.com
+  Upcall provides outbound call professionals on-demand, through its communication platform & API, helping customers fuel their sales pipeline and engage with existing users in minutes.
+
+UpKeep Maintenance Management
+  http://www.onupkeep.com/
+  We make beautiful, easy to use mobile software for maintenance teams
+
+Vinsight
+  https://www.vinsight.co/
+  We are building the world's real-time source of commodities supply through yield forecasts on crops.
+
+Vize Software
+  http://www.vize.io
+  Vize is an agile data experimentation platform. It helps analysts prepare, discover, and analyze data on-the-fly without coding, and gives real-time visual feedback on every action.
+
+VoiceOps
+  https://voiceops.com
+  VoiceOps helps sales managers optimize their team's customer calls.
+
+volans-i
+  http://www.volans-i.com/
+  B2B on-demand delivery service for time-critical shipments using high-speed long-range drones.
+
+Volt Health
+  https://www.volthealth.com
+  Volt Health is developing medical devices that deliver electrical stimulation to the muscles of the body to treat disease, starting with urinary incontinence.
+
+Voodoo Manufacturing
+  http://www.voodoomfg.com
+  AWS for manufacturing. Our robotic 3D printing factory can make 1-10k plastic parts in less than 2 weeks, at injection molding prices.
+
+WaystoCap
+  https://waystocap.com
+  We are Alibaba of Africa. We are building a marketplace for African businesses to buy and sell products giving SMEs access to commerce.
+
+Wifi Dabba
+  http://wifidabba.com
+  Building largest and affordable wireless ISP in India.
+
+Wifi.com.ng
+  http://wifi.com.ng
+  Comcast for Africa
+
+Wright Electric
+  http://www.weflywright.com
+  Boeing for electric planes
+
+XIX.ai
+  http://xix.ai
+  XIX uses AI to make your phone predict what you want before you even ask
+
+Zestful
+  https://zestful.com/
+  Find and book awesome group activities for your team.

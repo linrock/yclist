@@ -1,0 +1,233 @@
+AgileDiagnosis
+  http://www.agilediagnosis.com
+  The central place for clinical guidelines, providing clinicians with access to expertise and information in a format they can apply in their practice
+
+Aisle50
+  http://www.aisle50.com
+  Aisle50 is the first group-buying outlet for groceries, a $2 trillion business. The best way to save on your groceries.
+  status: dead
+
+B2Brev
+  http://b2brev.com
+  We'll help you make smart and easy decisions on products and services based on honest reviews, from one business to another
+  status: dead
+
+Can't Wait
+  http://cantwa.it
+  Be the first to hear about movies that you will love!
+  status: dead
+
+Citus Data
+  http://www.citusdata.com
+  CitusDB is a distributed database that lets you run SQL queries over very large data sets. Designed for analytical queries, CitusDB enables real-time responsiveness.
+
+Codecademy
+  http://www.codecademy.com
+  Codecademy is a web-based programming tutorial designed to teach JavaScript, HTML, CSS, JQuery and Python
+
+Compose
+  https://www.compose.com
+  Database-as-a-Service for hosting and managing MongoDB instances
+  status: exited
+  exit: Acquired by IBM in July 2015.
+  note: Formerly MongoHQ
+
+DebtEye
+  We are an automated credit counseling solution to help customers get out of debt, a little like a “turbo tax” for those who need debt relief.
+  status: dead
+
+DoubleRecall
+  http://www.doublerecall.com
+  DoubleRecall is a recall based advertising platform and monetization solution for online media and mobile.
+
+EveryMe
+  http://everyme.com
+  We believe most stories are meant to be shared with your family and best friends, not 500 strangers. Everyme lets you choose who to share with and how.
+  status: dead
+
+Firebase
+  http://www.firebase.com
+  A scalable real-time backend for your web app. Build apps really fast without the hassle of managing servers.
+  status: exited
+  exit: Acquired by Google in Oct 2014.
+
+FreshPlum
+  http://www.freshplum.com
+  Freshplum's goal is to bring the decision-making power of data science to companies who sell goods and services electronically.
+  status: dead
+
+Glassmap
+  http://www.glassmap.com
+  Glassmap is a simple, beautiful way to show your friends where you are and what you are doing.
+  status: exited
+  exit: Acquired by Groupon in Jan 2013.
+
+GoCardless
+  https://gocardless.com
+  GoCardless is a UK-based service that allows smaller merchants to easily set up interbank transfers for customers.
+
+Habit Labs
+  http://habitlabs.com
+  Habit Labs aims to turn leading a healthier life into a game.
+  status: dead
+
+Interstate
+  http://interstateapp.com
+  The future of open project management. Keep users away from competitors by keeping them in the loop with your product's development.
+  status: dead
+
+InterviewStreet
+  http://interviewstreet.com
+  Interviewstreet helps you to create customized programming tests and evaluate candidates based on their programming skills before proceeding for an interview
+
+Kicksend
+  http://kicksend.com
+  Kicksend allows friends and family to easily share files in real-time on the web, mobile, and desktop.
+  status: dead
+
+Launchpad Toys
+  http://launchpadtoys.com
+  We're creating digital toys and tools that empower kids to create, learn & share their ideas through play.
+  status: exited
+  exit: Acquired by Google in 2015.
+
+Leaky
+  http://www.leaky.com
+  Leaky helps consumers make better decisions about insurance.
+  status: dead
+
+MarketBrief
+  http://marketbrief.com
+  The latest SEC Filings, Press Releases, Patents, and Trademarks for 700000+ companies and entities.
+  status: dead
+
+Meteor
+  http://www.meteor.com
+  Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you're an expert developer or just getting started.
+
+MixRank
+  http://mixrank.com
+  MixRank is a spy tool for contextual and display ads.
+
+MobileWorks
+  http://www.mobileworks.com
+  MobileWorks is a crowdsourcing platform for businesses and developers that is more accurate, faster and easier to use than existing solutions.
+
+Munch On Me
+  http://www.munchonme.com
+  Munch On Me is a food discovery portal that connects people with great food at great prices in local communities.
+  status: exited
+  exit: Acquired by CollegeBudget in May 2012.
+
+Opez
+  http://www.opez.com
+  The best people around. Who are the best trainers, stylists, etc. around me?
+
+PageLever
+  http://pagelever.com
+  PageLever is the leading analytics platform for measuring your brand's presence on Facebook.
+
+Paperlinks
+  http://www.paperlinks.com
+  QR codes made easy. Paperlinks is the premier platform for generating QR codes for businesses.
+  status: dead
+
+Parse
+  http://www.parse.com
+  Cloud services for mobile developers. Parse lets you focus on creating unique & engaging apps. We take care of the rest
+  status: exited
+  exit: Acquired by Facebook for $85 MM in 2013.
+  note: http://blog.parse.com/announcements/the-future-of-parse/
+
+PicPlum
+  http://www.picplum.com
+  Share Your Best Moments. Send photo prints to loved ones in seconds.
+  status: dead
+
+Proxino
+  http://www.proxino.com
+  Proxino is a cloud platform for monitoring and debugging client-side JavaScript.
+  status: dead
+
+Quartzy
+  http://www.quartzy.com
+  Quartzy is an online suite of lab management tools for the academic life science community.
+
+Rentobo
+  http://www.rentobo.com
+  Rentobo is a new tool built for landlords, managers, and agents of all sizes to simplify the process of finding and signing a new tenant for your rental property.
+  status: exited
+  exit: Acquired by Gusto in May 2016.
+
+Science Exchange
+  http://scienceexchange.com
+  An online marketplace for scientific experiments. The easiest way to get experiments conducted by researchers in top core facilities and institutions
+
+Segment
+  https://segment.com
+  The Segment API controls other analytics tools, allowing developers to integrate one single API in place of many.
+
+SellStage
+  http://www.sellstage.com
+  SellStage is SaaS for online retailers to make communicating and selling via video easy and affordable.
+
+Siasto
+  http://siasto.com
+  Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox.
+  status: dead
+
+Sift Science
+  http://siftscience.com
+  The world's most advanced fraud prevention platform
+
+Snapjoy
+  http://snapjoy.com
+  Snapjoy is an online photo library that imports your photos from anywhere and organizes them into meaningful memories of who, what, when, & where.
+  status: exited
+  exit: Acquired by Dropbox in 2012.
+
+Streak.com
+  https://www.streak.com
+  CRM integrated entirely within your Gmail inbox
+
+Stypi
+  http://www.stypi.com
+  Stypi is a collaborative real-time text editor similar to Etherpad.
+  status: exited
+  exit: Acquired by Salesforce in 2012.
+
+Tagstand
+  http://www.tagstand.com
+  Tagstand ships NFC stickers and a platform to manage them.
+
+TapEngage
+  http://tapengage.com
+  You need a tablet strategy. We can help.
+  status: exited
+  exit: Acquired by Dropbox in 2012.
+
+Verbling
+  http://verbling.com
+  Verbling provides users with an innovative way to learn new languages by utilizing video chat technology.
+
+Vidyard
+  http://vidyard.com
+  An online video platform for businesses. Vidyard hosts your videos, analyzes their effectiveness, and transforms them into powerful marketing tools
+
+Vimessa
+  http://vimessa.com
+  Vimessa allows you to send free video messages to your friends anywhere in the world, even if they do not have an iPhone.
+
+Yardsale
+  https://www.getyardsale.com
+  Yardsale, a mobile app to help folks sell goods to local buyers.
+  status: dead
+
+Zenbox
+  http://www.zenboxapp.com
+  Zenbox is a browser extension that connects all of your SaaS services.
+  status: dead
+
+Zigfu
+  http://zigfu.com
+  Zigfu is the easiest way to make and play Kinect apps. Download the plugin, hook up your sensor, and enjoy the future now!

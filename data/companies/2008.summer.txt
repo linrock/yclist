@@ -1,0 +1,93 @@
+Anyvite
+  http://www.anyvite.com
+  Anyvite is a free site dedicated to event invitation creation and group organization.
+
+AwesomeHighlighter
+  A company that provides a tool that enables you to go to a website and highlight information to save for later or share with your friends
+  status: dead
+
+Backtype
+  http://www.backtype.com
+  BackType is a marketing intelligence platform that helps brands and agencies understand the business impact of social media.
+  status: exited
+
+CO2Stats
+  http://co2stats.com
+  Helps website owners understand the electricity usage and carbon emissions associated with site usage, then helps them manage their carbon footprint
+
+ContestMachine
+  http://www.contestmachine.com
+  ContestMachine is a web service that makes running promotions from any website easy.
+
+Frogmetrics
+  http://frogmetrics.com
+  Touchscreen platforms for effortless data collection.
+
+Ididwork
+  http://www.ididwork.com
+  ididwork is an online tool that allows employees to keep track of the work they do over time.
+
+Meetcast
+  http://www.meetcast.com
+  Browser-based software that enables real time interaction, including sharing documents and images, screen sharing, etc.
+
+People and Pages
+  A service similar to Google Groups, allowing group organizers to manage email lists and publish to the web in one place
+  status: dead
+
+Picwing
+  http://www.picwing.com
+  Picwing is a photo sharing platform that enables users to share their photos through a variety of sources.
+  status: exited
+
+PollEverywhere
+  http://polleverywhere.com
+  The best way to create stylish real-time experiences for events using mobile devices.
+
+PopCuts
+  Popcuts is a unique online music store. Buy music. Make money.
+  status: dead
+
+Posterous
+  https://posterous.com
+  Posterous was focused on making blogging simple - as simple as sending an email.
+  status: exited
+
+Precognate
+  status: dead
+
+Scoopler
+  http://www.justspotted.com
+  The artist-formerly-known-as Scoopler is a real-time search engine.
+
+Slinkset
+  http://slinkset.com
+  Slinkset is a white label social news platform that allows anyone to start a social news site and integrate it into their own website.
+  status: exited
+
+Snipd
+  Grab pieces of enjoyable content from any page, save them online, and share without having to copy/paste using a simple bookmarklet.
+  status: dead
+
+Socialbrowse
+  SocialBrowse is a Firefox extension for sharing links.
+  status: dead
+
+Startuply
+  http://www.startuply.com
+  Startup companies. Startup jobs. Jobs at the world's best angel- and venture-backed web, media, and technology companies.
+
+TicketStumbler
+  TicketStumbler is a secondary ticket market search engine and comparison website.
+  status: dead
+
+UrbanTakeover
+  status: dead
+
+Vidly / Fliggo
+  Vidly, formerly known as TwitVid (or Twitvid.io), wants to be the easiest way to share video on the web.
+  status: dead
+
+Youlicit
+  A web content recommendation engine that leverages the wisdom of the crowds to return the most recommended sites related to a website or topic
+  status: dead

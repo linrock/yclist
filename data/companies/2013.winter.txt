@@ -1,0 +1,151 @@
+Airware
+  http://www.airware.com
+  Airware specializes in the development of autopilots for unmanned aircraft systems.
+
+Beatdeck
+  https://www.beatdeck.com
+  Free, powerful social metrics combined with effective campaign feedback.
+
+Bitnami
+  http://bitnami.com
+  The App Store for server software. Run any app on any platform.
+
+BuildZoom
+  http://www.buildzoom.com
+  BuildZoom is your one-stop shop for getting a house built, remodeled or repaired.
+
+CircuitLab
+  http://circuitlab.com
+  We're making it easier for engineers, students, and hobbyists to design, analyze, build, and share circuits.
+
+Coin
+  https://onlycoin.com
+  Coin is a secure, connected device that can hold and behave like the cards you already carry
+
+CrowdMed
+  http://www.crowdmed.com
+  CrowdMed is revolutionizing healthcare by harnessing ‘the wisdom of crowds’ to help solve even the world’s most difficult medical cases quickly and accurately online.
+
+Errplane
+  http://errplane.com
+  Monitoring, error reporting, and metrics for all your applications.
+  status: dead
+
+Experiment
+  https://experiment.com
+  Experiment is a crowdfunding platform for science and academic research.
+
+Fivetran
+  http://fivetran.com
+  Spreadsheets for big data.
+
+FlightCar
+  http://flightcar.com
+  FlightCar lets people parking at the airport rent their vehicles out to other travelers. Never pay for airport parking again.
+  status: dead
+
+Goldbely
+  http://www.goldbely.com
+  Our vision is an online marketplace that connects curious eaters with America's best gourmet food purveyors.
+
+Heap Analytics
+  https://heapanalytics.com
+  Heap automatically captures every user action in your web app and lets you measure it all. Clicks, form submissions, page views, and more.
+
+Kalibrr
+  http://kalibrr.com/
+  Kalibrr matches people to jobs on the basis of interests, experience and skills and we operate talent marketplaces in Southeast Asia.
+
+Lawdingo
+  http://www.lawdingo.com
+  Talk to a lawyer online. Get the legal advice you need, hassle- and commitment-free.
+
+Lollipuff
+  http://www.lollipuff.com
+  Lollipuff is the premier online auction site for high-end designer apparel and accessories.
+
+Medisas
+  http://www.medisas.com
+  Great healthcare, powered by great software.
+
+Meldium
+  http://www.meldium.com
+  Meldium automates away the tedious, error-prone, and insecure parts of account management so you can do more work with less IT.
+
+Myo
+  https://getmyo.com
+  The MYO armband lets you use the electrical activity in your muscles to wirelessly control your computer, phone, and other favorite digital technologies.
+  status: dead
+
+Padlet
+  http://padlet.com
+  An easy way to create and collaborate, where people can put any content anywhere on the page
+
+PayTango
+  http://www.paytango.com
+  PayTango links the cards in your wallet to your fingerprints.
+
+Posmetrics
+  http://www.posmetrics.com
+  Posmetrics provides iPad-based customer feedback surveys that are mounted right at the point of purchase.
+
+Prizeo
+  http://www.prizeo.com
+  A fundraising platform enabling celebrities to use their fan bases to raise money and awareness for their chosen causes.
+
+Screenhero
+  http://www.screenhero.com
+  Collaborative screen sharing. You each get your own mouse, and you're both always in control.
+
+Semantics3
+  http://www.semantics3.com
+  Curated database of products and prices. 50 million distinct prices from 20 million products, refreshed constantly.
+
+SimplyInsured
+  http://www.simplyinsured.com
+  Simple health insurance for small businesses.
+
+Strikingly
+  http://www.strikingly.com
+  Gorgeous, mobile-optimized sites in minutes.
+
+StyleUp
+  http://www.thestyleup.com
+  Weather-appropriate fashion advice tailored to your life and style, every day.
+
+SwapBox
+  http://www.swapbox.com
+  With Swapbox you no longer have to worry about missing deliveries. Use your Swapbox shipping address and your packages will be waiting for you at our nearest location.
+
+Swish
+  http://www.swishme.com
+  Simple, secure mobile payments using your phone
+
+Teespring
+  http://teespring.com
+  Create and sell custom t-shirts with zero upfront costs.
+
+Terascore
+  https://www.terascore.com
+  Set up exams, tests and assessments with ease. Get student answers securely. Get them graded instantly.
+  status: dead
+
+Watsi
+  http://watsi.org
+  Watsi is an online peer-to-peer crowdfunding platform that allows users to fund life-changing medical treatments for underserved people in developing countries.
+
+WeFunder
+  https://wefunder.com
+  We aim to give everyone - regardless of wealth - the opportunity to invest in startups.
+
+Wevorce
+  https://www.wevorce.com
+  Wevorce's divorce services ensure kids come first, costs remain affordable and everyone stays out of court.
+
+Zaranga
+  http://www.zaranga.com
+  Find a professionally managed vacation rental.
+
+Zenefits
+  http://www.zenefits.com
+  Zenefits runs your benefits, so you can run your business. Get affordable benefits for your company in minutes. Then set and forget them.

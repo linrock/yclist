@@ -1,0 +1,57 @@
+Auctomatic
+  http://auctomatic.com
+  An auction and marketplace management system for individual sellers on sites like Ebay and Amazon
+  status: exited
+  exit: Acquired by Live Current Media in 2008.
+
+Buxfer
+  http://www.buxfer.com
+  Buxfer is the next-generation personal finance solution, taking money management to the web
+
+Heysan
+  Heysan was a free mobile messaging and community
+  status: exited
+  exit: Acquired by Good Technology in May 2009.
+
+Octopart
+  https://octopart.com
+  A search engine for electronic parts
+
+Parakey
+  Parakey was a Web-based computer user interface
+  status: exited
+  exit: Acquired by Facebook in July 2007.
+
+SocialMoth
+  http://socialmoth.com
+  Socialmoth is a community to post your thoughts anonymously
+  status: dead
+  note: https://www.crunchbase.com/organization/socialmoth#/entity
+
+Tsumobi
+  A J2ME compatible programming language to download mobile apps for Tsumobi-enabled sites
+
+View3
+  status: dead
+
+VirtualMin
+  http://www.virtualmin.com
+  A powerful and flexible web hosting control panel for Linux and BSD systems
+
+Weebly
+  http://www.weebly.com
+  Weebly is an AJAX website creator that allows you to create pages with template skins and content widgets
+
+Whitenoise Networks
+  Whitenoise is like a social network for the music industry
+  status: dead
+
+Writewith
+  A collaborative writing web app, enabling you to easily write, edit, and publish a document with a group
+  status: dead
+
+Zenter
+  Zenter provided software for creating online slide presentations
+  status: exited
+  exit: Acquired by Google in June 2007.
+  note: https://techcrunch.com/2007/06/19/google-acquires-zenter-to-fill-out-coming-powerpoint-application/

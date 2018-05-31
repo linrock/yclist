@@ -1,0 +1,39 @@
+ClickFacts
+  ClickFacts is a Malware Software Solutions company for buyers and sellers of online media.
+  note: http://clickfacts.com has no DNS entry
+
+Infogami
+  Infogami is a wiki application framework built on web.py
+  status: exited
+  exit: Merged with Reddit.
+
+Kiko
+  http://kiko.com
+  Kiko was a web calendar for anyone who wants to keep and share a calendar online.
+  status: exited
+  exit: Sold for $258k on eBay.
+
+Loopt
+  http://www.loopt.com
+  Loopt is a social service that connects people to their community
+  status: exited
+  exit: Acquired by Green Dot for $43.4MM.
+
+Memamp
+  A better desktop search solution
+  status: dead
+
+Reddit
+  http://reddit.com
+  A social news website that displays news based on your preferences and what the community likes
+  status: exited
+  exit: Acquired by Conde Nast in 2006.
+
+Simmery
+  status: dead
+
+TextPayMe
+  http://www.textpayme.com
+  An SMS payment service that lets you send money to other people using cell phone text messaging
+  status: exited
+  exit: Acquired by Amazon for ~$3MM.

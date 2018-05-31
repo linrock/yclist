@@ -1,0 +1,559 @@
+Able Health
+  http://ablehealth.co
+  Able Health gets doctors paid more for higher quality care
+  note: vertical: B2B
+
+Acre Designs
+  http://www.acredesigns.com
+  We offer a complete package that makes it simple to build beautiful, zero energy homes.
+
+AlphaFlow
+  http://www.alphaflow.com
+  AlphaFlow makes investing in real estate as easy as adding stocks to your portfolio. 100% passive with unparalleled diversification
+  note: vertical: Fintech
+
+AmberBox
+  http://amberbox.com
+  Active shooter detection and self monitoring fire alarm systems - the ultimate protection for your business
+  note: vertical: Hardware
+
+Birdly
+  http://www.getbirdly.com
+  We let you access your software data (from Salesforce, Zendesk, Intercom, etc) through Slack
+  note: vertical: B2B
+
+Bonsai
+  https://www.hellobonsai.com
+  Global operating system for freelance labor
+  note: vertical: B2B
+
+Boom
+  http://boom.aero
+  Supersonic passenger airplanes you can afford to fly. Our subscale prototype will fly in late 2017
+  note: vertical: Hardware
+
+CareSkore
+  http://www.careskore.com
+  Predictive patient relation management for hospitals, health systems, IDNs and health plans
+  note: vertical: Enterprise
+
+Castle
+  http://entercastle.com
+  Castle manages rental homes for landlords using automation and on-demand labor
+  note: vertical: B2B
+
+Castle.io
+  https://castle.io
+  Castle analyzes user behavior to stop hackers
+  note: vertical: B2B
+
+Chatfuel
+  http://chatfuel.com
+  Platform to easily create chatbots to engage with audiences on messengers
+  note: vertical: Consumer
+
+Chillabit
+  http://justchillabit.com
+  Chillabit is a live feed of funny and relatable student stories that capture student life
+  note: vertical: Consumer
+
+Compgun
+  http://compgun.com
+  Sales commission software that grows revenue
+  note: vertical: B2B
+
+ConstructVR
+  https://www.constructvr.io
+  The simplest way to test, manage, and deploy VR/AR apps at scale
+  note: vertical: Developer Tools
+
+Copia
+  http://www.gocopia.com
+  COPIA easily connects businesses with surplus food to local nonprofits in need
+  note: vertical: B2B
+
+Deako
+  https://www.deako.com
+  We make beautiful connected light switches that allow you to control any light in your home from any switch or your mobile phone
+  note: vertical: B2B
+
+Deepgram
+  https://www.deepgram.com
+  Speech search engine and recorded call analytics for business
+  note: vertical: B2B
+
+DevColor
+  http://www.devcolor.org
+  We give Black software engineers the support they need to enter and advance in the tech industry
+  note: vertical: Developer Tools
+
+DoseDr
+  https://www.dosedr.com
+  Helping diabetes patients use the correct amount of insulin, preventing diabetes complications and hospitalizations
+  note: vertical: Consumer
+
+Drive Motors
+  http://drivemotors.com
+  Online checkout for car dealerships
+  note: vertical: B2B
+
+Elucify
+  https://getelucify.com
+  Elucify is a data service that provides free sales leads for startups/professionals
+  note: vertical: B2B
+
+Emburse
+  https://www.emburse.com
+  Emburse allows businesses to issue virtual or physical debit cards to employees or contractors
+  note: vertical: B2B
+
+Enflux
+  http://enfluxmobile.com
+  Motion capture clothing that provides full immersion for VR/AR
+  note: vertical: Hardware
+
+flexReceipts
+  http://www.flexreceipts.com
+  Smart digital receipts for physical stores to help retailers engage customers and increase sales
+  note: vertical: B2B
+
+Focal Systems
+  http://www.focal.systems
+  A deep learning company building the OS for Brick & Mortar Retail
+  note: vertical: Hardware
+
+Function of Beauty
+  http://www.functionofbeauty.com
+  Customized formulations of shampoo and conditioners tailored to individual hair goals and needs
+  note: vertical: Hardware
+
+Gecko Robotics
+  https://www.geckorobotics.com
+  We develop robots for industrial inspections
+  note: vertical: Hardware
+
+Georgette Packaging
+  http://www.georgettepackaging.com
+  Georgette Packaging powers the relationship between small businesses and packaging manufacturers
+  note: vertical: Hardware
+
+GetAccept
+  https://www.getaccept.com
+  GetAccept - Reinventing the sales proposal and eSigning workflow to help salespeople close more deals
+  note: vertical: B2B
+
+Gigwell
+  http://gigwell.com
+  Gigwell streamlines the booking process between entertainers (performers, DJs and public speakers) and entertainment venues
+  note: vertical: B2B
+
+GitPrime
+  https://gitprime.com
+  Productivity analytics for software teams
+  note: vertical: B2B
+
+GoLorry
+  http://www.golorry.com
+  New age of logistics
+  note: vertical: B2B
+
+Goodybag
+  http://goodybag.com
+  An online tool for companies to order food from restaurants and caterers
+  note: vertical: Enterprise
+
+Hingeto
+  https://www.hingeto.com
+  We build crowdfunding sites that lets clothing brands create and sell products without the risk of inventory
+  note: vertical: B2B
+
+HistoWiz
+  http://histowiz.com
+  Accelerating Histopathology for Cancer Research
+  note: vertical: Hardware
+
+Hykso
+  http://www.hykso.com
+  Hykso builds wrist sensors for Boxing and Martial Arts that recognize which type of punches are thrown and calculate their speed
+  note: vertical: Consumer
+
+Index
+  http://www.index.io
+  Index gets you warm introductions from your colleagues. It marries public information on people with email data on relationships
+  note: vertical: B2B
+
+InnoVein
+  http://Innoveinmedical.com
+  We cure intractable leg wounds with a prosthetic valve for veins
+  note: vertical: Hardware
+
+Instabug
+  https://instabug.com
+  In-app conversations and bug reporting for mobile apps. We help squash bugs in beta apps and engage users in production apps
+  note: vertical: Developer Tools
+
+Iron Ox
+  http://www.ironox.com
+  Robotic greenhouses for cheaper, sustainable farming
+  note: vertical: Hardware
+
+iSono Health
+  http://www.isonohealth.com
+  At-home ultrasound imaging platform for early breast cancer detection
+  note: vertical: Hardware
+
+Kip Health
+  http://kiphealth.com
+  Therapy the way it should be - high quality in-person therapy sessions paired with digital support
+  note: vertical: B2B
+
+Kisan Network
+  http://www.kisannetwork.com
+  Online marketplace for Indian agriculture
+  note: vertical: Marketplace
+
+Konsus
+  http://konsus.com
+  On-demand freelancers for business. Email us office tasks, and we assign pre-vetted freelancers based on skill and availability
+  note: vertical: B2B
+
+Landed
+  http://www.landed.com
+  Landed makes buying a home more affordable and less risky by investing alongside you when you make a down payment
+  note: vertical: Consumer
+
+Lattice
+  http://latticehq.com
+  Modern performance management software. Goal management, weekly check-ins, and 360 performance reviews
+  note: vertical: B2B
+
+LendEDU
+  https://lendedu.com
+  LendEDU is a marketplace for student loans and student loan refinancing
+  note: vertical: Consumer
+
+Luminist
+  http://luministlabs.com
+  Data-driven diagnostic platform for early-stage cancer screening
+  note: vertical: Biomedical
+
+Lygos
+  http://www.lygos.com
+  Lygos engineers yeast to convert sugar into high-value industrial chemicals
+  note: vertical: Biomedical
+
+Lynks
+  https://www.lynks.com
+  Lynks is an e-commerce company that makes high demand products accessible to people in developing countries
+  note: vertical: Consumer
+
+Magic Instruments
+  http://www.magicinstruments.com
+  Easy-to-play musical instruments through which the user can play music without formal knowledge in music
+
+MagicBus
+  http://www.magicbus.io
+  We transport commuters between cities and suburbs. We create new bus routes every day based on where people want to go
+  note: vertical: Consumer
+
+MailTime
+  http://mailtime.com
+  MailTime is an open and mobile messenger built with email technology
+  note: vertical: Consumer
+
+Mason America
+  http://www.bymason.com
+  Infrastructure for mobile deployment. Build your own Android device and OS without a hardware team or modifying source code
+  note: vertical: B2B
+
+Message.io
+  http://message.io
+  The universal chatbot platform
+  note: vertical: B2B
+
+Meter Feeder
+  http://www.meterfeeder.com
+  Meter Feeder enables local government to accept credit card payment, for parking, without upgrading their infrastructure
+  note: vertical: Enterprise
+
+Mindori
+  http://www.mindori.com
+  Mindori builds white-label voice search for e-commerce apps
+  note: vertical: Enterprise
+
+MineralSoft
+  https://mineralsoft.com
+  Data management platform for oil & gas assets
+  note: vertical: Fintech
+
+mRelief
+  https://www.mrelief.com
+  mRelief has built an easy-to-use platform for low-income Americans to find out if they qualify for important social services
+  note: vertical: B2B
+
+msg.ai
+  http://msg.ai
+  AI for conversational commerce. Fortune 500 brands use msg.ai deep learning platform to build and manage messaging bots
+  note: vertical: B2B
+
+Mux
+  http://mux.com
+  Video analytics & infrastructure for developers
+  note: vertical: B2B
+
+NetBeez
+  https://netbeez.net
+  Detect network problems before users do
+  note: vertical: Enterprise
+
+Nova
+  http://www.nova.ai
+  Nova helps salespeople write highly personalized, 1-1 emails at scale
+  note: vertical: B2B
+
+NURX
+  http://www.nurx.co
+  Nurx is the fastest way to get oral contraceptives and Truvada for PrEP
+  note: vertical: Consumer
+
+OpenTrons
+  http://opentrons.com
+  We are building the PC of life-science labs - a robot connected to Mix.Bio, where scientists can download experiments to run
+  note: vertical: Hardware
+
+OSVehicle
+  https://www.osvehicle.com
+  OSVehicle is a B2B company that provides a ready-to-use hardware platform that lets companies produce complete electric vehicles
+  note: vertical: Hardware
+
+Outschool
+  http://outschool.com
+  Community marketplace of classes for kids
+  note: vertical: Consumer
+
+Pave
+  https://paveiq.com
+  Pave analyzes Google Analytics + marketing data and sends you reports on what's working, what's not, and how to improve
+  note: vertical: B2B
+
+Paystack
+  https://www.paystack.co
+  Modern payments infrastructure for Africa
+  note: vertical: Fintech
+
+Perlara
+  http://perlara.com
+  PLab is a drug discovery platform company for 5,000+ rare genetic diseases
+  note: vertical: Biomedical
+
+Petcube
+  http://petcube.com
+  Petcube is on the mission to improve lives of pets and pet owners using technology
+  note: vertical: Consumer
+
+PhysioHealth
+  https://www.physioh.com
+  An enterprise health benefits platform that rewards employees for living healthy and decreases healthcare costs
+  note: vertical: B2B
+
+Pluot Communications
+  https://pluot.co
+  Big-screen video conferencing that's inexpensive, easy to set up, and easy to use
+  note: vertical: B2B
+
+PocketSuite
+  http://www.pocketsuite.io
+  PocketSuite lets any entrepreneur run a local business from their smartphone
+  note: vertical: B2B
+
+Podium
+  https://podium.com
+  Collect and manage real-time online reviews and customer feedback
+  note: vertical: B2B
+
+Poppy
+  http://meetpoppy.com
+  Poppy makes it easy for parents to find high quality childcare with just a text
+  note: vertical: Consumer
+
+Pulpix
+  https://www.pulpix.com
+  Content Discovery Inside Video
+  note: vertical: B2B
+
+QueueHop
+  http://queuehop.com
+  QueueHop is an anti-theft apparel security tag. When a payment is made via mobile, shoppers can unlock the security tag and skip checkout
+  note: vertical: Hardware
+
+Qurasense
+  http://qurasense.com
+  Smart feminine hygiene pad
+  note: Initially from Fellowship 1 in winter 2015
+
+Rappi
+  http://www.rappi.com
+  Rappi delivers in minutes groceries, cash, clothing, burgers and more. Everything in Bogotá and Mexico delivered for under 1 dollar
+  note: vertical: Consumer
+
+Redspread
+  https://redspread.com
+  Version control for software environments
+  status: exited
+  exit: Acquired by CoreOS in Oct 2016.
+  note: vertical: Developer Tools
+
+Restocks
+  https://restocks.io
+  Push notifications for superconsumers. We make buying coveted products easy
+  note: vertical: Consumer
+
+Revl
+  http://revl.com
+  The world’s smartest action camera
+  note: vertical: Consumer
+
+Secful
+  http://www.secful.com
+  SECful secures APIs by detecting and profiling attackers in real-time
+  note: vertical: Enterprise
+
+SendBird
+  https://sendbird.com
+  SendBird is the chat API for mobile apps and websites. We help developers build 1-on-1 messaging and group chat in 5 minutes
+  note: vertical: B2B
+
+Sharethebus
+  http://www.sharethebus.com
+  Book charter buses online
+  note: vertical: B2B
+
+SHRI
+  http://www.sanrights.org
+  Sanitation and Health Rights in India (SHRI) fights alongside communities to end open defecation
+  note: vertical: Hardware
+
+Shypmate
+  http://www.shypmate.com
+  Shypmate enables a fast, reliable and cost effective P2P delivery for overseas shoppers
+  note: vertical: Consumer
+
+Silver
+  http://www.scansilver.com
+  Low cost consumer device for toxin detection
+  note: vertical: Hardware
+
+Skymind
+  http://skymind.io
+  Cloudera for Deep Learning. We build deep learning solutions for fraud detection, image recognition and predictive analytics
+  note: vertical: Enterprise
+
+SOUNDBOKS
+  http://soundboks.com
+  We're creating the loudest battery-driven speaker on the market
+
+Spinal Singularity
+  http://www.spinalsingularity.com
+  Devices to improve the quality of life for people with spinal cord injury and disease
+  note: vertical: Hardware
+
+Stealth Worker
+  https://www.stealthworker.com
+  We are building an marketplace where one can hire cyber security experts by the hour, at affordable rates
+  note: vertical: Marketplace
+
+STILT
+  http://www.stilt.co
+  We provide simple financial services to immigrants. Our first product is a loan for visa holders (F-1, OPT, H-1B, etc)
+  note: vertical: Consumer
+
+Streamup
+  https://streamup.com
+  Streamup is a live streaming community for music. We make it fun and easy to watch, chat with, and support your favorite musicians
+  note: vertical: Consumer
+
+StrongIntro
+  https://strongintro.com
+  StrongIntro helps recruiters turn their entire company into a source for engineering candidates
+  status: dead
+  note: vertical: B2B
+
+Thunkable
+  http://thunkable.com
+  Wordpress / Wix / Squarespace for native mobile apps. Drag, drop and block it to invent your own beautiful app
+  note: vertical: Consumer
+
+Tovala
+  http://www.tovala.com
+  Tovala is a smart oven that sits on your countertop and is paired with a companion meal delivery service
+  note: vertical: Consumer
+
+Toymail
+  http://www.toymail.co
+  Connected toys that enable two-way voice messaging between children and their friends and family
+  note: vertical: Hardware
+
+TRAC
+  https://www.tracchicago.com
+  An end-to-end timing solution for any scale athletic event
+  note: vertical: Hardware
+
+TrendMD
+  https://www.trendmd.com
+  Article recommendation engine for doctors
+  note: vertical: Biomedical
+
+Truebill
+  https://www.truebill.com
+  Truebill allows users to find, track and manage all their subscriptions and recurring payments from one place
+  note: vertical: Consumer
+
+Unima
+  http://www.unima.com.mx
+  Unima created a lab-on-paper technology that diagnoses infectious diseases faster and at a lower cost than available lab tests
+  note: vertical: Hardware
+
+UnnyWorld
+  http://unnyhog.com
+  Video game development company. We are creating unique and revolutionary games
+  note: vertical: Consumer
+
+UpLabs
+  http://www.uplabs.com
+  UpLabs is a place where designers & developers come to share, discover and interact with resources to build sites and apps
+  note: vertical: Marketplace
+
+Varden Labs
+  http://vardenlabs.com
+  Varden Labs is an expert in self-driving technology
+  note: vertical: Hardware
+
+VINEBOX
+  http://www.getvinebox.com
+  Wine by the glass, at home
+  note: vertical: Consumer
+
+Wakie
+  http://www.wakie.com
+  Wake is a voice conversation app. Set a topic and call someone who is interested right away
+  note: vertical: Consumer
+
+WorldCover
+  http://worldcovr.com
+  Funding platform for global insurance, starting with crop insurance in the developing world
+  note: vertical: Consumer
+
+Yardbook
+  https://www.yardbook.com
+  Marketplace & Software Revolutionizing Yard Care
+  note: vertical: B2B
+
+ZenProspect
+  http://www.zenprospect.com
+  Helping B2B teams ramp up outbound sales
+  note: vertical: B2B
+
+Zenysis
+  http://www.zenysis.com
+  For-profit company building powerful data analysis software for developing countries
+  note: vertical: Enterprise

@@ -1,0 +1,255 @@
+Aptible
+  https://www.aptible.com
+  HIPAA Compliance for Healthcare Innovators
+  note: $120,000
+
+Backpack
+  http://backpackbang.com
+  Explore unique products to backpack
+  note: $120,000
+
+Bannerman
+  http://getbannerman.com
+  Better security guards. Anytime. Anywhere.
+  note: $120,000
+
+Bayes Impact
+  http://www.bayesimpact.org
+  We use data science to save lives
+
+Beep
+  http://www.thisisbeep.com
+  Control all your speakers with your phone
+  note: $4,000,000
+
+Bikanta
+  http://bikanta.com
+  Bikanta has developed nanodiamond-based technology that will redefine tomorrow's medical imaging
+  note: $120,000
+
+BillForward
+  http://www.billforward.net/
+  A highly flexible & unified billing platform. Built for high growth & enterprise companies
+
+BitAccess
+  http://www.bitaccess.co
+  The easiest way to buy and sell bitcoin
+
+Carlypso
+  http://www.carlypso.com
+  Buy pre-owned cars 100% risk free with Carlypso
+  note: $1,320,000
+
+Checkr
+  https://checkr.io
+  Automated background screenings and driving records
+  note: $9,120,000
+
+ClearTax
+  http://cleartax.in
+  The easiest way to e-File income tax returns in India
+
+Cognito
+  https://cognitohq.com
+  Frictionless, modern identity verification that starts with just a phone number.
+  note: $2,025,000
+
+Craft Coffee
+  http://craftcoffee.com
+  A better way to buy coffee
+  note: $320,000
+
+Doblet
+  http://doblet.com
+  Doblet is a network of batteries on demand. Stay charged everywhere you go
+  note: $1,420,000
+
+Fixed
+  http://getfixed.me
+  Get the ticket and point dismissed
+  note: $1,850,000
+
+Flynn
+  http://flynn.io
+  Flynn deploys apps, scales apps, and manages databases with best practices right out of the box
+
+Flytenow
+  http://www.flytenow.com
+  Go flying with local pilots
+  note: $25,000
+
+Ginko Bioworks
+  http://ginkgobioworks.com
+  At Ginkgo Bioworks we are expanding the role of biology in our world
+
+Glowing Plant
+  http://www.glowingplant.com
+  Natural lighting without electricity
+  note: $604,000
+
+Greentoe
+  http://www.greentoe.com
+  Name your price & we negotiate for you
+  note: $1,195,000
+
+HauteDay
+  http://hauteday.com
+  Haute Day was created to make shopping more fun! Every day, our community submits their best new fashion finds
+
+Helion Energy
+  http://www.helionenergy.com
+  We are a proven team of entrepreneurs and scientists who are making fusion happen
+  note: $12,114,202
+
+Impraise
+  http://www.impraise.com
+  Continuous feedback between co-workers
+  note: $120,000
+
+Lawn Love
+  http://lawnlove.com
+  The very best lawn care services
+  note: $1,900,000
+
+MTailor
+  http://www.mtailor.com
+  Get measured by your phone in under 30 seconds for the perfect fitting custom shirt
+
+Naytev
+  http://www.naytev.com
+  Naytev identifies viral content before it trends
+  note: $120,000
+
+Neptune.io
+  https://www.neptune.io
+  Remediation as a service for DevOps
+  note: $120,000
+
+Nightingale
+  http://www.nightingaleapp.com
+  Insightful data = meaningful results. Optimize clinical outcomes with data science
+  note: $780,000
+
+One Codex
+  http://onecodex.com
+  One Codex is a data platform for applied microbial genomics
+
+Onename.io
+  http://onename.io
+  Blockchain ID. A better identity
+  note: $1,500,000
+
+Parenthoods
+  http://parenthoods.co
+  Meet local parents like you
+  note: $1,320,000
+
+PersistIQ
+  https://persistiq.com/
+  Smart drip campaigns for outbound sales
+  note: $1,820,000
+
+PicnicHealth
+  https://picnichealth.com
+  Medical records done for you. All your records from all your doctors
+  note: $2,120,000
+
+ProductHunt
+  http://www.producthunt.com
+  Product Hunt is a curation of the best new products, every day
+
+Rigetti Computing
+  http://www.rigetti.com
+  On a mission to build the world's most powerful computer
+  note: $3,000,000
+
+Roomstorm
+  http://roomstorm.com
+  Hotel booking platform tailored to help airlines with accommodating passengers from delayed and cancelled flights. Formerly known as WalkSource.
+  note: $1,100,000
+
+Roost
+  https://goroost.com/
+  Notifications for all. On page and off page. Get set up in minutes for desktop & mobile.
+  note: $710,000
+
+Shift Payments
+  https://shiftpayments.com
+  Shift Payments is changing the way money changes hands
+  note: $120,000
+
+ShipBob
+  http://www.shipbob.com
+  You sell it. We pick-up, package & ship it
+  note: $1,020,000
+
+Shout
+  http://useshout.com
+  Marketplaces for passionate groups. Buy and Sell what you love with your people
+  note: $120,000
+
+Sliced Investing
+  http://www.slicedinvesting.com
+  Sliced provides technology to help financial advisors deploy to alternatives
+  note: $120,000
+
+Theorem
+  http://shoptheorem.com
+  The marketplace for independent fashion
+  status: dead
+  note: $120,000
+
+TicketLabs
+  http://www.ticketlabs.com
+  Enhance your marketing with real fan data
+  note: $120,000
+
+Tiempo
+  http://www.tiempoapp.com
+  We help small businesses manage and pay contractors
+  note: $2,100,000
+
+Tule
+  http://www.tuletechnologies.com
+  Crop water use monitoring. Daily measurements at field scale
+
+uBiome
+  http://ubiome.com
+  Explore your microbiome
+  note: $4,971,193
+
+UPower
+  http://www.upowertech.com
+  The only always-on, emission-free, megawatt-scale atomic generator
+  note: $170,000
+
+Vatler
+  http://www.vatler.com
+  An on-demand valet service in San Francisco
+  status: dead
+
+Vizera Labs
+  http://www.vizeralabs.com
+  Vizera brings an unprecedented shopping experience to retail showrooms
+  note: $120,000
+
+Weave
+  https://weave.in
+  Professional networking to arrange meetings and friendly discussions.
+  status: dead
+  note: $630,000
+
+Zen99
+  https://zen99.co
+  1099 tax help for rideshare drivers, delivery drivers, housekeepers, and more
+  status: dead
+  note: $2,620,000 https://medium.com/@tmzier/zen99-is-closing-its-doors-8-25-169830ec7da8
+
+Zenamins
+  http://zenamins.com
+  Vitamins reinvented. Personalized and designed for you
+
+Zip Phone
+  Zip Phone lets users make secure, WiFi-enabled calls
+  status: exited
+  note: Acquired by Hike - https://techcrunch.com/2015/01/07/hike-zipphone/

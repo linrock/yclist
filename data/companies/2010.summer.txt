@@ -1,0 +1,146 @@
+1000Memories
+  1000memories is the new shoebox for your old photos
+  status: exited
+  exit: Acquired by Ancestry in 2012.
+
+AdGrok
+  AdGrok allows business owners to automate the process of choosing and bidding on keywords on Google AdWords
+  status: exited
+  exit: Acquired by Twitter in 2011.
+
+AeroFS
+  http://www.aerofs.com
+  AeroFS is a program where users are able to manage and store their files and data in a cloud-like platform
+
+AnyList
+  https://www.anylistapp.com
+  The best way to create and share a grocery shopping list and organize your recipes
+
+Brushes
+  http://brushesapp.com
+  Brushes is a painting app designed exclusively for the iPhone, iPod touch, and iPad
+
+Chart.io
+  https://chartio.com
+  Analytics for everyone. A platform for everyone to explore and visualize data
+
+Crowdbooster
+  http://crowdbooster.com
+  An intelligent social media dashboard designed to help businesses effectively grow and manage their presence online
+
+Docker
+  http://www.docker.com
+  A software containerization platform. Formerly dotCloud
+
+E la Carte
+  http://elacarte.com
+  E la Carte develops tablets for restaurant tables so guests can order, pay and play games from their seats
+
+FanVibe
+  A social platform for watching sports and communicating with others who are watching the same game
+  status: exited
+  exit: Acquired by beRecruited in 2011.
+
+FutureAdvisor
+  https://www.futureadvisor.com
+  You already have investment accounts, we help make them smarter
+
+Gantto
+  http://gantto.com
+  Gantto was conceived to fill one obvious gap in our weekly management routine
+  status: exited
+
+GazeHawk
+  http://www.gazehawk.com
+  Eeye tracking services using ordinary webcams
+  status: exited
+  exit: Acquired by Facebook.
+
+GinzaMetrics
+  http://ginzametrics.com
+  Ginzametrics makes enterprise SEO simple and easy to manage
+
+Hipmunk
+  http://www.hipmunk.com
+  Hipmunk is a travel search site that aims to take the agony out of travel planning
+
+I Move You
+  status: dead
+
+Indinero
+  http://indinero.com
+  Accounting, taxes & payroll. One solution. inDinero is your company's accounting department
+
+Koduco
+  Koduco makes iPad games that focus on multiplayer collaboration on the same device
+  status: dead
+
+Leftronic
+  https://www.leftronic.com
+  Leftronic develops a web-based real-time dashboard application for monitoring a company's most important data
+
+MessageParty
+  http://messageparty.com
+  MessageParty is a new kind of mobile blogging service
+  status: dead
+
+OhLife
+  http://ohlife.com
+  Write in private about your life
+  status: dead
+
+Opzi
+  http://www.opzi.com
+  Opzi is creating software to make corporate knowledge accessible
+
+PagerDuty
+  http://www.pagerduty.com
+  PagerDuty is an alarm dispatching service for system administrators and support teams
+
+Rapportive
+  http://rapportive.com
+  Rapportive shows you everything about your contacts right inside your inbox
+  status: exited
+  exit: Acquired by LinkedIn.
+
+ReadyForZero
+  https://www.readyforzero.com
+  ReadyForZero creates online financial software that helps people control and reduce debt
+  status: exited
+  exit: Acquired by Avant in 2015
+
+Simperium
+  http://simplenoteapp.com
+
+Stripe
+  https://stripe.com
+  Stripe is a simple, developer-friendly way to accept payments online
+
+Tapzilla
+  http://tapzilla.com
+  Taking the daily deal model and applying it to discounts on paid mobile apps
+  status: dead
+
+Teevox
+  http://teevox.com
+  Fast stream watching.
+
+The Fridge
+  http://www.frid.ge
+  The Fridge is a platform for lightweight single serving social networks for the functionality of Facebook
+  status: exited
+  exit: Acquired by Google.
+
+The Recurse Center
+  https://www.recurse.com
+  A free, self-directed, educational retreat for people who want to get better at programming. Formerly Hacker School
+  note: https://www.recurse.com/blog/77-hacker-school-is-now-the-recurse-center
+
+Whereoscope
+  http://whereoscope.com
+  Whereoscope is a service designed to help parents keep know where their kids are
+  status: dead
+
+Workflowy
+  http://workflowy.com
+  WorkFlowy is a tool for organizing your brain

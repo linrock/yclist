@@ -1,0 +1,90 @@
+Ambercycle
+  http://www.ambercycleinc.com
+  Converts waste textiles into higher value chemicals
+
+Apify
+  https://www.apify.com
+  Formerly Apifier. The web scraping and automation platform, which enables to turn any website into an API.
+
+Canvas Medical
+  https://canvasmedical.com
+  Canvas is a predictive charting interface designed and built exclusively for primary care
+
+Clearbanc
+  https://clearbanc.com
+  Financial services for self-employed, freelancers, independent contractors, and entrepreneurs
+
+Convrge
+  http://www.convrge.co
+  Hang out with friends in virtual reality
+  status: dead
+
+Cover
+  https://cover.com
+  Get insurance by taking a photo
+
+DNAsimple
+  https://www.dnasimple.org
+  Donate and find DNA samples online
+
+EnsoData
+  http://www.ensodata.io
+  Sleep scoring made easy
+
+finbox.io
+  https://finbox.io
+  Easy to use fundamental investing tools
+
+FlightMate
+  https://flightmate.co
+  Flexible flight querying with automated booking
+  status: dead
+
+HoneyInsured
+  https://honeyinsured.com
+  Health insurance recommendation engine
+
+Jetty Financial
+  http://jettyfinancial.com
+  Virtual assistant to manage finances
+  status: dead
+
+Legion Analytics
+  https://www.legionanalytics.com
+  End-to-end sales platform
+
+NullSpace VR
+  http://nullspacevr.com
+  A haptic feedback suit for VR
+
+Pavlov
+  https://usepavlov.com
+  Connect customers with the right products & services
+
+Pawprint
+  http://www.getpawprint.com
+  All your pet's data in one place
+
+Restocks
+  https://restocks.io
+  Push notifications when sold out products restock
+
+Shypmate
+  http://www.shypmate.com
+  Affordable and fast international peer to peer delivery
+
+Staffjoy
+  https://www.staffjoy.com
+  Better work schedules in less time
+
+StrongIntro
+  https://strongintro.com
+  Recruiting tool and service that 10x’s your employee referrals
+
+Structik
+  https://structik.com
+  Cheaper and faster industrial 3D printing
+
+VQL
+  http://getvql.com
+  The simplest way to see what's in your data

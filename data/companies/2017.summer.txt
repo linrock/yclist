@@ -1,0 +1,482 @@
+10 By 10
+  https://www.10by10.io
+  A marketplace for recruiters to match engineers with jobs
+
+70MillionJobs
+  https://www.70millionjobs.com
+  A recruitment platform for people with criminal records
+
+Advano
+  http://www.advanotech.com
+  Advano's silicon nanoparticles increase the energy density of lithium-ion batteries 30-40% without sacrificing battery life or increasing the battery cost
+
+Airthium
+  http://www.airthium.com
+  We make large scale (1MW+) thermodynamic energy storage systems
+
+AssemblyAI
+  https://www.assemblyai.com
+  API for customizable, affordable speech recognition
+
+Audm
+  https://www.audm.com
+  The subscription service for spoken-word audio content
+
+AutoHub
+  https://www.autohub.io
+  A marketplace for car dealers to buy and sell used cars from each other
+
+BillionToOne
+  https://www.billiontoone.com
+  Prenatal genetic testing for every expecting mother
+
+bxblue
+  http://www.bxblue.com.br
+  A marketplace for people with guaranteed income in Brazil
+
+Caelum Health
+  https://caelumhealth.com
+  Replacing drugs with software. We use behavioral medicine, delivered digitally, to treat diseases where drugs don't work
+
+Cambridge Cancer Genomics
+  http://ccg.ai
+  CCG empowers clinicians to make personalised treatment strategies for cancer patients
+
+CarDash
+  https://www.cardash.com
+  Managed marketplace for automotive services
+
+Carrot Fertility
+  https://www.get-carrot.com
+  Fertility benefits for modern companies
+
+Cashfree
+  https://www.cashfree.com
+  Next-Gen digital payments provider for India
+
+Claire
+  http://www.meetclaire.co
+  Claire is a chatbot for testing consumer products for brands and retailers
+
+CocuSocial
+  https://cocusocial.com
+  Marketplace for local activities
+
+Contract Simply
+  https://www.contractsimply.com
+  Helping banks expedite construction loans
+
+Covetly
+  https://www.covetlyapp.com
+  Covetly gives collectors a better way to buy and sell the things they covet
+
+CureSkin
+  https://cureskin.com
+  AI dermatologist for India
+
+D-ID
+  http://www.d-id.com
+  Protecting faces from being identified by facial recognition technologies
+
+dahmakan
+  https://dahmakan.com
+  A food delivery startup in South-East Asia that produces ready-to-eat meals at scale and bulk-delivers meals
+
+Darmiyan
+  https://www.darmiyan.com
+  Early detection of Alzheimer's disease
+
+Dharma Labs
+  https://dharma.io
+  The Protocol for Borrowing and Lending on Blockchains
+
+disclosures.io
+  https://disclosures.io
+  Helps real estate agents manage, share and review property disclosures
+
+Dropleaf
+  https://dropleaf.io
+  Subscription service for all-you-can-play indie PC games
+
+Elucd
+  http://www.elucd.com
+  Polling through mobile ads to enable governments to make better decisions
+
+Entocycle
+  https://www.entocycle.com
+  Automated factory to produce insect protein for farm animals
+
+Enzyme
+  https://www.enzyme.com
+  Enzyme builds software that helps life science companies with FDA approval and compliance
+
+Escher Reality
+  http://www.escherreality.com
+  The backend for Augmented Reality
+
+Fastpad
+  https://fastpad.com
+  Hiring software for India
+
+Fat Lama
+  https://fatlama.com
+  The first fully insured peer-to-peer rental marketplace with focus on high-end professional equipment
+
+Feather
+  http://rentfeather.com
+  Feather is a modern-day furniture rental company for millennials and businesses
+
+Flock
+  https://www.flocksafety.com
+  Flock makes wireless security systems for neighborhoods
+
+Flowspace
+  https://www.flow.space
+  On-demand warehousing for business
+
+Forever Labs
+  https://foreverlabs.com
+  We bank your stem cells to help you live healthier, longer
+
+FriendSpot
+  https://itunes.apple.com/app/id1161050325
+  FriendSpot is a group messaging app that helps you coordinate with your friends to meet up in the real world
+
+Gameday
+  http://playgameday.com
+  Play fantasy sports with friends on Facebook Messenger
+
+Gamelynx
+  https://gamelynx.gg
+  A spectator-friendly mobile eSport game for hardcore gamers
+
+Goosebump
+  http://m.me/higoosebump
+  Find the best electronic music events in a single message
+
+Gopher
+  https://www.gopher.email
+  Get things done without leaving your inbox
+
+Greo
+  https://greo.com
+  A mobile video app for conversations about current events
+
+Guggy
+  https://guggy.com
+  Guggy is building the messaging app of the future with real-time, NLP-based personalized GIFs
+
+Guilded
+  https://www.guilded.gg
+  Team management for eSports
+
+Gustav
+  https://hellogustav.com
+  The marketplace for staffing agencies
+
+Headstart
+  https://www.headstartapp.com
+  Headstart uses Machine Learning to help companies only hire people that would be a good fit for their culture
+
+HealthWiz
+  http://www.myhealthwiz.com
+  A SaaS platform to lower employers' healthcare costs by helping employees find convenient cost-efficient treatments when they're sick
+
+Helium Health
+  https://heliumhealthcare.com
+  Electronic medical records for Africa's largest hospitals
+
+Helix Nanotechnologies
+  https://www.helixnano.com
+  Using AI to cure genetic disease
+
+HelpWear
+  http://helpwear.ca
+  HelpWear is striving to achieve better at-home healthcare
+
+Honeydue
+  https://www.honeydue.com
+  The simplest way for couples to manage money, together
+
+HotelFlex
+  https://www.hotelflex.io
+  The first fully-flexible hotel booking model that lets you check-in and check-out of your room at anytime you want and pay accordingly
+
+Indivio
+  https://indiv.io
+  Indivio empowers marketers with software automation to easily create, test, and optimize Facebook and Instagram ads with mass-customizable videos
+
+Just Appraised
+  https://www.justappraised.com
+  Just Appraised automates property valuation for local governments. We use machine learning to verify property transactions and provide more accurate valuations
+
+Kestrel Materials
+  http://kestrel-materials.com
+  Kestrel Materials makes temperature-responsive fabrics for bedding and clothes - thin when warm and thick when cool
+
+Lambda School
+  https://lambdaschool.com
+  We train people to be software engineers for free in exchange for a share of their future income
+
+Leon & George
+  https://www.leonandgeorge.com
+  Buying and owning indoor potted plants made easy
+
+Life Bot
+  https://www.asklifebot.com
+  We help you with your daily routines like hearing personalised news, setting reminders or managing calendars
+
+Loop Support
+  https://www.loopsupport.com
+  We do customer support as a service
+
+LotusPay
+  https://www.lotuspay.com
+  Recurring payments solution for businesses in India
+
+Lyrebird
+  https://lyrebird.ai
+  Lyrebird allows you to create a digital voice that sounds like you with only one minute of audio
+
+Manycore.io
+  http://www.manycore.io
+  ManyCore.io speeds up computer programs by spreading them automatically onto several cores
+
+May Mobility
+  https://maymobility.com
+  May Mobility deploys fleets of autonomous vehicles for central business districts, enterprise campuses, and residential communities
+
+Meetingbird
+  https://www.meetingbird.com
+  Automated meeting scheduling for teams
+
+Modern Fertility
+  https://www.modernfertility.com
+  Modern Fertility is an at-home fertility test for women who aren't ready for kids right now but want to check in on where they stand
+
+Modular Science
+  https://www.modularscience.com
+  We're improving farming using robots and science
+
+muzmatch
+  https://muzmatch.com
+  Where 400M single Muslims meet
+
+Mystery Science
+  http://mysteryscience.com
+  We're fixing STEM education by giving elementary teachers a virtual science expert to co-teach the class
+
+Mystro
+  https://www.mystrodriver.com
+  Mystro is an app that makes on-demand drivers 30% more money by automatically accepting the most profitable fares across multiple apps
+
+Net30
+  https://net30.io
+  Online invoicing and payments for construction companies
+
+NextDrop
+  https://nextdrop.co
+  NextDrop is the water marketplace for urban India. We connect water buyers with suppliers
+
+Nimble
+  http://www.hirenimble.com
+  A better applicant tracking system for schools
+
+Oncobox
+  http://oncobox.com
+  Finding the right cancer drug for each patient
+
+OneLocal
+  https://onelocal.com
+  OneLocal is a CRM for local businesses
+
+PAYFAZZ
+  http://www.payfazz.com
+  WeChat Pay for Indonesia
+
+Peergrade
+  https://www.peergrade.io
+  Students grade each others' work to save teachers time and to learn more
+
+Piggy
+  https://piggy.co.in
+  An app for Indians to make investments in mutual funds, manage their investment portfolios, and save for retirement. Vanguard for India
+
+Pilot
+  https://pilot.co
+  Pilot lets companies build teams from our pool of vetted engineering and design talent
+
+Plasticity
+  https://www.plasticity.ai
+  APIs that help developers create human-like natural language interfaces
+
+Polly
+  https://polly.fun
+  Polly is a social polling app for Snapchat and Instagram stories
+
+PreDxion Bio
+  http://www.predxionbio.com
+  Fast blood test to save the lives of ER patients
+
+Prelim
+  https://prelim.com
+  A mobile-first platform that can power in-person and online retail and commercial product originations for financial institutions
+
+Prism IO
+  http://prism.io
+  User research as a service - we help you get feedback from your churned/lost users and target audience
+
+PullRequest
+  http://www.pullrequest.com
+  Code review as a service - combining static tools with on-demand reviewers for code quality
+
+Py
+  https://www.downloadpy.com
+  Py is a mobile app that teaches software engineers new skills and matches them with job opportunities
+
+Pyka
+  https://flypyka.com
+  Pilotless, short takeoff and landing electric airplanes large enough to carry humans. We're starting with autonomous crop dusting
+
+Quilt Data
+  https://quiltdata.com
+  Quilt is creating Docker for data. Large enterprises in banking and clean energy use Quilt to deploy, version, and audit their data
+
+Relationship Hero
+  https://relationshiphero.com
+  Our live experts help solve your problems with family, friends, romantic partners and coworkers. Available 24x7 over chat or phone
+
+Retool
+  https://retool.in
+  Build internal tools dramatically faster
+
+Rev Genomics
+  https://www.revgenomics.com
+  Rev is a biotechnology company creating new strains of cannabis
+
+RideAlong
+  https://getridealong.com
+  We bridge the information gap between police officers and service providers
+
+Roofr
+  https://roofr.com
+  Marketplace for roofing with instant satellite roofing estimates for homeowners
+
+Seed
+  http://seed.co
+  Mobile banking for small business
+
+ShiftDoc
+  https://shiftdoc.com
+  ShiftDoc is an on-demand healthcare staffing marketplace for private practices
+
+Sixty
+  https://usesixty.com
+  Partner program as a service for SaaS companies
+
+Skyways
+  http://skyways.com
+  Creating a new form of air transportation
+
+Slik
+  https://slik.ai
+  Slik enables the long tail to use email outreach
+
+SMB Rate
+  https://smbrate.com
+  An easy way to find small business loans
+
+Solve
+  We save travelers hours by meeting them at their arrival gate, expediting the immigration/customs process, and making sure they're safely off in their vehicle
+
+SourceBeacon
+  https://www.sourcebeacon.com
+  SourceBeacon is an on-demand procurement concierge for sourcing products from China
+
+Sourceress
+  http://www.sourceress.com
+  AI sourcer that scales your recruiting team
+
+Standard Cognition
+  https://www.standardcognition.com
+  AI-powered checkout for retail
+
+Sudden Coffee
+  https://www.suddencoffee.com
+  No-brew coffee - the easiest way to have great coffee
+
+Sunfolding
+  http://www.sunfolding.com
+  Sunfolding builds next generation infrastructure for solar farms
+
+Sunu
+  http://www.sunu.io
+  Sunu develops devices that augments human capacities to empower the disabled
+
+Surematics
+  https://www.surematics.com
+  We help commercial insurance brokers structure complicated deals using blockchain technology
+
+Templarbit
+  https://www.templarbit.com
+  Protecting applications from malicious activity
+
+Thematic
+  http://www.getthematic.com
+  Thematic analyses customer feedback to tell companies how to increase satisfaction and decrease churn
+
+Totemic Labs
+  http://www.totemiclabs.com
+  A hardware device for senior care to allow them to age in place and their loved ones can know they are safe
+
+Tpaga
+  https://www.tpaga.co
+  Mobile wallet for Latin America
+
+Ubiq
+  https://www.goubiq.com
+  Screen-sharing for enterprise conference rooms
+
+UpCodes
+  https://up.codes
+  Online tools to help with construction compliance
+
+Value Voting
+  https://www.valuevoting.com
+  Platform to defeat political extremism through strategic primary voting
+
+Vanido
+  https://vanido.io
+  Vanido is your personal AI music teacher, starting with singing. Available for iOS
+
+VergeSense
+  http://www.vergesense.com
+  AI-Powered building management
+
+VIDA & Co.
+  http://www.shopvida.com
+  Platform for unique products produced on-demand at mass-scale
+
+Warren
+  https://www.warrenpay.com
+  Warren helps your AP/AR team automate sending/receiving payments, find errors, request authorization from supervisors, and streamline your company's cash flow
+
+WheelStreet
+  https://www.wheelstreet.com
+  WheelStreet is a Motorbike rental marketplace that connects motorcycle rental vendors in India with riders
+
+Wildfire
+  https://www.wildfireapp.io
+  Wildfire is a hyperlocal news app that notifies you in real-time when a major event (from safety to a celebrity sighting) occurs near you
+
+Zendar
+  http://www.zendar.io
+  We make high definition radar allowing self-driving cars to see in all weather conditions
+
+ZenSourcer
+  https://www.zensourcer.com
+  Email automation for recruiters
+
+Zinc Platform
+  http://www.zincplatform.com
+  Insurance distribution infrastructure

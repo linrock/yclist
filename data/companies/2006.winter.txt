@@ -1,0 +1,34 @@
+AudioBeta
+
+Clustrix
+  http://www.clustrix.com
+  Clustrix has built a NewSQL database with no limits
+
+Flagr
+  http://flagr.com
+  Flagr enables users to share places, adding photos, video and descriptions from their mobile phone
+  status: dead
+
+InklingMarkets
+  http://inklingmarkets.com
+  Inkling provides a platform for companies to run their own internal or external prediction marketplaces
+  status: exited
+  exit: Acquired by Cultivate Labs in 2015.
+  note: Source - http://blog.inklingmarkets.com/2015/09/inklings-final-chapter.html
+
+Snipshot
+  http://snipshot.com
+  Snipshot is a photo editor that lets you start editing any photo with one click of a bookmarklet
+  status: exited
+  exit: Acquired by Ark in 2013.
+  hide_url: true
+
+Wufoo
+  http://wufoo.com
+  Wufoo's HTML form builder helps you create online web forms
+  status: exited
+  exit: Acquired by SurveyMonkey for $35MM in 2011.
+
+YouOS
+  YouOS provides a platform for developers to create and distribute applications that live in a browser-based "desktop" environment
+  status: dead

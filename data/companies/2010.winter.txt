@@ -1,0 +1,126 @@
+140bets
+  http://www.140fire.com
+  140Fire is a platform to make online video ads interactive.
+  status: dead
+
+500Friends
+  http://www.500friends.com
+  500friends enables retailers to acquire and retain high value customers.
+
+Answerly.com
+  http://www.inboxq.com
+  InboxQ is a browser extension that delivers a persistent stream of questions from Twitter directly to you.
+
+Browsarity
+  Browsarity.com is a browser application that allows people to donate to charity while shopping online.
+  status: dead
+
+CardPool
+  http://www.cardpool.com
+  Cardpool is a gift card exchange marketplace where anybody can buy, sell, or trade their new or pre-owned gift cards.
+  status: exited
+
+ChromaOm
+  http://www.chromaom.com
+  We want the whole world to find their color enlightenment
+  status: dead
+
+Crocodoc
+  http://www.crocodoc.com
+  Crocodoc is the trusted leader in HTML5 document viewing.
+  status: exited
+  exit: Acquired by Box.
+
+Cue
+  https://www.cueup.com
+  Know what's next.
+  status: dead
+
+datamarketplace
+  http://datamarketplace.com
+  Data Marketplace helps people find, buy and sell data online.
+  status: exited
+
+Embedly
+  http://embed.ly
+  Embedly provides a platform and suite of tools to make embedding and previewing links simple.
+
+Embedster
+  http://www.embedster.com
+  Embedster allows bloggers to serve an ad for any YouTube they display on their site.
+  status: dead
+
+Etacts
+  http://www.etacts.com
+  Etacts is a CRM for people - it helps you keep in touch with people in your address book.
+  status: exited
+
+Fabricly
+  http://www.fabricly.com
+  Fabricly is a great way for designers to gain extra exposure, whether you're already selling online or if you're just getting started.
+  status: dead
+
+Gamador
+  http://www.gamador.com
+  Gamador is a social game developer that has released three games so far.
+  status: dead
+
+Homejoy
+  https://www.homejoy.com
+  Book a trusted cleaner today for $25 per hour
+  status: dead
+
+Infoharmoni
+  http://www.infoharmoni.com
+  Infoharmoni is a data visualization startup founded by Kovas Boguta.
+  status: dead
+
+Launchhear
+  http://www.launchhear.com
+  LaunchHear is a way for bloggers to get early review copies of new products.
+  status: dead
+
+Mertado
+  http://www.mertado.com
+  Mertado is a social shopping company that lets consumers discover and buy new products within the online communities that they frequent.
+  status: exited
+
+Movity
+  http://www.movity.com
+  Movity.com surfaces geodata (crime, noise, pricing, etc) to help home buyers make better decisions.
+  status: exited
+
+NewsLabs
+  A platform that helps old-school journalists adapt to the web, by giving them help with advertising, SEO, and other issues they may not have had dealt with
+  status: dead
+
+Notifo
+  Notifo is a mobile application and platform which allows any web site or service to easily create mobile notifications.
+  status: dead
+
+Nowmov
+  http://nowbox.com
+  Nowmov is an endless stream of videos recommended to users based on their interests, friends and what's trending around the world.
+  status: dead
+
+Optimizely
+  http://www.optimizely.com
+  Simple, fast, and powerful.
+
+OwnLocal
+  http://www.ownlocal.com
+  Web-based software for local newspapers that gives them a white-label service for selling online ads and services to local businesses
+  note: Previously Seeing Interactive
+
+Tweetflow
+  http://tweetflow.com
+  status: dead
+
+Zencoder
+  http://zencoder.com
+  Zencoder is web-based video encoding software as a service, designed to quickly convert any video into web and mobile compatible formats
+  status: exited
+
+Zenedy
+  http://zenedy.com
+  Learn something new every day with new articles written daily about topics discovered from all around the web.

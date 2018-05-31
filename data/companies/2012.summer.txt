@@ -1,0 +1,312 @@
+9GAG
+  http://9gag.com
+  An online platform and social media site based around funny pictures and content
+
+AdsOptimal
+  https://www.adsoptimal.com
+  Maximize your revenue with amazing ads
+
+Airbrite
+  http://airbritelabs.com
+  Airbrite is a cloud-enabled platform that powers mobile commerce We are the next generation of e-commerce. Our mobile-first API powers modern shopping.
+
+Amicus
+  http://amicushq.com
+  Amicus empowers cause-driven organizations to leverage the social networks of their supporters, raise more money, attract more members, and win more votes.
+
+Authy
+  https://www.authy.com
+  Authy makes it easy to add optional two-factor authentication to your application
+  status: exited
+  exit: Acquired by Twilio in February 2015.
+
+BigCalc
+  http://www.bigcalc.com
+  Fast, scalable financial analytics. BigCalc lets quants and algo traders run simulations on limitless amounts of historic data.
+  status: dead
+
+BoostedBoards
+  http://www.boostedboards.com
+  Boosted Boards builds the world's lightest electric longboards.
+
+BufferBox
+  http://www.bufferbox.com
+  Ship parcels to BufferBox for quick, convenient & secure pick-up anytime. Never miss a delivery again.
+
+Canopy Labs
+  http://canopylabs.com
+  Canopy Labs provides a powerful platform for businesses wanting to build and apply customer models.
+
+Circular
+  http://www.circularapp.com
+  Circular offers an infinitely scrolling feed of content based on people you follow and topics that interest you.
+  status: dead
+
+Clever
+  http://getclever.com
+  Build educational applications that just work.
+
+Coco Controller
+  http://cococontroller.com
+  A Kickstarter project that adds directional controls and game buttons to almost any phone
+  status: dead
+
+Coinbase
+  http://coinbase.com
+  Your Hosted Bitcoin Wallet. Coinbase is the easiest way to get started with Bitcoin.
+
+Collections
+  http://collections.me
+  Finder for the cloud. Google docs, Facebook, Instagram.
+
+DataNitro
+  http://datanitro.com
+  Supercharge Excel. Script your spreadsheets with Python.
+
+Diaspora
+  https://diasporafoundation.org
+  Social freedom. The online social world where you are in control.
+
+Double Robotics
+  http://doublerobotics.com
+  Double is the simplest, most elegant way to be somewhere else in the world without flying there. Wheels for your iPad.
+
+Dreamforge
+  http://www.dreamforge.me
+  We believe that 3D printing will fundamentally reshape our relationship with the products and items we use
+  hide_url: true
+
+Easel
+  https://easel.io
+  Easel is an in-browser, high-fidelity web design tool that lets you mockup, share and implement your ideas with ease.
+  status: dead
+
+Eligible
+  http://eligibleapi.com
+  Real Time Eligibility Checks for Health Insurance.
+
+Everyday.me
+  http://everyday.me
+  Everyday.me is an automatic journal that helps you to record your life and store it forever.
+  status: dead
+
+Filepicker.io
+  https://www.filepicker.io
+  Filepicker.io connects mobile & web applications to user content.
+
+FlightFox
+  http://flightfox.com
+  Flightfox is a platform for crowd-sourced flight search.
+
+Fullstack Academy
+  http://fullstackacademy.com
+  Fullstack Academy is a 12-week immersive coding school that turns great people into great developers.
+
+FundersClub
+  https://fundersclub.com
+  A web service that gives investors unprecedented access to investment opportunities and the tools to review and invest online with ease and speed
+
+GetGoing
+  http://www.getgoing.com
+  GetGoing is a San Francisco based technology company developing innovative search and booking solutions for the global airline industry.
+
+Grid
+  http://grid.binarythumb.com
+  A Simply Remarkable Spreadsheet.
+
+HD Trade Services
+  http://www.hdtradeservices.com
+  Mobile and cloud based logistics software.
+
+Healthy Labs
+  http://www.healthylabs.com
+  Healthy Labs builds networks to connect patients so they can learn from each other.
+
+HiMom
+  http://www.himom.me
+  HiMom - Stay in touch with your parents. Share precious moments in digital- and physical postcards.
+
+HipType
+  http://www.hiptype.com
+  Hiptype brings analytics and targeted advertising capabilities to the most popular eBook platforms
+  status: dead
+
+Hubchilla
+  http://www.hubchilla.com
+  HubChilla matches you up to similar users and lets you talk to them over SMS.
+
+imgfave
+  http://imgfave.com
+  A fun image sharing community. Explore amazing art and photography and share your own visual inspiration!
+
+Instacart
+  http://www.instacart.com
+  A Grocery Store on Your Phone. Delivery to your doorstep within minutes.
+
+Kamcord
+  http://www.kamcord.com
+  Kamcord allows users to record and share their awesome gameplays without having to leave their games.
+
+Keychain Logistics
+  http://keychainlogistics.com
+  Need Reliable Carriers? Keychain's proprietary technology gives you unprecedented access to our nationwide network of qualified drivers.
+
+Kippt
+  https://kippt.com
+  With Kippt we want to make your information workflow and archiving effortless.
+  status: dead
+
+Knowmia
+  http://knowmia.com
+  Where great teachers help you succeed in high school. Search for a topic. Over 8,000 video lessons and counting.
+
+LeanMarket
+  http://leanstartupmachine.com
+  Lean Startup Machine is the world's leading bootcamp on Lean Startup methodology.
+
+Lever
+  https://www.lever.co
+  A fresh take on the applicant tracking system, Lever combines ATS and CRM functionality to source, nurture, and manage candidates all in one place.
+
+LightTable
+  http://www.lighttable.com
+  A new interactive IDE that lets you modify running programs and embed anything from websites to games
+
+Markupwand
+  http://www.markupwand.com
+  Photoshop to html & css. Generates automatically in minutes
+  status: dead
+
+MicroEval
+  http://www.microeval.com
+  Say goodbye to long forms and meaningless numbers. MicroEval is the quickest and most meaningful way to give feedback to your employees.
+  status: dead
+
+Mth Sense
+  http://www.mthsense.com
+  Our goal is to be THE answer to the mobile monetization problem. The first step is to solve the problem of "blind" ads. Hence our focus on targeting.
+
+MyVR
+  http://myvr.com
+  MyVR is online marketing software that allows vacation rental owners and operators to manage all of their vacation rental marketing in one place.
+
+Newsblur
+  http://newsblur.com
+  Focus on the best stories from your friends and favorite blogs.
+
+Parallel Universe
+  http://paralleluniverse.co
+  Parallel Universe, a Y-Combinator startup, makes middleware that enable easy scaling for real-time spatial applications.
+
+Perfect Audience
+  http://www.perfectaudience.com
+  Fast & Easy Facebook Retargeting. Retarget lost customers on Facebook and get more sales.
+
+Plivo
+  http://www.plivo.com
+  Plivo is a cloud based API platform to build Voice and SMS Applications.
+
+Profig
+  http://profig.com
+  Profig provides transcriptions, call tracking, voice broadcasting, CRM integration and other custom features to businesses.
+  status: dead
+  note: http://techcrunch.com/2012/11/09/yc-backed-virtual-phone-system-profig-shuts-down/
+
+QuicklyChat
+  http://www.quicklychat.com
+  QuicklyChat is a quick way for coworkers to video chat with each other when they're working remotely.
+
+ReelSurfer
+  http://www.reelsurfer.com
+  ReelSurfer lets anyone clip and share any video from any website.
+
+Refer.ly
+  http://refer.ly
+  Referly is an Online Referral System for Your Social Network.
+
+RegistryLove
+  http://registrylove.com
+  RegistryLove lets you register products and services from anywhere & consolidate them all onto ONE registry
+
+Rent.io
+  http://www.rent.io
+  Set Rent Accurately. Rent.io helps you set competitive pricing for rental properties.
+
+Scoutzie
+  http://www.scoutzie.com
+  Scoutzie.com is a curated marketplace for design.
+  status: dead
+
+SmartAsset
+  http://www.smartasset.com
+  SmartAsset makes life's biggest decisions easier by bringing full transparency to the financial decision making process.
+
+SpinPunch
+  http://www.spinpunch.com
+  SpinPunch makes infrastructure for high performance browser games to rival PC and console titles.
+
+Sponsorfied
+  http://www.sponsorfied.com
+  Sponsorfied is an online marketplace for sponsorships that connects brands with relevant sponsorship opportunities with the click of a button.
+
+Statwing
+  http://www.statwing.com
+  Web-based statistical analysis software that speaks in plain english instead of arcane stats jargon.
+
+StudyEdge
+  http://www.studyedge.com
+  Better Grades. Less Frustration. We help you get better grades in your college classes with less time spent studying.
+
+Submittable
+  http://www.submittable.com
+  A cloud-based submission management platform used by businesses, publishers and art organizations to curate and accept payments with submissions
+
+Survata
+  http://www.survata.com
+  Survata is a new type of market research and consumer insights service.
+
+Svbtle
+  http://svbtle.com
+  Svbtle is publishing network that brings some of the best things from newspapers and magazines to a network of great people.
+
+TapIn
+  http://www.tapin.tv
+  TapIn is the easiest way to go from seeing to sharing. Broadcast mobile videos instantly.
+  status: dead
+
+Tastemaker
+  http://www.tastemaker.com
+  Tastemaker aims to make interior decorating affordable and accessible to everyone.
+
+TomoGuides
+  Handcrafted iPhone travel guides that are free, offline, and just plain full of awesomeness
+  status: dead
+
+Tracks.by
+  http://tracksby.com
+  The best way for artists to release new music and videos.
+
+Vastrm
+  http://vastrm.com
+  Custom Fit, Perfect Fit, Personalized Polos, T-shirts.
+
+Vayable
+  http://www.vayable.com
+  Vayable is an online marketplace where people can discover, buy and sell unique travel experiences, including tours, activities and extended trips
+
+ViaCycle
+  http://www.viacycle.com
+  ViaCycle creates advanced bicycle sharing technology that allows easy deployment and administration.
+
+Virool
+  http://www.virool.com
+  Get your video seen by millions of people! Leverage our platform to distribute your video to people you want on blogs, social games, and mobile apps
+
+VoiceGem
+  http://www.voicegem.com
+  VoiceGem is the easiest way to send a voice message to anyone.
+  status: exited
+
+Zapier
+  https://zapier.com
+  Zapier lets SaaS users create integrations that push data between dozens of different web applications without having to write any code or wrangle APIs

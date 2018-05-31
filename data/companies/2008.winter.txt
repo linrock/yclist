@@ -1,0 +1,92 @@
+280 North
+  http://280north.com
+  280 North was a web application company based on their application framework, Cappuccino
+  status: exited
+  exit: Acquired by Motorola for $20 MM in 2010.
+
+8aweek
+  http://8aweek.com
+  A Firefox extension that monitors surfing behavior to let you know when you spend too much time on time wasting sites
+  status: dead
+
+Chatterous
+  http://www.chatterous.com
+  Group chat using the web, IM, email, or phone
+
+Deluux
+  http://deluux.com
+  Deluux aims to relocate the center of peoples' online identities to their personal websites instead of a single social network
+  status: dead
+
+FathomDB
+  http://www.fathomdb.com
+  Databases as a service, taking care of the many tasks database admins deal with, and letting them focus on more complex issues
+  status: exited
+  exit: Acquired by Meteor in October 2014.
+
+Heroku
+  http://www.heroku.com
+  Heroku is a multi-language cloud application platform, or platform-as-a-service
+  status: exited
+  exit: Acquired by Salesforce for $212 MM in 2010.
+
+Insoshi
+  http://insoshi.com
+  Insoshi is an open-source open networking platform.
+  status: dead
+
+Joberator
+  http://joberator.com
+  A search, recruitment and talent acquisition platform connecting skilled professionals with in-demand employers
+
+Kirkland North
+  A game that pits sections of campuses against each other in a virtual battle for university-wide domination
+  status: dead
+
+Machine Zone
+  https://www.mz.com
+  A real-time messaging and analytics platform for managing real time data streams
+  note: Formerly Addmired. https://www.crunchbase.com/organization/machine-zone
+
+MightyQuiz
+  http://mightyquiz.com
+  User-generated quiz questions that can be answered and rated on-site or through a distributable widget
+
+Mixwit
+  Mixwit describes itself as a combination of Slide and iTunes
+  status: dead
+
+Ninite
+  http://ninite.com
+  The easiest, fastest way to update or install software
+
+Omnisio
+  http://omnisio.com
+  Omnisio lets users annotate videos and mash various clips up
+  status: exited
+  exit: Acquired by Google for $15 MM in 2008.
+
+RescueTime
+  http://rescuetime.com
+  A web-based time management tool that keeps track of what you do and for how long when you are on your computer
+
+Snaptalent
+  Snaptalent powers a distributed job advertisement network primarily meant for developer listings
+  status: dead
+
+Tipjoy
+  A social payments engine that allowed userse to easily collect 'tips' from their followings as Paypal transfers
+  status: dead
+
+Webmynd
+  http://webmynd.com
+  A browser plugin that tries to improve the way you search
+
+Wundrbar
+  Wundrbar wants to improve upon the search bar experience by providing users with powerful inline commands
+  status: dead
+
+YumDots
+  http://yumdots.com
+  YumDots wants to be the go-to mobile application for finding places to eat when out on the town
+  status: dead

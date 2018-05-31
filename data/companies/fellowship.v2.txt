@@ -1,0 +1,100 @@
+Awesound
+  https://awesound.com
+  AdWords for podcasts
+
+BillionToOne
+  http://www.billiontoone.com
+  Fetal genetic testing in India
+
+Bulletin
+  http://shop-bulletin.com
+  Airbnb for retail
+
+Cerplus
+  http://www.getcerplus.com
+  B2B marketplace for surplus produce
+
+ConnectHealth
+  http://www.connecthealth.io
+  Telemedicine and prescription delivery in Africa
+
+Ctzen
+  https://ctzen.co/
+  311 for the developing world
+
+GTRACK Technologies
+  http://www.gtracktechnologies.com
+  Nanoparticle tracers for fracking
+
+HDP Health
+  https://www.hdphealth.com
+  Helping clinical trials find patients using AI
+
+Ilium VR
+  https://iliumvr.com
+  Rifle controller for virtual reality
+
+Instrumentl
+  https://www.instrumentl.com
+  Concierge service for research
+
+Mentat
+  https://thementat.com
+  Concierge service for jobseekers
+
+Müvr Labs
+  http://www.muvrlabs.com
+  Fitbit for your knees
+
+OMG Digital
+  http://omgvoice.com
+  Buzzfeed for Africa
+
+Palaround
+  http://palaroundapp.com
+  Tinder for private networks
+
+Pramp
+  https://www.pramp.com
+  A free peer-to-peer technical mock interviewing platform for engineers
+  note: https://www.crunchbase.com/organization/pramp
+
+Queen B Robotics
+  http://www.queenb-robotics.com
+  Drones for virtual reality content
+
+Rent Scene
+  https://www.rentscene.com
+  Apartment hunters for busy people
+
+Sage
+  https://www.getsagecare.com
+  Uber for eldercare workers
+
+SmartSite
+  http://www.smartsitesafety.com
+  Automated health monitoring for construction sites
+
+Spotbot
+  https://spotbot.qa
+  Track website changes in Slack
+
+Squire
+  https://getsquire.com
+  OpenTable for barbershops
+
+Suto
+  http://asksuto.com
+  Personalized product recommendations on demand
+
+Sway
+  https://swayfinance.com
+  Chatbot for company finances
+
+The Flex Company
+  http://flexfits.com
+  Menstrual product for mess-free period sex
+
+Zube
+  https://zube.io
+  Project management for Github issues

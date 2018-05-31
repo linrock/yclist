@@ -1,0 +1,194 @@
+Acunote
+  http://www.acunote.com
+  Acunote is a project management tool and Scrum software.
+
+AppHarbor
+  http://appharbor.com
+  AppHarbor is a .NET Platform-as-a-Service.
+
+Balanced Payments
+  https://www.balancedpayments.com
+  Payments for marketplaces. Pay sellers, campaign organizers and service providers.
+  status: dead
+
+Beetailer
+  http://www.beetailer.com
+  Bring your store to Facebook, and grow your business
+
+Bridge
+  https://www.getbridge.com
+  RPC Framework for Building Modular Services and Cross-Language Applications.
+
+Chirply
+  http://www.chirply.com
+  Chirply is a platform for crowd-sourcing & crowd-curating design.
+
+Circle
+  Know when your friends & networks are nearby, wherever you are, no matter where you go
+  status: dead
+
+Close.io
+  https://close.io
+  Close.io is the inside sales CRM of choice for startups and SMBs. Increase productivity with all your sales communication in one place.
+
+Comprehend Systems
+  http://www.comprehend.com
+  A reporting and visualization tool which runs against multiple databases in real time, while leaving the data in place
+
+Curebit
+  http://www.curebit.com
+  Curebit helps online stores increase revenue through referrals by turning existing customers into marketers.
+
+Custora
+  https://www.custora.com
+  Custora offers a SaaS that tells online retailers and web apps which of their customers are most valuable, and suggests actions to keep them.
+
+drchrono
+  http://drchrono.com
+  drchrono is a medical platform for doctors and patients.
+
+Earbits
+  http://www.earbits.com
+  Earbits is a marketing platform for music related products built around interactive radio experiences.
+
+FitFu
+  Think of FitFu as a personal trainer in your pocket that keeps you active with little bits of exercise throughout the day.
+  status: dead
+
+Five Stars
+  http://fivestarscard.com
+  We created a universal customer loyalty card that embraces the power of network effects, social media integration & improves the customer experience.
+
+Giftrocket
+  http://www.giftrocket.com
+  GiftRocket sells a new type of gift card that works at any location.
+
+Grove
+  https://grove.io
+  Hosted IRC and so much more
+  status: exited
+  exit: Acquired by Revolution Systems
+
+GrubWithUs
+  http://grubwithus.com
+  Grubwithus social meals allow you to meet new people, while dining at some of your city's best restaurants.
+  status: dead
+
+HelloFax
+  http://www.hellofax.com
+  HelloFax is an online service that helps you send and receive faxes, request signatures and fill out forms all from your computer.
+
+Humble Bundle
+  https://www.humblebundle.com
+  Humble Bundles are collections of digital creations that are sold online at a price determined by the purchaser.
+
+Hype
+  http://tumultco.com/hype
+  Tumult Inc. makes the next generation of designer tools to produce beautiful web content.
+
+Hyperink
+  http://www.hyperink.com
+  Hyperink, the San Francisco based self-publishing platform, wants to unlock and sell that untapped information by giving every citizen the ability to publish a book.
+
+Instapainting.com
+  https://www.instapainting.com
+  Formerly Like.fm. Hand-painted oil paintings on canvas and other artwork shipped from artists just by uploading a photo.
+
+Kaleidoscope
+  http://www.kaleidoscopeapp.com
+  Use Kaleidoscope to spot the differences in text and image files. Review changes in seconds with the world's most advanced file comparison application.
+
+Lanyrd
+  http://lanyrd.com
+  Lanyrd is a directory of conferences, events and speakers.
+  status: exited
+
+MailGun
+  http://www.mailgun.net
+  Mailgun provides a web service for integrating email inboxes into apps.
+  status: exited
+  exit: Acquired by Rackspace in 2012.
+
+Meetings.io
+  http://meetings.io
+  With Meetings.io you can meet face to face with anyone from around the world within your web browser.
+  status: dead
+
+MemSQL
+  http://www.memsql.com
+  MemSQL is a Y Combinator grad making a scalable, memory-optimized database built for high-throughput workloads.
+
+MinoMonsters
+  http://minomonsters.com
+  MinoMonsters is a social game where players collect and battle pet monsters.
+  status: dead
+
+Moki.TV
+  Moki.TV is a directory of all paid and free content included on Amazon's streaming service, Netlfix, Hulu, iTunes, and others.
+  status: dead
+
+Noteleaf
+  http://noteleaf.com
+  Always Know Who You're Meeting. You schedule meetings in Google Calendar, Noteleaf gives you information about who you're meeting on your phone.
+
+NowJS
+  http://flotype.com
+  Flotype Inc. is a venture-backed company building a suite of enterprise technology for real-time messaging.
+  status: dead
+
+OrderAhead
+  http://orderaheadapp.com
+  OrderAhead is the easiest way to order from local merchants on your phone.
+
+Pebble Technology
+  http://www.getpebble.com
+  Pebble is an infinitely customizable e-paper watch.
+  status: dead
+  exit: IP was acquired by Fitbit in 2016
+
+Sendoid
+  http://sendoid.com
+  Sendoid is an on-demand peer to peer transfer system.
+  status: exited
+  exit: Acquired by Facebook in 2012.
+
+TalkBin
+  http://www.talkbin.com
+  TalkBin is a feedback platform for local businesses.
+  status: exited
+  exit: Acquired by Google.
+
+Taskforce
+  http://siasto.com
+  Siasto is a collaboration and project management tool that integrates into Google Apps, Gmail, Google Drive, GCal, box, and Dropbox.
+  status: dead
+
+TellFi
+  https://tellfi.com
+  Fastest, easiest way to setup a phone system for your business.
+  status: dead
+
+TrustEgg
+  http://trustegg.com
+  The simplest way to save for a child's future.
+  status: dead
+
+Tutorspree
+  http://www.tutorspree.com
+  Tutorspree is an online portal that helps tutors and clients find each other.
+
+Upverter
+  http://upverter.com
+  Upverter is building browser-based electronic design tools focused on collaboration and usability.
+
+WhereBerry
+  http://whereberry.com
+  WhereBerry helps you keep track of things you want to do in your city.
+
+YouGotListings
+  http://www.yougotlistings.com
+  The online rental technology platform that provides real estate offices and landlords with easy-to-learn tools
+
+ZeroCater
+  http://zerocater.com
+  ZeroCater makes it easy for companies to enjoy meals delivered from the best local restaurants, caterers and private chefs

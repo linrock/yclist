@@ -1,0 +1,45 @@
+JamGlue
+  An online community where you can listen to or mix music from a library of user-contributed music
+  status: dead
+
+JumpChat
+  A platform bridging mobile text messages, email, and IM communication without needing to download anything
+  status: dead
+
+LikeBetter
+  An online personality test game, where you look at two photos and choose which one you like better
+  status: dead
+  note: test: lol
+
+OMGPOP
+  http://omgpop.com
+  A developer/publisher of multiplayer, social and mobile games. Created Draw Something
+  status: exited
+  exit: Acquired by Zynga for ~$180MM in 2012.
+
+PollGround
+  A social polling site. Easily create surveys and allow the "wisdom of the crowd" to answer your questions
+  status: dead
+
+Scribd
+  https://www.scribd.com
+  Join the membership for readers, and get monthly access to books, audiobooks, and more
+
+Shoutfit
+  Upload images to create an online closet, and build a network of fashionable friends
+  status: dead
+
+Talkito
+  A service that enables its users to meet and chat when they visit the same websites.
+  status: dead
+
+Thinkature
+  An online collaboration environment that allows users to chat and draw diagrams on a shared whiteboard.
+  status: dead
+
+Xobni
+  http://www.xobni.com
+  Xobni (the word inbox spelled backwards) makes your inbox and address book smarter
+  status: exited
+  exit: Acquired by Yahoo for ~70MM in 2013.
+  note: http://blog.xobni.com/post/54534193175/oohay

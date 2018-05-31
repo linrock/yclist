@@ -1,0 +1,207 @@
+7 Cups of Tea
+  http://www.7cups.com
+  Want to talk? Connect with someone who will really listen.
+
+Amulyte
+  http://amulyte.com
+  An Emergency Response System. Reimagined.
+  status: dead
+
+Apptimize
+  http://apptimize.com
+  The Complete Mobile A/B Testing Solution
+
+Asseta
+  http://www.asseta.com
+  The most transparent platform ever for buying, selling, and managing parts.
+
+Bloomthat
+  http://www.bloomthat.com
+  Ridiculously fast flowers. Handcrafted bouquets. Starting at $35. Delivered in 90 minutes.
+
+Buttercoin
+  http://buttercoin.com
+  Trade bitcoin with ease.
+  status: dead
+
+Casetext
+  http://casetext.com
+  Casetext is where the best lawyers research and write about the law
+
+CoreOS
+  http://coreos.com
+  Linux for Massive Server Deployments CoreOS enables warehouse-scale computing on top of a minimal, modern operating system.
+
+Cratejoy
+  http://cratejoy.com
+  An easy way to launch your own subscription business
+
+Crowdery
+  http://www.crowdery.com
+  Early access to great design.
+
+DataRank
+  https://www.datarank.com
+  Gain Insights into your Customers and Competitive Market by monitoring the highest quality online data in real-time.
+  status: exited
+
+DoorDash
+  http://doordash.com
+  Your favorite local restaurants delivered to you.
+
+EasyPost
+  http://easypost.com
+  Shipping for developers. EasyPost allows you to integrate USPS, UPS, DHL and FedEx shipping APIs into any application in minutes.
+
+Estimote
+  http://estimote.com
+  Estimote beacons real world context for your apps.
+
+FanHero
+  http://fanhero.com
+  Let your fans support you. The easiest-to-make storefront for creators.
+  status: dead
+
+Floobits
+  http://floobits.com
+  Floobits lets you code like you're in the same room.
+
+Glio
+  http://glio.com
+  Amazon Marketplace for Latin America
+
+GoComm
+  http://www.gocomm.com
+  Your team communications made clear.
+
+Graft Concepts
+  http://www.graftconcepts.com
+  Makers of unique iPhone cases.
+  status: dead
+
+Hackermeter
+  http://www.hackermeter.com
+  Hackermeter pairs talented developers with great jobs
+  status: exited
+  exit: Acquired by Pinterest.
+  hide_url: true
+  note: Acquired by Pinterest - https://techcrunch.com/2013/10/11/pinterest-acquires-hackermeter-right-out-of-the-gate-will-shut-it-down
+
+Hum
+  HUM, simply redefining the inbox one chat at a time.
+  status: dead
+
+ixi-play
+  http://www.ixiplay.com
+  The Robot Buddy kids will love! Engage, Challenge, Learn.
+  status: dead
+
+Kivo
+  http://kivo.com
+  Get feedback on your presentations.
+  status: dead
+
+Le Tote
+  http://letote.com
+  Welcome to your dream closet. Rent unlimited looks each month.
+
+Lob
+  http://lob.com
+  Power your printing and mailing with Lob. A simple API to integrate print & mail solutions into your applications.
+
+LocalOn
+  http://www.localon.com
+  Essential tools for running your Merchants Association.
+
+Lumoid
+  http://www.lumoid.com
+  Rent and own high-quality gear and accessories, starting at $5/day. Simple, affordable and fast!
+
+Meta Space Glasses
+  http://spaceglasses.com
+  The first holographic interface.
+
+One Month
+  https://onemonth.com
+  Learn how to code websites, build apps, and grow your business.
+
+OrbsCCG
+  http://orbsccg.com
+  The next generation collectible card game... with asynchronous mode!
+
+Panorama Education
+  http://www.panoramaed.com
+  More than 4,000 schools use Panorama for data analytics and feedback surveys of teachers, parents, and students.
+
+Prim
+  http://getprim.com
+  Same day laundry delivery.
+  status: dead
+
+RealCrowd
+  http://realcrowd.com
+  Featured investments available for funding.
+
+Reebee
+  http://reebee.com
+  Flyers at your fingertips! Simple. Fast. Free.
+
+Regalii
+  http://www.regalii.com
+  Food credit straight to your phone.
+
+Senic
+  http://senic.com
+  Smarter sensing.
+
+SimpleLegal
+  http://www.simplelegal.com
+  Make sense of your legal bills.
+
+SoundFocus
+  http://soundfocus.com
+  Hear your music in 20/20.
+
+SpoonRocket
+  http://www.spoonrocket.com
+  Most convenient meal ever.
+  status: dead
+
+Standard Treasury
+  http://standardtreasury.com
+  APIs for commercial banks.
+  status: exited
+  exit: Acquired by Silicon Valley Bank.
+  hide_url: true
+  note: Acquired by Silicon Valley Bank - https://www.svb.com/News/Company-News/API-Banking-Startup-Standard-Treasury-Joins-Silicon-Valley-Bank/
+
+StatusPage
+  http://www.statuspage.io
+  Better Server Status Communication The best way to create a status page for your app or website. Just ask New Relic.
+
+Teleborder
+  http://www.teleborder.com
+  Immigration, tax, and relocation. All in one place. Teleborder helps you scale your business.
+  status: dead
+
+True Link Financial
+  http://www.truelinkcard.com
+  We keep a watchful eye out for fraud and spending mishaps so you can spend your time doing what matters.
+
+URX
+  http://urx.com
+  Add urx.io/ to every link and drive users to your app, mobile website, or desktop browser.
+  status: exited
+
+Watchsend
+  http://www.watchsend.com
+  Record your iPhone app.
+
+Webflow
+  http://www.webflow.com
+  Build beautiful, responsive websites without code.
+
+Weilos
+  http://weilos.com
+  Weilos is the most motivational fitness and weight loss community.
+  status: exited

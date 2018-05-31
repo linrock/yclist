@@ -1,0 +1,102 @@
+Bump
+  http://bu.mp
+  Mobile applications and APIs that allow two smartphones to identify each other and connect by being bumped together
+  status: exited
+  exit: Acquired by Google in 2013.
+
+CarWoo
+  http://carwoo.com
+  CarWoo! is an online new-car buying service and marketplace.
+
+DailyBooth
+  http://dailybooth.com
+  DailyBooth lets users follow their friends and update them in real-time through the use of pictures and status updates.
+  status: exited
+  exit: Acquired by Airbnb in 2012.
+
+DirectedEdge
+  http://www.directededge.com
+  Directed Edge delivers e-commerce and social recommendations using existing data such as purchase or click histories
+
+FanChatter
+  http://fanchatter.com
+  FanChatter fuels your fans so they can promote you better than any ad ever could.
+
+Flightcaster
+  http://www.flightcaster.com
+  FlightCaster predicts flight delays
+  status: exited
+  exit: Acquired by Next Jump in 2011.
+
+GraffitiGeo
+  http://graffitigeo.com
+  Users leave brief reviews of restaurants, or just a thumbs up or thumbs down, like a highly condensed version of Yelp
+  status: exited
+  exit: Acquired by Loopt.
+
+HighlightCam
+  http://highlightcam.com
+  Create amazing movies right from your iOS or Android device - automatically!
+
+InstantQ
+  http://www.instantq.com
+  InstantQ allows restaurants to fill tables by varying prices to increase demand.
+
+Jobpic
+  status: dead
+
+Jobspice
+  http://www.jobspice.com
+  JobSpice is a surprisingly easy-to-use, intuitive online tool for creating a resume.
+
+Lingt
+  http://www.lingt.com
+  Lingt is a service for learning languages that helps teachers enable their students to speak
+  status: exited
+  exit: Acquired by dictionary.com in 2010.
+
+Listia
+  http://www.listia.com
+  Listia, which launched in August 2009, is eBay for free stuff.
+
+Lockitron
+  http://lockitron.com
+  Keyless entry using your phone.
+
+MeetingMix
+  http://meetingmix.com
+  Save time writing your agenda and minutes.
+
+Mixpanel
+  http://www.mixpanel.com
+  Mixpanel is an advanced analytics service that helps improve web and mobile applications by tracking how users interact & engage with them
+
+Olark
+  http://www.olark.com
+  Olark is a lightweight tool to chat with visitors to your website using your existing instant messaging client.
+
+Plurchase
+  Plurchase is an online social shopping site.
+  status: dead
+
+RentHop
+  http://www.renthop.com
+  Search NYC Apartments and Listings by Location. Find New York City Apartment Rentals. Contact Landlords Online.
+
+RethinkDB
+  https://rethinkdb.com
+  The open-source database for the realtime web.
+  status: exited
+  exit: Acquired by Cloud Native Compute Foundation in February 2017.
+
+Tuxebo
+  http://www.tuxebo.co.uk
+  Tuxebo connects people looking for things to rent from local rental companies.
+
+Wakemate
+  http://www.wakemate.com
+  Personalized alarm clocks that sync with a user's body and their iPhone, enabling the alarm to sound after a REM cycle
+
+WePay
+  https://www.wepay.com
+  WePay is an online payments platform for individuals, organizations, and businesses.

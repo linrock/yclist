@@ -1,0 +1,400 @@
+80000 Hours
+  https://80000hours.org
+  Find a fulfilling career that does good
+
+Afrostream
+  https://afrostream.tv/en
+  The best black films and TV series
+
+AppCanary
+  https://appcanary.com
+  Appcanary monitors your apps and servers, and notifies you whenever you're vulnerable
+
+Auro Robotics
+  http://aurobots.com
+  Driverless shuttles. Safe and modern solution for in-campus travel
+
+Bistrobot
+  http://bistrobot.com
+  Bistrobot makes robots that make sandwiches
+
+Bitmovin
+  https://bitmovin.com
+  Video infrastructure for the web
+
+Bizzy.io
+  http://www.bizzy.io
+  The smartest way to boost conversions from your email list
+  status: exited
+  exit: Acquired by Sendgrid in Mar 2017.
+  note: Source - https://sendgrid.com/news/sendgrid-acquires-email-marketing-startup-bizzy/
+
+BlueCrew
+  https://bluecrewjobs.com
+  Find work that fits your. Build a flexible career with BlueCrew
+
+Bodyport
+  http://bodyport.com
+  One step. Your whole health picture
+
+Branch8
+  https://www.branch8.com
+  One place to sell on every marketplace in the world
+
+Breakout Room
+  http://breakoutroom.co
+  Instant replay for mobile apps. Record and replay every user interaction
+
+Call9
+  http://www.callnine.com
+  Providing quality, compassionate emergency medical care to the people you love most
+
+CareLedger
+  http://www.careledger.com
+  Get free medical care. Find great doctors for tests and procedures
+
+Chaldal
+  https://chaldal.com
+  An online shop in Dhaka, Bangladesh
+
+Circle Medical
+  https://www.circlemedical.com
+  The doctor's office that comes to you
+
+Click & Grow
+  http://www.clickandgrow.com
+  Our smart gardens make it easy to access top-quality ingredients 24/7
+
+Cloudstitch
+  https://www.cloudstitch.com
+  Build and share spreadsheet-powered apps that work anywhere
+
+Cofactor Genomics
+  https://cofactorgenomics.com
+  Using RNA to diagnose disease
+
+Convox
+  https://convox.com
+  Build, deploy, and manage applications with ease
+
+Cymmetria
+  http://www.cymmetria.com
+  A comprehensive cyber deception solution
+
+Drip Capital
+  http://dripcapitalef.com
+  Future of global trade finance
+
+Eden
+  https://www.eden.io
+  Make your office work like magic
+
+Flirtey
+  http://flirtey.com
+  Flirtey is making drone delivery possible for everyone
+
+Fonticons
+  https://fonticons.com
+  Build and manage icons and typefaces in a single place, then serve them with a single line of code
+
+Foxpass
+  https://www.foxpass.com
+  Increases your organization's network security by ensuring employee accounts have access only to what they need
+
+Gemnote
+  http://www.gemnote.com
+  Premium corporate gifting made easy
+
+Get Scale
+  http://getscale.com
+  Automated recording of your factory's testing
+
+Gigster
+  http://trygigster.com
+  Hire an elite development team in minutes
+
+Give Campus
+  https://www.givecampus.com
+  A social fundraising and engagement platform that empowers educational institutions
+
+GO1
+  https://www.go1.com
+  Train your team quickly and easily!
+
+GovPredict
+  https://govpredict.com
+  GovPredict organizes, tracks, and predicts legislative and political activity
+
+Gravitational
+  http://gravitational.com
+  Appliations delivered as a service on any infrastructure
+
+Greenshoe
+  http://getsaida.com
+  Cash for your everyday needs
+
+GrowSumo
+  http://www.growsumo.com
+  Get paid to recommend products you love
+
+Her
+  https://weareher.com
+  Join your community in California and worldwide
+
+Heroic Labs
+  https://heroiclabs.com
+  Backend for game developers. Power your games' achievements, leaderboards, multiplayer, and more
+
+Hickory
+  http://hickorytraining.com
+  A training tool focused on retention, turning your sales and customer service staff into brand experts
+
+Human Interest
+  https://humaninterest.com
+  The best 401(k) for small businesses and startups.
+
+InnerSpace
+  http://www.helloinnerspace.org
+  A community of founders committed to building companies as great as their products
+
+Instant eSports
+  http://instantesports.com
+  Keep up with the latest eSports news
+
+Instawork
+  https://www.instawork.com
+  The best place to find restaurant jobs
+
+Interviewed
+  https://www.interviewed.com
+  Combine structured job assessments and employee testing to identify the strongest job candidates
+
+Ironclad
+  https://www.ironcladapp.com
+  An automated assistant that manages legal paperwork for your company
+
+Jopwell
+  https://www.jopwell.com
+  Land your dream job or internship
+
+Klarismo
+  http://www.klarismo.com
+  Measure and track your health and fitness potential
+
+L. International
+  https://thisisl.com
+  For every condom you buy, one is donated to a female entrepreneur in a developing country in need
+
+Leada
+  https://www.teamleada.com
+  Remove roadblocks to your data
+
+Livecoding.tv
+  https://www.livecoding.tv
+  The world's leading coding livestreaming platform
+
+Lugg
+  http://lu.gg
+  We load, haul & deliver anything for you. With a few taps, a truck and movers are headed your way in minutes!
+
+Luna Sleep
+  http://lunasleep.com
+  A premium brand of mattress protection products
+
+Maderight
+  http://maderight.com
+  Apparel sourcing, production, and logistics for the modern age
+
+Markhor
+  http://themarkhor.com
+  Markhor makes shoes with attention to details
+
+MicroHealth
+  https://microhealth.com
+  We help people using biologic meds to succeed in treatment
+
+Mimir
+  https://mimirhq.com
+  We build amazing tools for education
+
+Nebia
+  https://nebia.com
+  Experience water. You've taken thousands of showers, but never one like this
+
+New Story Charity
+  http://newstorycharity.org
+  We transform slums into sustainable communities. One home at a time with video proof
+
+Ohm
+  http://www.getohm.com
+  Ohm is a drop-in replacement for your car battery
+
+OnboardIQ
+  https://onboardiq.com
+  The most advanced hiring platform for screening and managing a modern workforce, all in one place
+
+Oolu
+  http://oolusolar.com
+  Oolu is an innovative off-grid solar company operating in West Africa
+
+Open Invest
+  https://openinvest.co
+  Invest with your values. Grow your nest egg with peace of mind
+
+Paribus
+  https://paribus.co
+  Find out for free if online stores owe you a refund
+
+PickTrace
+  http://picktrace.com
+  Fast, affordable PTI compliance. PickTrace was created with the farmer in mind
+
+Plate Joy
+  http://platejoy.com
+  The happy way to cook & feel great
+
+PlateIQ
+  http://plateiq.com
+  Automate your restaurant finances
+
+RedCarpetUp
+  https://www.redcarpetup.com
+  Get instant credit for any online purchase
+
+Roomblocker
+  http://www.roomblocker.com
+  Book hotels for groups and events. No fees or markups
+
+Ross Intelligence
+  http://www.rossintelligence.com
+  ROSS is an A.I. lawyer that helps human lawyers research faster and focus on advising clients
+
+Scentbird
+  http://scentbird.com
+  The thrill of new scents. 30-day supply of any designer fragrance every month
+
+ScopeAR
+  http://scopear.com
+  Putting knowledge where you need it
+
+Second Measure
+  https://secondmeasure.com
+  See inside companies. Get an edge from consumer spending data
+
+Serica
+  https://sericapay.com
+  SericaPay makes it easy for customers to feel confident and secure to buy products they need
+
+Seva Coffee
+  http://www.sevacoffee.com
+  Passion for the art of coffee, and the art of precision engineering
+
+ShapeScale
+  http://www.shapescale.com
+  Digitize your body in 3D. Know exactly where you lose fat and gain muscle
+
+Shotput
+  https://shotput.com
+  Effortlessly get products to customers across the world
+
+Shred Video
+  http://shredvideo.com
+  1-button video editing
+
+Smyte
+  https://www.smyte.com
+  Our trust and safety system stops scams, spam, harassment and credit card fraud before they happen
+
+SourceDNA
+  http://sourcedna.com
+  Code transparency for platform & app developers
+
+Supply
+  http://www.madebysupply.com
+  Wireless power, through the air
+
+Sywork
+  https://sywork.tv
+  Watch live illustrators. The journey is long, but it doesn't have to be lonely
+
+Tab
+  http://tab.travel
+  Powering local tourism, everywhere
+
+teaBOT
+  http://www.teabot.com
+  Experience loose leaf tea in a completely new way
+
+TenantTurner
+  http://tenantturner.com
+  Fewer showings, faster leases, better tenants, and happier owners
+  note: funding = $500,000
+
+Tesorio
+  https://www.tesorio.com
+  Saving for buyers. Early payments for vendors
+
+TetraScience
+  http://tetrascience.com
+  Mission control for your lab
+
+The Ticket Fairy
+  https://theticketfairy.com
+  Buying tickets to events just got a whole lot better
+
+Transcend Lighting
+  http://www.transcendlighting.com
+  The world's most efficient LED grow lights
+
+Traversal Networks
+  http://traversalnetworks.com
+  A new form of network intrusion detection system designed to catch unknown threats
+
+Triplebyte
+  http://triplebyte.com
+  We're building a new kind of interview, evaluating tech skills, not credentials
+  note: funding = $3,000,000
+
+Verge Genomics
+  http://www.vergegenomics.com
+  We use genomic data to find better drugs, faster
+
+Vernox Labs
+  http://www.vernoxlabs.com
+  Construction project planning simplified
+
+Vest
+  https://www.vestfin.com
+  Invest in peace of mind. Vest builds protected investments
+
+VIVE
+  https://vive.co
+  The best way to book blowouts today, tomorrow, or next week
+
+VOIQ
+  http://www.voiq.com
+  Professional sales call agents teeing-up qualified leads for your sales team
+
+Wheelys Cafe
+  http://www.wheelyscafe.com
+  Organic cafes
+
+Willing
+  http://willing.com
+  The best free way to make your legal will online
+
+Xendit
+  https://www.xendit.co
+  Pay and get paid, instantly, for free
+
+Xfers
+  http://www.xfers.io
+  Automate your online banking transactions
+
+Zeplin
+  http://zeplin.io
+  Build pixel perfect apps in peace. Design hand-off has never been easier
+
+zPREDICTA
+  http://zpredicta.com
+  We create technology to reconstruct physiologically relevant organ-specific human microenvironments

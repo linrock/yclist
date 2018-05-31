@@ -1,0 +1,91 @@
+Adpinion
+  Adpinion tried to get rid of the antagonism between advertisers and web surfers by letting you vote for the ads you want
+  status: dead
+
+Anywhere.fm
+  http://www.anywhere.fm
+  Anywhere.fm lets you upload your music collection and play your music anywhere from the web
+  status: exited
+  exit: Acquired by imeem in 2008.
+
+Appjet
+  http://appjet.com
+  AppJet ws an online programming tool for building simple web apps.
+  status: exited
+  exit: Acquired by Google in 2009.
+
+Biographicon
+  Biographicon was a wiki-based website containing biographies of famous and non-famous people.
+  status: dead
+
+Bountii
+  http://bountii.com
+  A price search engine that lets you browse the best deals on electronics and appliances from top stores like Amazon
+
+Clickpass
+  http://www.clickpass.com
+  Clickpass made OpenID easy to use
+  status: exited
+  exit: Acquired by Yola in 2008.
+
+Cloudant
+  http://cloudant.com
+  The Cloudant Data Layer is the cloud database service managed by experts
+  status: exited
+  exit: Acquired by IBM in 2014.
+
+Disqus
+  http://www.disqus.com
+  Beautiful, real-time, engaging discussions for your website
+
+Draftmix
+  http://www.bluefroggaming.com
+  Fantasy sports fans can sign up and play pickup games against other players on the site for virtual dollars or for real money
+
+Dropbox
+  http://www.dropbox.com
+  A file hosting service that offers cloud storage, file synchronization, and personal cloud software
+
+Fuzzwich
+  A browser-based 2D animation studio
+  status: dead
+
+iJigg
+  A social music site that lets users vote on submitted singles using Digg-like voting
+  status: dead
+
+Reble
+  Windows software that allows users to stream music from friends who also have installed Reble
+  status: dead
+
+SlapVid
+  A video site built on P2P technology that allows users to find and watch videos pulled from top video sites
+  status: dead
+
+SocialPicks
+  http://www.socialpicks.com
+  An online community where investors share investment ideas with each other
+  status: exited
+  exit: Acquired by FinancialContent in 2009.
+
+Songkick
+  http://songkick.com
+  An online database of concerts for music enthusiasts
+
+Splashup
+  http://www.splashup.com
+  An online image editing service that provided advanced tools with image editing layer effects
+  status: dead
+  note: https://www.crunchbase.com/organization/splashup#/entity - formerly known as fauxto
+
+Twitch.tv
+  https://www.twitch.tv
+  A live streaming video platform focused on video gaming and eSports
+  status: exited
+  exit: Acquired by Amazon in 2014.
+  note: Spun off from justin.tv in June 2011.
+
+Zecter
+  Zecter created technology to make it easy to share files with others over the internet
+  status: exited
+  exit: Acquired by Motorola in 2010.
