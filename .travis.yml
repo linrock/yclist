@@ -1,6 +1,7 @@
 language: ruby
 rvm:
-  - 2.4.1
+  - 2.5.1
 cache: bundler
-script: cd web && bundle exec rake test
+gemfile: web/Gemfile
+script: sh -c 'cd web && bundle exec rake test'
 sudo: false

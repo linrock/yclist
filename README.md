@@ -1,6 +1,6 @@
 # YC List
 
-An unofficial list of companies funded by [YCombinator](http://www.ycombinator.com/)
+An unofficial list of companies funded by [YCombinator](https://www.ycombinator.com/)
 
 
 ## Contributing
