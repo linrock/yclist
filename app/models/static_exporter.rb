@@ -2,14 +2,15 @@
 
 class StaticExporter
 
+  HTML_OUTPUT_FILE = Rails.root.join('public/exported.html')
+
   def initialize
     raise "Use production environment" unless Rails.env.production?
-    @output_html_file = Rails.root.join('public/exported.html')
   end
 
   def export!
     precompilation_output = precompile_assets!
-    `rm -f #{@output_html_file} #{@output_html_file}.gz`
+    `rm -f #{HTML_OUTPUT_FILE} #{HTML_OUTPUT_FILE}.gz`
     puts precompilation_output
     begin
       html = get_html_output
@@ -30,10 +31,10 @@ class StaticExporter
   end
 
   def export_html!(html)
-    open(@output_html_file, 'w') {|f| f.write html }
-    `gzip -c -9 #{@output_html_file} > #{@output_html_file}.gz`
-    puts "exported.html:     #{`du -hs #{@output_html_file}`}"
-    puts "exported.html.gz:  #{`du -hs #{@output_html_file}.gz`}"
+    open(HTML_OUTPUT_FILE, 'w') {|f| f.write html }
+    `gzip -c -9 #{HTML_OUTPUT_FILE} > #{HTML_OUTPUT_FILE}.gz`
+    puts "exported.html:     #{`du -hs #{HTML_OUTPUT_FILE}`}"
+    puts "exported.html.gz:  #{`du -hs #{HTML_OUTPUT_FILE}.gz`}"
     puts "Generated all static files!"
   end
 

@@ -4,7 +4,8 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'rails', '5.1.6'
+gem 'rails', '5.2.0'
+gem 'bootsnap', require: false
 gem 'dotenv-rails'
 
 gem 'sass-rails' #,   '~> 3.2.3'
