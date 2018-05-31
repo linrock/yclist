@@ -10,7 +10,6 @@ gem 'dotenv-rails'
 gem 'sass-rails' #,   '~> 3.2.3'
 gem 'uglifier', '>= 1.0.3'
 gem 'jquery-rails'
-gem 'bourbon'
 
 gem 'favicon_party', :github => 'linrock/favicon_party'
 gem 'parallel'
