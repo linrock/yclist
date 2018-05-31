@@ -239,13 +239,14 @@
 -
   name: Notable Labs
   url: http://www.notablelabs.com
-  description: Notable Labs  helps doctors find combinations of FDA approved treatments that brain cancer patients can use today
+  description: Notable Labs helps doctors find combinations of FDA approved treatments that brain cancer patients can use today
   metadata: $120,000
 -
   name: Omniref
   url: http://www.omniref.com
   description: Omniref is a code-based reference, maintained by and for the programming community
-  metadata: $120,000
+  metadata: $120,000. Closed in Jan 2017. http://500errors.com/omniref/
+  status: Dead
 -
   name: Open Listings
   url: https://www.openlistings.com

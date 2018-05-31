@@ -9,10 +9,12 @@
   name: 8aweek
   url: http://8aweek.com
   description: A Firefox extension that monitors surfing behavior to let you know when you spend too much time on time wasting sites
+  status: Dead
 -
-  name: Addmired
-  url: http://www.addmired.com
-  description: A company that creates new and engaging applications and games for users of social networks and mobile devices
+  name: Machine Zone
+  url: https://www.mz.com
+  description: A real-time messaging and analytics platform for managing real time data streams
+  metadata: Formerly Addmired. https://www.crunchbase.com/organization/machine-zone
 -
   name: Chatterous
   url: http://www.chatterous.com
@@ -97,3 +99,4 @@
   name: YumDots
   url: http://yumdots.com
   description: YumDots wants to be the go-to mobile application for finding places to eat when out on the town
+  status: Dead
