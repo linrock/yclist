@@ -1,38 +1,36 @@
-module YamlLoader
+class YamlLoader
+
+  def get_cohort(cohort) # S05, F1
+    sorted_all_company_rows.select {|c| c.cohort == cohort }
+  end
 
   def load_yearly_data_from_yaml_files
-    data = {}
-    (2005..2017).each do |year|
+    (2005..2017).to_a.map do |year|
       companies = []
       %w( winter summer ).each do |season|
         options = get_options(year, season)
         next unless options && File.exists?(options[:filename])
         companies << load_companies_from_options(options)
       end
-      # TODO quick hack for fellowship companies
+      # quick hack for fellowship companies
       if year == 2016
         companies << load_companies_from_options(get_options(2015, "fellowship"))
         companies << load_companies_from_options(get_options(2016, "fellowship"))
       end
-      data[year] = YearlyCompanies.new(companies.flatten)
-    end
-    data
+      YearlyCompanies.new(companies.flatten)
+    end.flatten
   end
+
+  def sorted_all_company_rows
+    load_yearly_data_from_yaml_files.reverse.map(&:sorted_companies).flatten
+  end
+
+  private
 
   def load_companies_from_options(options)
     YAML.load_file(options[:filename]).map do |attrs|
       CompanyRow.new(attrs.merge({ cohort: options[:cohort] }))
     end
-  end
-
-  def sorted_all_company_rows
-    company_rows = []
-    load_yearly_data_from_yaml_files.sort.reverse.each do |year, data|
-      data.sorted_companies.each do |company|
-        company_rows << company
-      end
-    end
-    company_rows
   end
 
   def get_options(year, season)
@@ -48,6 +46,4 @@ module YamlLoader
     end
     options
   end
-
-  extend self
 end

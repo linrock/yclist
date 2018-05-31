@@ -5,7 +5,6 @@ class YearlyCompanies
 
   attr_accessor :companies
 
-
   def initialize(company_rows)
     @companies = company_rows
   end

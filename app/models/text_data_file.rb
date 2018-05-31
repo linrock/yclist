@@ -23,7 +23,7 @@ class TextDataFile
 
   def export_company_rows!(company_rows)
     open(@filename, 'w') do |f|
-      f.write company_rows.map(&:to_text_data).join("\n\n") + "\n"
+      f.write company_rows.sort_by(&:name).map(&:to_text_data).join("\n\n") + "\n"
     end
   end
 
@@ -31,14 +31,17 @@ class TextDataFile
 
   def get_cohort(filename)
     cohort = filename[/(winter|summer|fellowship)/, 1]
-    "#{cohort[0].capitalize}#{get_year(filename)[2..-1]}"
+    if cohort == "fellowship"
+      "F#{filename[/v(\d)/, 1]}"
+    else
+      "#{cohort[0].capitalize}#{get_year(filename)[2..-1]}"
+    end
   end
 
   def get_year(filename)
     year = filename[/(20[01][\d])/, 1]
     return year if year.present?
-    return 2016 if filename =~ /\/fellowship/
-    raise "Unable to extract year from filename"
+    raise "Unable to extract year from filename - #{filename}"
   end
 
   def parse_metadata_rows(rows)
@@ -71,7 +74,7 @@ class TextDataFile
     fields = []
     fields << company_row.url if company_row.url.present?
     fields << company_row.description if company_row.description.present?
-    fields << "status: #{company_row.status.downcase}" if company_row.status_class != 'operating'
+    fields << "status: #{company_row.status.downcase}" if company_row.status.present?
     if company_row.annotation && company_row.annotation[:exit].present?
       fields << "exit: #{company_row.exit}"
     end
