@@ -5,11 +5,21 @@ An unofficial list of companies funded by [YCombinator](http://www.ycombinator.c
 
 ## Contributing
 
-Help keep YC List up-to-date! You can:
+Help keep YC List up-to-date! You can do one or more of the following:
 
-* Open a pull request that directly changes [a company data file](https://github.com/linrock/yclist/tree/master/companies)
-* File [an issue](https://github.com/linrock/yclist) to suggest changes
+* directly edit [a company data file](https://github.com/linrock/yclist/tree/master/companies) from the browser
+* open a [pull request](https://github.com/linrock/yclist/pulls) with edits to company data files
+* file [an issue](https://github.com/linrock/yclist/issues) to suggest changes
 
+Each company is listed in an unformatted text file. Only a company name is required. Example company entry:
+
+```
+Company Name
+  https://www.example.com
+  This is a description of the company
+  status: exited
+  exit: acquired by Example for $1
+```
 
 ## Contributors
 
