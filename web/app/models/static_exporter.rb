@@ -13,27 +13,22 @@ class StaticExporter
     `rm -f #{HTML_OUTPUT_FILE} #{HTML_OUTPUT_FILE}.gz`
     puts precompilation_output
     ensure_favicon_spritesheet_integrity
-    begin
-      html = get_html_output
-      ensure_asset_integrity(precompilation_output, html)
-    rescue
-      # quick hack to retry generating html output twice
-      begin
-        html = get_html_output
-        ensure_asset_integrity(precompilation_output, html)
-      rescue
-        html = get_html_output
-        ensure_asset_integrity(precompilation_output, html)
-      end
-    end
+    html = get_html_output
+    ensure_asset_integrity(precompilation_output, html)
     export_html!(html)
+  end
+
+  def get_html
+    app = ActionDispatch::Integration::Session.new(Yclist::Application)
+    app.get '/'
+    app.body
   end
 
   private
 
   def precompile_assets!
-    `RAILS_ENV=production bundle exec rake assets:clean`
-    `RAILS_ENV=production bundle exec rake assets:precompile 2>&1`
+    run_cmd "rake assets:clean"
+    run_cmd "rake assets:precompile 2>&1"
   end
 
   def export_html!(html)
@@ -44,13 +39,9 @@ class StaticExporter
     puts "Generated all static files!"
   end
 
+  # Run in a different process to avoid sporadic asset hash mismatch errors
   def get_html_output
-    app = ActionDispatch::Integration::Session.new(Yclist::Application)
-    sleep 1
-    status_code = app.get '/'
-    html = app.body
-    raise "HTML export failed - #{status_code}" unless html.length > 0
-    html
+    run_cmd "rails runner 'puts StaticExporter.new.get_html'"
   end
 
   def ensure_asset_integrity(precompilation, html)
@@ -71,5 +62,9 @@ class StaticExporter
 
   def ensure_favicon_spritesheet_integrity
     raise "Favicon spritesheet is invalid" unless FaviconSpritesheet.new.valid?
+  end
+
+  def run_cmd(cmd)
+    `RAILS_ENV=production bundle exec #{cmd}`
   end
 end
