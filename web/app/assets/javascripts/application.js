@@ -31,11 +31,17 @@ $(function() {
     $('#companies_count').text($('tbody > tr:visible').length);
   }
 
-  function trackEvent(category, action, label) {
-    if (window.ga) {
-      window.ga('send', 'event', category, action, label);
+  function trackEvent(category, eventName, label) {
+    if (window.gtag) {
+      var eventParameters = {
+        event_category: category
+      };
+      if (label) {
+        eventParameters.event_label = label;
+      }
+      window.gtag('event', eventName, eventParameters);
     } else {
-      console.log('event: ' + category + ', ' + action + ', ' + label);
+      console.log('event: ' + eventName + ', ' + category + ', ' + label);
     }
   }
 
