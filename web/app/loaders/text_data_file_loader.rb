@@ -1,3 +1,5 @@
+# For reading data across all text data files
+
 class TextDataFileLoader
 
   def get_cohort(cohort)
