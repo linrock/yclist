@@ -32,6 +32,8 @@ BoostedBoards
 BufferBox
   http://www.bufferbox.com
   Ship parcels to BufferBox for quick, convenient & secure pick-up anytime. Never miss a delivery again.
+  status: exited
+  exit: Acquired by Google for a rumored $25 million
 
 Canopy Labs
   http://canopylabs.com

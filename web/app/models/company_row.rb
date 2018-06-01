@@ -72,6 +72,10 @@ class CompanyRow
     status&.downcase || "operating"
   end
 
+  def exit_str
+    self.exit.ends_with?(".") ? self.exit : "#{self.exit}."
+  end
+
   def to_text_data
     fields = []
     fields << url.gsub(/\/\z/, '') if url.present?
