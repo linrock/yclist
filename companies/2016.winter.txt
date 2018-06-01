@@ -38,8 +38,9 @@ CareSkore
   note: vertical: Enterprise
 
 Castle
-  http://entercastle.com
+  https://entercastle.com
   Castle manages rental homes for landlords using automation and on-demand labor
+  status: dead
   note: vertical: B2B
 
 Castle.io

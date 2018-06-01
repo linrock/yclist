@@ -12,7 +12,7 @@ class CohortRecords
 
   def rewrite!(company_rows = nil)
     company_rows ||= company_rows_from_file
-    TextDataFile.new(cohort_filename).export_company_rows! company_rows_from_file
+    TextDataFile.new(cohort_filename).export_company_rows! company_rows
   end
 
   private

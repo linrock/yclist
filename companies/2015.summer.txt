@@ -174,6 +174,8 @@ Instawork
 Interviewed
   https://www.interviewed.com
   Combine structured job assessments and employee testing to identify the strongest job candidates
+  status: exited
+  exit: Acquired by Indeed
 
 Ironclad
   https://www.ironcladapp.com
@@ -270,6 +272,7 @@ RedCarpetUp
 Roomblocker
   http://www.roomblocker.com
   Book hotels for groups and events. No fees or markups
+  status: dead
 
 Ross Intelligence
   http://www.rossintelligence.com
