@@ -100,7 +100,10 @@ Drive Motors
 Elucify
   https://getelucify.com
   Elucify is a data service that provides free sales leads for startups/professionals
+  status: exited
+  exit: Acquired by CircleBack
   note: vertical: B2B
+  note: https://blog.getelucify.com/2018/01/25/circleback-acquires-elucify/
 
 Emburse
   https://www.emburse.com

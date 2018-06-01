@@ -9,10 +9,16 @@ Afrostream
 AppCanary
   https://appcanary.com
   Appcanary monitors your apps and servers, and notifies you whenever you're vulnerable
+  status: exited
+  exit: Acquired by Github
+  note: source: https://blog.appcanary.com/2018/goodbye.html
 
 Auro Robotics
-  http://aurobots.com
+  http://auro.ai
   Driverless shuttles. Safe and modern solution for in-campus travel
+  status: exited
+  exit: Acquired by Ridecell
+  note: source: https://www.crunchbase.com/acquisition/ridecell-acquires-auro-robotics--f9b19171
 
 Bistrobot
   http://bistrobot.com
