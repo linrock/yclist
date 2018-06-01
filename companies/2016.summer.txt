@@ -199,6 +199,8 @@ Opsolutely
 PatientBank
   https://www.patientbank.us
   Get medical records online from any doctor or hospital.
+  status: dead
+  note: source: https://blog.patientbank.us/saying-goodbye-to-patientbank-7456247851b6
 
 People.ai
   https://people.ai
@@ -223,6 +225,8 @@ Raptor Maps
 Revlo
   http://www.revlo.co
   Revlo helps broadcasters on Twitch engage and monetize their fan base. We do this by allowing broadcasters to create interaction opportunities for their fans at scale.
+  status: dead
+  note: shut down June 16, 2017, source: https://blog.revlo.co/the-adventure-comes-to-an-end-fa03f7fab84e
 
 Robby Technologies
   http://robby.io
@@ -358,7 +362,8 @@ YesGraph
   http://www.yesgraph.com
   YesGraph recommends exactly who a user should invite to an app. Our API can help boost the performance of sharing, referral, and invite flows
   status: exited
-  exit: Acquired by Lyft.
+  exit: Acqui-hired by Lyft.
+  note: source: https://venturebeat.com/2017/08/10/lyft-acquihires-datascore-and-yesgraph-to-fuel-customer-and-driver-growth/
 
 Yoshi
   https://www.startyoshi.com
