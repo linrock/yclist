@@ -19,6 +19,7 @@ Auro Robotics
   status: exited
   exit: Acquired by Ridecell
   note: source: https://www.crunchbase.com/acquisition/ridecell-acquires-auro-robotics--f9b19171
+  hide_url: true
 
 Bistrobot
   http://bistrobot.com
