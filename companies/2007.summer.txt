@@ -67,6 +67,7 @@ SocialPicks
   An online community where investors share investment ideas with each other
   status: exited
   exit: Acquired by FinancialContent in 2009.
+  hide_url: true
 
 Songkick
   https://www.songkick.com

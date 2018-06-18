@@ -51,6 +51,8 @@ Machine Zone
 MightyQuiz
   http://mightyquiz.com
   User-generated quiz questions that can be answered and rated on-site or through a distributable widget
+  status: dead
+  note: source: https://www.crunchbase.com/organization/mightyquiz#section-overview
 
 Mixwit
   Mixwit describes itself as a combination of Slide and iTunes

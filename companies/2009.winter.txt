@@ -10,6 +10,7 @@ Cloudkick
   http://cloudkick.com
   Cloudkick is a centralized web-based control hub for cloud servers.
   status: exited
+  hide_url: true
 
 Divvyshot
   http://divvyshot.com
@@ -19,6 +20,7 @@ Divvyshot
 Echodio
   http://www.echodio.com
   Echodio makes it easy to keep iTunes music libraries in sync, securely backed up and streamable from anywhere.
+  status: dead
 
 Foodoro
   http://foodoro.com
@@ -56,10 +58,13 @@ Skysheet
 TheSixtyOne
   http://www.thesixtyone.com
   thesixtyone is Digg for new music, a social filter for the tsunami of indie creativity hitting the web.
+  status: dead
+  note: source: https://en.wikipedia.org/wiki/Thesixtyone
 
 Voxli
   https://voxli.com
   Voxli offers browser-based group voice chat for gamers and teams.
+  status: dead
 
 Wattvision
   http://wattvision.com

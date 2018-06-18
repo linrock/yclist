@@ -3,6 +3,7 @@ Auctomatic
   An auction and marketplace management system for individual sellers on sites like Ebay and Amazon
   status: exited
   exit: Acquired by Live Current Media in 2008.
+  hide_url: true
 
 Buxfer
   https://www.buxfer.com

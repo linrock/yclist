@@ -65,6 +65,7 @@ Slinkset
   http://slinkset.com
   Slinkset is a white label social news platform that allows anyone to start a social news site and integrate it into their own website.
   status: exited
+  hide_url: true
 
 Snipd
   Grab pieces of enjoyable content from any page, save them online, and share without having to copy/paste using a simple bookmarklet.
@@ -77,6 +78,7 @@ Socialbrowse
 Startuply
   http://www.startuply.com
   Startup companies. Startup jobs. Jobs at the world's best angel- and venture-backed web, media, and technology companies.
+  status: dead
 
 TicketStumbler
   TicketStumbler is a secondary ticket market search engine and comparison website.
