@@ -115,6 +115,7 @@ GetGoing
 Grid
   http://grid.binarythumb.com
   A Simply Remarkable Spreadsheet.
+  status: dead
 
 HD Trade Services
   http://www.hdtradeservices.com

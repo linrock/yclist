@@ -81,6 +81,7 @@ Gobble
 HoverChat
   http://hoverchat.com
   HoverChat enables true multitasking by allowing you to read and reply to incoming messages without ever leaving your current screen.
+  status: dead
 
 Immunity Project
   http://www.immunityproject.org

@@ -41,6 +41,7 @@ Picurio
 PocketFunGames
   http://pocketfungames.com
   pocketfungames is a game developer for the iPhone that focuses on games with strong social components.
+  status: dead
 
 Propable
   Propable was a suite of online management and investment analysis tools for property investors.

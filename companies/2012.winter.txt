@@ -170,6 +170,7 @@ SocialCam
   http://socialcam.com
   Socialcam is a new mobile video application coming to both iPhone and Android.
   status: exited
+  hide_url: true
 
 Sonalight
   http://sonalight.com

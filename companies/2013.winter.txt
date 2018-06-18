@@ -116,6 +116,7 @@ StyleUp
 SwapBox
   http://www.swapbox.com
   With Swapbox you no longer have to worry about missing deliveries. Use your Swapbox shipping address and your packages will be waiting for you at our nearest location.
+  status: dead
 
 Swish
   http://www.swishme.com
