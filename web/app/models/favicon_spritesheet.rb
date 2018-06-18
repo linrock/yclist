@@ -1,17 +1,12 @@
 # Generates a favicon png spritesheet + corresponding css
 #
 class FaviconSpritesheet
-
   SPRITESHEET_CSS_FILE = Rails.root.join("app/assets/stylesheets/favicons.css")
 
   attr_accessor :png, :css
 
   def initialize
     @companies = CompanyRow.all
-  end
-
-  def valid?
-    n_companies_processed == @companies.length
   end
 
   def export!
@@ -35,6 +30,10 @@ class FaviconSpritesheet
     end
     file_size = `du -hs #{SPRITESHEET_CSS_FILE}`
     puts "favicons.css - #{file_size}"
+  end
+
+  def valid?
+    n_companies_processed == @companies.length
   end
 
   private

@@ -1,23 +1,24 @@
-# Check validity of the listed URL
-#
+# Checks for differences between listed and final URLs
+
 class LinkChecker
+  CONCURRENCY = 10
 
   def initialize(companies)
     @companies = companies
   end
 
-  def check_link(url)
+  def self.check_link(url)
     final_url = `curl -sLI -o /dev/null -m 10 -w %{url_effective} "#{url}"`
     if final_url.gsub(/\/\z/, '') != url
       [url, final_url]
     end
   end
 
-  def check_all
+  def check_url_differences
     diff_links = []
     c = companies_to_check
-    Parallel.each(c, :in_threads => 10) do |company|
-      result = check_link(company.url)
+    Parallel.each(c, in_threads: CONCURRENCY) do |company|
+      result = self.class.check_link(company.url)
       if result
         puts result.join(" -> ")
         diff_links << result
@@ -27,9 +28,9 @@ class LinkChecker
     diff_links
   end
 
-  # Rewrites company urls if to/from www and https url changes
+  # Rewrites company urls to final url for www and https redirects
   def rewrite_https_and_www_links
-    different_links = Hash[check_all]
+    different_links = Hash[check_url_differences]
     @companies.each do |company|
       new_link = different_links[company.url]
       next unless new_link.present?
