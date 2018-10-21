@@ -253,6 +253,9 @@ Open Invest
 Paribus
   https://paribus.co
   Find out for free if online stores owe you a refund
+  status: exited
+  exit: Acquired by Capital One
+  note: source: https://techcrunch.com/2016/10/06/capital-one-acquires-online-price-tracker-paribus/
 
 PickTrace
   http://picktrace.com
