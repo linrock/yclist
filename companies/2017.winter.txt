@@ -146,10 +146,6 @@ InnaMed
   http://www.InnaMed.com
   We're creating a connected home blood testing device to improve post acute care.
 
-IQBoxy
-  https://www.iqboxy.com
-  IQBOXY is a bookkeeper in your pocket. An intelligent system-of-record for your business tax receipts, invoices & purchases. Includes general ledger coding & reconciliation.
-
 Kangpe
   https://www.kangpe.com
   African healthcare is broken, Kangpe is combining telemedicine and health insurance to make healthcare cheaper and easier to access
@@ -366,6 +362,10 @@ UpKeep Maintenance Management
   https://onupkeep.com
   We make beautiful, easy to use mobile software for maintenance teams
 
+Veryfi
+  https://www.veryfi.com
+  A new and better way to automate construction bookkeeping & enable jobsite intelligence.
+  
 Vinsight
   https://www.vinsight.co
   We are building the world's real-time source of commodities supply through yield forecasts on crops.
