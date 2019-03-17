@@ -146,9 +146,9 @@ InnaMed
   http://www.InnaMed.com
   We're creating a connected home blood testing device to improve post acute care.
 
-IQBoxy
-  https://www.iqboxy.com
-  IQBOXY is a bookkeeper in your pocket. An intelligent system-of-record for your business tax receipts, invoices & purchases. Includes general ledger coding & reconciliation.
+Veryfi
+  https://www.veryfi.com
+  A new and better way to automate construction bookkeeping and enable jobsite intelligence.
 
 Kangpe
   https://www.kangpe.com
