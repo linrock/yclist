@@ -96,6 +96,10 @@ Eden
   https://www.eden.io
   Make your office work like magic
 
+Eight Sleep
+  https://eightsleep.com
+  The world's first sleep fitness company
+
 Flirtey
   http://flirtey.com
   Flirtey is making drone delivery possible for everyone
@@ -205,10 +209,6 @@ Livecoding.tv
 Lugg
   http://lu.gg
   We load, haul & deliver anything for you. With a few taps, a truck and movers are headed your way in minutes!
-
-Luna Sleep
-  http://lunasleep.com
-  A premium brand of mattress protection products
 
 Maderight
   http://maderight.com
