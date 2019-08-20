@@ -45,6 +45,8 @@ Draftmix
 Dropbox
   https://www.dropbox.com
   A file hosting service that offers cloud storage, file synchronization, and personal cloud software
+  status: exited
+  exit: IPO (NASDAQ: DBX) in 2018.
 
 Fuzzwich
   A browser-based 2D animation studio
