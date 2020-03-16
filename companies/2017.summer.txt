@@ -98,6 +98,10 @@ Dropleaf
   https://dropleaf.io
   Subscription service for all-you-can-play indie PC games
 
+Eduflow
+  https://www.eduflow.com
+  Students grade each others' work to save teachers time and to learn more
+
 Elucd
   http://www.elucd.com
   Polling through mobile ads to enable governments to make better decisions
@@ -293,10 +297,6 @@ OneLocal
 PAYFAZZ
   https://www.payfazz.com
   WeChat Pay for Indonesia
-
-Peergrade
-  https://www.peergrade.io
-  Students grade each others' work to save teachers time and to learn more
 
 Piggy
   https://piggy.co.in
