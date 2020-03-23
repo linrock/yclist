@@ -7,7 +7,7 @@ class TextDataFileLoader
   end
 
   def load_yearly_data_from_text_files
-    (2005..2017).to_a.map do |year|
+    (2005..2020).to_a.map do |year|
       companies = []
       %w( winter summer ).each do |season|
         options = get_options(year, season)

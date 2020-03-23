@@ -36,7 +36,7 @@ class TextDataFile
   end
 
   def get_year(filename)
-    year = filename[/(20[01][\d])/, 1]
+    year = filename[/(20[012][\d])/, 1]
     return year if year.present?
     raise "Unable to extract year from filename - #{filename}"
   end
