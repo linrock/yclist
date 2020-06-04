@@ -51,10 +51,11 @@ Firebase
   status: exited
   exit: Acquired by Google in Oct 2014.
 
-FreshPlum
+Freshplum
   http://www.freshplum.com
   Freshplum's goal is to bring the decision-making power of data science to companies who sell goods and services electronically.
-  status: dead
+  status exited
+  exit: Acquired by TellApart in Jul 2014.
 
 Glassmap
   http://www.glassmap.com

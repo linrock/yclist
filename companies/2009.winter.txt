@@ -16,6 +16,7 @@ Divvyshot
   http://divvyshot.com
   Divvyshot allows groups of friends to share their photos easily, at their full resolutions.
   status: exited
+  exit: Acquired by Facebook in May 2010.
 
 Echodio
   http://www.echodio.com

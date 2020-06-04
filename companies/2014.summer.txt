@@ -217,6 +217,7 @@ uBiome
   http://ubiome.com
   Explore your microbiome
   note: $4,971,193
+  status: dead
 
 UPower
   http://www.upowertech.com
