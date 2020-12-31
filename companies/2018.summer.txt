@@ -1,0 +1,63 @@
+Sterblue
+  sterblue.com
+  Sterblue is a company developing drone software platform for industrial inspections.
+
+The Buttermilk Company
+  thebuttermilkco.com
+  The Buttermilk Company brings authentic and simple recipes from different cuisines to an American audience.
+
+Prodigal Technologies
+  prodigaltech.com
+  Prodigal Technologies develops software for lenders to boost loan collections.
+
+Ubits
+  ubits.mx
+  Ubits is a company providing corporate online learning and certification opportunities for Spanish speakers.
+
+Snark AI
+  snark.ai
+  Snark AI provides a cloud infrastructure designed to train deep learning models.
+
+Names & Faces
+  namesandfaces.com
+  Names & Faces provides tools to help organizations build directories of their teams to help people orient themselves and have interactions.
+
+Cloud Workout
+  cloudworkout.com
+  Cloud workout is a company providing a health and fitness platform for connecting to live fitness classes taught by instructors.
+
+MAC'D
+  getmacd.com
+  A mac and cheese restaurant.
+
+Viaopt
+  viaopt.com
+  Viaopt helps companies save logistics and shipping costs by facilitating pooling of corporate trucking fleets.
+
+AnchorUSD
+  anchorusd.com
+  AnchorUSD is a company offering stable currency anchored 1-for-1 to the US dollar (USDX).
+
+OneGraph
+  onegraph.com
+  OneGraph provides GraphQL service that wraps and connects the internet's SaaS APIs.
+
+DreamCraft
+  dreamcraft.com
+  DreamCraft provides a mobile platform enabling anyone create an RTS game.
+
+Splish
+  splish.app
+  Splish enables its users to create and share short-form looping videos and moving photos.
+
+ShopWith
+  shopwith.co
+  ShopWith is company providing online fashion shopping services.
+
+Optic
+  useoptic.com
+  Optic designs and develops API to automate routine programming.
+
+#ME
+  meapp.io
+  A virtual identity social network.
