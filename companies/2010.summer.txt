@@ -23,6 +23,8 @@ Brushes
 Chart.io
   https://chartio.com
   Analytics for everyone. A platform for everyone to explore and visualize data
+  status: exited
+  exit: Acquired by Atlassian in Feb 2021.
 
 Crowdbooster
   http://crowdbooster.com
