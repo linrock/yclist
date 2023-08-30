@@ -246,6 +246,10 @@ Playment
   https://playment.io
   Mechanical Turk for enterprises.
 
+RailsCarma
+https://www.railscarma.com
+Ruby on Rails Development + Upgradation + Consulting
+
 RankScience
   https://www.rankscience.com
   SEO Automation + Split-Testing
